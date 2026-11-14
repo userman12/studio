@@ -1,0 +1,155 @@
+/* ---------- Layout ---------- */
+.shell { max-width: 760px; margin: 0 auto; padding: 0 16px 64px; }
+.topbar {
+  position: sticky; top: 0; z-index: 5;
+  display: flex; align-items: center; gap: 12px;
+  margin: 0 -16px; padding: 10px 16px;
+  background: color-mix(in srgb, var(--paper) 92%, transparent);
+  backdrop-filter: blur(6px);
+  border-bottom: 1px solid var(--rule);
+}
+.brand { font-family: var(--font-display); font-weight: 700; font-size: 1.1rem; text-decoration: none; color: var(--ink); }
+.spacer { flex: 1; }
+.tabs { display: grid; grid-template-columns: repeat(4, 1fr); gap: 4px; margin: 14px 0 18px; }
+.tab {
+  padding: 8px 4px; border-radius: 999px; text-decoration: none; text-align: center; white-space: nowrap;
+  color: var(--muted); font-weight: 700; font-size: clamp(0.82rem, 3.6vw, 0.95rem); border: 1px solid transparent;
+}
+.tab:hover { color: var(--ink); }
+.tabActive { composes: tab; color: var(--ink); background: var(--card); border-color: var(--rule); }
+
+.card { background: var(--card); border: 1px solid var(--rule); border-radius: var(--radius); padding: 18px; }
+.stack { display: grid; gap: 14px; }
+.row { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.muted { color: var(--muted); }
+.small { font-size: 0.88rem; }
+.fuente { font-family: var(--font-mono); font-size: 0.78rem; color: var(--muted); margin-top: 6px; }
+.pageTitle { font-size: clamp(1.6rem, 5vw, 2.1rem); margin: 4px 0 6px; }
+
+/* ---------- Highlighter: the signature. Bold text is drawn as a marker stroke. ---------- */
+.hl {
+  color: inherit; /* <mark> defaults to black text, unreadable in dark mode */
+  font-weight: 700;
+  background: linear-gradient(100deg, transparent 0.3em, var(--hl) 0.35em, var(--hl) calc(100% - 0.3em), transparent calc(100% - 0.25em));
+  background-size: 100% 62%;
+  background-position: 0 75%;
+  background-repeat: no-repeat;
+  padding: 0 0.2em;
+  margin: 0 -0.1em;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+.psicologia { --hl: var(--hl-psicologia); }
+.economia { --hl: var(--hl-economia); }
+
+/* ---------- Controls ---------- */
+.btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: 6px;
+  min-height: 44px; padding: 10px 18px; border-radius: var(--radius);
+  border: 1px solid var(--rule); background: var(--card); color: var(--ink);
+  font-weight: 700; cursor: pointer; text-decoration: none;
+}
+.btn:hover { border-color: var(--pen); }
+.btn:disabled { opacity: 0.45; cursor: not-allowed; }
+.btnPrimary { composes: btn; background: var(--pen); border-color: var(--pen); color: var(--pen-ink); }
+.btnDanger { composes: btn; color: var(--bad); }
+.iconBtn { composes: btn; min-height: 40px; padding: 6px 12px; font-weight: 400; }
+.field { display: grid; gap: 4px; font-size: 0.9rem; color: var(--muted); }
+.input, .select {
+  min-height: 44px; padding: 8px 12px; border-radius: var(--radius);
+  border: 1px solid var(--rule); background: var(--card); color: var(--ink);
+}
+.input { width: 100%; }
+.check { display: inline-flex; align-items: center; gap: 8px; min-height: 44px; cursor: pointer; }
+.check input { width: 20px; height: 20px; accent-color: var(--pen); }
+.segmented { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 8px; }
+.option {
+  text-align: left; padding: 14px; border-radius: var(--radius); border: 2px solid var(--rule);
+  background: var(--card); cursor: pointer; display: grid; gap: 2px;
+}
+.option strong { font-family: var(--font-display); font-size: 1.05rem; }
+.optionOn { composes: option; border-color: var(--pen); box-shadow: inset 0 0 0 1px var(--pen); }
+
+/* ---------- Home ---------- */
+.homeHead { padding: 36px 0 22px; }
+.homeTitle { font-size: clamp(2.1rem, 9vw, 3.4rem); font-weight: 800; }
+.subjects { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(270px, 1fr)); }
+.subject { composes: card; display: grid; gap: 14px; text-decoration: none; color: var(--ink); padding: 22px; }
+.subject:hover { border-color: var(--pen); }
+.subjectName { font-size: 1.7rem; font-weight: 800; justify-self: start; }
+.stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
+.stat { display: grid; gap: 2px; }
+.statNum { font-family: var(--font-display); font-size: 1.45rem; font-weight: 700; }
+.statLabel { font-size: 0.78rem; color: var(--muted); line-height: 1.25; }
+.bar { height: 6px; border-radius: 3px; background: var(--rule); overflow: hidden; }
+.barFill { height: 100%; background: var(--pen); }
+
+/* ---------- Puntos clave ---------- */
+.tema { composes: card; padding: 0; overflow: hidden; }
+.temaSummary {
+  list-style: none; cursor: pointer; padding: 16px 18px; display: flex; gap: 12px; align-items: baseline;
+  font-family: var(--font-display); font-weight: 700; font-size: 1.08rem;
+}
+.temaSummary::-webkit-details-marker { display: none; }
+.temaSummary::before { content: '+'; font-family: var(--font-mono); color: var(--muted); width: 1ch; }
+.tema[open] > .temaSummary::before { content: '−'; }
+.count { margin-left: auto; font-family: var(--font-mono); font-size: 0.8rem; color: var(--muted); font-weight: 400; }
+.points { margin: 0; padding: 0 18px 8px 18px; list-style: none; }
+.point { padding: 12px 0; border-top: 1px dashed var(--rule); }
+
+/* ---------- Píldoras: a ruled index card with a red margin line ---------- */
+.flipWrap { perspective: 1200px; }
+.flip {
+  position: relative; width: 100%; border: 0; padding: 0; background: none; cursor: pointer; color: inherit;
+  transform-style: preserve-3d; transition: transform 0.45s cubic-bezier(.2, .7, .2, 1); display: grid;
+}
+.flipped { transform: rotateY(180deg); }
+/* Both faces share one grid cell, so the card grows to the taller text. */
+.face {
+  grid-area: 1 / 1; min-height: 240px; backface-visibility: hidden; -webkit-backface-visibility: hidden;
+  display: grid; align-content: center; gap: 10px; padding: 28px 22px 28px 46px; text-align: left;
+  border-radius: var(--radius); border: 1px solid var(--rule); background-color: var(--card);
+  background-image:
+    linear-gradient(90deg, transparent 32px, var(--margin-line) 32px, var(--margin-line) 34px, transparent 34px),
+    repeating-linear-gradient(transparent 0 31px, var(--rule) 31px 32px);
+  box-shadow: 0 1px 0 var(--rule), 0 10px 24px -18px rgba(0, 0, 0, 0.45);
+}
+.back { transform: rotateY(180deg); }
+.faceLabel { font-family: var(--font-mono); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); }
+.faceFront { font-family: var(--font-display); font-size: clamp(1.35rem, 5vw, 1.75rem); font-weight: 700; }
+.faceBack { font-size: 1.1rem; }
+.badge { font-family: var(--font-mono); font-size: 0.75rem; padding: 2px 8px; border-radius: 999px; border: 1px solid var(--rule); }
+.badgeSe { composes: badge; color: var(--ok); border-color: var(--ok); }
+.badgeRep { composes: badge; color: var(--bad); border-color: var(--bad); }
+.cardActions { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+
+/* ---------- Quiz ---------- */
+.qMeta { display: flex; justify-content: space-between; gap: 10px; font-size: 0.85rem; color: var(--muted); }
+.qText { font-family: var(--font-display); font-size: clamp(1.2rem, 4.4vw, 1.5rem); font-weight: 700; }
+/* Focus is moved here programmatically for screen readers; it's not an interactive control. */
+.qText:focus, .qText:focus-visible { outline: none; }
+.answers { display: grid; gap: 10px; margin: 0; padding: 0; list-style: none; }
+.answer {
+  width: 100%; display: grid; grid-template-columns: 2em 1fr; gap: 10px; align-items: start; text-align: left;
+  padding: 12px 14px; border-radius: var(--radius); border: 2px solid var(--rule); background: var(--card);
+  cursor: pointer; min-height: 48px;
+}
+.answer:hover:not(:disabled) { border-color: var(--pen); }
+.answer:disabled { cursor: default; }
+.letter { font-family: var(--font-mono); font-weight: 700; color: var(--muted); }
+.answerChosen { composes: answer; border-color: var(--pen); box-shadow: inset 0 0 0 1px var(--pen); }
+.answerRight { composes: answer; border-color: var(--ok); background: var(--ok-bg); }
+.answerWrong { composes: answer; border-color: var(--bad); background: var(--bad-bg); }
+.feedback { border-color: var(--ok); }
+.feedbackBad { border-color: var(--bad); }
+.verdict { font-family: var(--font-display); font-weight: 700; font-size: 1.1rem; }
+.progress { height: 4px; background: var(--rule); border-radius: 2px; overflow: hidden; }
+.score { font-family: var(--font-display); font-size: clamp(3rem, 14vw, 4.5rem); font-weight: 800; line-height: 1; }
+.temaBar { display: grid; grid-template-columns: 1fr auto; gap: 4px 12px; align-items: center; }
+.kbd { font-family: var(--font-mono); font-size: 0.78rem; border: 1px solid var(--rule); border-bottom-width: 2px; border-radius: 4px; padding: 0 5px; }
+
+/* ---------- Tables ---------- */
+.table { width: 100%; border-collapse: collapse; font-size: 0.92rem; }
+.table th, .table td { text-align: left; padding: 8px 6px; border-bottom: 1px solid var(--rule); }
+.table th { color: var(--muted); font-weight: 400; font-size: 0.8rem; }
+.empty { composes: card; text-align: center; display: grid; gap: 12px; justify-items: center; padding: 28px 18px; }

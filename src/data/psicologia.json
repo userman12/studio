@@ -1,0 +1,2281 @@
+{
+  "id": "psicologia",
+  "nombre": "Psicología",
+  "temas": [
+    {
+      "id": "p-raices",
+      "titulo": "Raíces históricas de la psicología",
+      "orden": 1
+    },
+    {
+      "id": "p-perspectivas",
+      "titulo": "Las cinco perspectivas actuales",
+      "orden": 2
+    },
+    {
+      "id": "p-metodos",
+      "titulo": "Métodos de investigación",
+      "orden": 3
+    },
+    {
+      "id": "p-ramas",
+      "titulo": "Ramas de la psicología y ética",
+      "orden": 4
+    },
+    {
+      "id": "p-herencia",
+      "titulo": "Herencia biológica y medio sociocultural",
+      "orden": 5
+    },
+    {
+      "id": "p-sn",
+      "titulo": "Sistema nervioso y sistema endocrino",
+      "orden": 6
+    },
+    {
+      "id": "p-cerebro",
+      "titulo": "El cerebro, la neurona y los neurotransmisores",
+      "orden": 7
+    },
+    {
+      "id": "p-sexo",
+      "titulo": "Diferencias y semejanzas entre hombre y mujer",
+      "orden": 8
+    },
+    {
+      "id": "p-sensacion",
+      "titulo": "Sensación, fases perceptivas y órganos sensoriales",
+      "orden": 9
+    },
+    {
+      "id": "p-percepcion",
+      "titulo": "Umbrales, teorías de la percepción y Gestalt",
+      "orden": 10
+    },
+    {
+      "id": "p-trastornos",
+      "titulo": "Ilusiones, trastornos perceptivos y atención",
+      "orden": 11
+    }
+  ],
+  "puntosClave": [
+    {
+      "id": "p-pk-001",
+      "temaId": "p-raices",
+      "texto": "La Psicología tiene **poco más de cien años** como disciplina autónoma. Hasta finales del **siglo XIX** se consideraba una **rama de la Filosofía** y sus problemas se abordaban con procedimientos básicamente especulativos.",
+      "fuente": "Psicología 1.pdf, p. 1 – Raíces"
+    },
+    {
+      "id": "p-pk-002",
+      "temaId": "p-raices",
+      "texto": "**Platón** defendía un **dualismo** entre psique (alma) y soma (cuerpo) como niveles distintos. **Aristóteles** tenía una visión más **materialista**: la mente es una manifestación evolucionada del cuerpo, con influencia mutua entre ambos.",
+      "fuente": "Psicología 1.pdf, p. 1 – Raíces"
+    },
+    {
+      "id": "p-pk-003",
+      "temaId": "p-raices",
+      "texto": "**Tomás de Aquino** concebía el alma como **parte esencial-vital del cuerpo**.",
+      "fuente": "Psicología 1.pdf, p. 1 – Raíces"
+    },
+    {
+      "id": "p-pk-004",
+      "temaId": "p-raices",
+      "texto": "**Descartes** adoptó una postura **racionalista** que dominó hasta la Ilustración: la **razón sustituye al alma**, unida al cuerpo, y explicó su conexión mediante la **glándula pineal**.",
+      "fuente": "Psicología 1.pdf, p. 1 – Raíces"
+    },
+    {
+      "id": "p-pk-005",
+      "temaId": "p-raices",
+      "texto": "**Hume** **niega la existencia del alma** y, desde el **empirismo** (observación y experimentación como base del conocimiento), funda una psicología de las actividades mentales que forman las ideas.",
+      "fuente": "Psicología 1.pdf, p. 1 – Raíces"
+    },
+    {
+      "id": "p-pk-006",
+      "temaId": "p-raices",
+      "texto": "Desde el siglo XIX, con el auge de las ciencias experimentales, la Psicología se conforma como **ciencia independiente**. **Gustav Fechner**, en «Elementos de Psicofísica», mostró cómo usar **procesos experimentales y matemáticos** para estudiar la mente.",
+      "fuente": "Psicología 1.pdf, p. 1 – Raíces"
+    },
+    {
+      "id": "p-pk-007",
+      "temaId": "p-raices",
+      "texto": "Las aportaciones de investigadores procedentes de la **Fisiología** dieron a la Psicología un campo propio y, con el tiempo, surgieron distintas **escuelas psicológicas**.",
+      "fuente": "Psicología 1.pdf, p. 1 – Raíces"
+    },
+    {
+      "id": "p-pk-008",
+      "temaId": "p-perspectivas",
+      "texto": "La psicología es la **ciencia que estudia el comportamiento humano y los procesos mentales** que lo impulsan. Una **perspectiva** es un punto de vista específico que pone el énfasis en un aspecto: la conducta, la cognición, el inconsciente, el individuo como ser único o la relación cerebro-conducta.",
+      "fuente": "Psicología 1.pdf, pp. 1–2 – Perspectivas actuales"
+    },
+    {
+      "id": "p-pk-009",
+      "temaId": "p-perspectivas",
+      "texto": "Las cinco perspectivas más importantes son la **conductista, cognitiva, psicodinámica, humanista y biológica**. Son complementarias y los psicólogos actuales pueden emplear **uno o más enfoques** según el problema.",
+      "fuente": "Psicología 1.pdf, p. 2 – Perspectivas actuales"
+    },
+    {
+      "id": "p-pk-010",
+      "temaId": "p-perspectivas",
+      "texto": "**Conductismo**: el comportamiento es una **respuesta a estímulos** del entorno. Estudia las **conductas observables** y cree que se pueden modificar manipulando los estímulos y mediante el **refuerzo o el castigo**.",
+      "fuente": "Psicología 1.pdf, p. 2 – Perspectiva conductista"
+    },
+    {
+      "id": "p-pk-011",
+      "temaId": "p-perspectivas",
+      "texto": "Conceptos del conductismo: **condicionamiento clásico** (Pavlov, reflejo condicionado), **condicionamiento operante** (repetir la conducta con consecuencias positivas), refuerzo positivo, refuerzo negativo y castigo. Representantes: **Pavlov, Thorndike, Watson y Skinner**.",
+      "fuente": "Psicología 1.pdf, p. 2 – Perspectiva conductista"
+    },
+    {
+      "id": "p-pk-012",
+      "temaId": "p-perspectivas",
+      "texto": "Aplicaciones del conductismo: la **desensibilización sistemática** para las fobias, la exposición a un estímulo temido y la **terapia de aversión**.",
+      "fuente": "Psicología 1.pdf, p. 2 – Perspectiva conductista"
+    },
+    {
+      "id": "p-pk-013",
+      "temaId": "p-perspectivas",
+      "texto": "**Enfoque cognitivo**: la mente es un **sistema activo que procesa información**. Estudia cómo la gente adquiere, procesa y usa la información: **memoria, atención, percepción, lenguaje, pensamiento y toma de decisiones**.",
+      "fuente": "Psicología 1.pdf, pp. 2–3 – Perspectiva cognitiva"
+    },
+    {
+      "id": "p-pk-014",
+      "temaId": "p-perspectivas",
+      "texto": "El enfoque cognitivo es uno de los de **mayor aplicabilidad** actual: terapia cognitiva, diseño de sistemas de información, educación, marketing, neurociencia y medicina. Entre sus representantes figuran **Piaget, Vygotsky, Ausubel y Bandura**.",
+      "fuente": "Psicología 1.pdf, p. 3 – Perspectiva cognitiva"
+    },
+    {
+      "id": "p-pk-015",
+      "temaId": "p-perspectivas",
+      "texto": "**Psicoanálisis**: los **conflictos inconscientes** causan muchos trastornos. Lo reprimido puede llevarse a la conciencia mediante la **asociación libre** y la **interpretación de los sueños**.",
+      "fuente": "Psicología 1.pdf, p. 3 – Perspectiva psicodinámica"
+    },
+    {
+      "id": "p-pk-016",
+      "temaId": "p-perspectivas",
+      "texto": "Conceptos del psicoanálisis: **yo, ello y superyó**, represión, pulsiones, instinto, inconsciente, identificación, **mecanismos de defensa** y fases del desarrollo psicosexual. Su principal representante es **Sigmund Freud**.",
+      "fuente": "Psicología 1.pdf, pp. 3–4 – Perspectiva psicodinámica"
+    },
+    {
+      "id": "p-pk-017",
+      "temaId": "p-perspectivas",
+      "texto": "El psicoanálisis ha **perdido popularidad** y ha sido objeto de críticas: **muchos profesionales no lo consideran un enfoque científico válido**. Aún se aplica en terapia psicoanalítica, análisis cultural, estudios literarios y comprensión del desarrollo.",
+      "fuente": "Psicología 1.pdf, p. 4 – Perspectiva psicodinámica"
+    },
+    {
+      "id": "p-pk-018",
+      "temaId": "p-perspectivas",
+      "texto": "**Humanismo**: el ser humano es **único y digno**, con capacidad innata de crecer y mejorar, motivado por necesidades positivas hacia la **autorrealización**. Conceptos: jerarquía de necesidades, potencial humano, enfoque centrado en la persona. Representantes: **Rogers, Maslow y Perls**.",
+      "fuente": "Psicología 1.pdf, p. 4 – Perspectiva humanista"
+    },
+    {
+      "id": "p-pk-019",
+      "temaId": "p-perspectivas",
+      "texto": "**Neuropsicología (perspectiva biológica)**: estudia la relación entre el **cerebro, el sistema nervioso y el comportamiento**, combinando psicología y neurociencia. Conceptos: plasticidad cerebral, hemisferios, lesiones cerebrales. Representantes: **Gall, Broca, Wernicke y Luria**.",
+      "fuente": "Psicología 1.pdf, pp. 4–5 – Perspectiva neuropsicológica"
+    },
+    {
+      "id": "p-pk-020",
+      "temaId": "p-metodos",
+      "texto": "Las **metodologías descriptivas** permiten describir y registrar fenómenos de modo preciso **sin explicarlos**: solo describen.",
+      "fuente": "Psicología 1.pdf, p. 5 – Métodos de la Psicología"
+    },
+    {
+      "id": "p-pk-021",
+      "temaId": "p-metodos",
+      "texto": "La **encuesta** recoge opiniones y debe aplicarse **sin sesgos** (grupos representativos). El **estudio de casos** analiza casos particulares y valora si se pueden extrapolar a todo un grupo.",
+      "fuente": "Psicología 1.pdf, pp. 5–6 – Métodos de la Psicología"
+    },
+    {
+      "id": "p-pk-022",
+      "temaId": "p-metodos",
+      "texto": "La **observación** registra conductas y sucesos de forma **ordenada, objetiva y secuenciada**, y puede hacerse **de campo o de laboratorio**.",
+      "fuente": "Psicología 1.pdf, p. 6 – Métodos de la Psicología"
+    },
+    {
+      "id": "p-pk-023",
+      "temaId": "p-metodos",
+      "texto": "La **metodología experimental** es el método adecuado para **explicar** los comportamientos y descubrir **relaciones causales**.",
+      "fuente": "Psicología 1.pdf, p. 6 – Métodos de la Psicología"
+    },
+    {
+      "id": "p-pk-024",
+      "temaId": "p-metodos",
+      "texto": "Pasos de la experimentación: formular un problema → formular una **hipótesis** → recogida de datos → análisis y confrontación con la hipótesis → conclusiones → **generalización** → redacción de un informe.",
+      "fuente": "Psicología 1.pdf, p. 6 – Métodos de la Psicología"
+    },
+    {
+      "id": "p-pk-025",
+      "temaId": "p-metodos",
+      "texto": "La **correlación** es la **medida estadística de la relación entre dos factores**. **No aporta explicación ni implica causalidad**, aunque **sí permite la predicción**.",
+      "fuente": "Psicología 1.pdf, p. 6 – Metodología de correlaciones"
+    },
+    {
+      "id": "p-pk-026",
+      "temaId": "p-ramas",
+      "texto": "**Psicología clínica**: diagnóstico y tratamiento de trastornos de la conducta y psicopatologías (fobias, obsesiones, depresiones no orgánicas, problemas de pareja, trastornos de personalidad…).",
+      "fuente": "Psicología 1.pdf, p. 6 – Ramas de la Psicología"
+    },
+    {
+      "id": "p-pk-027",
+      "temaId": "p-ramas",
+      "texto": "**Escolar-educativa**: factores psicológicos del proceso educativo. **Comunitaria**: se ocupa sobre todo de quienes no están adaptados al mundo social (marginados y excluidos).",
+      "fuente": "Psicología 1.pdf, p. 6 – Ramas de la Psicología"
+    },
+    {
+      "id": "p-pk-028",
+      "temaId": "p-ramas",
+      "texto": "**Industrial**: aprovechamiento óptimo de los recursos humanos en las empresas (selección, promoción y formación del personal). **Social**: interacción social, estudios de opinión y de mercado, publicidad, actitudes y valores.",
+      "fuente": "Psicología 1.pdf, p. 6 – Ramas de la Psicología"
+    },
+    {
+      "id": "p-pk-029",
+      "temaId": "p-ramas",
+      "texto": "**Criminal**: estudia la delincuencia y los rasgos comunes de los delincuentes. **Jurídica y forense** (o legal): auxilia a la administración de Justicia en los tribunales. **Penitenciaria**: ayuda al preso y en su reinserción.",
+      "fuente": "Psicología 1.pdf, p. 6 – Ramas de la Psicología"
+    },
+    {
+      "id": "p-pk-030",
+      "temaId": "p-ramas",
+      "texto": "**Infantil**: estudio de la infancia. **Gerontológica**: calidad de vida de las personas mayores. **Evolutiva**: cambios en los procesos mentales y conductas **a lo largo de la vida**.",
+      "fuente": "Psicología 1.pdf, pp. 6–7 – Ramas de la Psicología"
+    },
+    {
+      "id": "p-pk-031",
+      "temaId": "p-ramas",
+      "texto": "**Experimental**: procesos psicológicos básicos y metodología científica. **De la personalidad**: desarrollo y rasgos de la personalidad.",
+      "fuente": "Psicología 1.pdf, pp. 6–7 – Ramas de la Psicología"
+    },
+    {
+      "id": "p-pk-032",
+      "temaId": "p-ramas",
+      "texto": "**Fisiológica**: fundamentos biológicos del comportamiento (sistema nervioso y endocrino). De ella deriva la **Psicobiología**, que sostiene que **los procesos mentales son procesos cerebrales** (Ramón y Cajal, Luria).",
+      "fuente": "Psicología 1.pdf, p. 7 – Ramas de la Psicología"
+    },
+    {
+      "id": "p-pk-033",
+      "temaId": "p-ramas",
+      "texto": "En **1982** la **Asociación Americana de Psicología** fijó normas para proteger a los participantes en experimentos: **información, consentimiento, minimizar riesgos, derecho a retirada y confidencialidad**.",
+      "fuente": "Psicología 1.pdf, p. 7 – Ética e investigación psicológica"
+    },
+    {
+      "id": "p-pk-034",
+      "temaId": "p-herencia",
+      "texto": "La **información genética** se transmite de padres a hijos mediante el **ADN** de los cromosomas y configura rasgos físicos, temperamento-carácter, predisposición a ciertos comportamientos y enfermedades.",
+      "fuente": "Psicología 2.pdf, p. 1 – ¿Herencia o medio?"
+    },
+    {
+      "id": "p-pk-035",
+      "temaId": "p-herencia",
+      "texto": "Una polémica clásica opone el **determinismo genético** (somos producto de nuestra naturaleza) al **determinismo ambiental** (somos producto de nuestras experiencias).",
+      "fuente": "Psicología 2.pdf, p. 1 – ¿Herencia o medio?"
+    },
+    {
+      "id": "p-pk-036",
+      "temaId": "p-herencia",
+      "texto": "Correlación de C.I.: **gemelos idénticos criados juntos 0,90**; **hermanos no gemelos 0,50**. Esto sugiere que el legado paterno influye mucho en la inteligencia.",
+      "fuente": "Psicología 2.pdf, p. 1 – ¿Herencia o medio?"
+    },
+    {
+      "id": "p-pk-037",
+      "temaId": "p-herencia",
+      "texto": "En **gemelos idénticos criados por separado** la correlación baja a **0,80**: hay algo más que la herencia en la determinación de la inteligencia.",
+      "fuente": "Psicología 2.pdf, p. 1 – ¿Herencia o medio?"
+    },
+    {
+      "id": "p-pk-038",
+      "temaId": "p-herencia",
+      "texto": "La herencia **nos predispone y nos limita**, pero **el ambiente determina su expresión**, incluso en condiciones genéticas como el síndrome de Down. Hay una **interacción** entre factores biológicos y socioculturales.",
+      "fuente": "Psicología 2.pdf, p. 1 – ¿Herencia o medio?"
+    },
+    {
+      "id": "p-pk-039",
+      "temaId": "p-sn",
+      "texto": "Los sistemas corporales que fundamentan el comportamiento y el conocimiento son dos: el **sistema nervioso** y el **sistema endocrino**.",
+      "fuente": "Psicología 2.pdf, p. 2 – Elementos biológicos de la conducta"
+    },
+    {
+      "id": "p-pk-040",
+      "temaId": "p-sn",
+      "texto": "El **sistema nervioso** impulsa, modula y coordina las funciones vitales. Se divide en **Sistema Nervioso Central (SNC)**, formado por el **encéfalo y la médula espinal**, y **Sistema Nervioso Periférico (SNP)**.",
+      "fuente": "Psicología 2.pdf, p. 2 – Sistema nervioso"
+    },
+    {
+      "id": "p-pk-041",
+      "temaId": "p-sn",
+      "texto": "**Tronco cerebral**: une el encéfalo con el cuerpo, recibe información sensorial y controla la actividad involuntaria de laringe, lengua, ojos, músculos faciales y los **estados del sueño**.",
+      "fuente": "Psicología 2.pdf, p. 2 – Encéfalo"
+    },
+    {
+      "id": "p-pk-042",
+      "temaId": "p-sn",
+      "texto": "**Cerebelo**: parte posterior e inferior del cráneo, relacionado con la **actividad motora y el equilibrio**. **Cerebro**: mayor incidencia sobre la conducta, la voluntad y los procesos psicológicos. **Diencéfalo**: centros que regulan la **vida instintiva**.",
+      "fuente": "Psicología 2.pdf, p. 2 – Encéfalo"
+    },
+    {
+      "id": "p-pk-043",
+      "temaId": "p-sn",
+      "texto": "La **médula espinal** es un haz de nervios dentro de la columna vertebral que comunica el cerebro con el resto del cuerpo y controla la actividad corporal **del cerebro hacia abajo**.",
+      "fuente": "Psicología 2.pdf, p. 2 – Médula espinal"
+    },
+    {
+      "id": "p-pk-044",
+      "temaId": "p-sn",
+      "texto": "El **SNP** une el SNC con receptores, músculos y glándulas. El **sistema somático** regula las **acciones voluntarias** y el movimiento; el **vegetativo autónomo** regula funciones de órganos como corazón, digestión, riñones, temperatura y presión arterial.",
+      "fuente": "Psicología 2.pdf, p. 2 – Sistema nervioso periférico"
+    },
+    {
+      "id": "p-pk-045",
+      "temaId": "p-sn",
+      "texto": "El sistema vegetativo autónomo se compone del **simpático**, que **estimula** la actividad, y del **parasimpático**, que la **inhibe**.",
+      "fuente": "Psicología 2.pdf, p. 2 – Sistema nervioso periférico"
+    },
+    {
+      "id": "p-pk-046",
+      "temaId": "p-sn",
+      "texto": "El **sistema endocrino** está formado por glándulas que segregan **hormonas** a la sangre e influyen en crecimiento, metabolismo, reproducción y estados de ánimo. Glándulas principales: **hipófisis** (base del cerebro), tiroides, sexuales y páncreas.",
+      "fuente": "Psicología 2.pdf, p. 2 – Sistema endocrino"
+    },
+    {
+      "id": "p-pk-047",
+      "temaId": "p-cerebro",
+      "texto": "El **sistema límbico** está relacionado con la **motivación, las emociones y la memoria**, e influye en el sistema endocrino. El **hipotálamo** es su estructura central: mantiene el organismo (hambre, sed, temperatura, conducta sexual).",
+      "fuente": "Psicología 2.pdf, p. 2 – El cerebro humano"
+    },
+    {
+      "id": "p-pk-048",
+      "temaId": "p-cerebro",
+      "texto": "La **corteza cerebral** recubre el cerebro y se divide en **dos hemisferios**, cada uno con cuatro lóbulos: **frontal** (detrás de la frente), **parietal** (superior y atrás), **occipital** (posterior) y **temporal** (encima de las orejas).",
+      "fuente": "Psicología 2.pdf, pp. 2–3 – Corteza cerebral"
+    },
+    {
+      "id": "p-pk-049",
+      "temaId": "p-cerebro",
+      "texto": "En la corteza reside **toda la actividad consciente**. En general, la región **motora** está en la zona **frontal** y la **sensitiva** en la **posterior**.",
+      "fuente": "Psicología 2.pdf, p. 3 – Corteza cerebral"
+    },
+    {
+      "id": "p-pk-050",
+      "temaId": "p-cerebro",
+      "texto": "La corteza tiene tres funciones: **receptora** (sensaciones), **motora** (movimiento) y **psíquica o de asociación** (interpretar, integrar y actuar: pensar, hablar, recordar, valorar…).",
+      "fuente": "Psicología 2.pdf, p. 3 – Corteza cerebral"
+    },
+    {
+      "id": "p-pk-051",
+      "temaId": "p-cerebro",
+      "texto": "El **hemisferio izquierdo** controla la habilidad **lingüística, numérica y el pensamiento analítico**; el **derecho**, las habilidades **espaciales, artísticas y musicales**.",
+      "fuente": "Psicología 2.pdf, p. 3 – Hemisferios"
+    },
+    {
+      "id": "p-pk-052",
+      "temaId": "p-cerebro",
+      "texto": "Las **neuronas** recogen, integran y transmiten los impulsos nerviosos. Se comunican mediante **neurotransmisores** que ocupan el espacio entre células: la **sinapsis** (espacio sináptico).",
+      "fuente": "Psicología 2.pdf, p. 3 – La neurona y los neurotransmisores"
+    },
+    {
+      "id": "p-pk-053",
+      "temaId": "p-cerebro",
+      "texto": "Algunos neurotransmisores: **acetilcolina, adrenalina, noradrenalina, serotonina, melatonina**, taurina, **endorfina, oxitocina**, óxido nítrico y monóxido de carbono.",
+      "fuente": "Psicología 2.pdf, p. 3 – La neurona y los neurotransmisores"
+    },
+    {
+      "id": "p-pk-054",
+      "temaId": "p-sexo",
+      "texto": "Según el texto, las diferencias psíquicas entre hombres y mujeres se deben a factores internos y externos, entre los que destacan **la genética y la educación recibida**, pues aún se hacen diferencias educativas entre niños y niñas.",
+      "fuente": "Psicología 2.pdf, p. 3 – Diferencias y semejanzas entre hombre y mujer"
+    },
+    {
+      "id": "p-pk-055",
+      "temaId": "p-sexo",
+      "texto": "El texto cita a **Sandra Witelson** (1990): \"El cerebro tiene sexo\". Según el texto, el cerebro femenino es un **11% menor** pero está más finamente desarrollado.",
+      "fuente": "Psicología 2.pdf, p. 3 – Estructura cerebral y neurológica"
+    },
+    {
+      "id": "p-pk-056",
+      "temaId": "p-sexo",
+      "texto": "El cerebro se compone de **materia gris** (procesa la información), **materia blanca** (transmite impulsos del cerebro al cuerpo) y **líquido cefalorraquídeo** (amortiguador). Según el texto, los varones tienen menos proporción de materia gris y más de materia blanca.",
+      "fuente": "Psicología 2.pdf, p. 4 – Estructura cerebral y neurológica"
+    },
+    {
+      "id": "p-pk-057",
+      "temaId": "p-sexo",
+      "texto": "El **cuerpo calloso** comunica los hemisferios. Según el texto es **más grande en las mujeres**, lo que facilita la habilidad verbal; en los hombres son proporcionalmente mayores la **corteza parietal** y la **amígdala**.",
+      "fuente": "Psicología 2.pdf, p. 4 – Estructura cerebral y neurológica"
+    },
+    {
+      "id": "p-pk-058",
+      "temaId": "p-sexo",
+      "texto": "Según el texto: hombres, mejor interpretación **visuoespacial** y concentración en una sola tarea; mujeres, mejor **fluencia verbal**, velocidad perceptiva, motricidad fina, memoria verbal y **tareas simultáneas**.",
+      "fuente": "Psicología 2.pdf, p. 4 – Hombre / Mujer"
+    },
+    {
+      "id": "p-pk-059",
+      "temaId": "p-sexo",
+      "texto": "De los **46 cromosomas**, la mujer tiene un par **XX** y el hombre **XY**. En el cromosoma Y está el gen **TDF** (factor determinante de los testículos). Según el texto, la expectativa de vida de la mujer es entre un **4 y un 12% mayor**.",
+      "fuente": "Psicología 2.pdf, p. 4 – Genéticas"
+    },
+    {
+      "id": "p-pk-060",
+      "temaId": "p-sexo",
+      "texto": "Según el texto, las hormonas determinan la parte emocional del carácter: **estrógenos** (sensibilidad, espíritu maternal) y **testosterona** (carácter cortante, audaz y agresivo). El sistema endocrino influye en trastornos: hipófisis (depresión), tiroides (ansiedad), paratiroides (astenia), suprarrenales (delirios).",
+      "fuente": "Psicología 2.pdf, p. 5 – Hormonales"
+    },
+    {
+      "id": "p-pk-061",
+      "temaId": "p-sexo",
+      "texto": "Según el texto: mujeres, mayor agudeza **auditiva, gustativa y olfativa** y mejor ángulo de visión; hombres, mayor **agudeza visual** y sentido de la profundidad. En salud, los hombres padecen más enfermedades graves y les afecta más el estrés; las mujeres sufren más depresiones y crisis de angustia.",
+      "fuente": "Psicología 2.pdf, p. 5 – Sensoriales y Salud"
+    },
+    {
+      "id": "p-pk-062",
+      "temaId": "p-sensacion",
+      "texto": "La **sensación** consiste en recibir, convertir y transmitir información sensorial al cerebro, detectando algo **sin que aún tenga significado**. La **percepción** organiza e interpreta esos estímulos **dándoles un significado**.",
+      "fuente": "Psicología 3.pdf, p. 3 – Introducción"
+    },
+    {
+      "id": "p-pk-063",
+      "temaId": "p-sensacion",
+      "texto": "Un **estímulo** es toda energía física, mecánica, térmica, química o electromagnética que **excita o activa un receptor sensorial** (por ejemplo, la luz visible en el ojo).",
+      "fuente": "Psicología 3.pdf, p. 3 – Despierta tus sentidos"
+    },
+    {
+      "id": "p-pk-064",
+      "temaId": "p-sensacion",
+      "texto": "La percepción **no es un registro mecánico**: está condicionada por factores subjetivos como la **experiencia, la personalidad o la cultura**. Es un proceso **constructivo**, de **información-adaptación** al ambiente y de **selección** (mediante la atención).",
+      "fuente": "Psicología 3.pdf, p. 3 – ¿Qué es la percepción?"
+    },
+    {
+      "id": "p-pk-065",
+      "temaId": "p-sensacion",
+      "texto": "Fases del proceso perceptivo: **detección** (receptores sensibles a un tipo de energía), **transducción** (conversión de la energía en mensajes nerviosos), **transmisión** (impulsos hacia el cerebro) y **procesamiento** (el cerebro organiza e interpreta).",
+      "fuente": "Psicología 3.pdf, p. 4 – Fases del proceso perceptivo"
+    },
+    {
+      "id": "p-pk-066",
+      "temaId": "p-sensacion",
+      "texto": "Tipos de receptores: **exteroceptores** (mundo externo), **nociceptores** (dolor), **interoceptores** (estado de las vísceras) y **propioceptores** (músculos y movimientos del cuerpo).",
+      "fuente": "Psicología 3.pdf, p. 4 – Clasificación de los órganos sensoriales"
+    },
+    {
+      "id": "p-pk-067",
+      "temaId": "p-sensacion",
+      "texto": "**Gusto** y **olfato** son sentidos **químicos**. El gusto percibe básicamente cuatro sabores (dulce, salado, ácido y amargo) mediante las **papilas gustativas**; el olor pasa del **bulbo olfatorio** a la corteza y llega al **sistema límbico**.",
+      "fuente": "Psicología 3.pdf, p. 4 – Gusto y olfato"
+    },
+    {
+      "id": "p-pk-068",
+      "temaId": "p-sensacion",
+      "texto": "Ojo: la **córnea** refracta la luz; el **iris** controla la luz cambiando el tamaño de la **pupila** y da el color de ojos; el **cristalino** enfoca la luz en la **retina**; el **humor vítreo** evita que la luz se desvíe.",
+      "fuente": "Psicología 3.pdf, p. 5 – Visión"
+    },
+    {
+      "id": "p-pk-069",
+      "temaId": "p-sensacion",
+      "texto": "En la retina, la **fóvea** es el área de mejor visión y contiene la mayoría de los conos; el **punto ciego** carece de receptores porque lo ocupa el **nervio óptico**. Los **conos** captan los colores y los **bastones** el blanco y gris, la luz débil, formas y volúmenes.",
+      "fuente": "Psicología 3.pdf, p. 5 – Visión"
+    },
+    {
+      "id": "p-pk-070",
+      "temaId": "p-sensacion",
+      "texto": "La piel tiene **epidermis**, una zona intermedia y **dermis**, que aloja corpúsculos sensibles al **calor (Ruffini)**, al **frío (Krause)**, al relieve y la textura, y a la **presión (Pacini)**.",
+      "fuente": "Psicología 3.pdf, p. 5 – Tacto"
+    },
+    {
+      "id": "p-pk-071",
+      "temaId": "p-sensacion",
+      "texto": "**Audición**: el oído externo lleva el sonido al **tímpano**; el medio transmite las vibraciones por una cadena de **huesecillos** hasta la **cóclea**; en el interno se estimulan las terminaciones nerviosas y la señal llega por el nervio auditivo al **lóbulo temporal**.",
+      "fuente": "Psicología 3.pdf, p. 6 – Audición"
+    },
+    {
+      "id": "p-pk-072",
+      "temaId": "p-percepcion",
+      "texto": "**Umbral absoluto**: cantidad **mínima** de estímulo para \"darnos cuenta\" (umbral inferior) y cantidad **máxima** que podemos recibir (superior). Detectar una señal depende también del **estado psicológico** (experiencia, fatiga, motivación).",
+      "fuente": "Psicología 3.pdf, p. 6 – Los umbrales sensoriales"
+    },
+    {
+      "id": "p-pk-073",
+      "temaId": "p-percepcion",
+      "texto": "**Umbral diferencial**: diferencia de intensidad necesaria para **notar un incremento o una disminución** de un estímulo.",
+      "fuente": "Psicología 3.pdf, p. 6 – Los umbrales sensoriales"
+    },
+    {
+      "id": "p-pk-074",
+      "temaId": "p-percepcion",
+      "texto": "Tres perspectivas sobre la percepción: **asociacionista**, **escuela de la Forma (Gestalt)** y **teoría cognitiva**. La asociacionista (**Wundt**) veía la percepción como un **\"mosaico de sensaciones\"**; el texto señala que la percepción es un todo más complejo.",
+      "fuente": "Psicología 3.pdf, pp. 6–7 – Teorías de la percepción"
+    },
+    {
+      "id": "p-pk-075",
+      "temaId": "p-percepcion",
+      "texto": "La **Gestalt** (Max **Wertheimer** y Wolfgang **Köhler**) rechaza que \"vemos el mundo tal y como es\" y defiende la naturaleza **holística** de la percepción: **\"el todo es mayor que la suma de las partes\"** (una melodía es más que la suma de sus notas).",
+      "fuente": "Psicología 3.pdf, p. 7 – La escuela de la Forma (Gestalt)"
+    },
+    {
+      "id": "p-pk-076",
+      "temaId": "p-percepcion",
+      "texto": "**Figura y fondo**: la figura tiene forma y contornos definidos, más estructura, parece más próxima, cerrada y de **superficie menor**; el fondo carece de contornos precisos, es más uniforme, de **superficie mayor** y se percibe extendido tras la figura.",
+      "fuente": "Psicología 3.pdf, p. 7 – Figura y fondo"
+    },
+    {
+      "id": "p-pk-077",
+      "temaId": "p-percepcion",
+      "texto": "Wertheimer (1923) formuló las **leyes de la Gestalt**, recogidas en la **ley de pregnancia o buena forma**: **proximidad, semejanza, continuidad, contraste y cierre**.",
+      "fuente": "Psicología 3.pdf, p. 7 – Leyes de organización perceptiva"
+    },
+    {
+      "id": "p-pk-078",
+      "temaId": "p-percepcion",
+      "texto": "**Agudeza perceptiva**: para percibir necesitamos conocimientos previos. Los mecanismos perceptivos también se revelan a través de los **errores y distorsiones**.",
+      "fuente": "Psicología 3.pdf, p. 8 – Agudeza perceptiva"
+    },
+    {
+      "id": "p-pk-079",
+      "temaId": "p-percepcion",
+      "texto": "**Teoría cognitiva**: en la percepción influyen expectativas, valores, metas y **esquemas cognitivos**, conjuntos organizados de conocimientos en la memoria que sirven para **interpretar la realidad**.",
+      "fuente": "Psicología 3.pdf, p. 8 – La teoría cognitiva"
+    },
+    {
+      "id": "p-pk-080",
+      "temaId": "p-percepcion",
+      "texto": "Factores que influyen en la percepción: **externos** (intensidad, repetición, tamaño y novedad del estímulo) e **internos** (atención, motivos, intereses y valores, características del observador, cultura).",
+      "fuente": "Psicología 3.pdf, p. 8 – Factores que influyen en la percepción"
+    },
+    {
+      "id": "p-pk-081",
+      "temaId": "p-trastornos",
+      "texto": "Las **ilusiones ópticas** son discrepancias entre lo que percibimos y la realidad objetiva. Su análisis sirve para conocer los **mecanismos del cerebro** al construir hipótesis sobre la realidad.",
+      "fuente": "Psicología 3.pdf, p. 9 – Las ilusiones ópticas"
+    },
+    {
+      "id": "p-pk-082",
+      "temaId": "p-trastornos",
+      "texto": "Hay trastornos perceptivos limitados a una sola variedad perceptiva, debidos a **lesiones cerebrales localizadas** (agnosias), y otros más complejos (**ilusiones y alucinaciones**).",
+      "fuente": "Psicología 3.pdf, p. 9 – Trastornos perceptivos"
+    },
+    {
+      "id": "p-pk-083",
+      "temaId": "p-trastornos",
+      "texto": "**Agnosia**: incapacidad de identificar o reconocer estímulos por un sentido particular **aunque la capacidad intelectual esté bien** (ej.: agnosia visual).",
+      "fuente": "Psicología 3.pdf, p. 9 – Agnosia"
+    },
+    {
+      "id": "p-pk-084",
+      "temaId": "p-trastornos",
+      "texto": "**Ilusión**: deformación del objeto percibido. Tipos: por **falta de atención**, **catatímicas** (deformadas por sentimientos y emociones) y **pareidolias** (ver figuras en una pared o en las nubes).",
+      "fuente": "Psicología 3.pdf, p. 9 – Ilusiones"
+    },
+    {
+      "id": "p-pk-085",
+      "temaId": "p-trastornos",
+      "texto": "**Alucinaciones**: **percepciones sin objeto**. Pueden ser acústicas (voces, ruidos), visuales (trastornos cerebrales, intoxicaciones graves), gustativas y olfativas (p. ej. olor a veneno en la comida) y táctiles (picores, pinchazos).",
+      "fuente": "Psicología 3.pdf, p. 9 – Alucinaciones"
+    },
+    {
+      "id": "p-pk-086",
+      "temaId": "p-trastornos",
+      "texto": "La **atención** es un proceso cognitivo que controla y orienta la actividad consciente para planificar la vida y adaptarse. Es una actividad consciente que **inhibe lo que pueda interferir**. Sus tres elementos son **selección, vigilancia y control**.",
+      "fuente": "Psicología 3.pdf, pp. 4, 10 – La atención"
+    },
+    {
+      "id": "p-pk-087",
+      "temaId": "p-trastornos",
+      "texto": "La **atención sostenida o vigilancia** es la capacidad de realizar una **tarea monótona durante mucho tiempo** sin que disminuya la atención.",
+      "fuente": "Psicología 3.pdf, p. 10 – La atención"
+    },
+    {
+      "id": "p-pk-088",
+      "temaId": "p-trastornos",
+      "texto": "La **atención selectiva** es la capacidad de **concentrarse en los estímulos relevantes**, inhibiendo lo que pueda interferir. Gracias a ella la percepción es un **proceso de selección**, de gran importancia para la adaptación y la supervivencia.",
+      "fuente": "Psicología 3.pdf, pp. 3–4 – ¿Qué es la percepción? (p. 3 dice «irrelevantes»; corregido según p. 4)"
+    }
+  ],
+  "pildoras": [
+    {
+      "id": "p-pi-001",
+      "temaId": "p-raices",
+      "frente": "¿Desde cuándo es la Psicología una disciplina autónoma?",
+      "reverso": "Desde hace poco más de cien años. Hasta finales del siglo XIX era una rama de la Filosofía.",
+      "fuente": "Psicología 1.pdf, p. 1 – Raíces"
+    },
+    {
+      "id": "p-pi-002",
+      "temaId": "p-raices",
+      "frente": "Dualismo de Platón",
+      "reverso": "Psique (alma) y soma (cuerpo) son niveles distintos.",
+      "fuente": "Psicología 1.pdf, p. 1 – Raíces"
+    },
+    {
+      "id": "p-pi-003",
+      "temaId": "p-raices",
+      "frente": "Glándula pineal",
+      "reverso": "Estructura con la que Descartes intentó explicar la conexión entre cuerpo y mente.",
+      "fuente": "Psicología 1.pdf, p. 1 – Raíces"
+    },
+    {
+      "id": "p-pi-004",
+      "temaId": "p-raices",
+      "frente": "Hume y el alma",
+      "reverso": "Niega la existencia del alma y, desde el empirismo, funda una psicología de las actividades mentales que forman las ideas.",
+      "fuente": "Psicología 1.pdf, p. 1 – Raíces"
+    },
+    {
+      "id": "p-pi-005",
+      "temaId": "p-raices",
+      "frente": "Gustav Fechner",
+      "reverso": "En «Elementos de Psicofísica» mostró cómo usar procesos experimentales y matemáticos para estudiar la mente.",
+      "fuente": "Psicología 1.pdf, p. 1 – Raíces"
+    },
+    {
+      "id": "p-pi-006",
+      "temaId": "p-perspectivas",
+      "frente": "Las 5 perspectivas principales de la psicología",
+      "reverso": "Conductista, cognitiva, psicodinámica, humanista y biológica (neuropsicológica).",
+      "fuente": "Psicología 1.pdf, p. 2 – Perspectivas actuales"
+    },
+    {
+      "id": "p-pi-007",
+      "temaId": "p-perspectivas",
+      "frente": "Idea central del conductismo",
+      "reverso": "El comportamiento es una respuesta a estímulos del entorno y se modifica con refuerzos o castigos.",
+      "fuente": "Psicología 1.pdf, p. 2 – Perspectiva conductista"
+    },
+    {
+      "id": "p-pi-008",
+      "temaId": "p-perspectivas",
+      "frente": "Condicionamiento clásico",
+      "reverso": "Concepto conductista asociado a Pavlov y al reflejo condicionado.",
+      "fuente": "Psicología 1.pdf, p. 2 – Perspectiva conductista"
+    },
+    {
+      "id": "p-pi-009",
+      "temaId": "p-perspectivas",
+      "frente": "Condicionamiento operante",
+      "reverso": "Repetir una conducta que tiene consecuencias positivas.",
+      "fuente": "Psicología 1.pdf, p. 2 – Perspectiva conductista"
+    },
+    {
+      "id": "p-pi-010",
+      "temaId": "p-perspectivas",
+      "frente": "Desensibilización sistemática",
+      "reverso": "Aplicación del condicionamiento clásico en terapia para tratar fobias.",
+      "fuente": "Psicología 1.pdf, p. 2 – Perspectiva conductista"
+    },
+    {
+      "id": "p-pi-011",
+      "temaId": "p-perspectivas",
+      "frente": "Idea central del enfoque cognitivo",
+      "reverso": "La mente es un sistema activo que procesa información; la conducta se explica por cómo se procesa la información que entra.",
+      "fuente": "Psicología 1.pdf, p. 2 – Perspectiva cognitiva"
+    },
+    {
+      "id": "p-pi-012",
+      "temaId": "p-perspectivas",
+      "frente": "Idea central del psicoanálisis",
+      "reverso": "Los conflictos inconscientes son la causa de muchos trastornos y comportamientos disfuncionales.",
+      "fuente": "Psicología 1.pdf, p. 3 – Perspectiva psicodinámica"
+    },
+    {
+      "id": "p-pi-013",
+      "temaId": "p-perspectivas",
+      "frente": "Técnicas del psicoanálisis para acceder a lo reprimido",
+      "reverso": "La asociación libre y la interpretación de los sueños.",
+      "fuente": "Psicología 1.pdf, p. 3 – Perspectiva psicodinámica"
+    },
+    {
+      "id": "p-pi-014",
+      "temaId": "p-perspectivas",
+      "frente": "Yo, ello y superyó",
+      "reverso": "Conceptos fundamentales del psicoanálisis (Freud).",
+      "fuente": "Psicología 1.pdf, p. 3 – Perspectiva psicodinámica"
+    },
+    {
+      "id": "p-pi-015",
+      "temaId": "p-perspectivas",
+      "frente": "Idea central del humanismo",
+      "reverso": "El ser humano es único y digno, con capacidad innata de crecer y alcanzar la autorrealización.",
+      "fuente": "Psicología 1.pdf, p. 4 – Perspectiva humanista"
+    },
+    {
+      "id": "p-pi-016",
+      "temaId": "p-perspectivas",
+      "frente": "Representantes del humanismo",
+      "reverso": "Carl Rogers, Abraham Maslow y Fritz Perls.",
+      "fuente": "Psicología 1.pdf, p. 4 – Perspectiva humanista"
+    },
+    {
+      "id": "p-pi-017",
+      "temaId": "p-perspectivas",
+      "frente": "Neuropsicología",
+      "reverso": "Combina psicología y neurociencia para estudiar cómo el cerebro influye en la conducta y el pensamiento.",
+      "fuente": "Psicología 1.pdf, p. 4 – Perspectiva neuropsicológica"
+    },
+    {
+      "id": "p-pi-018",
+      "temaId": "p-perspectivas",
+      "frente": "Broca y Wernicke",
+      "reverso": "Representantes de la neuropsicología (perspectiva biológica).",
+      "fuente": "Psicología 1.pdf, p. 5 – Perspectiva neuropsicológica"
+    },
+    {
+      "id": "p-pi-019",
+      "temaId": "p-metodos",
+      "frente": "Metodologías descriptivas",
+      "reverso": "Describen y registran fenómenos de modo preciso, sin explicarlos.",
+      "fuente": "Psicología 1.pdf, p. 5 – Métodos de la Psicología"
+    },
+    {
+      "id": "p-pi-020",
+      "temaId": "p-metodos",
+      "frente": "Observación de campo vs. de laboratorio",
+      "reverso": "Ambas registran conductas de forma ordenada, objetiva y secuenciada; cambia el lugar donde se realizan.",
+      "fuente": "Psicología 1.pdf, p. 6 – Métodos de la Psicología"
+    },
+    {
+      "id": "p-pi-021",
+      "temaId": "p-metodos",
+      "frente": "Metodología experimental",
+      "reverso": "Método adecuado para explicar los comportamientos y descubrir relaciones causales.",
+      "fuente": "Psicología 1.pdf, p. 6 – Métodos de la Psicología"
+    },
+    {
+      "id": "p-pi-022",
+      "temaId": "p-metodos",
+      "frente": "Hipótesis",
+      "reverso": "Suposición de partida; segundo paso de la experimentación, tras formular el problema.",
+      "fuente": "Psicología 1.pdf, p. 6 – Métodos de la Psicología"
+    },
+    {
+      "id": "p-pi-023",
+      "temaId": "p-metodos",
+      "frente": "Correlación",
+      "reverso": "Medida estadística de la relación entre dos factores: permite predecir, pero no implica causalidad.",
+      "fuente": "Psicología 1.pdf, p. 6 – Metodología de correlaciones"
+    },
+    {
+      "id": "p-pi-024",
+      "temaId": "p-ramas",
+      "frente": "Psicología industrial",
+      "reverso": "Aprovechamiento óptimo de los recursos humanos: selección, promoción y formación del personal.",
+      "fuente": "Psicología 1.pdf, p. 6 – Ramas de la Psicología"
+    },
+    {
+      "id": "p-pi-025",
+      "temaId": "p-ramas",
+      "frente": "Psicología comunitaria",
+      "reverso": "Se ocupa sobre todo de personas no adaptadas al mundo social (marginados y excluidos).",
+      "fuente": "Psicología 1.pdf, p. 6 – Ramas de la Psicología"
+    },
+    {
+      "id": "p-pi-026",
+      "temaId": "p-ramas",
+      "frente": "Psicología jurídica y forense",
+      "reverso": "También llamada legal: auxilia a la administración de Justicia en los tribunales.",
+      "fuente": "Psicología 1.pdf, p. 6 – Ramas de la Psicología"
+    },
+    {
+      "id": "p-pi-027",
+      "temaId": "p-ramas",
+      "frente": "Psicología penitenciaria",
+      "reverso": "Ayuda al preso durante la privación de libertad y en su reinserción.",
+      "fuente": "Psicología 1.pdf, p. 6 – Ramas de la Psicología"
+    },
+    {
+      "id": "p-pi-028",
+      "temaId": "p-ramas",
+      "frente": "Psicología evolutiva",
+      "reverso": "Describe y explica los cambios en procesos mentales y conductas a lo largo de la vida.",
+      "fuente": "Psicología 1.pdf, p. 7 – Ramas de la Psicología"
+    },
+    {
+      "id": "p-pi-029",
+      "temaId": "p-ramas",
+      "frente": "Psicobiología",
+      "reverso": "Aplica la biología al estudio del comportamiento; sostiene que los procesos mentales son procesos cerebrales.",
+      "fuente": "Psicología 1.pdf, p. 7 – Ramas de la Psicología"
+    },
+    {
+      "id": "p-pi-030",
+      "temaId": "p-ramas",
+      "frente": "Principios éticos de la APA (1982)",
+      "reverso": "Información, consentimiento, minimizar riesgos, derecho a retirada y confidencialidad.",
+      "fuente": "Psicología 1.pdf, p. 7 – Ética e investigación psicológica"
+    },
+    {
+      "id": "p-pi-031",
+      "temaId": "p-herencia",
+      "frente": "Determinismo genético vs. ambiental",
+      "reverso": "Genético: somos producto de nuestra naturaleza. Ambiental: somos producto de nuestras experiencias.",
+      "fuente": "Psicología 2.pdf, p. 1 – ¿Herencia o medio?"
+    },
+    {
+      "id": "p-pi-032",
+      "temaId": "p-herencia",
+      "frente": "Correlación de C.I. en gemelos idénticos criados juntos / por separado",
+      "reverso": "0,90 criados juntos; 0,80 criados por separado.",
+      "fuente": "Psicología 2.pdf, p. 1 – ¿Herencia o medio?"
+    },
+    {
+      "id": "p-pi-033",
+      "temaId": "p-herencia",
+      "frente": "Conclusión sobre herencia y ambiente",
+      "reverso": "La herencia predispone y limita; el ambiente determina su expresión. Hay interacción entre ambos.",
+      "fuente": "Psicología 2.pdf, p. 1 – ¿Herencia o medio?"
+    },
+    {
+      "id": "p-pi-034",
+      "temaId": "p-sn",
+      "frente": "Componentes del SNC",
+      "reverso": "Encéfalo y médula espinal.",
+      "fuente": "Psicología 2.pdf, p. 2 – Sistema nervioso central"
+    },
+    {
+      "id": "p-pi-035",
+      "temaId": "p-sn",
+      "frente": "Cuatro zonas del encéfalo",
+      "reverso": "Tronco cerebral, cerebelo, cerebro y diencéfalo.",
+      "fuente": "Psicología 2.pdf, p. 2 – Encéfalo"
+    },
+    {
+      "id": "p-pi-036",
+      "temaId": "p-sn",
+      "frente": "Cerebelo",
+      "reverso": "Relacionado con la actividad motora y el equilibrio; situado a la altura de la nuca.",
+      "fuente": "Psicología 2.pdf, p. 2 – Encéfalo"
+    },
+    {
+      "id": "p-pi-037",
+      "temaId": "p-sn",
+      "frente": "Diencéfalo",
+      "reverso": "Situado bajo el cerebro, con centros nerviosos que regulan la vida instintiva.",
+      "fuente": "Psicología 2.pdf, p. 2 – Encéfalo"
+    },
+    {
+      "id": "p-pi-038",
+      "temaId": "p-sn",
+      "frente": "Sistema somático",
+      "reverso": "Parte del SNP que regula los aspectos ejecutivos: acciones voluntarias y movimiento.",
+      "fuente": "Psicología 2.pdf, p. 2 – Sistema nervioso periférico"
+    },
+    {
+      "id": "p-pi-039",
+      "temaId": "p-sn",
+      "frente": "Simpático vs. parasimpático",
+      "reverso": "El simpático estimula la actividad; el parasimpático la inhibe.",
+      "fuente": "Psicología 2.pdf, p. 2 – Sistema nervioso periférico"
+    },
+    {
+      "id": "p-pi-040",
+      "temaId": "p-sn",
+      "frente": "Hormonas",
+      "reverso": "Sustancias químicas segregadas a la sangre por las glándulas endocrinas; influyen en crecimiento, metabolismo, reproducción y estados de ánimo.",
+      "fuente": "Psicología 2.pdf, p. 2 – Sistema endocrino"
+    },
+    {
+      "id": "p-pi-041",
+      "temaId": "p-cerebro",
+      "frente": "Sistema límbico",
+      "reverso": "Relacionado con la motivación, las emociones y la memoria; influye en el sistema endocrino.",
+      "fuente": "Psicología 2.pdf, p. 2 – El cerebro humano"
+    },
+    {
+      "id": "p-pi-042",
+      "temaId": "p-cerebro",
+      "frente": "Hipotálamo",
+      "reverso": "Estructura límbica central: mantenimiento del organismo (hambre, sed, temperatura, conducta sexual).",
+      "fuente": "Psicología 2.pdf, p. 2 – El cerebro humano"
+    },
+    {
+      "id": "p-pi-043",
+      "temaId": "p-cerebro",
+      "frente": "Los cuatro lóbulos cerebrales",
+      "reverso": "Frontal, parietal, occipital y temporal.",
+      "fuente": "Psicología 2.pdf, p. 3 – Corteza cerebral"
+    },
+    {
+      "id": "p-pi-044",
+      "temaId": "p-cerebro",
+      "frente": "Funciones de la corteza cerebral",
+      "reverso": "Receptora (sensaciones), motora (movimiento) y psíquica o de asociación.",
+      "fuente": "Psicología 2.pdf, p. 3 – Corteza cerebral"
+    },
+    {
+      "id": "p-pi-045",
+      "temaId": "p-cerebro",
+      "frente": "Hemisferio izquierdo vs. derecho",
+      "reverso": "Izquierdo: lingüística, numérica, pensamiento analítico. Derecho: espacial, artística, musical.",
+      "fuente": "Psicología 2.pdf, p. 3 – Hemisferios"
+    },
+    {
+      "id": "p-pi-046",
+      "temaId": "p-cerebro",
+      "frente": "Sinapsis",
+      "reverso": "Espacio entre las células nerviosas ocupado por los neurotransmisores.",
+      "fuente": "Psicología 2.pdf, p. 3 – La neurona y los neurotransmisores"
+    },
+    {
+      "id": "p-pi-047",
+      "temaId": "p-sexo",
+      "frente": "Materia gris / materia blanca / líquido cefalorraquídeo",
+      "reverso": "Gris: procesa la información. Blanca: transmite impulsos. Líquido: amortiguador del cráneo.",
+      "fuente": "Psicología 2.pdf, p. 4 – Estructura cerebral y neurológica"
+    },
+    {
+      "id": "p-pi-048",
+      "temaId": "p-sexo",
+      "frente": "Cuerpo calloso",
+      "reverso": "Haz de nervios que comunica los hemisferios; según el texto es más grande en las mujeres.",
+      "fuente": "Psicología 2.pdf, p. 4 – Estructura cerebral y neurológica"
+    },
+    {
+      "id": "p-pi-049",
+      "temaId": "p-sexo",
+      "frente": "Gen TDF",
+      "reverso": "Factor determinante de los testículos, situado en el cromosoma Y.",
+      "fuente": "Psicología 2.pdf, p. 4 – Genéticas"
+    },
+    {
+      "id": "p-pi-050",
+      "temaId": "p-sensacion",
+      "frente": "Sensación vs. percepción",
+      "reverso": "Sensación: detectar un estímulo sin significado. Percepción: organizarlo e interpretarlo dándole significado.",
+      "fuente": "Psicología 3.pdf, p. 3 – Introducción"
+    },
+    {
+      "id": "p-pi-051",
+      "temaId": "p-sensacion",
+      "frente": "Estímulo",
+      "reverso": "Energía física, mecánica, térmica, química o electromagnética que activa un receptor sensorial.",
+      "fuente": "Psicología 3.pdf, p. 3 – Despierta tus sentidos"
+    },
+    {
+      "id": "p-pi-052",
+      "temaId": "p-sensacion",
+      "frente": "Características de la percepción",
+      "reverso": "Proceso constructivo, de información-adaptación al ambiente y de selección.",
+      "fuente": "Psicología 3.pdf, p. 3 – ¿Qué es la percepción?"
+    },
+    {
+      "id": "p-pi-053",
+      "temaId": "p-sensacion",
+      "frente": "Fases del proceso perceptivo",
+      "reverso": "Detección → transducción → transmisión → procesamiento de la información.",
+      "fuente": "Psicología 3.pdf, p. 4 – Fases del proceso perceptivo"
+    },
+    {
+      "id": "p-pi-054",
+      "temaId": "p-sensacion",
+      "frente": "Transducción",
+      "reverso": "Los receptores convierten la energía del estímulo en mensajes nerviosos (señales electroquímicas).",
+      "fuente": "Psicología 3.pdf, p. 4 – Fases del proceso perceptivo"
+    },
+    {
+      "id": "p-pi-055",
+      "temaId": "p-sensacion",
+      "frente": "Nociceptores",
+      "reverso": "Receptores que informan del dolor.",
+      "fuente": "Psicología 3.pdf, p. 4 – Clasificación de los órganos sensoriales"
+    },
+    {
+      "id": "p-pi-056",
+      "temaId": "p-sensacion",
+      "frente": "Propioceptores",
+      "reverso": "Informan sobre los músculos y los movimientos del cuerpo.",
+      "fuente": "Psicología 3.pdf, p. 4 – Clasificación de los órganos sensoriales"
+    },
+    {
+      "id": "p-pi-057",
+      "temaId": "p-sensacion",
+      "frente": "Interoceptores",
+      "reverso": "Informan del estado de las vísceras.",
+      "fuente": "Psicología 3.pdf, p. 4 – Clasificación de los órganos sensoriales"
+    },
+    {
+      "id": "p-pi-058",
+      "temaId": "p-sensacion",
+      "frente": "Conos vs. bastones",
+      "reverso": "Conos: sensibles a los colores. Bastones: blanco y gris, luz débil, formas y volúmenes.",
+      "fuente": "Psicología 3.pdf, p. 5 – Visión"
+    },
+    {
+      "id": "p-pi-059",
+      "temaId": "p-sensacion",
+      "frente": "Punto ciego",
+      "reverso": "Zona de la retina sin receptores de luz porque la ocupa el nervio óptico.",
+      "fuente": "Psicología 3.pdf, p. 5 – Visión"
+    },
+    {
+      "id": "p-pi-060",
+      "temaId": "p-sensacion",
+      "frente": "Corpúsculos de Pacini",
+      "reverso": "Corpúsculos de la dermis sensibles a la presión.",
+      "fuente": "Psicología 3.pdf, p. 5 – Tacto"
+    },
+    {
+      "id": "p-pi-061",
+      "temaId": "p-sensacion",
+      "frente": "Cóclea",
+      "reverso": "Tubo en forma de caracol del oído interno, lleno de líquido y con células ciliares.",
+      "fuente": "Psicología 3.pdf, p. 6 – Audición"
+    },
+    {
+      "id": "p-pi-062",
+      "temaId": "p-percepcion",
+      "frente": "Umbral absoluto",
+      "reverso": "Cantidad mínima de estímulo para notarlo (inferior) y máxima que podemos recibir (superior).",
+      "fuente": "Psicología 3.pdf, p. 6 – Los umbrales sensoriales"
+    },
+    {
+      "id": "p-pi-063",
+      "temaId": "p-percepcion",
+      "frente": "Umbral diferencial",
+      "reverso": "Diferencia de intensidad necesaria para notar un aumento o disminución del estímulo.",
+      "fuente": "Psicología 3.pdf, p. 6 – Los umbrales sensoriales"
+    },
+    {
+      "id": "p-pi-064",
+      "temaId": "p-percepcion",
+      "frente": "«Mosaico de sensaciones»",
+      "reverso": "Visión de la percepción de la teoría asociacionista (Wilhelm Wundt).",
+      "fuente": "Psicología 3.pdf, p. 7 – La teoría asociacionista"
+    },
+    {
+      "id": "p-pi-065",
+      "temaId": "p-percepcion",
+      "frente": "«El todo es mayor que la suma de las partes»",
+      "reverso": "Aforismo de la Gestalt sobre la naturaleza holística de la percepción.",
+      "fuente": "Psicología 3.pdf, p. 7 – La escuela de la Forma (Gestalt)"
+    },
+    {
+      "id": "p-pi-066",
+      "temaId": "p-percepcion",
+      "frente": "Ley de pregnancia o buena forma",
+      "reverso": "Tendencia a organizar los estímulos en formas estables, sencillas y consistentes; recoge las leyes de la Gestalt.",
+      "fuente": "Psicología 3.pdf, p. 7 – Leyes de organización perceptiva"
+    },
+    {
+      "id": "p-pi-067",
+      "temaId": "p-percepcion",
+      "frente": "Ley de proximidad",
+      "reverso": "Los estímulos más próximos tienden a agruparse.",
+      "fuente": "Psicología 3.pdf, p. 7 – Leyes de organización perceptiva"
+    },
+    {
+      "id": "p-pi-068",
+      "temaId": "p-percepcion",
+      "frente": "Ley de semejanza",
+      "reverso": "Los estímulos parecidos en tamaño, forma o color tienden a agruparse.",
+      "fuente": "Psicología 3.pdf, p. 7 – Leyes de organización perceptiva"
+    },
+    {
+      "id": "p-pi-069",
+      "temaId": "p-percepcion",
+      "frente": "Ley de cierre",
+      "reverso": "Tendencia a percibir los objetos como totales aunque falten partes o estén ocultas.",
+      "fuente": "Psicología 3.pdf, p. 7 – Leyes de organización perceptiva"
+    },
+    {
+      "id": "p-pi-070",
+      "temaId": "p-percepcion",
+      "frente": "Ley de contraste",
+      "reverso": "La percepción de un elemento depende de su relación con los demás elementos del conjunto.",
+      "fuente": "Psicología 3.pdf, p. 7 – Leyes de organización perceptiva"
+    },
+    {
+      "id": "p-pi-071",
+      "temaId": "p-percepcion",
+      "frente": "Esquema cognitivo",
+      "reverso": "Conjunto organizado de conocimientos en la memoria que sirve para interpretar la realidad.",
+      "fuente": "Psicología 3.pdf, p. 8 – La teoría cognitiva"
+    },
+    {
+      "id": "p-pi-072",
+      "temaId": "p-trastornos",
+      "frente": "Agnosia",
+      "reverso": "Incapacidad de reconocer estímulos por un sentido aunque la capacidad intelectual esté bien.",
+      "fuente": "Psicología 3.pdf, p. 9 – Agnosia"
+    },
+    {
+      "id": "p-pi-073",
+      "temaId": "p-trastornos",
+      "frente": "Ilusión catatímica",
+      "reverso": "Deformación de objetos o situaciones por influencia de sentimientos y emociones.",
+      "fuente": "Psicología 3.pdf, p. 9 – Ilusiones"
+    },
+    {
+      "id": "p-pi-074",
+      "temaId": "p-trastornos",
+      "frente": "Pareidolia",
+      "reverso": "Ilusión fantástica: «ver» figuras en una pared o en las nubes.",
+      "fuente": "Psicología 3.pdf, p. 9 – Ilusiones"
+    },
+    {
+      "id": "p-pi-075",
+      "temaId": "p-trastornos",
+      "frente": "Alucinación",
+      "reverso": "Percepción sin objeto.",
+      "fuente": "Psicología 3.pdf, p. 9 – Alucinaciones"
+    },
+    {
+      "id": "p-pi-076",
+      "temaId": "p-trastornos",
+      "frente": "Elementos de la atención",
+      "reverso": "Selección, vigilancia y control.",
+      "fuente": "Psicología 3.pdf, p. 10 – La atención"
+    },
+    {
+      "id": "p-pi-077",
+      "temaId": "p-trastornos",
+      "frente": "Atención sostenida (vigilancia)",
+      "reverso": "Capacidad de realizar una tarea monótona mucho tiempo sin que baje la atención.",
+      "fuente": "Psicología 3.pdf, p. 10 – La atención"
+    },
+    {
+      "id": "p-pi-078",
+      "temaId": "p-trastornos",
+      "frente": "Atención selectiva",
+      "reverso": "Capacidad de concentrarse en los estímulos relevantes, inhibiendo lo que pueda interferir.",
+      "fuente": "Psicología 3.pdf, pp. 3–4 – ¿Qué es la percepción? (p. 3 dice «irrelevantes»; corregido según p. 4)"
+    }
+  ],
+  "preguntas": [
+    {
+      "id": "p-q-001",
+      "temaId": "p-raices",
+      "enunciado": "¿Qué pensador intentó explicar la conexión entre cuerpo y mente mediante la glándula pineal?",
+      "opciones": [
+        "Hume",
+        "Descartes",
+        "Aristóteles",
+        "Tomás de Aquino"
+      ],
+      "correcta": 1,
+      "explicacion": "Descartes, desde el racionalismo, situó en la glándula pineal la conexión entre cuerpo y mente. Hume, en cambio, negaba la existencia del alma.",
+      "nivel": "recordar",
+      "fuente": "Psicología 1.pdf, p. 1 – Raíces"
+    },
+    {
+      "id": "p-q-002",
+      "temaId": "p-raices",
+      "enunciado": "Hasta finales del siglo XIX, la Psicología se consideraba…",
+      "opciones": [
+        "una rama de la Filosofía",
+        "una rama de la Fisiología",
+        "una ciencia experimental independiente",
+        "una rama de la Medicina"
+      ],
+      "correcta": 0,
+      "explicacion": "Hasta finales del siglo XIX era una rama de la Filosofía con procedimientos especulativos. La Fisiología aportó investigadores después, pero no la contenía.",
+      "nivel": "recordar",
+      "fuente": "Psicología 1.pdf, p. 1 – Raíces"
+    },
+    {
+      "id": "p-q-003",
+      "temaId": "p-raices",
+      "enunciado": "¿Qué distingue la postura de Hume de la de Descartes?",
+      "opciones": [
+        "Hume niega la existencia del alma y basa el conocimiento en la observación y la experimentación",
+        "Hume sustituye el alma por la razón, unida al cuerpo",
+        "Hume defiende que alma y cuerpo son niveles distintos",
+        "Hume entiende el alma como parte esencial-vital del cuerpo"
+      ],
+      "correcta": 0,
+      "explicacion": "Hume es empirista y niega el alma. Sustituir el alma por la razón es la postura racionalista de Descartes.",
+      "nivel": "comprender",
+      "fuente": "Psicología 1.pdf, p. 1 – Raíces"
+    },
+    {
+      "id": "p-q-004",
+      "temaId": "p-raices",
+      "enunciado": "¿Cuál fue la aportación de Gustav Fechner en «Elementos de Psicofísica»?",
+      "opciones": [
+        "Explicar la unión entre cuerpo y mente con la glándula pineal",
+        "Fundar una psicología empirista de las ideas negando el alma",
+        "Mostrar cómo usar procesos experimentales y matemáticos para estudiar la mente",
+        "Proponer el dualismo entre psique y soma"
+      ],
+      "correcta": 2,
+      "explicacion": "Fechner mostró que la mente podía estudiarse con métodos experimentales y matemáticos, clave para que la Psicología se volviera ciencia independiente.",
+      "nivel": "comprender",
+      "fuente": "Psicología 1.pdf, p. 1 – Raíces"
+    },
+    {
+      "id": "p-q-005",
+      "temaId": "p-raices",
+      "enunciado": "Comparando a Platón y Aristóteles, ¿qué afirmación es correcta?",
+      "opciones": [
+        "Platón es materialista y Aristóteles dualista",
+        "Ambos niegan la existencia del alma",
+        "Platón separa alma y cuerpo como niveles distintos; Aristóteles ve la mente como manifestación del cuerpo con influencia mutua",
+        "Ambos explican la unión de alma y cuerpo por la glándula pineal"
+      ],
+      "correcta": 2,
+      "explicacion": "Platón es dualista; Aristóteles tiene una visión más materialista de la mente, con influencia mutua entre cuerpo y mente.",
+      "nivel": "comprender",
+      "fuente": "Psicología 1.pdf, p. 1 – Raíces"
+    },
+    {
+      "id": "p-q-006",
+      "temaId": "p-perspectivas",
+      "enunciado": "¿Cuáles son las cinco perspectivas consideradas más importantes en la psicología actual?",
+      "opciones": [
+        "Conductista, cognitiva, Gestalt, humanista y asociacionista",
+        "Psicodinámica, humanista, evolutiva, clínica y biológica",
+        "Racionalista, empirista, conductista, cognitiva y humanista",
+        "Conductista, cognitiva, psicodinámica, humanista y biológica"
+      ],
+      "correcta": 3,
+      "explicacion": "El texto destaca cinco: conductista, cognitiva, psicodinámica, humanista y biológica. Gestalt y asociacionismo aparecen como teorías de la percepción.",
+      "nivel": "recordar",
+      "fuente": "Psicología 1.pdf, p. 2 – Perspectivas actuales"
+    },
+    {
+      "id": "p-q-007",
+      "temaId": "p-perspectivas",
+      "enunciado": "Según el conductismo, el comportamiento se explica como…",
+      "opciones": [
+        "el resultado de conflictos inconscientes reprimidos",
+        "el modo en que la mente procesa la información",
+        "la expresión de la capacidad innata de autorrealización",
+        "una respuesta a estímulos específicos del entorno"
+      ],
+      "correcta": 3,
+      "explicacion": "La idea central del conductismo es la relación estímulo-respuesta. El procesamiento de información es la idea central del enfoque cognitivo.",
+      "nivel": "recordar",
+      "fuente": "Psicología 1.pdf, p. 2 – Perspectiva conductista"
+    },
+    {
+      "id": "p-q-008",
+      "temaId": "p-perspectivas",
+      "enunciado": "Pavlov y el reflejo condicionado se asocian con…",
+      "opciones": [
+        "el condicionamiento operante",
+        "la jerarquía de necesidades",
+        "la plasticidad cerebral",
+        "el condicionamiento clásico"
+      ],
+      "correcta": 3,
+      "explicacion": "El texto vincula el condicionamiento clásico a Pavlov y al reflejo condicionado. El operante consiste en repetir conductas con consecuencias positivas.",
+      "nivel": "recordar",
+      "fuente": "Psicología 1.pdf, p. 2 – Perspectiva conductista"
+    },
+    {
+      "id": "p-q-009",
+      "temaId": "p-perspectivas",
+      "enunciado": "Un niño ordena su habitación cada vez más a menudo porque, cuando lo hace, recibe un premio. ¿Qué concepto lo explica mejor?",
+      "opciones": [
+        "Condicionamiento clásico",
+        "Represión",
+        "Condicionamiento operante",
+        "Autorrealización"
+      ],
+      "correcta": 2,
+      "explicacion": "El condicionamiento operante consiste en repetir una conducta que tiene consecuencias positivas. El clásico se basa en el reflejo condicionado, no en premios.",
+      "nivel": "aplicar",
+      "fuente": "Psicología 1.pdf, p. 2 – Perspectiva conductista"
+    },
+    {
+      "id": "p-q-010",
+      "temaId": "p-perspectivas",
+      "enunciado": "Un terapeuta trata la fobia de una paciente exponiéndola paso a paso al estímulo temido. ¿De qué perspectiva procede esta técnica?",
+      "opciones": [
+        "Psicodinámica",
+        "Conductista",
+        "Humanista",
+        "Neuropsicológica"
+      ],
+      "correcta": 1,
+      "explicacion": "La desensibilización sistemática para las fobias es una aplicación del condicionamiento clásico, es decir, del conductismo.",
+      "nivel": "aplicar",
+      "fuente": "Psicología 1.pdf, p. 2 – Perspectiva conductista"
+    },
+    {
+      "id": "p-q-011",
+      "temaId": "p-perspectivas",
+      "enunciado": "Para el enfoque cognitivo, la conducta se explica por…",
+      "opciones": [
+        "la manipulación de estímulos mediante refuerzos y castigos",
+        "los deseos reprimidos que actúan sin conocimiento consciente",
+        "la interacción entre la información que entra y la forma en que se procesa",
+        "la estructura y función del sistema nervioso"
+      ],
+      "correcta": 2,
+      "explicacion": "El enfoque cognitivo ve la mente como un sistema activo que procesa información. Refuerzos y castigos son propios del conductismo.",
+      "nivel": "comprender",
+      "fuente": "Psicología 1.pdf, p. 2 – Perspectiva cognitiva"
+    },
+    {
+      "id": "p-q-012",
+      "temaId": "p-perspectivas",
+      "enunciado": "¿Qué técnicas usa el psicoanálisis para llevar a la conciencia lo reprimido?",
+      "opciones": [
+        "La desensibilización sistemática y la terapia de aversión",
+        "La observación de campo y la encuesta",
+        "La asociación libre y la interpretación de los sueños",
+        "El refuerzo positivo y el refuerzo negativo"
+      ],
+      "correcta": 2,
+      "explicacion": "Según el texto, recuerdos y deseos reprimidos pueden llegar a la conciencia mediante asociación libre e interpretación de los sueños.",
+      "nivel": "recordar",
+      "fuente": "Psicología 1.pdf, p. 3 – Perspectiva psicodinámica"
+    },
+    {
+      "id": "p-q-013",
+      "temaId": "p-perspectivas",
+      "enunciado": "Los conceptos de «yo, ello y superyó» y «mecanismos de defensa» pertenecen a…",
+      "opciones": [
+        "el psicoanálisis",
+        "el humanismo",
+        "el conductismo",
+        "la neuropsicología"
+      ],
+      "correcta": 0,
+      "explicacion": "Son conceptos fundamentales del psicoanálisis, cuyo principal representante es Freud.",
+      "nivel": "recordar",
+      "fuente": "Psicología 1.pdf, p. 3 – Perspectiva psicodinámica"
+    },
+    {
+      "id": "p-q-014",
+      "temaId": "p-perspectivas",
+      "enunciado": "Según el texto, ¿qué crítica ha recibido el psicoanálisis?",
+      "opciones": [
+        "Solo estudia conductas observables y olvida la mente",
+        "Muchos profesionales no lo consideran un enfoque científico válido",
+        "Ignora por completo el papel del inconsciente",
+        "Carece hoy de cualquier aplicación"
+      ],
+      "correcta": 1,
+      "explicacion": "El texto indica que muchos profesionales no lo consideran científico, aunque aún tiene aplicaciones (terapia, cultura, literatura, desarrollo).",
+      "nivel": "comprender",
+      "fuente": "Psicología 1.pdf, p. 4 – Perspectiva psicodinámica"
+    },
+    {
+      "id": "p-q-015",
+      "temaId": "p-perspectivas",
+      "enunciado": "Carl Rogers y Abraham Maslow son representantes de la perspectiva…",
+      "opciones": [
+        "humanista",
+        "psicodinámica",
+        "cognitiva",
+        "conductista"
+      ],
+      "correcta": 0,
+      "explicacion": "Rogers, Maslow y Perls son los representantes humanistas citados en el texto.",
+      "nivel": "recordar",
+      "fuente": "Psicología 1.pdf, p. 4 – Perspectiva humanista"
+    },
+    {
+      "id": "p-q-016",
+      "temaId": "p-perspectivas",
+      "enunciado": "¿Qué idea resume mejor la concepción humanista del ser humano?",
+      "opciones": [
+        "Es único y digno, con capacidad innata de crecer y realizarse",
+        "Es un sistema que procesa información de forma constante",
+        "Su conducta está determinada por conflictos inconscientes",
+        "Su conducta es una respuesta aprendida a estímulos"
+      ],
+      "correcta": 0,
+      "explicacion": "El humanismo se centra en la individualidad, el potencial humano y la autorrealización.",
+      "nivel": "comprender",
+      "fuente": "Psicología 1.pdf, p. 4 – Perspectiva humanista"
+    },
+    {
+      "id": "p-q-017",
+      "temaId": "p-perspectivas",
+      "enunciado": "Una profesional evalúa la memoria de un paciente tras un traumatismo craneal y diseña su rehabilitación cognitiva. ¿Qué perspectiva aplica?",
+      "opciones": [
+        "Neuropsicológica",
+        "Psicodinámica",
+        "Humanista",
+        "Conductista"
+      ],
+      "correcta": 0,
+      "explicacion": "Evaluar lesiones cerebrales y rehabilitar capacidades cognitivas son aplicaciones de la neuropsicología. Aunque trate la memoria, el foco está en la relación cerebro-conducta.",
+      "nivel": "aplicar",
+      "fuente": "Psicología 1.pdf, p. 5 – Perspectiva neuropsicológica"
+    },
+    {
+      "id": "p-q-018",
+      "temaId": "p-perspectivas",
+      "enunciado": "Paul Broca y Karl Wernicke figuran en el texto como representantes de…",
+      "opciones": [
+        "el enfoque cognitivo",
+        "la neuropsicología",
+        "el psicoanálisis",
+        "el conductismo"
+      ],
+      "correcta": 1,
+      "explicacion": "Gall, Broca, Wernicke y Luria aparecen como representantes de la neuropsicología.",
+      "nivel": "recordar",
+      "fuente": "Psicología 1.pdf, p. 5 – Perspectiva neuropsicológica"
+    },
+    {
+      "id": "p-q-019",
+      "temaId": "p-metodos",
+      "enunciado": "¿Qué método es el adecuado para descubrir relaciones causales?",
+      "opciones": [
+        "La metodología de correlaciones",
+        "La observación",
+        "La encuesta",
+        "La metodología experimental"
+      ],
+      "correcta": 3,
+      "explicacion": "El método experimental es el adecuado para explicar comportamientos y hallar causas. La correlación permite predecir pero no implica causalidad.",
+      "nivel": "recordar",
+      "fuente": "Psicología 1.pdf, p. 6 – Métodos de la Psicología"
+    },
+    {
+      "id": "p-q-020",
+      "temaId": "p-metodos",
+      "enunciado": "¿Qué afirmación sobre la correlación es correcta según el texto?",
+      "opciones": [
+        "Permite la predicción, pero no implica causalidad",
+        "Demuestra que un factor causa el otro",
+        "No permite predecir nada",
+        "Es un método descriptivo basado en opiniones"
+      ],
+      "correcta": 0,
+      "explicacion": "La correlación mide la relación entre dos factores: no explica ni implica causalidad, aunque sí permite predecir.",
+      "nivel": "comprender",
+      "fuente": "Psicología 1.pdf, p. 6 – Metodología de correlaciones"
+    },
+    {
+      "id": "p-q-021",
+      "temaId": "p-metodos",
+      "enunciado": "Un estudio halla que los alumnos que duermen más tienden a sacar mejores notas. ¿Qué se puede concluir según el texto?",
+      "opciones": [
+        "Que dormir más causa mejores notas",
+        "Que las buenas notas causan dormir más",
+        "Que la relación no sirve ni para predecir",
+        "Que existe una relación que permite predecir, pero no que dormir cause mejores notas"
+      ],
+      "correcta": 3,
+      "explicacion": "Es una correlación: permite predecir, pero no establece causalidad. Para hallar causas haría falta un experimento.",
+      "nivel": "aplicar",
+      "fuente": "Psicología 1.pdf, p. 6 – Metodología de correlaciones"
+    },
+    {
+      "id": "p-q-022",
+      "temaId": "p-metodos",
+      "enunciado": "En la experimentación, ¿qué paso sigue a «formular un problema»?",
+      "opciones": [
+        "Recoger los datos",
+        "Formular una hipótesis de partida",
+        "Generalizar los resultados",
+        "Establecer conclusiones"
+      ],
+      "correcta": 1,
+      "explicacion": "El orden es: problema, hipótesis, recogida de datos, análisis, conclusiones, generalización e informe.",
+      "nivel": "recordar",
+      "fuente": "Psicología 1.pdf, p. 6 – Métodos de la Psicología"
+    },
+    {
+      "id": "p-q-023",
+      "temaId": "p-metodos",
+      "enunciado": "¿Qué caracteriza a las metodologías descriptivas?",
+      "opciones": [
+        "Descubren relaciones causales entre variables",
+        "Miden la intensidad de la relación entre dos factores",
+        "Describen y registran fenómenos con precisión sin explicarlos",
+        "Generalizan resultados a partir de hipótesis"
+      ],
+      "correcta": 2,
+      "explicacion": "Las descriptivas solo describen. Explicar causas es tarea del método experimental; medir relaciones, de la correlación.",
+      "nivel": "comprender",
+      "fuente": "Psicología 1.pdf, p. 5 – Métodos de la Psicología"
+    },
+    {
+      "id": "p-q-024",
+      "temaId": "p-metodos",
+      "enunciado": "Una psicóloga registra de forma ordenada y objetiva cómo juegan los niños en el patio del colegio, sin intervenir. ¿Qué método usa?",
+      "opciones": [
+        "Observación de laboratorio",
+        "Metodología experimental",
+        "Encuesta",
+        "Observación de campo"
+      ],
+      "correcta": 3,
+      "explicacion": "Registra conductas de forma ordenada y objetiva en su entorno natural: observación a nivel de campo. No manipula nada, así que no es un experimento.",
+      "nivel": "aplicar",
+      "fuente": "Psicología 1.pdf, p. 6 – Métodos de la Psicología"
+    },
+    {
+      "id": "p-q-025",
+      "temaId": "p-metodos",
+      "enunciado": "¿Qué requisito destaca el texto para la encuesta?",
+      "opciones": [
+        "Aplicarse sin sesgos, con grupos representativos",
+        "Realizarse siempre en laboratorio",
+        "Formular antes una hipótesis causal",
+        "Basarse en un único caso particular"
+      ],
+      "correcta": 0,
+      "explicacion": "La encuesta recoge opiniones y debe aplicarse sin sesgos (grupos representativos).",
+      "nivel": "recordar",
+      "fuente": "Psicología 1.pdf, p. 6 – Métodos de la Psicología"
+    },
+    {
+      "id": "p-q-026",
+      "temaId": "p-ramas",
+      "enunciado": "Una psicóloga trabaja en la selección, promoción y formación del personal de una empresa. ¿A qué rama pertenece?",
+      "opciones": [
+        "Psicología social",
+        "Psicología comunitaria",
+        "Psicología industrial",
+        "Psicología escolar-educativa"
+      ],
+      "correcta": 2,
+      "explicacion": "La psicología industrial busca el aprovechamiento óptimo de los recursos humanos en las empresas. La social estudia interacción, opinión y publicidad.",
+      "nivel": "aplicar",
+      "fuente": "Psicología 1.pdf, p. 6 – Ramas de la Psicología"
+    },
+    {
+      "id": "p-q-027",
+      "temaId": "p-ramas",
+      "enunciado": "Un psicólogo acompaña a internos de una prisión y les ayuda a preparar su vuelta a la sociedad. ¿Qué rama ejerce?",
+      "opciones": [
+        "Psicología criminal",
+        "Psicología jurídica y forense",
+        "Psicología penitenciaria",
+        "Psicología comunitaria"
+      ],
+      "correcta": 2,
+      "explicacion": "La penitenciaria ayuda al preso y en su reinserción. La criminal estudia la delincuencia y los rasgos de los delincuentes.",
+      "nivel": "aplicar",
+      "fuente": "Psicología 1.pdf, p. 6 – Ramas de la Psicología"
+    },
+    {
+      "id": "p-q-028",
+      "temaId": "p-ramas",
+      "enunciado": "¿Qué diferencia a la psicología criminal de la jurídica y forense?",
+      "opciones": [
+        "La criminal ayuda al preso a reinsertarse; la forense estudia la delincuencia",
+        "Son dos nombres de la misma rama",
+        "La criminal trabaja en tribunales; la forense en prisiones",
+        "La criminal estudia la delincuencia y a los delincuentes; la forense auxilia a la administración de Justicia en los tribunales"
+      ],
+      "correcta": 3,
+      "explicacion": "Así las define el texto. La ayuda al preso corresponde a la psicología penitenciaria.",
+      "nivel": "comprender",
+      "fuente": "Psicología 1.pdf, p. 6 – Ramas de la Psicología"
+    },
+    {
+      "id": "p-q-029",
+      "temaId": "p-ramas",
+      "enunciado": "¿Qué rama describe y explica los cambios en los procesos mentales y la conducta a lo largo de la vida?",
+      "opciones": [
+        "Psicología infantil",
+        "Psicología gerontológica",
+        "Psicología de la personalidad",
+        "Psicología evolutiva"
+      ],
+      "correcta": 3,
+      "explicacion": "La evolutiva abarca toda la vida. La infantil se centra solo en la infancia y la gerontológica en las personas mayores.",
+      "nivel": "recordar",
+      "fuente": "Psicología 1.pdf, p. 7 – Ramas de la Psicología"
+    },
+    {
+      "id": "p-q-030",
+      "temaId": "p-ramas",
+      "enunciado": "¿Cuál de estos es uno de los principios éticos establecidos por la Asociación Americana de Psicología en 1982?",
+      "opciones": [
+        "Obligación de completar el experimento una vez iniciado",
+        "Derecho a retirarse del proceso",
+        "Divulgación libre de los resultados personales",
+        "Participación sin necesidad de autorización"
+      ],
+      "correcta": 1,
+      "explicacion": "Los principios son información, consentimiento, minimizar riesgos, derecho a retirada y confidencialidad. Las demás opciones los contradicen.",
+      "nivel": "recordar",
+      "fuente": "Psicología 1.pdf, p. 7 – Ética e investigación psicológica"
+    },
+    {
+      "id": "p-q-031",
+      "temaId": "p-ramas",
+      "enunciado": "¿Qué sostiene la Psicobiología según el texto?",
+      "opciones": [
+        "Que los procesos mentales son procesos cerebrales",
+        "Que la conducta es solo respuesta a estímulos",
+        "Que la mente es independiente del cuerpo",
+        "Que la personalidad depende solo del ambiente"
+      ],
+      "correcta": 0,
+      "explicacion": "La Psicobiología aplica la biología al comportamiento y se considera ante todo una ciencia biológica: los procesos mentales son procesos cerebrales.",
+      "nivel": "comprender",
+      "fuente": "Psicología 1.pdf, p. 7 – Ramas de la Psicología"
+    },
+    {
+      "id": "p-q-032",
+      "temaId": "p-herencia",
+      "enunciado": "Según el texto, ¿cuál es la correlación de C.I. entre gemelos idénticos criados juntos?",
+      "opciones": [
+        "0,80",
+        "0,90",
+        "0,50",
+        "0,70"
+      ],
+      "correcta": 1,
+      "explicacion": "0,90 para gemelos idénticos criados juntos; 0,80 si se crían por separado y 0,50 entre hermanos no gemelos.",
+      "nivel": "recordar",
+      "fuente": "Psicología 2.pdf, p. 1 – ¿Herencia o medio?"
+    },
+    {
+      "id": "p-q-033",
+      "temaId": "p-herencia",
+      "enunciado": "¿Qué dato del texto apoya la influencia del ambiente en la inteligencia?",
+      "opciones": [
+        "Los gemelos idénticos criados por separado tienen una correlación de 0,80, menor que los criados juntos",
+        "Los hermanos no gemelos tienen una correlación de 0,50",
+        "Los gemelos idénticos criados juntos tienen una correlación de 0,90",
+        "El ADN transmite el temperamento de padres a hijos"
+      ],
+      "correcta": 0,
+      "explicacion": "Si con los mismos genes la correlación baja al criarse por separado, el ambiente también influye. Los otros datos apoyan sobre todo la herencia.",
+      "nivel": "comprender",
+      "fuente": "Psicología 2.pdf, p. 1 – ¿Herencia o medio?"
+    },
+    {
+      "id": "p-q-034",
+      "temaId": "p-herencia",
+      "enunciado": "¿Cuál es la conclusión del texto sobre herencia y medio?",
+      "opciones": [
+        "La herencia lo determina todo y el ambiente es irrelevante",
+        "La herencia predispone y limita, pero el ambiente determina su expresión",
+        "El ambiente lo determina todo y la herencia no influye",
+        "Solo influye la herencia en casos de trastornos genéticos"
+      ],
+      "correcta": 1,
+      "explicacion": "El texto habla de interacción entre factores biológicos y socioculturales: ni determinismo genético ni ambiental puro.",
+      "nivel": "comprender",
+      "fuente": "Psicología 2.pdf, p. 1 – ¿Herencia o medio?"
+    },
+    {
+      "id": "p-q-035",
+      "temaId": "p-herencia",
+      "enunciado": "Dos campeones de tenis con un brazo derecho excepcional tienen un hijo y esperan que sea el mejor tenista del mundo. Según el texto, ¿qué cabe esperar?",
+      "opciones": [
+        "La herencia puede predisponerlo, pero su desarrollo dependerá también del entorno y la educación",
+        "Será campeón con seguridad, porque la herencia determina la conducta",
+        "La herencia no tendrá ningún efecto en sus capacidades",
+        "Solo influirá el ambiente si el niño tiene un trastorno genético"
+      ],
+      "correcta": 0,
+      "explicacion": "El texto concluye que la herencia predispone, pero el ambiente determina su expresión, así que el resultado no está garantizado.",
+      "nivel": "aplicar",
+      "fuente": "Psicología 2.pdf, p. 1 – ¿Herencia o medio?"
+    },
+    {
+      "id": "p-q-036",
+      "temaId": "p-sn",
+      "enunciado": "El Sistema Nervioso Central está formado por…",
+      "opciones": [
+        "el encéfalo y la médula espinal",
+        "el sistema somático y el vegetativo",
+        "el cerebro y los nervios periféricos",
+        "el encéfalo y el sistema endocrino"
+      ],
+      "correcta": 0,
+      "explicacion": "El SNC lo forman encéfalo y médula espinal. Somático y vegetativo son subsistemas del SNP.",
+      "nivel": "recordar",
+      "fuente": "Psicología 2.pdf, p. 2 – Sistema nervioso central"
+    },
+    {
+      "id": "p-q-037",
+      "temaId": "p-sn",
+      "enunciado": "¿Qué parte del encéfalo se relaciona con la actividad motora y el equilibrio?",
+      "opciones": [
+        "El tronco cerebral",
+        "El diencéfalo",
+        "El hipotálamo",
+        "El cerebelo"
+      ],
+      "correcta": 3,
+      "explicacion": "El cerebelo, a la altura de la nuca, se relaciona con la actividad motora y el equilibrio. El tronco controla actividad involuntaria y el sueño.",
+      "nivel": "recordar",
+      "fuente": "Psicología 2.pdf, p. 2 – Encéfalo"
+    },
+    {
+      "id": "p-q-038",
+      "temaId": "p-sn",
+      "enunciado": "¿Qué diferencia hay entre el sistema simpático y el parasimpático?",
+      "opciones": [
+        "El simpático controla los movimientos voluntarios y el parasimpático los involuntarios",
+        "El simpático estimula la actividad y el parasimpático la inhibe",
+        "El simpático pertenece al SNC y el parasimpático al SNP",
+        "El simpático segrega hormonas y el parasimpático neurotransmisores"
+      ],
+      "correcta": 1,
+      "explicacion": "Ambos forman el sistema vegetativo autónomo: el simpático estimula y el parasimpático inhibe. Los movimientos voluntarios los regula el somático.",
+      "nivel": "comprender",
+      "fuente": "Psicología 2.pdf, p. 2 – Sistema nervioso periférico"
+    },
+    {
+      "id": "p-q-039",
+      "temaId": "p-sn",
+      "enunciado": "Decides levantar el brazo para coger un vaso. ¿Qué parte del SNP regula esta acción?",
+      "opciones": [
+        "El sistema vegetativo autónomo",
+        "El sistema somático",
+        "El sistema parasimpático",
+        "El sistema endocrino"
+      ],
+      "correcta": 1,
+      "explicacion": "El sistema somático regula las acciones voluntarias y el movimiento. El vegetativo regula funciones como el latido o la digestión.",
+      "nivel": "aplicar",
+      "fuente": "Psicología 2.pdf, p. 2 – Sistema nervioso periférico"
+    },
+    {
+      "id": "p-q-040",
+      "temaId": "p-sn",
+      "enunciado": "¿Cómo influye el sistema endocrino en el organismo?",
+      "opciones": [
+        "Mediante hormonas vertidas en la sangre",
+        "Mediante impulsos eléctricos por la médula espinal",
+        "Mediante neurotransmisores en la sinapsis",
+        "Mediante los receptores sensoriales de la piel"
+      ],
+      "correcta": 0,
+      "explicacion": "Las glándulas endocrinas segregan hormonas a la sangre que influyen en crecimiento, metabolismo, reproducción y estados de ánimo.",
+      "nivel": "comprender",
+      "fuente": "Psicología 2.pdf, p. 2 – Sistema endocrino"
+    },
+    {
+      "id": "p-q-041",
+      "temaId": "p-sn",
+      "enunciado": "¿Qué parte del encéfalo contiene centros nerviosos que regulan la vida instintiva?",
+      "opciones": [
+        "El cerebelo",
+        "El tronco cerebral",
+        "La corteza occipital",
+        "El diencéfalo"
+      ],
+      "correcta": 3,
+      "explicacion": "El diencéfalo, situado bajo el cerebro, regula la vida instintiva.",
+      "nivel": "recordar",
+      "fuente": "Psicología 2.pdf, p. 2 – Encéfalo"
+    },
+    {
+      "id": "p-q-042",
+      "temaId": "p-cerebro",
+      "enunciado": "¿Qué estructura límbica central se encarga del hambre, la sed y la temperatura?",
+      "opciones": [
+        "La amígdala",
+        "El hipotálamo",
+        "El cerebelo",
+        "El cuerpo calloso"
+      ],
+      "correcta": 1,
+      "explicacion": "El hipotálamo mantiene el organismo (hambre, sed, temperatura, conducta sexual). La amígdala se asocia en el texto a las emociones y la conducta social.",
+      "nivel": "recordar",
+      "fuente": "Psicología 2.pdf, p. 2 – El cerebro humano"
+    },
+    {
+      "id": "p-q-043",
+      "temaId": "p-cerebro",
+      "enunciado": "Tras una lesión, una persona tiene dificultades con el lenguaje y el cálculo, pero conserva sus habilidades musicales. Según el texto, ¿qué hemisferio parece más afectado?",
+      "opciones": [
+        "El derecho",
+        "El izquierdo",
+        "Ambos por igual",
+        "Ninguno: es una lesión del cerebelo"
+      ],
+      "correcta": 1,
+      "explicacion": "El hemisferio izquierdo controla la habilidad lingüística y numérica; el derecho, las espaciales, artísticas y musicales.",
+      "nivel": "aplicar",
+      "fuente": "Psicología 2.pdf, p. 3 – Hemisferios"
+    },
+    {
+      "id": "p-q-044",
+      "temaId": "p-cerebro",
+      "enunciado": "¿Cuáles son las tres funciones de la corteza cerebral?",
+      "opciones": [
+        "Sensitiva, instintiva y hormonal",
+        "Motora, vegetativa y endocrina",
+        "Receptora, transmisora y amortiguadora",
+        "Receptora, motora y psíquica (asociación)"
+      ],
+      "correcta": 3,
+      "explicacion": "La corteza recibe sensaciones, ordena movimientos y asocia información (pensar, hablar, recordar…).",
+      "nivel": "recordar",
+      "fuente": "Psicología 2.pdf, p. 3 – Corteza cerebral"
+    },
+    {
+      "id": "p-q-045",
+      "temaId": "p-cerebro",
+      "enunciado": "¿Cómo se comunican las neuronas entre sí?",
+      "opciones": [
+        "Mediante neurotransmisores en el espacio sináptico",
+        "Mediante hormonas vertidas a la sangre",
+        "Mediante el líquido cefalorraquídeo",
+        "Mediante contacto físico directo entre sus núcleos"
+      ],
+      "correcta": 0,
+      "explicacion": "Las neuronas se comunican con neurotransmisores que ocupan el espacio entre células (sinapsis). Las hormonas son propias del sistema endocrino.",
+      "nivel": "comprender",
+      "fuente": "Psicología 2.pdf, p. 3 – La neurona y los neurotransmisores"
+    },
+    {
+      "id": "p-q-046",
+      "temaId": "p-cerebro",
+      "enunciado": "Según el texto, ¿dónde se sitúan en general la región motora y la sensitiva de la corteza?",
+      "opciones": [
+        "La motora en la zona frontal y la sensitiva en la posterior",
+        "La motora en la zona posterior y la sensitiva en la frontal",
+        "Ambas en el lóbulo temporal",
+        "La motora en el hemisferio derecho y la sensitiva en el izquierdo"
+      ],
+      "correcta": 0,
+      "explicacion": "El texto indica que, en general, la región motora corresponde a la zona frontal y la sensitiva a la posterior.",
+      "nivel": "comprender",
+      "fuente": "Psicología 2.pdf, p. 3 – Corteza cerebral"
+    },
+    {
+      "id": "p-q-047",
+      "temaId": "p-sexo",
+      "enunciado": "¿Dónde se encuentra el gen TDF (factor determinante de los testículos)?",
+      "opciones": [
+        "En el cromosoma X",
+        "En el segundo cromosoma X femenino",
+        "En todos los cromosomas por igual",
+        "En el cromosoma Y"
+      ],
+      "correcta": 3,
+      "explicacion": "El texto sitúa el gen TDF en el cromosoma Y: convierte el tejido indiferenciado en testículos.",
+      "nivel": "recordar",
+      "fuente": "Psicología 2.pdf, p. 4 – Genéticas"
+    },
+    {
+      "id": "p-q-048",
+      "temaId": "p-sexo",
+      "enunciado": "Según el texto, ¿qué ventaja se atribuye a un cuerpo calloso más grande en las mujeres?",
+      "opciones": [
+        "Aumenta la resistencia a los golpes",
+        "Facilita la habilidad verbal",
+        "Mejora la rotación mental",
+        "Aumenta la agudeza visual"
+      ],
+      "correcta": 1,
+      "explicacion": "El cuerpo calloso comunica los hemisferios; según el texto, su mayor tamaño en mujeres facilita la habilidad verbal. La resistencia a golpes se atribuye al líquido cefalorraquídeo.",
+      "nivel": "comprender",
+      "fuente": "Psicología 2.pdf, p. 4 – Estructura cerebral y neurológica"
+    },
+    {
+      "id": "p-q-049",
+      "temaId": "p-sexo",
+      "enunciado": "¿Qué función tiene la materia blanca según el texto?",
+      "opciones": [
+        "Procesar la información",
+        "Transmitir impulsos eléctricos del cerebro al cuerpo",
+        "Amortiguar los golpes del cráneo",
+        "Producir hormonas sexuales"
+      ],
+      "correcta": 1,
+      "explicacion": "Materia gris: procesa información; materia blanca: transmite impulsos; líquido cefalorraquídeo: amortiguador.",
+      "nivel": "recordar",
+      "fuente": "Psicología 2.pdf, p. 4 – Estructura cerebral y neurológica"
+    },
+    {
+      "id": "p-q-050",
+      "temaId": "p-sensacion",
+      "enunciado": "¿Qué diferencia la sensación de la percepción?",
+      "opciones": [
+        "La sensación interpreta el estímulo; la percepción solo lo detecta",
+        "La sensación depende de la cultura; la percepción es un registro mecánico",
+        "La sensación detecta el estímulo sin significado; la percepción lo organiza e interpreta",
+        "Son el mismo proceso con nombres distintos"
+      ],
+      "correcta": 2,
+      "explicacion": "La sensación capta información sin elaborarla; la percepción le da significado y está condicionada por experiencia, personalidad y cultura.",
+      "nivel": "comprender",
+      "fuente": "Psicología 3.pdf, p. 3 – Introducción"
+    },
+    {
+      "id": "p-q-051",
+      "temaId": "p-sensacion",
+      "enunciado": "¿Cuál es el orden correcto de las fases del proceso perceptivo?",
+      "opciones": [
+        "Transducción, detección, procesamiento, transmisión",
+        "Detección, transmisión, transducción, procesamiento",
+        "Procesamiento, detección, transducción, transmisión",
+        "Detección, transducción, transmisión, procesamiento"
+      ],
+      "correcta": 3,
+      "explicacion": "Primero los receptores detectan, luego convierten la energía (transducción), la envían al cerebro (transmisión) y este la procesa.",
+      "nivel": "recordar",
+      "fuente": "Psicología 3.pdf, p. 4 – Fases del proceso perceptivo"
+    },
+    {
+      "id": "p-q-052",
+      "temaId": "p-sensacion",
+      "enunciado": "La retina convierte la luz en señales electroquímicas. ¿Qué fase del proceso perceptivo es esta?",
+      "opciones": [
+        "Detección",
+        "Transmisión",
+        "Procesamiento de la información",
+        "Transducción"
+      ],
+      "correcta": 3,
+      "explicacion": "La transducción es convertir la energía del estímulo en mensajes nerviosos. La transmisión es el envío posterior de esos impulsos al cerebro.",
+      "nivel": "aplicar",
+      "fuente": "Psicología 3.pdf, p. 4 – Fases del proceso perceptivo"
+    },
+    {
+      "id": "p-q-053",
+      "temaId": "p-sensacion",
+      "enunciado": "Con los ojos cerrados sabes en qué posición tienes el brazo. ¿Qué receptores te informan?",
+      "opciones": [
+        "Interoceptores",
+        "Exteroceptores",
+        "Propioceptores",
+        "Nociceptores"
+      ],
+      "correcta": 2,
+      "explicacion": "Los propioceptores informan sobre músculos y movimientos del cuerpo. Los interoceptores informan del estado de las vísceras.",
+      "nivel": "aplicar",
+      "fuente": "Psicología 3.pdf, p. 4 – Clasificación de los órganos sensoriales"
+    },
+    {
+      "id": "p-q-054",
+      "temaId": "p-sensacion",
+      "enunciado": "¿Qué receptores nos informan del dolor?",
+      "opciones": [
+        "Propioceptores",
+        "Nociceptores",
+        "Interoceptores",
+        "Exteroceptores"
+      ],
+      "correcta": 1,
+      "explicacion": "Los nociceptores informan del dolor.",
+      "nivel": "recordar",
+      "fuente": "Psicología 3.pdf, p. 4 – Clasificación de los órganos sensoriales"
+    },
+    {
+      "id": "p-q-055",
+      "temaId": "p-sensacion",
+      "enunciado": "¿Qué células de la retina son sensibles a la luz débil y a las formas?",
+      "opciones": [
+        "Los conos",
+        "Las células ciliares",
+        "Los bastones",
+        "Las papilas"
+      ],
+      "correcta": 2,
+      "explicacion": "Los bastones captan blanco, gris, luz débil, formas y volúmenes; los conos, los colores.",
+      "nivel": "recordar",
+      "fuente": "Psicología 3.pdf, p. 5 – Visión"
+    },
+    {
+      "id": "p-q-056",
+      "temaId": "p-sensacion",
+      "enunciado": "¿Por qué en el punto ciego de la retina no hay visión?",
+      "opciones": [
+        "Porque contiene solo bastones",
+        "Porque el cristalino no enfoca allí la luz",
+        "Porque no tiene receptores de luz: ese espacio lo ocupa el nervio óptico",
+        "Porque el humor vítreo desvía la luz"
+      ],
+      "correcta": 2,
+      "explicacion": "El punto ciego carece de receptores porque lo ocupa el nervio óptico.",
+      "nivel": "comprender",
+      "fuente": "Psicología 3.pdf, p. 5 – Visión"
+    },
+    {
+      "id": "p-q-057",
+      "temaId": "p-sensacion",
+      "enunciado": "¿A qué estímulo son sensibles los corpúsculos de Pacini?",
+      "opciones": [
+        "Al calor",
+        "Al frío",
+        "A la presión",
+        "Al dolor"
+      ],
+      "correcta": 2,
+      "explicacion": "En la dermis: Ruffini (calor), Krause (frío) y Pacini (presión).",
+      "nivel": "recordar",
+      "fuente": "Psicología 3.pdf, p. 5 – Tacto"
+    },
+    {
+      "id": "p-q-058",
+      "temaId": "p-sensacion",
+      "enunciado": "¿Adónde llega la señal auditiva para ser procesada?",
+      "opciones": [
+        "Al lóbulo occipital",
+        "Al lóbulo temporal",
+        "Al cerebelo",
+        "Al bulbo olfatorio"
+      ],
+      "correcta": 1,
+      "explicacion": "Las células nerviosas del oído interno envían la señal por el nervio auditivo al lóbulo temporal.",
+      "nivel": "recordar",
+      "fuente": "Psicología 3.pdf, p. 6 – Audición"
+    },
+    {
+      "id": "p-q-059",
+      "temaId": "p-sensacion",
+      "enunciado": "¿Por qué el texto describe la percepción como un proceso constructivo?",
+      "opciones": [
+        "Porque depende del estímulo y también de la experiencia sociocultural y afectiva del sujeto",
+        "Porque registra los estímulos de forma mecánica y exacta",
+        "Porque solo depende de la intensidad del estímulo",
+        "Porque construye estímulos que no existen"
+      ],
+      "correcta": 0,
+      "explicacion": "La percepción no es un registro mecánico: combina las características del estímulo con la experiencia del perceptor. Percibir sin objeto sería una alucinación.",
+      "nivel": "comprender",
+      "fuente": "Psicología 3.pdf, p. 3 – ¿Qué es la percepción?"
+    },
+    {
+      "id": "p-q-060",
+      "temaId": "p-percepcion",
+      "enunciado": "¿Qué diferencia hay entre umbral absoluto y umbral diferencial?",
+      "opciones": [
+        "El absoluto mide cambios de intensidad; el diferencial, la intensidad mínima",
+        "El absoluto depende del estado psicológico; el diferencial nunca",
+        "El absoluto es la mínima (o máxima) intensidad perceptible; el diferencial, el cambio necesario para notar una variación",
+        "Ambos miden solo la intensidad máxima soportable"
+      ],
+      "correcta": 2,
+      "explicacion": "Umbral absoluto: mínimo para darnos cuenta y máximo que podemos recibir. Umbral diferencial: diferencia necesaria para notar un aumento o disminución.",
+      "nivel": "comprender",
+      "fuente": "Psicología 3.pdf, p. 6 – Los umbrales sensoriales"
+    },
+    {
+      "id": "p-q-061",
+      "temaId": "p-percepcion",
+      "enunciado": "Estás escuchando música y notas que alguien ha subido un poco el volumen. ¿Qué umbral entra en juego?",
+      "opciones": [
+        "El umbral absoluto inferior",
+        "El umbral absoluto superior",
+        "La transducción",
+        "El umbral diferencial"
+      ],
+      "correcta": 3,
+      "explicacion": "Notar un incremento en un estímulo ya presente corresponde al umbral diferencial.",
+      "nivel": "aplicar",
+      "fuente": "Psicología 3.pdf, p. 6 – Los umbrales sensoriales"
+    },
+    {
+      "id": "p-q-062",
+      "temaId": "p-percepcion",
+      "enunciado": "«El todo es mayor que la suma de las partes» resume la postura de…",
+      "opciones": [
+        "la escuela de la Forma (Gestalt)",
+        "la teoría asociacionista",
+        "la teoría cognitiva",
+        "el conductismo"
+      ],
+      "correcta": 0,
+      "explicacion": "Es el aforismo de la Gestalt. La asociacionista, al contrario, veía la percepción como un mosaico de sensaciones.",
+      "nivel": "recordar",
+      "fuente": "Psicología 3.pdf, p. 7 – La escuela de la Forma (Gestalt)"
+    },
+    {
+      "id": "p-q-063",
+      "temaId": "p-percepcion",
+      "enunciado": "Ves un círculo dibujado con un trozo que falta, pero lo percibes como un círculo completo. ¿Qué ley gestáltica actúa?",
+      "opciones": [
+        "Ley de proximidad",
+        "Ley de semejanza",
+        "Ley de cierre",
+        "Ley de contraste"
+      ],
+      "correcta": 2,
+      "explicacion": "La ley de cierre es la tendencia a percibir objetos completos aunque falten partes.",
+      "nivel": "aplicar",
+      "fuente": "Psicología 3.pdf, p. 7 – Leyes de organización perceptiva"
+    },
+    {
+      "id": "p-q-064",
+      "temaId": "p-percepcion",
+      "enunciado": "En una hoja con círculos rojos y azules mezclados, los percibes agrupados por colores. ¿Qué ley gestáltica actúa?",
+      "opciones": [
+        "Ley de proximidad",
+        "Ley de semejanza",
+        "Ley de continuidad",
+        "Ley de cierre"
+      ],
+      "correcta": 1,
+      "explicacion": "Los estímulos parecidos en tamaño, forma o color tienden a agruparse (semejanza). La proximidad agrupa por cercanía, no por parecido.",
+      "nivel": "aplicar",
+      "fuente": "Psicología 3.pdf, p. 7 – Leyes de organización perceptiva"
+    },
+    {
+      "id": "p-q-065",
+      "temaId": "p-percepcion",
+      "enunciado": "¿Qué característica corresponde a la figura, y no al fondo?",
+      "opciones": [
+        "Carece de contornos precisos",
+        "Se percibe extendida tras el resto",
+        "Tiene contornos definidos y una superficie menor",
+        "Parece uniforme y sin estructura"
+      ],
+      "correcta": 2,
+      "explicacion": "La figura tiene forma y contornos definidos, más estructura y superficie menor; las demás opciones describen el fondo.",
+      "nivel": "comprender",
+      "fuente": "Psicología 3.pdf, p. 7 – Figura y fondo"
+    },
+    {
+      "id": "p-q-066",
+      "temaId": "p-percepcion",
+      "enunciado": "¿Qué teoría consideraba la percepción un «mosaico de sensaciones»?",
+      "opciones": [
+        "La Gestalt (Wertheimer)",
+        "La teoría cognitiva",
+        "La asociacionista (Wundt)",
+        "El psicoanálisis"
+      ],
+      "correcta": 2,
+      "explicacion": "Wundt, desde el asociacionismo, la veía como mosaico de sensaciones; la Gestalt defiende lo contrario.",
+      "nivel": "recordar",
+      "fuente": "Psicología 3.pdf, p. 7 – La teoría asociacionista"
+    },
+    {
+      "id": "p-q-067",
+      "temaId": "p-percepcion",
+      "enunciado": "Según la teoría cognitiva, ¿qué es un esquema cognitivo?",
+      "opciones": [
+        "Una ley que agrupa estímulos próximos",
+        "Un conjunto organizado de conocimientos en la memoria que sirve para interpretar la realidad",
+        "Un receptor que convierte la energía en impulsos",
+        "Un mosaico de sensaciones elementales"
+      ],
+      "correcta": 1,
+      "explicacion": "Los esquemas integran experiencias y conocimientos, guían la percepción y la comprensión de expresiones simbólicas.",
+      "nivel": "comprender",
+      "fuente": "Psicología 3.pdf, p. 8 – La teoría cognitiva"
+    },
+    {
+      "id": "p-q-068",
+      "temaId": "p-percepcion",
+      "enunciado": "¿Cuál de estos es un factor externo que influye en la percepción?",
+      "opciones": [
+        "La novedad del estímulo",
+        "Los intereses del observador",
+        "La cultura del observador",
+        "La atención"
+      ],
+      "correcta": 0,
+      "explicacion": "Factores externos: intensidad, repetición, tamaño y novedad. Atención, intereses y cultura son factores internos.",
+      "nivel": "recordar",
+      "fuente": "Psicología 3.pdf, p. 8 – Factores que influyen en la percepción"
+    },
+    {
+      "id": "p-q-069",
+      "temaId": "p-trastornos",
+      "enunciado": "¿Cómo define el texto la alucinación?",
+      "opciones": [
+        "Como la deformación de un objeto percibido",
+        "Como la incapacidad de reconocer estímulos por un sentido",
+        "Como una discrepancia entre lo percibido y la realidad en figuras",
+        "Como una percepción sin objeto"
+      ],
+      "correcta": 3,
+      "explicacion": "La alucinación es percepción sin objeto; la ilusión deforma un objeto que sí existe.",
+      "nivel": "recordar",
+      "fuente": "Psicología 3.pdf, p. 9 – Alucinaciones"
+    },
+    {
+      "id": "p-q-070",
+      "temaId": "p-trastornos",
+      "enunciado": "Mirando el cielo, Lucía «ve» la cara de un perro en una nube. ¿Qué fenómeno es?",
+      "opciones": [
+        "Una alucinación visual",
+        "Una ilusión catatímica",
+        "Una agnosia visual",
+        "Una pareidolia"
+      ],
+      "correcta": 3,
+      "explicacion": "Las pareidolias son ilusiones fantásticas como ver figuras en nubes o paredes. No es alucinación porque la nube existe.",
+      "nivel": "aplicar",
+      "fuente": "Psicología 3.pdf, p. 9 – Ilusiones"
+    },
+    {
+      "id": "p-q-071",
+      "temaId": "p-trastornos",
+      "enunciado": "Caminando de noche con mucho miedo, Javier confunde un abrigo colgado con una persona que le espera. ¿Qué tipo de ilusión es?",
+      "opciones": [
+        "Ilusión catatímica",
+        "Pareidolia",
+        "Alucinación táctil",
+        "Agnosia"
+      ],
+      "correcta": 0,
+      "explicacion": "Las ilusiones catatímicas deforman objetos o situaciones por influencia de sentimientos y emociones, aquí el miedo.",
+      "nivel": "aplicar",
+      "fuente": "Psicología 3.pdf, p. 9 – Ilusiones"
+    },
+    {
+      "id": "p-q-072",
+      "temaId": "p-trastornos",
+      "enunciado": "¿Qué caracteriza a la agnosia?",
+      "opciones": [
+        "Percibir estímulos que no existen",
+        "Deformar un objeto por influencia de las emociones",
+        "Pérdida total de la capacidad intelectual",
+        "Incapacidad de reconocer estímulos por un sentido aunque la capacidad intelectual esté bien"
+      ],
+      "correcta": 3,
+      "explicacion": "La agnosia afecta al reconocimiento por un sentido concreto (p. ej., agnosia visual) y se debe a lesiones cerebrales localizadas.",
+      "nivel": "comprender",
+      "fuente": "Psicología 3.pdf, p. 9 – Agnosia"
+    },
+    {
+      "id": "p-q-073",
+      "temaId": "p-trastornos",
+      "enunciado": "¿Cuáles son los tres elementos de la atención?",
+      "opciones": [
+        "Detección, transducción y transmisión",
+        "Proximidad, semejanza y cierre",
+        "Selección, vigilancia y control",
+        "Recepción, motricidad y asociación"
+      ],
+      "correcta": 2,
+      "explicacion": "Selección, vigilancia y control dirigen la conducta a metas pese a las distracciones. Las demás opciones son fases perceptivas, leyes gestálticas y funciones de la corteza.",
+      "nivel": "recordar",
+      "fuente": "Psicología 3.pdf, p. 10 – La atención"
+    },
+    {
+      "id": "p-q-074",
+      "temaId": "p-trastornos",
+      "enunciado": "Un vigilante de seguridad pasa horas mirando monitores sin perder la concentración. ¿Qué capacidad ejerce?",
+      "opciones": [
+        "Umbral diferencial",
+        "Ley de pregnancia",
+        "Atención sostenida o vigilancia",
+        "Transducción"
+      ],
+      "correcta": 2,
+      "explicacion": "La atención sostenida es la capacidad de realizar una tarea monótona mucho tiempo sin que disminuya la atención.",
+      "nivel": "aplicar",
+      "fuente": "Psicología 3.pdf, p. 10 – La atención"
+    },
+    {
+      "id": "p-q-075",
+      "temaId": "p-trastornos",
+      "enunciado": "Según el texto, ¿para qué sirve analizar las ilusiones ópticas?",
+      "opciones": [
+        "Para diagnosticar alucinaciones",
+        "Para conocer los mecanismos del cerebro al construir hipótesis sobre la realidad",
+        "Para medir el umbral absoluto",
+        "Para demostrar que vemos el mundo tal y como es"
+      ],
+      "correcta": 1,
+      "explicacion": "Las ilusiones revelan cómo el cerebro construye hipótesis sobre la realidad. La Gestalt precisamente rechaza que veamos el mundo tal y como es.",
+      "nivel": "comprender",
+      "fuente": "Psicología 3.pdf, p. 9 – Las ilusiones ópticas"
+    },
+    {
+      "id": "p-q-076",
+      "temaId": "p-trastornos",
+      "enunciado": "En una fiesta ruidosa consigues seguir la conversación con tu amiga sin hacer caso al resto de voces. ¿Qué capacidad estás usando?",
+      "opciones": [
+        "Atención sostenida o vigilancia",
+        "Umbral diferencial",
+        "Ley de proximidad",
+        "Atención selectiva"
+      ],
+      "correcta": 3,
+      "explicacion": "La atención selectiva permite concentrarse en los estímulos relevantes e inhibir los que interfieren. La atención sostenida, en cambio, es mantener la atención en una tarea monótona durante mucho tiempo.",
+      "nivel": "aplicar",
+      "fuente": "Psicología 3.pdf, pp. 3–4 – ¿Qué es la percepción? (p. 3 dice «irrelevantes»; corregido según p. 4)"
+    }
+  ]
+}

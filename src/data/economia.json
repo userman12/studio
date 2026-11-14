@@ -1,0 +1,2846 @@
+{
+  "id": "economia",
+  "nombre": "Economía",
+  "temas": [
+    {
+      "id": "e-empresa",
+      "titulo": "La empresa: funciones y elementos",
+      "orden": 1
+    },
+    {
+      "id": "e-objetivos",
+      "titulo": "Los objetivos de la empresa",
+      "orden": 2
+    },
+    {
+      "id": "e-areas",
+      "titulo": "Áreas funcionales y cadena de valor",
+      "orden": 3
+    },
+    {
+      "id": "e-clasificacion",
+      "titulo": "Criterios de clasificación de empresas",
+      "orden": 4
+    },
+    {
+      "id": "e-formajuridica",
+      "titulo": "Forma jurídica y empresario individual",
+      "orden": 5
+    },
+    {
+      "id": "e-sociedades",
+      "titulo": "Sociedades personalistas y capitalistas",
+      "orden": 6
+    },
+    {
+      "id": "e-interessocial",
+      "titulo": "Sociedades de interés social y otras formas",
+      "orden": 7
+    },
+    {
+      "id": "e-marco",
+      "titulo": "Marco jurídico de la actividad empresarial",
+      "orden": 8
+    },
+    {
+      "id": "e-acciones",
+      "titulo": "Anexo: conceptos básicos sobre acciones",
+      "orden": 9
+    },
+    {
+      "id": "e-entorno",
+      "titulo": "Entorno general (PESTEL) y específico",
+      "orden": 10
+    },
+    {
+      "id": "e-porter",
+      "titulo": "Las fuerzas competitivas de Porter",
+      "orden": 11
+    },
+    {
+      "id": "e-dafo",
+      "titulo": "Análisis DAFO y estrategias competitivas",
+      "orden": 12
+    },
+    {
+      "id": "e-localizacion",
+      "titulo": "Localización y dimensión de la empresa",
+      "orden": 13
+    },
+    {
+      "id": "e-crecimiento",
+      "titulo": "El crecimiento de la empresa",
+      "orden": 14
+    },
+    {
+      "id": "e-multipymes",
+      "titulo": "Multinacionales y PYMES",
+      "orden": 15
+    },
+    {
+      "id": "e-rsc",
+      "titulo": "Responsabilidad social corporativa y ODS",
+      "orden": 16
+    }
+  ],
+  "puntosClave": [
+    {
+      "id": "e-pk-001",
+      "temaId": "e-empresa",
+      "texto": "Una **empresa** es la **unidad económica de producción** que combina los factores productivos (**tierra, capital y trabajo**) para producir bienes y servicios, coordinada por el empresario **bajo condiciones de riesgo**.",
+      "fuente": "Economía 1.pdf, p. 2 (pág. libro 23) – La empresa y sus funciones"
+    },
+    {
+      "id": "e-pk-002",
+      "temaId": "e-empresa",
+      "texto": "**Función de creación de valor**: al transformar factores productivos en productos más útiles, la empresa crea valor. El **valor añadido** es la diferencia entre el valor del producto y el de los factores usados (trigo → harina → pan).",
+      "fuente": "Economía 1.pdf, p. 2 (pág. libro 23) – Función de creación de valor"
+    },
+    {
+      "id": "e-pk-003",
+      "temaId": "e-empresa",
+      "texto": "**Función de riesgo**: la empresa paga los factores productivos **antes de saber si podrá vender** lo que producen.",
+      "fuente": "Economía 1.pdf, p. 2 (pág. libro 23) – Función de riesgo"
+    },
+    {
+      "id": "e-pk-004",
+      "temaId": "e-empresa",
+      "texto": "**Función social**: produce bienes de calidad, genera empleo, ofrece variedad e investiga nuevos productos. **Función productiva**: coordina todo el proceso de producción y decide materias primas, procesos y tecnología.",
+      "fuente": "Economía 1.pdf, p. 2 (pág. libro 23) – Funciones social y productiva"
+    },
+    {
+      "id": "e-pk-005",
+      "temaId": "e-empresa",
+      "texto": "**Elemento humano**: **dueños o accionistas** (aportan el capital), **directivos** (toman las decisiones) y **trabajadores** (llevan la producción a cambio de un salario). En las pequeñas empresas los dueños suelen dirigir.",
+      "fuente": "Economía 1.pdf, p. 3 (pág. libro 24) – Elementos de la empresa"
+    },
+    {
+      "id": "e-pk-006",
+      "temaId": "e-empresa",
+      "texto": "**Elementos materiales** (tangibles): **capital no corriente** (elementos permanentes: instalaciones, máquinas, mobiliario) y **capital corriente** (elementos en continuo movimiento: materias primas, dinero en caja o bancos).",
+      "fuente": "Economía 1.pdf, p. 3 (pág. libro 24) – Elementos de la empresa"
+    },
+    {
+      "id": "e-pk-007",
+      "temaId": "e-empresa",
+      "texto": "**Elementos inmateriales** (intangibles): la **organización** (relaciones, funciones, jerarquía), la **cultura** (valores y creencias que guían el comportamiento) y la **imagen** (cómo ve el exterior a la empresa: marca, logotipo, eslogan…).",
+      "fuente": "Economía 1.pdf, p. 3 (pág. libro 24) – Elementos de la empresa"
+    },
+    {
+      "id": "e-pk-008",
+      "temaId": "e-empresa",
+      "texto": "El **entorno** es lo que rodea a la empresa y le afecta (clientes, competidores, regulación del Estado…). Se distingue entre entorno **general** y **específico**.",
+      "fuente": "Economía 1.pdf, p. 3 (pág. libro 24) – Elementos de la empresa"
+    },
+    {
+      "id": "e-pk-009",
+      "temaId": "e-objetivos",
+      "texto": "Un **objetivo** es el lugar donde quiere llegar la empresa: **orienta las decisiones** y permite **evaluar** los resultados.",
+      "fuente": "Economía 1.pdf, p. 4 (pág. libro 25) – Los objetivos de la empresa"
+    },
+    {
+      "id": "e-pk-010",
+      "temaId": "e-objetivos",
+      "texto": "Un buen objetivo es **SMART**: **E**specífico, **M**edible, **A**lcanzable, **R**elevante y **T**emporal (con fecha para conseguirlo).",
+      "fuente": "Economía 1.pdf, p. 4 (pág. libro 25) – Objetivos SMART"
+    },
+    {
+      "id": "e-pk-011",
+      "temaId": "e-objetivos",
+      "texto": "La **misión** es el propósito de la empresa (¿quiénes somos?, ¿por qué existimos?). La **visión** es dónde desea estar en el futuro (¿qué queremos ser?).",
+      "fuente": "Economía 1.pdf, p. 4 (pág. libro 25) – Niveles de objetivos"
+    },
+    {
+      "id": "e-pk-012",
+      "temaId": "e-objetivos",
+      "texto": "**Objetivos estratégicos**: a **largo plazo (1–5 años)**, según la misión y la visión. **Objetivos operativos**: a **corto plazo (menos de 1 año)**, normalmente por departamentos, y ayudan a lograr los estratégicos.",
+      "fuente": "Economía 1.pdf, p. 4 (pág. libro 25) – Niveles de objetivos"
+    },
+    {
+      "id": "e-pk-013",
+      "temaId": "e-objetivos",
+      "texto": "**Conflicto de objetivos**: grupos internos (propietarios, directivos, trabajadores) y externos (clientes, proveedores, Estado, ciudadanos) tienen intereses distintos; lo que interesa a uno puede no interesar a otro.",
+      "fuente": "Economía 1.pdf, p. 4 (pág. libro 25) – El conflicto de objetivos"
+    },
+    {
+      "id": "e-pk-014",
+      "temaId": "e-objetivos",
+      "texto": "Qué desea cada grupo: **propietarios**, beneficios y valor de la empresa; **directivos**, sueldo, prestigio y poder de decisión; **trabajadores**, estabilidad y buenas condiciones; **proveedores**, cobrar a tiempo; **Estado**, cumplimiento de leyes e impuestos.",
+      "fuente": "Economía 1.pdf, p. 4 (pág. libro 25) – El conflicto de objetivos"
+    },
+    {
+      "id": "e-pk-015",
+      "temaId": "e-areas",
+      "texto": "Las **áreas funcionales** dividen la empresa en departamentos especializados: **inversión y financiación**, **producción**, **comercial** y **recursos humanos**.",
+      "fuente": "Economía 1.pdf, p. 5 (pág. libro 26) – Áreas funcionales"
+    },
+    {
+      "id": "e-pk-016",
+      "temaId": "e-areas",
+      "texto": "**Financiación**: estudia de dónde obtener el dinero y cómo devolverlo en las mejores condiciones. **Inversión**: aprueba en qué se gasta ese dinero. Esta área también lleva la **contabilidad** y conoce la rentabilidad.",
+      "fuente": "Economía 1.pdf, p. 5 (pág. libro 26) – Área de inversión y financiación"
+    },
+    {
+      "id": "e-pk-017",
+      "temaId": "e-areas",
+      "texto": "**Producción**: aprovisionamiento de materias primas y producción eficiente. **Comercial**: estudios de mercado, características del producto, publicidad, precio y puntos de venta. **Recursos humanos**: contratación, formación, nóminas y conflictos.",
+      "fuente": "Economía 1.pdf, p. 5 (pág. libro 26) – Áreas funcionales"
+    },
+    {
+      "id": "e-pk-018",
+      "temaId": "e-areas",
+      "texto": "La **cadena de valor** es una herramienta de **Porter** para el **análisis interno**: desglosa las actividades clave que crean valor en **primarias** y **de apoyo**.",
+      "fuente": "Economía 1.pdf, p. 5 (pág. libro 26) – La cadena de valor"
+    },
+    {
+      "id": "e-pk-019",
+      "temaId": "e-areas",
+      "texto": "**Actividades primarias** (fabricación, entrega y posventa): **logística interna**, **operaciones**, **logística externa**, **marketing y ventas** y **servicio**.",
+      "fuente": "Economía 1.pdf, p. 5 (pág. libro 26) – La cadena de valor"
+    },
+    {
+      "id": "e-pk-020",
+      "temaId": "e-areas",
+      "texto": "**Actividades de apoyo**: **infraestructura** (financiación, contabilidad, administración), **gestión de recursos humanos**, **desarrollo tecnológico** y **compras**.",
+      "fuente": "Economía 1.pdf, p. 5 (pág. libro 26) – La cadena de valor"
+    },
+    {
+      "id": "e-pk-021",
+      "temaId": "e-areas",
+      "texto": "La cadena de valor ayuda a identificar dónde **reducir costes**, **mejorar la eficiencia** o **diferenciarse**, y a detectar **fortalezas y debilidades** internas.",
+      "fuente": "Economía 1.pdf, p. 5 (pág. libro 26) – La cadena de valor"
+    },
+    {
+      "id": "e-pk-022",
+      "temaId": "e-clasificacion",
+      "texto": "Cinco criterios de clasificación: **tamaño**, **sector económico**, **propiedad del capital**, **ámbito de actuación** y **forma jurídica**.",
+      "fuente": "Economía 1.pdf, p. 6 (pág. libro 27) – Criterios de clasificación"
+    },
+    {
+      "id": "e-pk-023",
+      "temaId": "e-clasificacion",
+      "texto": "Clasificación UE por tamaño: **microempresa** hasta 10 trabajadores (ventas y activo < 2 M€); **pequeña** hasta 50 (< 10 M€); **mediana** hasta 250 (ventas < 50 M€, activo < 43 M€); **grande**, más de 250.",
+      "fuente": "Economía 1.pdf, p. 6 (pág. libro 27) – Según su tamaño (tabla)"
+    },
+    {
+      "id": "e-pk-024",
+      "temaId": "e-clasificacion",
+      "texto": "Para entrar en una categoría hay que **cumplir el criterio de trabajadores y al menos uno de los otros dos** (ventas o activo). Las empresas con **menos de 250 trabajadores** son **PYMES**.",
+      "fuente": "Economía 1.pdf, p. 6 (pág. libro 27) – Según su tamaño"
+    },
+    {
+      "id": "e-pk-025",
+      "temaId": "e-clasificacion",
+      "texto": "Por sector: **primario** (extrae materias primas: agricultura, pesca, minería), **secundario** (transforma: industria y **construcción**) y **terciario** (comercio y servicios). En España más del **75%** de las empresas son del terciario.",
+      "fuente": "Economía 1.pdf, p. 7 (pág. libro 28) – Según el sector económico"
+    },
+    {
+      "id": "e-pk-026",
+      "temaId": "e-clasificacion",
+      "texto": "Por propiedad del capital: **privada** (particulares, busca beneficios), **pública** (del Estado, también presta servicios sociales; p. ej. RENFE) y **mixta** (compartida; p. ej. AENA).",
+      "fuente": "Economía 1.pdf, p. 7 (pág. libro 28) – Según la propiedad del capital"
+    },
+    {
+      "id": "e-pk-027",
+      "temaId": "e-clasificacion",
+      "texto": "Por ámbito: **locales**, **nacionales** y **multinacionales**. Una multinacional lleva **producción o distribución** a 2 o más países; si solo vende fuera es **internacional**.",
+      "fuente": "Economía 1.pdf, p. 7 (pág. libro 28) – Según el ámbito de actuación"
+    },
+    {
+      "id": "e-pk-028",
+      "temaId": "e-clasificacion",
+      "texto": "Por forma jurídica: **empresario individual** (persona física en nombre propio) y **sociedades mercantiles** (contrato con escritura pública ante notario e inscripción en el **Registro Mercantil**, con personalidad jurídica).",
+      "fuente": "Economía 1.pdf, p. 7 (pág. libro 28) – Según su forma jurídica"
+    },
+    {
+      "id": "e-pk-029",
+      "temaId": "e-formajuridica",
+      "texto": "Si el empresario es **persona física**, empresa y persona **son lo mismo**: las deudas de la empresa son del empresario. Si la empresa tiene **personalidad jurídica propia**, tiene derechos y obligaciones distintos de los de sus socios.",
+      "fuente": "Economía 1.pdf, p. 8 (pág. libro 29) – Personalidad física y jurídica"
+    },
+    {
+      "id": "e-pk-030",
+      "temaId": "e-formajuridica",
+      "texto": "Las sociedades mercantiles se dividen en **personalistas** (los socios gestionan), **capitalistas** (los socios aportan sobre todo capital) y **de interés social** (satisfacen necesidades de los socios).",
+      "fuente": "Economía 1.pdf, p. 8 (pág. libro 29) – Empresas según su forma jurídica"
+    },
+    {
+      "id": "e-pk-031",
+      "temaId": "e-formajuridica",
+      "texto": "Factores para elegir forma jurídica: **número mínimo de socios**, **responsabilidad**, **capital mínimo**, **transmisión de la propiedad**, **impuestos** y **ánimo de lucro**.",
+      "fuente": "Economía 1.pdf, p. 9 (pág. libro 30) – ¿Cómo elijo la forma jurídica?"
+    },
+    {
+      "id": "e-pk-032",
+      "temaId": "e-formajuridica",
+      "texto": "**Responsabilidad ilimitada**: los socios responden de las deudas con su **patrimonio presente y futuro**. **Limitada**: solo responden **con el capital aportado**.",
+      "fuente": "Economía 1.pdf, p. 9 (pág. libro 30) – La responsabilidad de los socios"
+    },
+    {
+      "id": "e-pk-033",
+      "temaId": "e-formajuridica",
+      "texto": "**Transmisión restringida**: para vender tu parte necesitas el acuerdo de los demás socios. **Libre**: puedes venderla a quien quieras. **Impuestos**: las sociedades pagan un porcentaje fijo (**Impuesto de Sociedades**); los autónomos uno que crece con los beneficios (**IRPF**).",
+      "fuente": "Economía 1.pdf, p. 9 (pág. libro 30) – Transmisión e impuestos"
+    },
+    {
+      "id": "e-pk-034",
+      "temaId": "e-formajuridica",
+      "texto": "**Empresario individual**: persona física que realiza una actividad por cuenta propia de forma habitual. Requisitos: **mayor de 18 años** (o 16 emancipado), **responsabilidad ilimitada**, **sin capital mínimo**, paga **IRPF**.",
+      "fuente": "Economía 1.pdf, p. 10 (pág. libro 31) – El empresario individual"
+    },
+    {
+      "id": "e-pk-035",
+      "temaId": "e-formajuridica",
+      "texto": "Tipos de autónomo: **individual**, **con trabajadores** y **TRADE** (trabajador autónomo económicamente dependiente), que recibe **el 75% o más de sus ingresos de un solo cliente** y tiene derecho a desempleo, vacaciones e indemnización.",
+      "fuente": "Economía 1.pdf, p. 10 (pág. libro 31) – Los autónomos"
+    },
+    {
+      "id": "e-pk-036",
+      "temaId": "e-formajuridica",
+      "texto": "La figura del TRADE combate los **falsos autónomos** (**uberización**): empresas que obligan a hacerse autónomo para no pagar la seguridad social ni vacaciones.",
+      "fuente": "Economía 1.pdf, p. 10 (pág. libro 31) – Los autónomos"
+    },
+    {
+      "id": "e-pk-037",
+      "temaId": "e-formajuridica",
+      "texto": "**Ventajas del autónomo**: control total, pocos trámites, rentable con pocos beneficios. **Inconvenientes**: afronta solo los gastos, responsabilidad ilimitada e impuestos muy altos si gana mucho. Desde 2013 existe el **autónomo de responsabilidad limitada** (la vivienda habitual queda exenta).",
+      "fuente": "Economía 1.pdf, p. 10 (pág. libro 31) – Ventajas e inconvenientes (tabla)"
+    },
+    {
+      "id": "e-pk-038",
+      "temaId": "e-sociedades",
+      "texto": "**Sociedades personalistas**: importan las características personales de los socios, que **llevan la gestión**; la transmisión de la condición de socio es **restringida** y la responsabilidad **ilimitada y solidaria**.",
+      "fuente": "Economía 1.pdf, p. 11 (pág. libro 32) – Sociedades personalistas"
+    },
+    {
+      "id": "e-pk-039",
+      "temaId": "e-sociedades",
+      "texto": "**Responsabilidad solidaria**: si un socio no puede pagar las deudas, **deben hacerlo los demás por él**.",
+      "fuente": "Economía 1.pdf, p. 11 (pág. libro 32) – Sociedades personalistas"
+    },
+    {
+      "id": "e-pk-040",
+      "temaId": "e-sociedades",
+      "texto": "**Sociedad colectiva**: la más simple; **mínimo 2 socios**, sin capital mínimo, responsabilidad ilimitada y solidaria, paga Impuesto de Sociedades. Puede haber **socios industriales** (solo aportan trabajo).",
+      "fuente": "Economía 1.pdf, p. 11 (pág. libro 32) – La sociedad colectiva"
+    },
+    {
+      "id": "e-pk-041",
+      "temaId": "e-sociedades",
+      "texto": "**Comanditaria simple**: socios **colectivos** (aportan capital y gestionan; responsabilidad ilimitada y solidaria) y **comanditarios** (solo capital; responsabilidad **limitada**). **Comanditaria por acciones**: el capital de los comanditarios se divide en acciones y exige **60.000 €**.",
+      "fuente": "Economía 1.pdf, p. 11 (pág. libro 32) – La sociedad comanditaria"
+    },
+    {
+      "id": "e-pk-042",
+      "temaId": "e-sociedades",
+      "texto": "**Sociedades capitalistas**: importa el **dinero aportado**; los socios no tienen por qué gestionar, la transmisión es en general **libre** y la responsabilidad es **limitada al capital aportado**.",
+      "fuente": "Economía 1.pdf, p. 12 (pág. libro 33) – Sociedades capitalistas"
+    },
+    {
+      "id": "e-pk-043",
+      "temaId": "e-sociedades",
+      "texto": "**Sociedad limitada (S.L.)**: capital en **participaciones** iguales, acumulables e indivisibles que **no cotizan en bolsa**; **mínimo 1 socio** (S.L. unipersonal). Es la forma societaria preferida en España para pocos socios y poco capital.",
+      "fuente": "Economía 1.pdf, p. 12 (pág. libro 33) – La sociedad limitada"
+    },
+    {
+      "id": "e-pk-044",
+      "temaId": "e-sociedades",
+      "texto": "S.L.: capital mínimo **1 €** (antes 3.000 €). Debe destinar el **20% de los beneficios** a reserva legal hasta llegar a **3.000 €**; si se crea con menos de 3.000 €, los socios responden solidariamente hasta esa cantidad.",
+      "fuente": "Economía 1.pdf, p. 17 (pág. libro 38) – Tabla de formas jurídicas"
+    },
+    {
+      "id": "e-pk-045",
+      "temaId": "e-sociedades",
+      "texto": "Órganos de la S.L.: **Junta General** (los socios aprueban gestión y cuentas, deciden sobre beneficios, nombran administradores) y **Administradores** (gestionan y representan; no tienen por qué ser socios).",
+      "fuente": "Economía 1.pdf, p. 12 (pág. libro 33) – Órganos de gobierno"
+    },
+    {
+      "id": "e-pk-046",
+      "temaId": "e-sociedades",
+      "texto": "**Sociedad anónima (S.A.)**: capital en **acciones** que **sí cotizan en bolsa** y se transmiten **libremente**; mínimo 1 socio; capital mínimo **60.000 €**, totalmente suscrito y desembolsado al menos un **25%**. Admite aportaciones no dinerarias.",
+      "fuente": "Economía 1.pdf, p. 13 (pág. libro 34) – La sociedad anónima"
+    },
+    {
+      "id": "e-pk-047",
+      "temaId": "e-sociedades",
+      "texto": "En la **junta de accionistas** los votos dependen del número de acciones. **Junta ordinaria**: una vez al año en los **6 primeros meses**. **Extraordinaria**: la convocan los administradores o al menos el **5%** de los accionistas.",
+      "fuente": "Economía 1.pdf, p. 13 (pág. libro 34) – Órganos de gobierno de la S.A."
+    },
+    {
+      "id": "e-pk-048",
+      "temaId": "e-interessocial",
+      "texto": "Las **sociedades de interés social** (laborales y cooperativas) se crean para la ayuda entre socios: los **trabajadores son dueños** y la renta se distribuye entre muchos.",
+      "fuente": "Economía 1.pdf, p. 14 (pág. libro 35) – Sociedades de interés social"
+    },
+    {
+      "id": "e-pk-049",
+      "temaId": "e-interessocial",
+      "texto": "**Sociedad laboral**: S.A. o S.L. en la que los trabajadores son dueños (**SAL** si hay acciones, **SLL** si hay participaciones). Se usa a menudo cuando los trabajadores **«rescatan»** una empresa a punto de cerrar.",
+      "fuente": "Economía 1.pdf, p. 14 (pág. libro 35) – La sociedad laboral"
+    },
+    {
+      "id": "e-pk-050",
+      "temaId": "e-interessocial",
+      "texto": "Requisitos de la sociedad laboral: al menos el **51% del capital** en manos de trabajadores **indefinidos**; **ningún socio con más de 1/3** del capital; las horas de los indefinidos no socios **≤ 49%** de las de los socios trabajadores.",
+      "fuente": "Economía 1.pdf, p. 14 (pág. libro 35) – Requisitos de la sociedad laboral"
+    },
+    {
+      "id": "e-pk-051",
+      "temaId": "e-interessocial",
+      "texto": "Sociedad laboral: **mínimo 2 socios** al constituirse (3 a los 36 meses), responsabilidad **limitada**, acciones o participaciones de **clase laboral** (socios trabajadores) y **clase general** (no trabajadores).",
+      "fuente": "Economía 1.pdf, p. 14 (pág. libro 35) – Características de la sociedad laboral"
+    },
+    {
+      "id": "e-pk-052",
+      "temaId": "e-interessocial",
+      "texto": "**Cooperativa**: personas que se asocian para satisfacer sus necesidades de forma **democrática**. **1er grado: mínimo 3 socios**; **2º grado: mínimo 2 cooperativas**. Capital mínimo fijado en los **estatutos**; responsabilidad limitada.",
+      "fuente": "Economía 1.pdf, p. 15 (pág. libro 36) – La sociedad cooperativa"
+    },
+    {
+      "id": "e-pk-053",
+      "temaId": "e-interessocial",
+      "texto": "La cooperativa **no tiene ánimo de lucro**: sus beneficios, llamados **excedentes**, se reinvierten. En la **asamblea general** cada socio tiene **un voto**, independientemente del capital aportado.",
+      "fuente": "Economía 1.pdf, p. 15 (pág. libro 36) – La sociedad cooperativa"
+    },
+    {
+      "id": "e-pk-054",
+      "temaId": "e-interessocial",
+      "texto": "Órganos de la cooperativa: **asamblea general**, **consejo rector** (gestiona y representa), **interventores** (vigilan las cuentas) y **comité de recursos** (resuelve sanciones). Tipos: **de trabajo asociado**, **de venta** y **de consumo**.",
+      "fuente": "Economía 1.pdf, p. 15 (pág. libro 36) – Órganos y tipos de cooperativas"
+    },
+    {
+      "id": "e-pk-055",
+      "temaId": "e-interessocial",
+      "texto": "**Comunidad de bienes**: surge cuando un bien pertenece a varias personas y no se puede dividir (p. ej., una herencia). **Sociedad civil**: contrato entre dos o más personas para una actividad con **ánimo de lucro**, con socios industriales y capitalistas.",
+      "fuente": "Economía 1.pdf, p. 16 (pág. libro 37) – Otras formas sociales"
+    },
+    {
+      "id": "e-pk-056",
+      "temaId": "e-interessocial",
+      "texto": "Comunidad de bienes y sociedad civil: **mínimo 2 socios**, **sin personalidad jurídica propia**, responsabilidad **ilimitada** y **sin capital mínimo**. En la comunidad de bienes los comuneros no pueden aportar **solo dinero**.",
+      "fuente": "Economía 1.pdf, p. 16 (pág. libro 37) – Otras formas sociales"
+    },
+    {
+      "id": "e-pk-057",
+      "temaId": "e-marco",
+      "texto": "Tres fuentes principales de normas: **derecho mercantil** (relaciones comerciales de empresarios y empresas), **derecho laboral** (relaciones entre empresarios y trabajadores) y **derecho fiscal** (impuestos y tributos).",
+      "fuente": "Economía 1.pdf, p. 18 (pág. libro 39) – Marco jurídico"
+    },
+    {
+      "id": "e-pk-058",
+      "temaId": "e-marco",
+      "texto": "La **Constitución Española** reconoce la **libertad de empresa (artículo 38)**. Desde que España entró en la Comunidad Europea en **1986**, el **derecho comunitario** debe aceptarse.",
+      "fuente": "Economía 1.pdf, p. 18 (pág. libro 39) – Marco jurídico"
+    },
+    {
+      "id": "e-pk-059",
+      "temaId": "e-marco",
+      "texto": "El **Código de Comercio (1885)** fue la primera norma mercantil y establece quién es empresario. El **Registro Mercantil** da publicidad oficial a los actos de empresarios y sociedades: inscribe empresas y legaliza sus libros contables.",
+      "fuente": "Economía 1.pdf, p. 18 (pág. libro 39) – Derecho mercantil"
+    },
+    {
+      "id": "e-pk-060",
+      "temaId": "e-marco",
+      "texto": "El **Estatuto de los Trabajadores (1980)** recoge, entre otros: libertad sindical y de huelga, **jornada máxima de 40 horas semanales**, **30 días de vacaciones pagadas** y no discriminación.",
+      "fuente": "Economía 1.pdf, p. 18 (pág. libro 39) – Derecho laboral"
+    },
+    {
+      "id": "e-pk-061",
+      "temaId": "e-marco",
+      "texto": "La **Ley General Tributaria** divide los tributos en **tasas** (por recibir un servicio público, p. ej. una terraza), **contribuciones especiales** (por el beneficio de obras o servicios públicos) e **impuestos** (según la capacidad económica; p. ej. 25% de Impuesto de Sociedades).",
+      "fuente": "Economía 1.pdf, p. 18 (pág. libro 39) – Derecho fiscal"
+    },
+    {
+      "id": "e-pk-062",
+      "temaId": "e-acciones",
+      "texto": "Una **acción** es un título que representa una **parte alícuota del capital social**; son acumulables e indivisibles. Pueden ser **nominativas** (con el nombre del titular) o **al portador**, y venir como **título** o **anotación en cuenta**.",
+      "fuente": "Economía 1.pdf, p. 19 (pág. libro 40) – Las acciones"
+    },
+    {
+      "id": "e-pk-063",
+      "temaId": "e-acciones",
+      "texto": "Derechos del accionista: **dividendos** (reparto de beneficios), **preferencia** para suscribir nuevas acciones en una ampliación y **asistencia y voto** en la junta.",
+      "fuente": "Economía 1.pdf, p. 19 (pág. libro 40) – Derechos de las acciones"
+    },
+    {
+      "id": "e-pk-064",
+      "temaId": "e-acciones",
+      "texto": "**Acciones**: de la S.A., libremente transferibles, suelen cotizar. **Participaciones**: de la S.L., no libremente transferibles, no suelen cotizar. **Obligaciones**: parte de un **empréstito**; no suponen participación en la empresa y dan derecho a **intereses**.",
+      "fuente": "Economía 1.pdf, p. 19 (pág. libro 40) – Acciones, participaciones y obligaciones"
+    },
+    {
+      "id": "e-pk-065",
+      "temaId": "e-acciones",
+      "texto": "**Valor nominal (VN)**: el que aparece en la acción. **Valor de emisión (VE)**: el del momento de la emisión; no siempre coincide con el nominal. **Valor de cotización (VC)**: el valor en bolsa.",
+      "fuente": "Economía 1.pdf, p. 19 (pág. libro 40) – Otros conceptos sobre acciones"
+    },
+    {
+      "id": "e-pk-066",
+      "temaId": "e-acciones",
+      "texto": "Si **VC > VN** la acción cotiza **sobre la par**; si **VC < VN**, **bajo la par**; si **VC = VN**, **a la par**.",
+      "fuente": "Economía 1.pdf, p. 19 (pág. libro 40) – Valor de cotización"
+    },
+    {
+      "id": "e-pk-067",
+      "temaId": "e-acciones",
+      "texto": "**Valor teórico contable**: **VTC = Patrimonio neto / número de acciones**. **Derecho de suscripción preferente**: **DS = VC − VTamp** (cotización antes de la ampliación menos valor después).",
+      "fuente": "Economía 1.pdf, p. 19 (pág. libro 40) – VTC y derecho de suscripción"
+    },
+    {
+      "id": "e-pk-068",
+      "temaId": "e-entorno",
+      "texto": "El **entorno** son todos los factores que rodean a la empresa y le afectan, positiva o negativamente, en sus decisiones y beneficios.",
+      "fuente": "Economía 2.pdf, p. 2 (pág. libro 62) – El entorno de la empresa"
+    },
+    {
+      "id": "e-pk-069",
+      "temaId": "e-entorno",
+      "texto": "El **entorno general** afecta **por igual a todas las empresas** de una región y se estudia con el **análisis PESTEL**: Político, Económico, Sociocultural, Tecnológico, Ecológico y Legal.",
+      "fuente": "Economía 2.pdf, p. 2 (pág. libro 62) – Entorno general"
+    },
+    {
+      "id": "e-pk-070",
+      "temaId": "e-entorno",
+      "texto": "Factores **económicos**: **PIB** (producción total), **inflación** (subida generalizada y sostenida de precios), **desempleo** y **tipos de interés** (cuánto cuesta pedir prestado).",
+      "fuente": "Economía 2.pdf, p. 2 (pág. libro 62) – Factores económicos"
+    },
+    {
+      "id": "e-pk-071",
+      "temaId": "e-entorno",
+      "texto": "Ejemplos PESTEL: el **confinamiento** del COVID (político) perjudicó a gimnasios; la sensibilidad por la alimentación (**sociocultural**) impulsó lo ecológico; el **5G** (tecnológico) hizo desear pantallas grandes; la preocupación por el plástico (**ecológico**) llevó a envases de papel.",
+      "fuente": "Economía 2.pdf, p. 2 (pág. libro 62) – Entorno general"
+    },
+    {
+      "id": "e-pk-072",
+      "temaId": "e-entorno",
+      "texto": "El **entorno específico** son factores que afectan a empresas con características comunes o de un mismo sector: **clientes, proveedores, competidores e intermediarios**.",
+      "fuente": "Economía 2.pdf, pp. 2–3 (págs. libro 62–63) – Entorno específico"
+    },
+    {
+      "id": "e-pk-073",
+      "temaId": "e-entorno",
+      "texto": "Los **intermediarios** pueden tener gran poder: según el texto, empresas agrícolas pueden recibir un precio **hasta diez veces inferior** al de venta final.",
+      "fuente": "Economía 2.pdf, p. 2 (pág. libro 62) – Entorno específico"
+    },
+    {
+      "id": "e-pk-074",
+      "temaId": "e-porter",
+      "texto": "Las **cinco fuerzas de Porter** analizan el entorno específico y determinan el **grado de competencia** y la rentabilidad de un sector.",
+      "fuente": "Economía 2.pdf, pp. 4–5 (págs. libro 64–65) – Fuerzas competitivas de Porter"
+    },
+    {
+      "id": "e-pk-075",
+      "temaId": "e-porter",
+      "texto": "**Amenaza de nuevos competidores**: depende de las **barreras de entrada**: restricciones legales, diferenciación y publicidad, elevados costes de inicio y ventajas en costes. A **menores barreras**, **mayor amenaza**.",
+      "fuente": "Economía 2.pdf, p. 4 (pág. libro 64) – Amenaza de nuevos competidores"
+    },
+    {
+      "id": "e-pk-076",
+      "temaId": "e-porter",
+      "texto": "**Amenaza de productos sustitutivos**: aumenta con **novedades** en el mercado (p. ej., BlaBlaCar frente a RENFE), **cambios tecnológicos** y **facilidad de sustitución**.",
+      "fuente": "Economía 2.pdf, p. 4 (pág. libro 64) – Amenaza de productos sustitutivos"
+    },
+    {
+      "id": "e-pk-077",
+      "temaId": "e-porter",
+      "texto": "El **poder negociador de proveedores** aumenta si hay **pocos proveedores**, están **bien organizados** y es **difícil cambiar** de proveedor. El de **clientes**, si hay **pocos clientes**, están **organizados** y tienen **facilidad para cambiar** de empresa.",
+      "fuente": "Economía 2.pdf, p. 4 (pág. libro 64) – Poder negociador"
+    },
+    {
+      "id": "e-pk-078",
+      "temaId": "e-porter",
+      "texto": "**Rivalidad entre competidores**: para Porter **depende de las otras 4 fuerzas**. Aumenta con **muchas empresas**, productos **parecidos**, **crecimiento lento** y productos **perecederos**; puede causar guerras de precios.",
+      "fuente": "Economía 2.pdf, p. 4 (pág. libro 64) – Grado de rivalidad"
+    },
+    {
+      "id": "e-pk-079",
+      "temaId": "e-dafo",
+      "texto": "El **análisis DAFO** combina un análisis **externo** (Oportunidades y Amenazas del entorno) y otro **interno** (Fortalezas y Debilidades de la propia empresa).",
+      "fuente": "Economía 2.pdf, p. 6 (pág. libro 66) – El análisis DAFO"
+    },
+    {
+      "id": "e-pk-080",
+      "temaId": "e-dafo",
+      "texto": "**Oportunidades**: factores positivos del entorno (p. ej., prohibir el diésel para el coche eléctrico). **Amenazas**: factores negativos del exterior (p. ej., Amazon o Google prestando dinero para los bancos).",
+      "fuente": "Economía 2.pdf, p. 6 (pág. libro 66) – Análisis externo"
+    },
+    {
+      "id": "e-pk-081",
+      "temaId": "e-dafo",
+      "texto": "**Fortalezas**: rasgos propios que dan ventaja (p. ej., amplios aparcamientos). **Debilidades**: rasgos propios que dan desventaja (p. ej., lejanía). Para el análisis interno se puede usar la **cadena de valor**.",
+      "fuente": "Economía 2.pdf, p. 6 (pág. libro 66) – Análisis interno"
+    },
+    {
+      "id": "e-pk-082",
+      "temaId": "e-dafo",
+      "texto": "Una **ventaja competitiva** es una característica o recurso que permite a la empresa tener **mejores resultados que sus competidores**.",
+      "fuente": "Economía 2.pdf, p. 6 (pág. libro 66) – Estrategias competitivas"
+    },
+    {
+      "id": "e-pk-083",
+      "temaId": "e-dafo",
+      "texto": "**Liderazgo en costes**: producir más barato y bajar precios (Ikea, Decathlon). **Diferenciación**: producto percibido como **único**, por el que se paga más (Harley-Davidson, Apple).",
+      "fuente": "Economía 2.pdf, p. 6 (pág. libro 66) – Estrategias competitivas"
+    },
+    {
+      "id": "e-pk-084",
+      "temaId": "e-dafo",
+      "texto": "**Segmentación o nicho**: centrarse en un **grupo pequeño de consumidores** y, sobre él, aplicar liderazgo en costes o diferenciación (p. ej., Aquarius para deportistas).",
+      "fuente": "Economía 2.pdf, p. 6 (pág. libro 66) – Estrategias competitivas"
+    },
+    {
+      "id": "e-pk-085",
+      "temaId": "e-localizacion",
+      "texto": "**Localización y dimensión** son **decisiones estratégicas**: implican grandes inversiones iniciales, se suelen tomar juntas al nacer la empresa y cambiarlas puede tener **graves costes irrecuperables**.",
+      "fuente": "Economía 2.pdf, p. 8 (pág. libro 68) – Localización y dimensión"
+    },
+    {
+      "id": "e-pk-086",
+      "temaId": "e-localizacion",
+      "texto": "Las **empresas industriales** buscan **minimizar costes**: materias primas, mano de obra (cualificación y coste), comunicaciones y transporte, coste del terreno, legislación y ayudas, e industria auxiliar.",
+      "fuente": "Economía 2.pdf, p. 8 (pág. libro 68) – Localización industrial"
+    },
+    {
+      "id": "e-pk-087",
+      "temaId": "e-localizacion",
+      "texto": "Las **empresas comerciales o de servicios** priorizan estar **accesibles a los clientes**: proximidad, **visibilidad** del local, coste del local, transporte y aparcamiento, y **complementariedad** de actividades.",
+      "fuente": "Economía 2.pdf, p. 8 (pág. libro 68) – Localización comercial"
+    },
+    {
+      "id": "e-pk-088",
+      "temaId": "e-localizacion",
+      "texto": "La **dimensión** es la **capacidad productiva**: la cantidad máxima que la empresa puede producir en un periodo. **No es el espacio físico** que ocupa.",
+      "fuente": "Economía 2.pdf, p. 9 (pág. libro 69) – La dimensión"
+    },
+    {
+      "id": "e-pk-089",
+      "temaId": "e-localizacion",
+      "texto": "Otros criterios de dimensión: **número de trabajadores**, **valor de los activos**, **facturación**, **presencia geográfica** y **valor de mercado**.",
+      "fuente": "Economía 2.pdf, p. 9 (pág. libro 69) – Criterios para medir la dimensión"
+    },
+    {
+      "id": "e-pk-090",
+      "temaId": "e-localizacion",
+      "texto": "La **dimensión óptima** depende de la **demanda prevista**. **Falta de capacidad** (infradimensionada): se pierden clientes. **Exceso de capacidad** (sobredimensionada): costes más elevados de lo necesario.",
+      "fuente": "Economía 2.pdf, p. 9 (pág. libro 69) – La dimensión óptima"
+    },
+    {
+      "id": "e-pk-091",
+      "temaId": "e-crecimiento",
+      "texto": "**Crecimiento interno**: con **inversiones propias** para aumentar la capacidad. **Crecimiento externo**: **adquiriendo o cooperando** con otras empresas ya existentes.",
+      "fuente": "Economía 2.pdf, p. 10 (pág. libro 70) – El crecimiento en la empresa"
+    },
+    {
+      "id": "e-pk-092",
+      "temaId": "e-crecimiento",
+      "texto": "**Especialización** (mismo producto o complementarios): **penetración de mercado** (vender más en los mismos mercados), **desarrollo de mercados** (nuevos grupos o zonas) y **desarrollo de productos** (nuevos productos para los mismos clientes).",
+      "fuente": "Economía 2.pdf, p. 10 (pág. libro 70) – Estrategia de especialización"
+    },
+    {
+      "id": "e-pk-093",
+      "temaId": "e-crecimiento",
+      "texto": "**Diversificación** (productos nuevos para mercados nuevos): **horizontal o relacionada** (mismo sector, p. ej. Apple), **heterogénea o no relacionada** (sin relación, p. ej. Mitsubishi) y **vertical** (más fases de la cadena). Es la estrategia **más arriesgada**.",
+      "fuente": "Economía 2.pdf, p. 10 (pág. libro 70) – Estrategia de diversificación"
+    },
+    {
+      "id": "e-pk-094",
+      "temaId": "e-crecimiento",
+      "texto": "**Diversificación vertical hacia delante**: asumir fases posteriores (p. ej., Adidas abriendo tiendas propias). **Hacia atrás**: asumir fases anteriores (p. ej., Zara fabricando su ropa). La **matriz de Ansoff** resume estas opciones.",
+      "fuente": "Economía 2.pdf, p. 10 (pág. libro 70) – Diversificación vertical"
+    },
+    {
+      "id": "e-pk-095",
+      "temaId": "e-crecimiento",
+      "texto": "**Cooperación empresarial**: **joint-venture** (empresas, normalmente de distintos países, para entrar en un mercado), **cártel** (fijar precios y repartirse el mercado; **prohibidos en la UE**), **UTE** (solo para un proyecto) y **clúster** (concentración geográfica de empresas e instituciones).",
+      "fuente": "Economía 2.pdf, p. 11 (pág. libro 71) – Cooperación empresarial"
+    },
+    {
+      "id": "e-pk-096",
+      "temaId": "e-crecimiento",
+      "texto": "**Participación**: una empresa compra acciones de otra para dominarla y ambas se mantienen. Control **absoluto** (> 80%), **mayoritario** (> 50%) o **parcial** (< 50%). Un **holding** es una matriz que controla por participaciones empresas de distintos sectores (p. ej., Inditex).",
+      "fuente": "Economía 2.pdf, p. 11 (pág. libro 71) – Participación"
+    },
+    {
+      "id": "e-pk-097",
+      "temaId": "e-crecimiento",
+      "texto": "**Integración**: al menos una empresa **pierde su personalidad jurídica**. **Horizontal** (entre competidoras): **fusión** (todas desaparecen y nace una nueva; p. ej. Bankia) o **absorción** (solo desaparece la absorbida; p. ej. Vodafone–ONO).",
+      "fuente": "Economía 2.pdf, p. 11 (pág. libro 71) – Integración horizontal"
+    },
+    {
+      "id": "e-pk-098",
+      "temaId": "e-crecimiento",
+      "texto": "**Integración vertical (trust)**: controlar todas las fases de producción. **Hacia adelante**: controlar a los distribuidores (p. ej., **franquicias** como McDonald's). **Hacia atrás**: controlar a los proveedores (p. ej., Nestlé y los cultivadores de café).",
+      "fuente": "Economía 2.pdf, p. 11 (pág. libro 71) – Integración vertical"
+    },
+    {
+      "id": "e-pk-099",
+      "temaId": "e-crecimiento",
+      "texto": "**Subcontratación (outsourcing)**: contratar empresas externas especializadas para funciones que no es rentable hacer uno mismo (nóminas, marketing, limpieza…). Es lo contrario de la integración vertical (p. ej., Apple subcontrata la fabricación del iPhone).",
+      "fuente": "Economía 2.pdf, p. 12 (pág. libro 72) – Subcontratación vs. integración vertical"
+    },
+    {
+      "id": "e-pk-100",
+      "temaId": "e-multipymes",
+      "texto": "Una **multinacional** tiene una **empresa matriz** y **filiales** en otros países donde no solo vende, sino que también **produce** y realiza otras actividades.",
+      "fuente": "Economía 2.pdf, p. 13 (pág. libro 73) – Las multinacionales"
+    },
+    {
+      "id": "e-pk-101",
+      "temaId": "e-multipymes",
+      "texto": "Rasgos de las multinacionales: gran tamaño con **economías de escala** (menores costes medios), fuerte inversión en **investigación**, y estrategias de **diversificación**.",
+      "fuente": "Economía 2.pdf, p. 13 (pág. libro 73) – Características de las multinacionales"
+    },
+    {
+      "id": "e-pk-102",
+      "temaId": "e-multipymes",
+      "texto": "**Ventajas**: favorecen el desarrollo de países menos desarrollados, precios más bajos y avances científicos. **Inconvenientes**: abuso del medioambiente y trabajadores, desigualdad frente a las pequeñas y pérdida de empleo en países desarrollados.",
+      "fuente": "Economía 2.pdf, p. 13 (pág. libro 73) – Ventajas e inconvenientes"
+    },
+    {
+      "id": "e-pk-103",
+      "temaId": "e-multipymes",
+      "texto": "**Deslocalización**: trasladar la producción a países con mano de obra más barata o leyes más permisivas. En el país receptor crea empleo con salarios mayores que la media local; en el de origen **reduce empleo e impuestos**.",
+      "fuente": "Economía 2.pdf, p. 13 (pág. libro 73) – La deslocalización"
+    },
+    {
+      "id": "e-pk-104",
+      "temaId": "e-multipymes",
+      "texto": "**PYME**: **menos de 250 trabajadores**, **ventas < 50 M€** y **activo < 43 M€**. En España las PYMES generan alrededor del **60% del empleo**.",
+      "fuente": "Economía 2.pdf, p. 14 (pág. libro 74) – Las PYMES"
+    },
+    {
+      "id": "e-pk-105",
+      "temaId": "e-multipymes",
+      "texto": "Las PYMES compiten porque son **más adecuadas** en actividades con **trato personal** o **artesanales**, y porque en muchos sectores **grandes y pequeñas se complementan** (fabricación en grandes, venta en concesionarios pequeños).",
+      "fuente": "Economía 2.pdf, p. 14 (pág. libro 74) – Estrategias de las PYMES"
+    },
+    {
+      "id": "e-pk-106",
+      "temaId": "e-multipymes",
+      "texto": "**Ventajas de las PYMES**: cercanía con clientes, **flexibilidad**, comunicación cercana con trabajadores, especialización y creación de empleo. **Inconvenientes**: dificultad de **financiación**, **mayores costes** (sin economías de escala), poco poder negociador, menor formación y **obsolescencia tecnológica**.",
+      "fuente": "Economía 2.pdf, p. 14 (pág. libro 74) – Ventajas e inconvenientes de las PYMES"
+    },
+    {
+      "id": "e-pk-107",
+      "temaId": "e-rsc",
+      "texto": "Los **costes sociales o externalidades negativas** son efectos provocados por las empresas pero **soportados por la sociedad** sin que la empresa pague por ellos (como la contaminación). Hay **externalidad positiva** cuando la actuación tiene efectos positivos en la sociedad.",
+      "fuente": "Economía 2.pdf, p. 15 (pág. libro 75) – Costes sociales"
+    },
+    {
+      "id": "e-pk-108",
+      "temaId": "e-rsc",
+      "texto": "La **RSC** es el **comportamiento voluntario** de las empresas para que sus actuaciones tengan repercusiones positivas en la sociedad; hoy se considera que va **mucho más allá de cumplir la ley**.",
+      "fuente": "Economía 2.pdf, p. 15 (pág. libro 75) – La Responsabilidad Social Corporativa"
+    },
+    {
+      "id": "e-pk-109",
+      "temaId": "e-rsc",
+      "texto": "Ámbitos de la RSC: **económico** (riqueza, empleo, impuestos), **social** (relaciones con trabajadores, consumidores, proveedores, Estado; igualdad y derechos humanos) y **medioambiental** (contaminar menos, menos energía, residuos, envases ecológicos).",
+      "fuente": "Economía 2.pdf, p. 15 (pág. libro 75) – Los ámbitos de la RSC"
+    },
+    {
+      "id": "e-pk-110",
+      "temaId": "e-rsc",
+      "texto": "Tres niveles hacia la responsabilidad social completa: empresas que **se limitan a cumplir la ley** → responsables **como estrategia competitiva** (mejorar imagen y vender más) → responsables **porque es lo correcto**.",
+      "fuente": "Economía 2.pdf, p. 15 (pág. libro 75) – El camino a empresas socialmente responsables"
+    },
+    {
+      "id": "e-pk-111",
+      "temaId": "e-rsc",
+      "texto": "En **2000**, 191 países firmaron los **Objetivos del Milenio** (hasta 2015). En **2015**, **193 países** de la ONU firmaron los **17 Objetivos de Desarrollo Sostenible (ODS)**, la **Agenda 2030**.",
+      "fuente": "Economía 2.pdf, p. 16 (pág. libro 76) – ¿Qué son los ODS?"
+    },
+    {
+      "id": "e-pk-112",
+      "temaId": "e-rsc",
+      "texto": "Los **ODS** buscan un desarrollo **sostenible** (que se pueda mantener en el futuro) y **equitativo**. La RSC contribuye a ellos: igualdad salarial (**ODS 5 y 8**), ayuda a desfavorecidos (**ODS 1 y 10**), renovables y reciclaje (**ODS 7 y 13**).",
+      "fuente": "Economía 2.pdf, p. 16 (pág. libro 76) – Relación de los ODS y la RSC"
+    }
+  ],
+  "pildoras": [
+    {
+      "id": "e-pi-001",
+      "temaId": "e-empresa",
+      "frente": "Empresa",
+      "reverso": "Unidad económica de producción que combina tierra, capital y trabajo para producir bienes y servicios, bajo riesgo.",
+      "fuente": "Economía 1.pdf, p. 2 (pág. libro 23) – La empresa"
+    },
+    {
+      "id": "e-pi-002",
+      "temaId": "e-empresa",
+      "frente": "Valor añadido",
+      "reverso": "Diferencia entre el valor del producto y el valor de los factores productivos usados.",
+      "fuente": "Economía 1.pdf, p. 2 (pág. libro 23) – Función de creación de valor"
+    },
+    {
+      "id": "e-pi-003",
+      "temaId": "e-empresa",
+      "frente": "Función de riesgo",
+      "reverso": "La empresa paga los factores productivos antes de saber si venderá lo producido.",
+      "fuente": "Economía 1.pdf, p. 2 (pág. libro 23) – Función de riesgo"
+    },
+    {
+      "id": "e-pi-004",
+      "temaId": "e-empresa",
+      "frente": "Las 4 funciones de la empresa",
+      "reverso": "Creación de valor, riesgo, social y productiva.",
+      "fuente": "Economía 1.pdf, p. 2 (pág. libro 23) – Las funciones de la empresa"
+    },
+    {
+      "id": "e-pi-005",
+      "temaId": "e-empresa",
+      "frente": "Capital no corriente vs. corriente",
+      "reverso": "No corriente: elementos permanentes (máquinas, instalaciones). Corriente: en continuo movimiento (materias primas, dinero).",
+      "fuente": "Economía 1.pdf, p. 3 (pág. libro 24) – Elementos materiales"
+    },
+    {
+      "id": "e-pi-006",
+      "temaId": "e-empresa",
+      "frente": "Cultura empresarial",
+      "reverso": "Valores y creencias que marcan las pautas de comportamiento de los miembros de la empresa.",
+      "fuente": "Economía 1.pdf, p. 3 (pág. libro 24) – Elementos inmateriales"
+    },
+    {
+      "id": "e-pi-007",
+      "temaId": "e-empresa",
+      "frente": "Imagen de la empresa",
+      "reverso": "Forma en que el exterior ve a la empresa: marca, logotipo, eslogan, colores, forma de vestir…",
+      "fuente": "Economía 1.pdf, p. 3 (pág. libro 24) – Elementos inmateriales"
+    },
+    {
+      "id": "e-pi-008",
+      "temaId": "e-objetivos",
+      "frente": "SMART",
+      "reverso": "Específico, Medible, Alcanzable, Relevante y Temporal.",
+      "fuente": "Economía 1.pdf, p. 4 (pág. libro 25) – Objetivos SMART"
+    },
+    {
+      "id": "e-pi-009",
+      "temaId": "e-objetivos",
+      "frente": "Misión vs. visión",
+      "reverso": "Misión: propósito, por qué existimos. Visión: dónde queremos estar en el futuro.",
+      "fuente": "Economía 1.pdf, p. 4 (pág. libro 25) – Niveles de objetivos"
+    },
+    {
+      "id": "e-pi-010",
+      "temaId": "e-objetivos",
+      "frente": "Objetivos estratégicos vs. operativos",
+      "reverso": "Estratégicos: 1–5 años, generales. Operativos: menos de 1 año, por departamentos.",
+      "fuente": "Economía 1.pdf, p. 4 (pág. libro 25) – Niveles de objetivos"
+    },
+    {
+      "id": "e-pi-011",
+      "temaId": "e-objetivos",
+      "frente": "Conflicto de objetivos",
+      "reverso": "Choque entre los intereses de los distintos grupos internos y externos de la empresa.",
+      "fuente": "Economía 1.pdf, p. 4 (pág. libro 25) – El conflicto de objetivos"
+    },
+    {
+      "id": "e-pi-012",
+      "temaId": "e-areas",
+      "frente": "Las 4 áreas funcionales",
+      "reverso": "Inversión y financiación, producción, comercial y recursos humanos.",
+      "fuente": "Economía 1.pdf, p. 5 (pág. libro 26) – Áreas funcionales"
+    },
+    {
+      "id": "e-pi-013",
+      "temaId": "e-areas",
+      "frente": "Área de inversión",
+      "reverso": "Aprueba en qué se invierte el dinero obtenido y qué puede hacer cada departamento.",
+      "fuente": "Economía 1.pdf, p. 5 (pág. libro 26) – Área de inversión y financiación"
+    },
+    {
+      "id": "e-pi-014",
+      "temaId": "e-areas",
+      "frente": "Cadena de valor",
+      "reverso": "Herramienta de Porter para el análisis interno: desglosa las actividades que crean valor.",
+      "fuente": "Economía 1.pdf, p. 5 (pág. libro 26) – La cadena de valor"
+    },
+    {
+      "id": "e-pi-015",
+      "temaId": "e-areas",
+      "frente": "Actividades primarias (cadena de valor)",
+      "reverso": "Logística interna, operaciones, logística externa, marketing y ventas, servicio.",
+      "fuente": "Economía 1.pdf, p. 5 (pág. libro 26) – La cadena de valor"
+    },
+    {
+      "id": "e-pi-016",
+      "temaId": "e-areas",
+      "frente": "Actividades de apoyo (cadena de valor)",
+      "reverso": "Infraestructura, gestión de RR. HH., desarrollo tecnológico y compras.",
+      "fuente": "Economía 1.pdf, p. 5 (pág. libro 26) – La cadena de valor"
+    },
+    {
+      "id": "e-pi-017",
+      "temaId": "e-areas",
+      "frente": "Logística externa",
+      "reverso": "Transporte y distribución del producto final a los clientes.",
+      "fuente": "Economía 1.pdf, p. 5 (pág. libro 26) – La cadena de valor"
+    },
+    {
+      "id": "e-pi-018",
+      "temaId": "e-clasificacion",
+      "frente": "Microempresa (UE)",
+      "reverso": "Hasta 10 trabajadores y ventas o activo inferiores a 2 millones de euros.",
+      "fuente": "Economía 1.pdf, p. 6 (pág. libro 27) – Según su tamaño (tabla)"
+    },
+    {
+      "id": "e-pi-019",
+      "temaId": "e-clasificacion",
+      "frente": "Regla para clasificar por tamaño",
+      "reverso": "Cumplir el criterio de trabajadores y al menos uno de los otros dos (ventas o activo).",
+      "fuente": "Economía 1.pdf, p. 6 (pág. libro 27) – Según su tamaño"
+    },
+    {
+      "id": "e-pi-020",
+      "temaId": "e-clasificacion",
+      "frente": "Sector secundario",
+      "reverso": "Transforma materias primas en productos: industria y también la construcción.",
+      "fuente": "Economía 1.pdf, p. 7 (pág. libro 28) – Según el sector económico"
+    },
+    {
+      "id": "e-pi-021",
+      "temaId": "e-clasificacion",
+      "frente": "Empresa mixta",
+      "reverso": "Propiedad compartida entre el Estado y particulares (p. ej., AENA).",
+      "fuente": "Economía 1.pdf, p. 7 (pág. libro 28) – Según la propiedad del capital"
+    },
+    {
+      "id": "e-pi-022",
+      "temaId": "e-clasificacion",
+      "frente": "Multinacional vs. internacional",
+      "reverso": "Multinacional: produce o distribuye en 2 o más países. Internacional: solo vende en otros países.",
+      "fuente": "Economía 1.pdf, p. 7 (pág. libro 28) – Según el ámbito de actuación"
+    },
+    {
+      "id": "e-pi-023",
+      "temaId": "e-clasificacion",
+      "frente": "Start up",
+      "reverso": "Empresa de reciente creación que, gracias a la tecnología, puede pasar de local a multinacional en poco tiempo.",
+      "fuente": "Economía 1.pdf, p. 7 (pág. libro 28) – Según su tamaño"
+    },
+    {
+      "id": "e-pi-024",
+      "temaId": "e-formajuridica",
+      "frente": "Personalidad jurídica propia",
+      "reverso": "La empresa es una persona distinta de sus socios, con sus propios derechos y obligaciones.",
+      "fuente": "Economía 1.pdf, p. 8 (pág. libro 29) – Personalidad física y jurídica"
+    },
+    {
+      "id": "e-pi-025",
+      "temaId": "e-formajuridica",
+      "frente": "Responsabilidad ilimitada",
+      "reverso": "Se responde de las deudas con el patrimonio personal presente y futuro.",
+      "fuente": "Economía 1.pdf, p. 9 (pág. libro 30) – La responsabilidad de los socios"
+    },
+    {
+      "id": "e-pi-026",
+      "temaId": "e-formajuridica",
+      "frente": "Transmisión restringida",
+      "reverso": "Para vender tu parte, los demás socios deben estar de acuerdo con el comprador.",
+      "fuente": "Economía 1.pdf, p. 9 (pág. libro 30) – Transmisión de la propiedad"
+    },
+    {
+      "id": "e-pi-027",
+      "temaId": "e-formajuridica",
+      "frente": "IRPF vs. Impuesto de Sociedades",
+      "reverso": "IRPF (autónomos): porcentaje que crece al ganar más. IS (sociedades): porcentaje fijo.",
+      "fuente": "Economía 1.pdf, p. 9 (pág. libro 30) – Pago de impuestos"
+    },
+    {
+      "id": "e-pi-028",
+      "temaId": "e-formajuridica",
+      "frente": "Requisito de edad del empresario individual",
+      "reverso": "Mayor de 18 años, o 16 y emancipado.",
+      "fuente": "Economía 1.pdf, p. 10 (pág. libro 31) – El empresario individual"
+    },
+    {
+      "id": "e-pi-029",
+      "temaId": "e-formajuridica",
+      "frente": "TRADE",
+      "reverso": "Autónomo económicamente dependiente: el 75% de sus ingresos viene de un solo cliente.",
+      "fuente": "Economía 1.pdf, p. 10 (pág. libro 31) – Los autónomos"
+    },
+    {
+      "id": "e-pi-030",
+      "temaId": "e-formajuridica",
+      "frente": "Uberización",
+      "reverso": "Práctica de obligar a trabajadores a hacerse autónomos (falsos autónomos) para ahorrarse seguridad social y vacaciones.",
+      "fuente": "Economía 1.pdf, p. 10 (pág. libro 31) – Los autónomos"
+    },
+    {
+      "id": "e-pi-031",
+      "temaId": "e-formajuridica",
+      "frente": "Autónomo de responsabilidad limitada",
+      "reverso": "Figura existente desde 2013: responde con su patrimonio, pero la vivienda habitual queda exenta.",
+      "fuente": "Economía 1.pdf, p. 10 (pág. libro 31) – Los autónomos"
+    },
+    {
+      "id": "e-pi-032",
+      "temaId": "e-sociedades",
+      "frente": "Responsabilidad solidaria",
+      "reverso": "Si un socio no puede pagar, los demás deben pagar por él.",
+      "fuente": "Economía 1.pdf, p. 11 (pág. libro 32) – Sociedades personalistas"
+    },
+    {
+      "id": "e-pi-033",
+      "temaId": "e-sociedades",
+      "frente": "Socio industrial",
+      "reverso": "Socio que solo aporta trabajo (posible en la sociedad colectiva y en la sociedad civil).",
+      "fuente": "Economía 1.pdf, p. 11 (pág. libro 32) – La sociedad colectiva"
+    },
+    {
+      "id": "e-pi-034",
+      "temaId": "e-sociedades",
+      "frente": "Socio comanditario",
+      "reverso": "Solo aporta capital, no gestiona y tiene responsabilidad limitada.",
+      "fuente": "Economía 1.pdf, p. 11 (pág. libro 32) – La sociedad comanditaria simple"
+    },
+    {
+      "id": "e-pi-035",
+      "temaId": "e-sociedades",
+      "frente": "Comanditaria por acciones",
+      "reverso": "Como la comanditaria simple, pero el capital de los comanditarios está en acciones: exige 60.000 €.",
+      "fuente": "Economía 1.pdf, p. 11 (pág. libro 32) – La sociedad comanditaria por acciones"
+    },
+    {
+      "id": "e-pi-036",
+      "temaId": "e-sociedades",
+      "frente": "Participaciones de la S.L.",
+      "reverso": "Iguales, acumulables e indivisibles; no cotizan en bolsa.",
+      "fuente": "Economía 1.pdf, p. 12 (pág. libro 33) – La sociedad limitada"
+    },
+    {
+      "id": "e-pi-037",
+      "temaId": "e-sociedades",
+      "frente": "Capital mínimo S.L.",
+      "reverso": "1 € (antes 3.000 €), con el 20% de los beneficios a reserva hasta 3.000 €.",
+      "fuente": "Economía 1.pdf, p. 17 (pág. libro 38) – Tabla de formas jurídicas"
+    },
+    {
+      "id": "e-pi-038",
+      "temaId": "e-sociedades",
+      "frente": "Capital mínimo S.A.",
+      "reverso": "60.000 €, totalmente suscrito y desembolsado al menos en un 25%.",
+      "fuente": "Economía 1.pdf, p. 13 (pág. libro 34) – La sociedad anónima"
+    },
+    {
+      "id": "e-pi-039",
+      "temaId": "e-sociedades",
+      "frente": "Junta extraordinaria de accionistas",
+      "reverso": "La convocan los administradores cuando lo crean oportuno o al menos el 5% de los accionistas.",
+      "fuente": "Economía 1.pdf, p. 13 (pág. libro 34) – Órganos de gobierno de la S.A."
+    },
+    {
+      "id": "e-pi-040",
+      "temaId": "e-sociedades",
+      "frente": "Junta ordinaria de accionistas",
+      "reverso": "Una vez al año, en los 6 primeros meses: aprueba gestión, cuentas y reparto de beneficios.",
+      "fuente": "Economía 1.pdf, p. 13 (pág. libro 34) – Órganos de gobierno de la S.A."
+    },
+    {
+      "id": "e-pi-041",
+      "temaId": "e-interessocial",
+      "frente": "SAL vs. SLL",
+      "reverso": "Sociedad anónima laboral (capital en acciones) y sociedad limitada laboral (en participaciones).",
+      "fuente": "Economía 1.pdf, p. 14 (pág. libro 35) – La sociedad laboral"
+    },
+    {
+      "id": "e-pi-042",
+      "temaId": "e-interessocial",
+      "frente": "Sociedad laboral: requisito del 51%",
+      "reverso": "Al menos el 51% del capital debe estar en manos de trabajadores con contrato indefinido.",
+      "fuente": "Economía 1.pdf, p. 14 (pág. libro 35) – Requisitos de la sociedad laboral"
+    },
+    {
+      "id": "e-pi-043",
+      "temaId": "e-interessocial",
+      "frente": "Sociedad laboral: límite por socio",
+      "reverso": "Ningún socio puede tener más de un tercio del capital social.",
+      "fuente": "Economía 1.pdf, p. 14 (pág. libro 35) – Requisitos de la sociedad laboral"
+    },
+    {
+      "id": "e-pi-044",
+      "temaId": "e-interessocial",
+      "frente": "Excedentes",
+      "reverso": "Beneficios de una cooperativa; se reinvierten en ella y en mejorar el entorno social.",
+      "fuente": "Economía 1.pdf, p. 15 (pág. libro 36) – La sociedad cooperativa"
+    },
+    {
+      "id": "e-pi-045",
+      "temaId": "e-interessocial",
+      "frente": "Cooperativa de 1er y 2º grado",
+      "reverso": "1er grado: mínimo 3 socios. 2º grado: mínimo 2 cooperativas.",
+      "fuente": "Economía 1.pdf, p. 15 (pág. libro 36) – La sociedad cooperativa"
+    },
+    {
+      "id": "e-pi-046",
+      "temaId": "e-interessocial",
+      "frente": "Consejo rector",
+      "reverso": "Órgano que gestiona y representa la cooperativa; equivale al consejo de administración.",
+      "fuente": "Economía 1.pdf, p. 15 (pág. libro 36) – Órganos de gestión"
+    },
+    {
+      "id": "e-pi-047",
+      "temaId": "e-interessocial",
+      "frente": "Cooperativa de consumo",
+      "reverso": "Los socios se unen para comprar productos con mejores precios y condiciones.",
+      "fuente": "Economía 1.pdf, p. 15 (pág. libro 36) – Tipos de cooperativas"
+    },
+    {
+      "id": "e-pi-048",
+      "temaId": "e-interessocial",
+      "frente": "Comunidad de bienes",
+      "reverso": "Un bien indivisible pertenece a varias personas (p. ej., herencia) y lo usan para una actividad empresarial.",
+      "fuente": "Economía 1.pdf, p. 16 (pág. libro 37) – La comunidad de bienes"
+    },
+    {
+      "id": "e-pi-049",
+      "temaId": "e-marco",
+      "frente": "Derecho mercantil / laboral / fiscal",
+      "reverso": "Mercantil: relaciones comerciales. Laboral: empresarios y trabajadores. Fiscal: impuestos y tributos.",
+      "fuente": "Economía 1.pdf, p. 18 (pág. libro 39) – Marco jurídico"
+    },
+    {
+      "id": "e-pi-050",
+      "temaId": "e-marco",
+      "frente": "Artículo 38 de la Constitución",
+      "reverso": "Reconoce el derecho a la libertad de empresa.",
+      "fuente": "Economía 1.pdf, p. 18 (pág. libro 39) – Marco jurídico"
+    },
+    {
+      "id": "e-pi-051",
+      "temaId": "e-marco",
+      "frente": "Registro Mercantil",
+      "reverso": "Da publicidad oficial a los actos de empresarios y sociedades: inscribe empresas y legaliza libros contables.",
+      "fuente": "Economía 1.pdf, p. 18 (pág. libro 39) – Derecho mercantil"
+    },
+    {
+      "id": "e-pi-052",
+      "temaId": "e-marco",
+      "frente": "Tasa",
+      "reverso": "Tributo que se paga por recibir un servicio público (p. ej., terraza de un bar o vado).",
+      "fuente": "Economía 1.pdf, p. 18 (pág. libro 39) – Derecho fiscal"
+    },
+    {
+      "id": "e-pi-053",
+      "temaId": "e-marco",
+      "frente": "Contribución especial",
+      "reverso": "Tributo por el beneficio o revalorización derivados de obras o servicios públicos (p. ej., pavimentar una calle).",
+      "fuente": "Economía 1.pdf, p. 18 (pág. libro 39) – Derecho fiscal"
+    },
+    {
+      "id": "e-pi-054",
+      "temaId": "e-acciones",
+      "frente": "Acción",
+      "reverso": "Título que representa una parte alícuota del capital social; acumulable e indivisible.",
+      "fuente": "Economía 1.pdf, p. 19 (pág. libro 40) – Las acciones"
+    },
+    {
+      "id": "e-pi-055",
+      "temaId": "e-acciones",
+      "frente": "Obligación",
+      "reverso": "Parte alícuota de un empréstito: no da participación en la empresa, sí derecho a intereses.",
+      "fuente": "Economía 1.pdf, p. 19 (pág. libro 40) – Acciones, participaciones y obligaciones"
+    },
+    {
+      "id": "e-pi-056",
+      "temaId": "e-acciones",
+      "frente": "Cotizar sobre la par",
+      "reverso": "Cuando el valor de cotización es mayor que el nominal (VC > VN).",
+      "fuente": "Economía 1.pdf, p. 19 (pág. libro 40) – Valor de cotización"
+    },
+    {
+      "id": "e-pi-057",
+      "temaId": "e-acciones",
+      "frente": "Valor teórico contable (VTC)",
+      "reverso": "Patrimonio neto / número de acciones.",
+      "fuente": "Economía 1.pdf, p. 19 (pág. libro 40) – Valor teórico contable"
+    },
+    {
+      "id": "e-pi-058",
+      "temaId": "e-acciones",
+      "frente": "Derecho de suscripción preferente (DS)",
+      "reverso": "DS = VC − VTamp: cotización antes de la ampliación menos valor después.",
+      "fuente": "Economía 1.pdf, p. 19 (pág. libro 40) – Derecho de suscripción preferente"
+    },
+    {
+      "id": "e-pi-059",
+      "temaId": "e-acciones",
+      "frente": "Anotación en cuenta",
+      "reverso": "Forma de la acción como simple registro informático, sin documento físico.",
+      "fuente": "Economía 1.pdf, p. 19 (pág. libro 40) – Forma de las acciones"
+    },
+    {
+      "id": "e-pi-060",
+      "temaId": "e-entorno",
+      "frente": "PESTEL",
+      "reverso": "Político, Económico, Sociocultural, Tecnológico, Ecológico y Legal.",
+      "fuente": "Economía 2.pdf, p. 2 (pág. libro 62) – Entorno general"
+    },
+    {
+      "id": "e-pi-061",
+      "temaId": "e-entorno",
+      "frente": "Entorno general vs. específico",
+      "reverso": "General: afecta igual a todas las empresas de una región. Específico: a las de un mismo sector.",
+      "fuente": "Economía 2.pdf, p. 2 (pág. libro 62) – El entorno de la empresa"
+    },
+    {
+      "id": "e-pi-062",
+      "temaId": "e-entorno",
+      "frente": "Inflación",
+      "reverso": "Aumento generalizado y sostenido de los precios; producir resulta más caro.",
+      "fuente": "Economía 2.pdf, p. 2 (pág. libro 62) – Factores económicos"
+    },
+    {
+      "id": "e-pi-063",
+      "temaId": "e-entorno",
+      "frente": "Tipos de interés",
+      "reverso": "Indican cuánto cuesta pedir prestado.",
+      "fuente": "Economía 2.pdf, p. 2 (pág. libro 62) – Factores económicos"
+    },
+    {
+      "id": "e-pi-064",
+      "temaId": "e-entorno",
+      "frente": "Factores del entorno específico",
+      "reverso": "Clientes, proveedores, competidores e intermediarios.",
+      "fuente": "Economía 2.pdf, pp. 2–3 (págs. libro 62–63) – Entorno específico"
+    },
+    {
+      "id": "e-pi-065",
+      "temaId": "e-porter",
+      "frente": "Las 5 fuerzas de Porter",
+      "reverso": "Nuevos competidores, productos sustitutivos, poder de proveedores, poder de clientes y rivalidad.",
+      "fuente": "Economía 2.pdf, p. 4 (pág. libro 64) – Fuerzas competitivas de Porter"
+    },
+    {
+      "id": "e-pi-066",
+      "temaId": "e-porter",
+      "frente": "Barreras de entrada",
+      "reverso": "Restricciones legales, diferenciación y publicidad, elevados costes de inicio y ventajas en costes.",
+      "fuente": "Economía 2.pdf, p. 4 (pág. libro 64) – Amenaza de nuevos competidores"
+    },
+    {
+      "id": "e-pi-067",
+      "temaId": "e-porter",
+      "frente": "¿Cuándo aumenta el poder de los clientes?",
+      "reverso": "Si son pocos, están bien organizados y les es fácil cambiar de empresa.",
+      "fuente": "Economía 2.pdf, p. 4 (pág. libro 64) – Poder negociador de clientes"
+    },
+    {
+      "id": "e-pi-068",
+      "temaId": "e-porter",
+      "frente": "Rivalidad entre competidores según Porter",
+      "reverso": "No es una fuerza en sí misma: depende de las otras cuatro.",
+      "fuente": "Economía 2.pdf, p. 4 (pág. libro 64) – Grado de rivalidad"
+    },
+    {
+      "id": "e-pi-069",
+      "temaId": "e-dafo",
+      "frente": "DAFO",
+      "reverso": "Debilidades, Amenazas, Fortalezas y Oportunidades.",
+      "fuente": "Economía 2.pdf, p. 6 (pág. libro 66) – El análisis DAFO"
+    },
+    {
+      "id": "e-pi-070",
+      "temaId": "e-dafo",
+      "frente": "Análisis externo vs. interno (DAFO)",
+      "reverso": "Externo: oportunidades y amenazas. Interno: fortalezas y debilidades.",
+      "fuente": "Economía 2.pdf, p. 6 (pág. libro 66) – El análisis DAFO"
+    },
+    {
+      "id": "e-pi-071",
+      "temaId": "e-dafo",
+      "frente": "Ventaja competitiva",
+      "reverso": "Característica o recurso que permite obtener mejores resultados que los competidores.",
+      "fuente": "Economía 2.pdf, p. 6 (pág. libro 66) – Estrategias competitivas"
+    },
+    {
+      "id": "e-pi-072",
+      "temaId": "e-dafo",
+      "frente": "Las 3 estrategias competitivas",
+      "reverso": "Liderazgo en costes, diferenciación y segmentación (nicho).",
+      "fuente": "Economía 2.pdf, p. 6 (pág. libro 66) – Estrategias competitivas"
+    },
+    {
+      "id": "e-pi-073",
+      "temaId": "e-localizacion",
+      "frente": "Localización",
+      "reverso": "Lugar geográfico donde se ubica la empresa.",
+      "fuente": "Economía 2.pdf, p. 8 (pág. libro 68) – La localización"
+    },
+    {
+      "id": "e-pi-074",
+      "temaId": "e-localizacion",
+      "frente": "Dimensión de la empresa",
+      "reverso": "Capacidad productiva: cantidad máxima que puede producir en un periodo (no el espacio físico).",
+      "fuente": "Economía 2.pdf, p. 9 (pág. libro 69) – La dimensión"
+    },
+    {
+      "id": "e-pi-075",
+      "temaId": "e-localizacion",
+      "frente": "Empresa infradimensionada",
+      "reverso": "Falta de capacidad: no puede atender toda la demanda y pierde clientes.",
+      "fuente": "Economía 2.pdf, p. 9 (pág. libro 69) – La dimensión óptima"
+    },
+    {
+      "id": "e-pi-076",
+      "temaId": "e-localizacion",
+      "frente": "Empresa sobredimensionada",
+      "reverso": "Exceso de capacidad: máquinas sin usar y costes más altos de lo necesario.",
+      "fuente": "Economía 2.pdf, p. 9 (pág. libro 69) – La dimensión óptima"
+    },
+    {
+      "id": "e-pi-077",
+      "temaId": "e-crecimiento",
+      "frente": "Penetración de mercado",
+      "reverso": "Vender más del mismo producto en los mismos mercados (promociones, publicidad, precios).",
+      "fuente": "Economía 2.pdf, p. 10 (pág. libro 70) – Especialización"
+    },
+    {
+      "id": "e-pi-078",
+      "temaId": "e-crecimiento",
+      "frente": "Desarrollo de mercados",
+      "reverso": "Vender el mismo producto a nuevos grupos o zonas (p. ej., Cola-Cao para adultos).",
+      "fuente": "Economía 2.pdf, p. 10 (pág. libro 70) – Especialización"
+    },
+    {
+      "id": "e-pi-079",
+      "temaId": "e-crecimiento",
+      "frente": "Diversificación heterogénea",
+      "reverso": "Productos y mercados nuevos sin ninguna relación con los anteriores.",
+      "fuente": "Economía 2.pdf, p. 10 (pág. libro 70) – Diversificación"
+    },
+    {
+      "id": "e-pi-080",
+      "temaId": "e-crecimiento",
+      "frente": "Joint-venture",
+      "reverso": "Acuerdo entre empresas, normalmente de distintos países: la extranjera aporta capital y la nacional conocimiento del mercado.",
+      "fuente": "Economía 2.pdf, p. 11 (pág. libro 71) – Cooperación empresarial"
+    },
+    {
+      "id": "e-pi-081",
+      "temaId": "e-crecimiento",
+      "frente": "Cártel",
+      "reverso": "Empresas del mismo sector que pactan precios y se reparten el mercado; prohibido en la UE.",
+      "fuente": "Economía 2.pdf, p. 11 (pág. libro 71) – Cooperación empresarial"
+    },
+    {
+      "id": "e-pi-082",
+      "temaId": "e-crecimiento",
+      "frente": "UTE",
+      "reverso": "Unión temporal de empresas para un proyecto concreto; dura lo que dure el proyecto.",
+      "fuente": "Economía 2.pdf, p. 11 (pág. libro 71) – Cooperación empresarial"
+    },
+    {
+      "id": "e-pi-083",
+      "temaId": "e-crecimiento",
+      "frente": "Clúster",
+      "reverso": "Concentración geográfica de empresas, universidades e instituciones con un mismo interés.",
+      "fuente": "Economía 2.pdf, p. 11 (pág. libro 71) – Cooperación empresarial"
+    },
+    {
+      "id": "e-pi-084",
+      "temaId": "e-crecimiento",
+      "frente": "Holding",
+      "reverso": "Empresa matriz que controla por participaciones a varias empresas de distintos sectores.",
+      "fuente": "Economía 2.pdf, p. 11 (pág. libro 71) – Participación"
+    },
+    {
+      "id": "e-pi-085",
+      "temaId": "e-crecimiento",
+      "frente": "Fusión vs. absorción",
+      "reverso": "Fusión: todas desaparecen y nace una nueva. Absorción: solo desaparece la absorbida.",
+      "fuente": "Economía 2.pdf, p. 11 (pág. libro 71) – Integración horizontal"
+    },
+    {
+      "id": "e-pi-086",
+      "temaId": "e-crecimiento",
+      "frente": "Trust",
+      "reverso": "Integración vertical: varias empresas se unen para controlar todas las fases de producción.",
+      "fuente": "Economía 2.pdf, p. 11 (pág. libro 71) – Integración vertical"
+    },
+    {
+      "id": "e-pi-087",
+      "temaId": "e-crecimiento",
+      "frente": "Outsourcing",
+      "reverso": "Subcontratar a empresas externas funciones que no es rentable hacer uno mismo.",
+      "fuente": "Economía 2.pdf, p. 12 (pág. libro 72) – Subcontratación"
+    },
+    {
+      "id": "e-pi-088",
+      "temaId": "e-multipymes",
+      "frente": "Multinacional",
+      "reverso": "Matriz con filiales en otros países donde vende y también produce.",
+      "fuente": "Economía 2.pdf, p. 13 (pág. libro 73) – Las multinacionales"
+    },
+    {
+      "id": "e-pi-089",
+      "temaId": "e-multipymes",
+      "frente": "Economías de escala",
+      "reverso": "Disminución de los costes medios al aumentar la dimensión.",
+      "fuente": "Economía 2.pdf, p. 13 (pág. libro 73) – Características de las multinacionales"
+    },
+    {
+      "id": "e-pi-090",
+      "temaId": "e-multipymes",
+      "frente": "Deslocalización",
+      "reverso": "Trasladar la producción a países con menores costes o leyes más permisivas.",
+      "fuente": "Economía 2.pdf, p. 13 (pág. libro 73) – La deslocalización"
+    },
+    {
+      "id": "e-pi-091",
+      "temaId": "e-multipymes",
+      "frente": "Requisitos de PYME",
+      "reverso": "Menos de 250 trabajadores, ventas < 50 M€ y activo < 43 M€.",
+      "fuente": "Economía 2.pdf, p. 14 (pág. libro 74) – Las PYMES"
+    },
+    {
+      "id": "e-pi-092",
+      "temaId": "e-multipymes",
+      "frente": "Obsolescencia tecnológica (PYMES)",
+      "reverso": "Falta de recursos para adquirir nueva tecnología y formar al personal.",
+      "fuente": "Economía 2.pdf, p. 14 (pág. libro 74) – Inconvenientes de las PYMES"
+    },
+    {
+      "id": "e-pi-093",
+      "temaId": "e-rsc",
+      "frente": "Externalidad negativa (coste social)",
+      "reverso": "Efecto provocado por la empresa pero soportado por la sociedad sin pagar por él (p. ej., contaminación).",
+      "fuente": "Economía 2.pdf, p. 15 (pág. libro 75) – Costes sociales"
+    },
+    {
+      "id": "e-pi-094",
+      "temaId": "e-rsc",
+      "frente": "RSC",
+      "reverso": "Comportamiento voluntario de la empresa para tener repercusiones positivas en la sociedad.",
+      "fuente": "Economía 2.pdf, p. 15 (pág. libro 75) – La Responsabilidad Social Corporativa"
+    },
+    {
+      "id": "e-pi-095",
+      "temaId": "e-rsc",
+      "frente": "Ámbitos de la RSC",
+      "reverso": "Económico, social y medioambiental.",
+      "fuente": "Economía 2.pdf, p. 15 (pág. libro 75) – Los ámbitos de la RSC"
+    },
+    {
+      "id": "e-pi-096",
+      "temaId": "e-rsc",
+      "frente": "Agenda 2030",
+      "reverso": "Los 17 ODS firmados en 2015 por 193 países de la ONU, para el periodo 2015–2030.",
+      "fuente": "Economía 2.pdf, p. 16 (pág. libro 76) – ¿Qué son los ODS?"
+    }
+  ],
+  "preguntas": [
+    {
+      "id": "e-q-001",
+      "temaId": "e-empresa",
+      "enunciado": "Un molino compra trigo por 100 € y vende la harina obtenida por 160 €. ¿Qué representan esos 60 € de diferencia?",
+      "opciones": [
+        "El capital corriente",
+        "El riesgo empresarial",
+        "El beneficio después de impuestos",
+        "El valor añadido"
+      ],
+      "correcta": 3,
+      "explicacion": "El valor añadido es la diferencia entre el valor del producto y el de los factores usados. No es el beneficio neto: faltarían otros costes e impuestos.",
+      "nivel": "aplicar",
+      "fuente": "Economía 1.pdf, p. 2 (pág. libro 23) – Función de creación de valor"
+    },
+    {
+      "id": "e-q-002",
+      "temaId": "e-empresa",
+      "enunciado": "¿Por qué se dice que la empresa cumple una función de riesgo?",
+      "opciones": [
+        "Porque siempre opera con responsabilidad ilimitada",
+        "Porque depende de las decisiones del Estado",
+        "Porque debe repartir dividendos aunque tenga pérdidas",
+        "Porque paga los factores productivos antes de saber si venderá lo producido"
+      ],
+      "correcta": 3,
+      "explicacion": "Los gastos son inmediatos, pero los ingresos solo llegan si se vende. La responsabilidad ilimitada depende de la forma jurídica, no de esta función.",
+      "nivel": "comprender",
+      "fuente": "Economía 1.pdf, p. 2 (pág. libro 23) – Función de riesgo"
+    },
+    {
+      "id": "e-q-003",
+      "temaId": "e-empresa",
+      "enunciado": "Las máquinas y el mobiliario de una empresa son…",
+      "opciones": [
+        "capital no corriente",
+        "capital corriente",
+        "elementos inmateriales",
+        "parte del entorno específico"
+      ],
+      "correcta": 0,
+      "explicacion": "Son elementos permanentes que estarán mucho tiempo en la empresa. El capital corriente está en continuo movimiento (materias primas, dinero).",
+      "nivel": "recordar",
+      "fuente": "Economía 1.pdf, p. 3 (pág. libro 24) – Elementos materiales"
+    },
+    {
+      "id": "e-q-004",
+      "temaId": "e-empresa",
+      "enunciado": "Una tienda permite devolver cualquier regalo sin problemas y todos sus empleados lo saben y lo aplican. ¿Qué elemento de la empresa es?",
+      "opciones": [
+        "La imagen",
+        "La cultura",
+        "La organización",
+        "El capital corriente"
+      ],
+      "correcta": 1,
+      "explicacion": "La cultura son los valores y creencias que guían el comportamiento de sus miembros; el texto usa este ejemplo de política de devoluciones.",
+      "nivel": "comprender",
+      "fuente": "Economía 1.pdf, p. 3 (pág. libro 24) – Elementos inmateriales"
+    },
+    {
+      "id": "e-q-005",
+      "temaId": "e-empresa",
+      "enunciado": "¿Cuál de estos es un elemento inmaterial de la empresa?",
+      "opciones": [
+        "Las materias primas",
+        "La organización",
+        "Los directivos",
+        "Los clientes"
+      ],
+      "correcta": 1,
+      "explicacion": "Organización, cultura e imagen son inmateriales. Los directivos son elemento humano y los clientes forman parte del entorno.",
+      "nivel": "recordar",
+      "fuente": "Economía 1.pdf, p. 3 (pág. libro 24) – Elementos de la empresa"
+    },
+    {
+      "id": "e-q-006",
+      "temaId": "e-empresa",
+      "enunciado": "¿Qué diferencia hay entre los dueños de una gran empresa y los de una pequeña, según el texto?",
+      "opciones": [
+        "En las grandes los dueños dirigen y en las pequeñas no",
+        "En ambas los dueños cobran un salario por dirigir",
+        "En las pequeñas no hay dueños, solo trabajadores",
+        "En las grandes los accionistas suelen solo aportar dinero; en las pequeñas los dueños suelen además dirigir"
+      ],
+      "correcta": 3,
+      "explicacion": "En las grandes, los accionistas aportan capital y esperan beneficios; la dirección la llevan directivos asalariados.",
+      "nivel": "comprender",
+      "fuente": "Economía 1.pdf, p. 3 (pág. libro 24) – Elemento humano"
+    },
+    {
+      "id": "e-q-007",
+      "temaId": "e-objetivos",
+      "enunciado": "«Aumentar las ventas» no es un objetivo SMART principalmente porque…",
+      "opciones": [
+        "no es medible ni tiene un plazo",
+        "no es relevante para una empresa",
+        "no es alcanzable por definición",
+        "es demasiado específico"
+      ],
+      "correcta": 0,
+      "explicacion": "Un objetivo SMART debe poder medirse y tener fecha. «Aumentar las ventas un 10% en 2 años» sí lo sería.",
+      "nivel": "aplicar",
+      "fuente": "Economía 1.pdf, p. 4 (pág. libro 25) – Objetivos SMART"
+    },
+    {
+      "id": "e-q-008",
+      "temaId": "e-objetivos",
+      "enunciado": "¿Qué pregunta responde la misión de una empresa?",
+      "opciones": [
+        "¿Quiénes somos y por qué existimos?",
+        "¿Qué queremos ser en el futuro?",
+        "¿Qué venderemos este trimestre?",
+        "¿Qué departamento tiene más presupuesto?"
+      ],
+      "correcta": 0,
+      "explicacion": "La misión es el propósito de la empresa. «¿Qué queremos ser?» corresponde a la visión.",
+      "nivel": "recordar",
+      "fuente": "Economía 1.pdf, p. 4 (pág. libro 25) – Niveles de objetivos"
+    },
+    {
+      "id": "e-q-009",
+      "temaId": "e-objetivos",
+      "enunciado": "«Diseñar una campaña de ofertas todos los jueves de este año para vender un 5% más esos días» es un objetivo…",
+      "opciones": [
+        "estratégico a largo plazo",
+        "de misión",
+        "de visión",
+        "operativo a corto plazo"
+      ],
+      "correcta": 3,
+      "explicacion": "Tiene un plazo inferior a un año y es concreto: es operativo. Los estratégicos abarcan de 1 a 5 años.",
+      "nivel": "comprender",
+      "fuente": "Economía 1.pdf, p. 4 (pág. libro 25) – Niveles de objetivos"
+    },
+    {
+      "id": "e-q-010",
+      "temaId": "e-objetivos",
+      "enunciado": "Los dueños quieren repartir más beneficios y los trabajadores piden subidas salariales. ¿Qué situación describe el texto con esto?",
+      "opciones": [
+        "Un objetivo SMART",
+        "Un conflicto de objetivos",
+        "Una función de riesgo",
+        "Una amenaza del entorno general"
+      ],
+      "correcta": 1,
+      "explicacion": "El conflicto de objetivos surge porque los distintos grupos tienen intereses diferentes.",
+      "nivel": "comprender",
+      "fuente": "Economía 1.pdf, p. 4 (pág. libro 25) – El conflicto de objetivos"
+    },
+    {
+      "id": "e-q-011",
+      "temaId": "e-objetivos",
+      "enunciado": "Según la tabla del texto, ¿qué esperan principalmente los proveedores de la empresa?",
+      "opciones": [
+        "Calidad del producto y garantía",
+        "Cobrar a tiempo y que se respeten los acuerdos",
+        "Cumplimiento de leyes y pago de impuestos",
+        "Beneficios y mayor valor de la empresa"
+      ],
+      "correcta": 1,
+      "explicacion": "Calidad y garantía son deseos de los clientes; leyes e impuestos, del Estado; beneficios, de los propietarios.",
+      "nivel": "recordar",
+      "fuente": "Economía 1.pdf, p. 4 (pág. libro 25) – El conflicto de objetivos"
+    },
+    {
+      "id": "e-q-012",
+      "temaId": "e-areas",
+      "enunciado": "¿Qué área funcional decide qué características debe tener el producto a partir de estudios de mercado?",
+      "opciones": [
+        "El área de producción",
+        "El área de inversión y financiación",
+        "El área comercial",
+        "El área de recursos humanos"
+      ],
+      "correcta": 2,
+      "explicacion": "El área comercial estudia los gustos de los consumidores, decide las características, el precio, la publicidad y los puntos de venta.",
+      "nivel": "recordar",
+      "fuente": "Economía 1.pdf, p. 5 (pág. libro 26) – Área comercial"
+    },
+    {
+      "id": "e-q-013",
+      "temaId": "e-areas",
+      "enunciado": "El departamento de marketing pide dinero para una campaña y producción pide nuevas máquinas. ¿Qué área decide en qué se invierte?",
+      "opciones": [
+        "El área de financiación",
+        "El área de inversión",
+        "El área comercial",
+        "El área de recursos humanos"
+      ],
+      "correcta": 1,
+      "explicacion": "La financiación busca de dónde obtener el dinero; la inversión aprueba en qué se gasta y qué puede hacer cada departamento.",
+      "nivel": "aplicar",
+      "fuente": "Economía 1.pdf, p. 5 (pág. libro 26) – Área de inversión y financiación"
+    },
+    {
+      "id": "e-q-014",
+      "temaId": "e-areas",
+      "enunciado": "En la cadena de valor de Porter, el transporte y almacenamiento de materias primas dentro de la empresa es…",
+      "opciones": [
+        "logística externa",
+        "compras",
+        "logística interna",
+        "operaciones"
+      ],
+      "correcta": 2,
+      "explicacion": "La logística interna mueve materias primas dentro de la empresa; la externa distribuye el producto final a los clientes. Compras (adquirirlas) es una actividad de apoyo.",
+      "nivel": "recordar",
+      "fuente": "Economía 1.pdf, p. 5 (pág. libro 26) – La cadena de valor"
+    },
+    {
+      "id": "e-q-015",
+      "temaId": "e-areas",
+      "enunciado": "¿Cuál de estas es una actividad de apoyo en la cadena de valor?",
+      "opciones": [
+        "Desarrollo tecnológico",
+        "Marketing y ventas",
+        "Servicio posventa",
+        "Operaciones"
+      ],
+      "correcta": 0,
+      "explicacion": "Las de apoyo son infraestructura, RR. HH., desarrollo tecnológico y compras. Marketing, servicio y operaciones son primarias.",
+      "nivel": "recordar",
+      "fuente": "Economía 1.pdf, p. 5 (pág. libro 26) – La cadena de valor"
+    },
+    {
+      "id": "e-q-016",
+      "temaId": "e-areas",
+      "enunciado": "¿Para qué sirve principalmente la cadena de valor?",
+      "opciones": [
+        "Para analizar los factores políticos y económicos del entorno",
+        "Para medir el grado de competencia de un sector",
+        "Para el análisis interno: detectar dónde reducir costes, mejorar la eficiencia o diferenciarse",
+        "Para clasificar las empresas según su tamaño"
+      ],
+      "correcta": 2,
+      "explicacion": "La cadena de valor es una herramienta de análisis interno. El entorno se estudia con PESTEL y la competencia del sector con las cinco fuerzas.",
+      "nivel": "comprender",
+      "fuente": "Economía 1.pdf, p. 5 (pág. libro 26) – La cadena de valor"
+    },
+    {
+      "id": "e-q-017",
+      "temaId": "e-clasificacion",
+      "enunciado": "Una empresa tiene 5 trabajadores, 500.000 € de ventas y 4 millones de activo. Según la clasificación UE, es…",
+      "opciones": [
+        "una pequeña empresa",
+        "una mediana empresa",
+        "imposible de clasificar porque el activo supera el límite",
+        "una microempresa"
+      ],
+      "correcta": 3,
+      "explicacion": "Cumple el criterio de trabajadores (≤ 10) y uno de los otros dos (ventas < 2 M€). Basta con uno, así que el activo no lo impide.",
+      "nivel": "aplicar",
+      "fuente": "Economía 1.pdf, p. 6 (pág. libro 27) – Según su tamaño"
+    },
+    {
+      "id": "e-q-018",
+      "temaId": "e-clasificacion",
+      "enunciado": "Esa misma empresa (5 trabajadores, 4 M€ de activo) pasa a vender 5 millones de euros. ¿Cómo se clasificaría?",
+      "opciones": [
+        "Microempresa",
+        "Mediana empresa",
+        "Pequeña empresa",
+        "Gran empresa"
+      ],
+      "correcta": 2,
+      "explicacion": "Ya no cumple ni ventas ni activo de microempresa (< 2 M€), pero sí los de pequeña (< 10 M€), como indica el ejemplo del texto.",
+      "nivel": "aplicar",
+      "fuente": "Economía 1.pdf, p. 6 (pág. libro 27) – Según su tamaño"
+    },
+    {
+      "id": "e-q-019",
+      "temaId": "e-clasificacion",
+      "enunciado": "Una constructora pertenece al sector…",
+      "opciones": [
+        "secundario",
+        "primario",
+        "terciario",
+        "cuaternario"
+      ],
+      "correcta": 0,
+      "explicacion": "El texto incluye la construcción en el sector secundario, junto a la industria.",
+      "nivel": "recordar",
+      "fuente": "Economía 1.pdf, p. 7 (pág. libro 28) – Según el sector económico"
+    },
+    {
+      "id": "e-q-020",
+      "temaId": "e-clasificacion",
+      "enunciado": "Una empresa española vende sus productos en Francia, pero produce y distribuye solo desde España. ¿Cómo se clasifica por su ámbito?",
+      "opciones": [
+        "Multinacional",
+        "Local",
+        "Mixta",
+        "Internacional, no multinacional"
+      ],
+      "correcta": 3,
+      "explicacion": "Para ser multinacional no basta con vender en otro país: debe llevar allí la producción o la distribución.",
+      "nivel": "aplicar",
+      "fuente": "Economía 1.pdf, p. 7 (pág. libro 28) – Según el ámbito de actuación"
+    },
+    {
+      "id": "e-q-021",
+      "temaId": "e-clasificacion",
+      "enunciado": "¿Qué diferencia a una empresa pública de una privada según el texto?",
+      "opciones": [
+        "La pública siempre tiene pérdidas",
+        "La privada es siempre más grande que la pública",
+        "La pública no solo busca beneficios: también presta servicios sociales",
+        "La privada pertenece en parte al Estado"
+      ],
+      "correcta": 2,
+      "explicacion": "La privada busca beneficios; la pública, además, presta servicios sociales. La propiedad compartida es la empresa mixta.",
+      "nivel": "comprender",
+      "fuente": "Economía 1.pdf, p. 7 (pág. libro 28) – Según la propiedad del capital"
+    },
+    {
+      "id": "e-q-022",
+      "temaId": "e-formajuridica",
+      "enunciado": "Juan abre un bar como autónomo y el bar cierra con deudas. ¿Qué ocurre según el texto?",
+      "opciones": [
+        "Solo responde el patrimonio del bar",
+        "El banco puede reclamar la deuda a Juan, porque empresa y persona son lo mismo",
+        "La deuda desaparece al cerrar el bar",
+        "Responde solo hasta el capital aportado"
+      ],
+      "correcta": 1,
+      "explicacion": "Sin personalidad jurídica propia, las obligaciones del negocio son las del empresario (responsabilidad ilimitada).",
+      "nivel": "aplicar",
+      "fuente": "Economía 1.pdf, p. 8 (pág. libro 29) – Personalidad física y jurídica"
+    },
+    {
+      "id": "e-q-023",
+      "temaId": "e-formajuridica",
+      "enunciado": "¿Qué significa tener responsabilidad limitada al capital aportado?",
+      "opciones": [
+        "Que se responde con el patrimonio presente y futuro",
+        "Que si un socio no paga, pagan los demás",
+        "Que como mucho se pierde el dinero puesto en la empresa",
+        "Que no se pagan impuestos sobre los beneficios"
+      ],
+      "correcta": 2,
+      "explicacion": "Las deudas se pagan con el patrimonio de la empresa, no con el de los socios. Pagar por otro socio es la responsabilidad solidaria.",
+      "nivel": "comprender",
+      "fuente": "Economía 1.pdf, p. 9 (pág. libro 30) – La responsabilidad de los socios"
+    },
+    {
+      "id": "e-q-024",
+      "temaId": "e-formajuridica",
+      "enunciado": "Según el texto, si esperas ganar poco dinero al principio, ¿qué forma suele interesar más fiscalmente?",
+      "opciones": [
+        "Una sociedad anónima, porque el IS es progresivo",
+        "Una sociedad limitada, porque no paga impuestos",
+        "Ser autónomo (IRPF), porque con pocos beneficios el porcentaje es bajo",
+        "Una cooperativa, porque no paga ningún impuesto"
+      ],
+      "correcta": 2,
+      "explicacion": "El IRPF crece al ganar más, mientras que el Impuesto de Sociedades es un porcentaje fijo; con pocos beneficios, el autónomo paga menos.",
+      "nivel": "comprender",
+      "fuente": "Economía 1.pdf, p. 9 (pág. libro 30) – Pago de impuestos"
+    },
+    {
+      "id": "e-q-025",
+      "temaId": "e-formajuridica",
+      "enunciado": "Una diseñadora autónoma obtiene el 80% de sus ingresos de una sola agencia. ¿Qué figura es?",
+      "opciones": [
+        "Un autónomo con trabajadores",
+        "Un TRADE",
+        "Un falso autónomo",
+        "Un socio industrial"
+      ],
+      "correcta": 1,
+      "explicacion": "Si al menos el 75% de los ingresos provienen de un cliente, se es trabajador autónomo económicamente dependiente (TRADE).",
+      "nivel": "aplicar",
+      "fuente": "Economía 1.pdf, p. 10 (pág. libro 31) – Los autónomos"
+    },
+    {
+      "id": "e-q-026",
+      "temaId": "e-formajuridica",
+      "enunciado": "¿Cuál de estas es una característica del empresario individual?",
+      "opciones": [
+        "No necesita capital mínimo",
+        "Tiene responsabilidad limitada al capital aportado",
+        "Paga el Impuesto de Sociedades",
+        "Necesita al menos dos socios"
+      ],
+      "correcta": 0,
+      "explicacion": "El empresario individual no necesita capital mínimo, tiene responsabilidad ilimitada y paga IRPF.",
+      "nivel": "recordar",
+      "fuente": "Economía 1.pdf, p. 10 (pág. libro 31) – El empresario individual"
+    },
+    {
+      "id": "e-q-027",
+      "temaId": "e-formajuridica",
+      "enunciado": "¿Con qué fin se creó la figura del TRADE?",
+      "opciones": [
+        "Para reducir los impuestos de las grandes empresas",
+        "Para permitir sociedades de un solo socio",
+        "Para combatir los falsos autónomos",
+        "Para limitar la responsabilidad de los autónomos"
+      ],
+      "correcta": 2,
+      "explicacion": "El TRADE tiene derechos como desempleo y vacaciones, frente a la uberización. Limitar la responsabilidad corresponde al autónomo de responsabilidad limitada (2013).",
+      "nivel": "comprender",
+      "fuente": "Economía 1.pdf, p. 10 (pág. libro 31) – Los autónomos"
+    },
+    {
+      "id": "e-q-028",
+      "temaId": "e-sociedades",
+      "enunciado": "En una sociedad colectiva, un socio no puede pagar su parte de una deuda. ¿Qué ocurre?",
+      "opciones": [
+        "La deuda se cancela",
+        "Solo responde el patrimonio de la sociedad",
+        "El socio pierde únicamente su aportación",
+        "Los demás socios deben pagar por él"
+      ],
+      "correcta": 3,
+      "explicacion": "La responsabilidad en la colectiva es ilimitada y solidaria: si uno no paga, deben hacerlo los demás.",
+      "nivel": "aplicar",
+      "fuente": "Economía 1.pdf, p. 11 (pág. libro 32) – La sociedad colectiva"
+    },
+    {
+      "id": "e-q-029",
+      "temaId": "e-sociedades",
+      "enunciado": "En la sociedad comanditaria simple, ¿qué responsabilidad tienen los socios comanditarios?",
+      "opciones": [
+        "Limitada al capital aportado",
+        "Ilimitada y solidaria",
+        "Ilimitada pero no solidaria",
+        "Ninguna responsabilidad"
+      ],
+      "correcta": 0,
+      "explicacion": "Los comanditarios solo aportan capital y no gestionan: responsabilidad limitada. Los colectivos, en cambio, responden de forma ilimitada y solidaria.",
+      "nivel": "recordar",
+      "fuente": "Economía 1.pdf, p. 11 (pág. libro 32) – La sociedad comanditaria simple"
+    },
+    {
+      "id": "e-q-030",
+      "temaId": "e-sociedades",
+      "enunciado": "¿Qué rasgo distingue a las sociedades capitalistas de las personalistas?",
+      "opciones": [
+        "Los socios siempre llevan la gestión",
+        "La responsabilidad es ilimitada y solidaria",
+        "La transmisión de la condición de socio es siempre restringida",
+        "Importa el capital aportado y no las características personales de los socios"
+      ],
+      "correcta": 3,
+      "explicacion": "En las capitalistas los socios pueden contratar directivos, la transmisión es en general libre y la responsabilidad limitada.",
+      "nivel": "comprender",
+      "fuente": "Economía 1.pdf, p. 12 (pág. libro 33) – Sociedades capitalistas"
+    },
+    {
+      "id": "e-q-031",
+      "temaId": "e-sociedades",
+      "enunciado": "¿Cuál es el capital social mínimo de una sociedad limitada según el texto?",
+      "opciones": [
+        "1 € (antes eran 3.000 €)",
+        "3.000 €",
+        "60.000 €",
+        "No hay capital mínimo"
+      ],
+      "correcta": 0,
+      "explicacion": "Hoy es 1 €, aunque se debe destinar el 20% de los beneficios a reserva hasta llegar a 3.000 €. 60.000 € corresponde a la S.A.",
+      "nivel": "recordar",
+      "fuente": "Economía 1.pdf, p. 17 (pág. libro 38) – Tabla de formas jurídicas"
+    },
+    {
+      "id": "e-q-032",
+      "temaId": "e-sociedades",
+      "enunciado": "María y Ana quieren abrir una pequeña academia con poca inversión y sin arriesgar su patrimonio personal. ¿Qué forma les recomienda el texto?",
+      "opciones": [
+        "Sociedad colectiva",
+        "Sociedad limitada",
+        "Empresario individual",
+        "Sociedad anónima"
+      ],
+      "correcta": 1,
+      "explicacion": "La S.L. ofrece responsabilidad limitada con poco capital y pocos socios. La colectiva tiene responsabilidad ilimitada y la S.A. exige 60.000 €.",
+      "nivel": "comprender",
+      "fuente": "Economía 1.pdf, p. 12 (pág. libro 33) – La sociedad limitada"
+    },
+    {
+      "id": "e-q-033",
+      "temaId": "e-sociedades",
+      "enunciado": "Al constituirse una sociedad anónima, ¿qué parte del capital mínimo debe estar desembolsada?",
+      "opciones": [
+        "Al menos el 25%, con el 100% suscrito",
+        "El 100% desembolsado",
+        "Al menos el 50%",
+        "No hace falta desembolsar nada al principio"
+      ],
+      "correcta": 0,
+      "explicacion": "Los 60.000 € deben estar totalmente suscritos y desembolsados al menos en un 25%.",
+      "nivel": "recordar",
+      "fuente": "Economía 1.pdf, p. 13 (pág. libro 34) – La sociedad anónima"
+    },
+    {
+      "id": "e-q-034",
+      "temaId": "e-sociedades",
+      "enunciado": "Un accionista posee el 51% de las acciones de una S.A. Según el texto, ¿qué implica?",
+      "opciones": [
+        "Tiene solo un voto, igual que los demás",
+        "Tiene el poder total, porque siempre tendrá la mayoría en las votaciones",
+        "Puede convocar la junta, pero no votar",
+        "Responde ilimitadamente de las deudas"
+      ],
+      "correcta": 1,
+      "explicacion": "En la junta los votos dependen del número de acciones. Un voto por socio es propio de la asamblea de una cooperativa.",
+      "nivel": "comprender",
+      "fuente": "Economía 1.pdf, p. 13 (pág. libro 34) – Órganos de gobierno de la S.A."
+    },
+    {
+      "id": "e-q-035",
+      "temaId": "e-sociedades",
+      "enunciado": "¿Quién puede solicitar una junta extraordinaria de accionistas, además de los administradores?",
+      "opciones": [
+        "Al menos el 5% de los accionistas",
+        "Al menos el 51% de los accionistas",
+        "Cualquier trabajador de la empresa",
+        "Solo el Registro Mercantil"
+      ],
+      "correcta": 0,
+      "explicacion": "La convocan los administradores cuando lo crean oportuno o la solicita al menos el 5% de los accionistas.",
+      "nivel": "recordar",
+      "fuente": "Economía 1.pdf, p. 13 (pág. libro 34) – Órganos de gobierno de la S.A."
+    },
+    {
+      "id": "e-q-036",
+      "temaId": "e-sociedades",
+      "enunciado": "¿En qué se diferencian las participaciones de la S.L. de las acciones de la S.A.?",
+      "opciones": [
+        "Las participaciones cotizan en bolsa y las acciones no",
+        "Las participaciones no cotizan en bolsa y su transmisión a extraños requiere consentimiento",
+        "Las participaciones son divisibles y las acciones no",
+        "Las participaciones dan derecho a intereses fijos"
+      ],
+      "correcta": 1,
+      "explicacion": "Ambas son partes iguales, acumulables e indivisibles; pero las acciones cotizan y se transmiten libremente. Los intereses son propios de las obligaciones.",
+      "nivel": "comprender",
+      "fuente": "Economía 1.pdf, pp. 12–13, 19 (págs. libro 33–34, 40) – S.L., S.A. y anexo"
+    },
+    {
+      "id": "e-q-037",
+      "temaId": "e-interessocial",
+      "enunciado": "Los trabajadores de una empresa a punto de cerrar deciden quedarse con ella y ser sus dueños. ¿Qué forma jurídica sugiere el texto?",
+      "opciones": [
+        "Sociedad laboral",
+        "Sociedad comanditaria simple",
+        "Comunidad de bienes",
+        "Sociedad anónima unipersonal"
+      ],
+      "correcta": 0,
+      "explicacion": "La sociedad laboral se usa mucho cuando los trabajadores «rescatan» una empresa con dificultades y se convierten en dueños.",
+      "nivel": "comprender",
+      "fuente": "Economía 1.pdf, p. 14 (pág. libro 35) – La sociedad laboral"
+    },
+    {
+      "id": "e-q-038",
+      "temaId": "e-interessocial",
+      "enunciado": "En una sociedad laboral con 90.000 € de capital, ¿cuál es la participación máxima que puede tener un solo socio?",
+      "opciones": [
+        "45.900 €",
+        "60.000 €",
+        "30.000 €",
+        "44.100 €"
+      ],
+      "correcta": 2,
+      "explicacion": "Ningún socio puede tener más de un tercio del capital: 90.000 / 3 = 30.000 €. 45.900 € sería el 51%, que es el mínimo conjunto de los trabajadores indefinidos.",
+      "nivel": "aplicar",
+      "fuente": "Economía 1.pdf, p. 14 (pág. libro 35) – Requisitos de la sociedad laboral"
+    },
+    {
+      "id": "e-q-039",
+      "temaId": "e-interessocial",
+      "enunciado": "En una sociedad laboral, ¿qué porcentaje mínimo del capital debe pertenecer a trabajadores indefinidos?",
+      "opciones": [
+        "El 33%",
+        "El 49%",
+        "El 25%",
+        "El 51%"
+      ],
+      "correcta": 3,
+      "explicacion": "Al menos el 51%. El 49% es el límite de horas de los indefinidos no socios respecto a las de los socios trabajadores.",
+      "nivel": "recordar",
+      "fuente": "Economía 1.pdf, p. 14 (pág. libro 35) – Requisitos de la sociedad laboral"
+    },
+    {
+      "id": "e-q-040",
+      "temaId": "e-interessocial",
+      "enunciado": "¿Cómo se vota en la asamblea general de una cooperativa?",
+      "opciones": [
+        "Según el número de participaciones",
+        "Según el número de acciones",
+        "Cada socio tiene un voto, sea cual sea su capital",
+        "Solo vota el consejo rector"
+      ],
+      "correcta": 2,
+      "explicacion": "La cooperativa es democrática: un socio, un voto. El voto por acciones es propio de la S.A.",
+      "nivel": "recordar",
+      "fuente": "Economía 1.pdf, p. 15 (pág. libro 36) – Órganos de gestión"
+    },
+    {
+      "id": "e-q-041",
+      "temaId": "e-interessocial",
+      "enunciado": "Varios agricultores se unen para vender juntos su producción y negociar mejores precios. ¿Qué tipo de cooperativa forman?",
+      "opciones": [
+        "De consumo",
+        "De trabajo asociado",
+        "De segundo grado",
+        "De venta"
+      ],
+      "correcta": 3,
+      "explicacion": "En las de venta los socios venden en común para ganar poder de negociación (como las agrarias). Las de consumo se unen para comprar.",
+      "nivel": "aplicar",
+      "fuente": "Economía 1.pdf, p. 15 (pág. libro 36) – Tipos de cooperativas"
+    },
+    {
+      "id": "e-q-042",
+      "temaId": "e-interessocial",
+      "enunciado": "¿Qué ocurre con los beneficios (excedentes) de una cooperativa?",
+      "opciones": [
+        "Se reparten según el capital aportado por cada socio",
+        "Se entregan al Estado",
+        "Se destinan íntegramente a dividendos",
+        "Se reinvierten en la cooperativa y en mejorar el entorno social"
+      ],
+      "correcta": 3,
+      "explicacion": "La cooperativa no tiene ánimo de lucro: los excedentes deben reinvertirse.",
+      "nivel": "comprender",
+      "fuente": "Economía 1.pdf, p. 15 (pág. libro 36) – La sociedad cooperativa"
+    },
+    {
+      "id": "e-q-043",
+      "temaId": "e-interessocial",
+      "enunciado": "Tres hermanos heredan un local que no pueden dividir y deciden abrir en él un negocio. ¿Qué forma encaja según el texto?",
+      "opciones": [
+        "Sociedad civil",
+        "Comunidad de bienes",
+        "Cooperativa de primer grado",
+        "Sociedad laboral"
+      ],
+      "correcta": 1,
+      "explicacion": "La comunidad de bienes surge cuando un bien pertenece a varias personas y no se puede dividir (p. ej., herencia). La sociedad civil se crea expresamente para obtener beneficios.",
+      "nivel": "aplicar",
+      "fuente": "Economía 1.pdf, p. 16 (pág. libro 37) – La comunidad de bienes"
+    },
+    {
+      "id": "e-q-044",
+      "temaId": "e-marco",
+      "enunciado": "¿Qué rama del derecho regula las relaciones entre empresarios y trabajadores?",
+      "opciones": [
+        "El derecho mercantil",
+        "El derecho fiscal",
+        "El derecho laboral",
+        "El derecho comunitario"
+      ],
+      "correcta": 2,
+      "explicacion": "El derecho laboral regula esas relaciones y las de ambos con el Estado. El mercantil regula las relaciones comerciales.",
+      "nivel": "recordar",
+      "fuente": "Economía 1.pdf, p. 18 (pág. libro 39) – Marco jurídico"
+    },
+    {
+      "id": "e-q-045",
+      "temaId": "e-marco",
+      "enunciado": "Un bar paga al ayuntamiento por instalar su terraza en la acera. ¿Qué tributo es?",
+      "opciones": [
+        "Una tasa",
+        "Un impuesto",
+        "Una contribución especial",
+        "Una cotización social"
+      ],
+      "correcta": 0,
+      "explicacion": "La tasa se paga por recibir un servicio o usar un espacio público. La contribución especial se paga por el beneficio de una obra pública.",
+      "nivel": "aplicar",
+      "fuente": "Economía 1.pdf, p. 18 (pág. libro 39) – Derecho fiscal"
+    },
+    {
+      "id": "e-q-046",
+      "temaId": "e-marco",
+      "enunciado": "El ayuntamiento pavimenta una calle y los comercios situados en ella pagan por el beneficio obtenido. ¿Qué tributo es?",
+      "opciones": [
+        "Una contribución especial",
+        "Una tasa",
+        "Un impuesto",
+        "Una multa"
+      ],
+      "correcta": 0,
+      "explicacion": "Las contribuciones especiales se pagan por el aumento de valor o beneficio derivado de obras o servicios públicos.",
+      "nivel": "aplicar",
+      "fuente": "Economía 1.pdf, p. 18 (pág. libro 39) – Derecho fiscal"
+    },
+    {
+      "id": "e-q-047",
+      "temaId": "e-marco",
+      "enunciado": "¿Qué funciones del Registro Mercantil destaca el texto?",
+      "opciones": [
+        "Cobrar el Impuesto de Sociedades",
+        "Inscribir las empresas al constituirse y legalizar sus libros contables",
+        "Resolver los conflictos laborales",
+        "Conceder subvenciones a las PYMES"
+      ],
+      "correcta": 1,
+      "explicacion": "El Registro Mercantil da publicidad oficial a los actos de empresarios y sociedades; entre sus funciones están la inscripción y la legalización de libros.",
+      "nivel": "recordar",
+      "fuente": "Economía 1.pdf, p. 18 (pág. libro 39) – Derecho mercantil"
+    },
+    {
+      "id": "e-q-048",
+      "temaId": "e-marco",
+      "enunciado": "Según el texto, ¿qué recoge el Estatuto de los Trabajadores?",
+      "opciones": [
+        "Capital mínimo de las sociedades anónimas",
+        "Jornada máxima de 40 horas semanales y 30 días de vacaciones pagadas",
+        "Libertad de empresa del artículo 38",
+        "Normas de etiquetado de alimentos"
+      ],
+      "correcta": 1,
+      "explicacion": "El Estatuto (1980) recoge derechos laborales. El capital de la S.A. lo regula la Ley de Sociedades de Capital y la libertad de empresa, la Constitución.",
+      "nivel": "recordar",
+      "fuente": "Economía 1.pdf, p. 18 (pág. libro 39) – Derecho laboral"
+    },
+    {
+      "id": "e-q-049",
+      "temaId": "e-acciones",
+      "enunciado": "Una acción tiene un valor nominal de 10 € y cotiza en bolsa a 12 €. ¿Cómo cotiza?",
+      "opciones": [
+        "Bajo la par",
+        "Sobre la par",
+        "A la par",
+        "No se puede saber sin el valor de emisión"
+      ],
+      "correcta": 1,
+      "explicacion": "Si VC > VN, la acción cotiza sobre la par. Con VC < VN cotizaría bajo la par.",
+      "nivel": "aplicar",
+      "fuente": "Economía 1.pdf, p. 19 (pág. libro 40) – Valor de cotización"
+    },
+    {
+      "id": "e-q-050",
+      "temaId": "e-acciones",
+      "enunciado": "Una empresa tiene un patrimonio neto de 500.000 € y 20.000 acciones. ¿Cuál es su valor teórico contable por acción?",
+      "opciones": [
+        "40 €",
+        "25 €",
+        "2,5 €",
+        "250 €"
+      ],
+      "correcta": 1,
+      "explicacion": "VTC = patrimonio neto / número de acciones = 500.000 / 20.000 = 25 €.",
+      "nivel": "aplicar",
+      "fuente": "Economía 1.pdf, p. 19 (pág. libro 40) – Valor teórico contable"
+    },
+    {
+      "id": "e-q-051",
+      "temaId": "e-acciones",
+      "enunciado": "Antes de una ampliación, una acción cotiza a 15 €; después, su valor es 13 €. ¿Cuál es el derecho de suscripción preferente?",
+      "opciones": [
+        "2 €",
+        "28 €",
+        "13 €",
+        "1,15 €"
+      ],
+      "correcta": 0,
+      "explicacion": "DS = VC − VTamp = 15 − 13 = 2 €.",
+      "nivel": "aplicar",
+      "fuente": "Economía 1.pdf, p. 19 (pág. libro 40) – Derecho de suscripción preferente"
+    },
+    {
+      "id": "e-q-052",
+      "temaId": "e-acciones",
+      "enunciado": "¿Qué diferencia a una obligación de una acción?",
+      "opciones": [
+        "La obligación da derecho a voto en la junta",
+        "La obligación es parte del capital social de una S.L.",
+        "La obligación da derecho a dividendos",
+        "La obligación no da participación en la empresa y su titular cobra intereses"
+      ],
+      "correcta": 3,
+      "explicacion": "La obligación es parte de un empréstito: su poseedor es acreedor, no socio. Las acciones dan derecho a beneficios y voto.",
+      "nivel": "comprender",
+      "fuente": "Economía 1.pdf, p. 19 (pág. libro 40) – Acciones, participaciones y obligaciones"
+    },
+    {
+      "id": "e-q-053",
+      "temaId": "e-acciones",
+      "enunciado": "¿Cuál de estos es un derecho que otorgan las acciones?",
+      "opciones": [
+        "Cobrar un interés fijo cada año",
+        "Gestionar directamente la empresa",
+        "Recuperar siempre el valor nominal",
+        "Preferencia para obtener nuevas acciones si la empresa amplía capital"
+      ],
+      "correcta": 3,
+      "explicacion": "Los derechos son: dividendos, preferencia en ampliaciones y asistencia y voto en la junta. El interés fijo es propio de las obligaciones.",
+      "nivel": "recordar",
+      "fuente": "Economía 1.pdf, p. 19 (pág. libro 40) – Derechos de las acciones"
+    },
+    {
+      "id": "e-q-054",
+      "temaId": "e-entorno",
+      "enunciado": "¿Qué herramienta se usa para analizar el entorno general de la empresa?",
+      "opciones": [
+        "Las cinco fuerzas de Porter",
+        "La cadena de valor",
+        "La matriz de Ansoff",
+        "El análisis PESTEL"
+      ],
+      "correcta": 3,
+      "explicacion": "El entorno general se estudia con PESTEL. Las fuerzas de Porter analizan el específico y la cadena de valor el interno.",
+      "nivel": "recordar",
+      "fuente": "Economía 2.pdf, p. 2 (pág. libro 62) – Entorno general"
+    },
+    {
+      "id": "e-q-055",
+      "temaId": "e-entorno",
+      "enunciado": "Suben los tipos de interés. ¿Qué factor PESTEL es y qué efecto directo tiene?",
+      "opciones": [
+        "Económico: pedir prestado sale más caro para las empresas",
+        "Político: aumentan los impuestos",
+        "Legal: cambia el Estatuto de los Trabajadores",
+        "Tecnológico: se encarece la innovación"
+      ],
+      "correcta": 0,
+      "explicacion": "Los tipos de interés son una variable macroeconómica: si suben, las empresas devuelven más intereses al pedir prestado.",
+      "nivel": "aplicar",
+      "fuente": "Economía 2.pdf, p. 2 (pág. libro 62) – Factores económicos"
+    },
+    {
+      "id": "e-q-056",
+      "temaId": "e-entorno",
+      "enunciado": "La creciente preocupación por la contaminación del plástico lleva a muchas empresas a usar envoltorios de papel. ¿Qué factor PESTEL es?",
+      "opciones": [
+        "Sociocultural",
+        "Legal",
+        "Ecológico",
+        "Tecnológico"
+      ],
+      "correcta": 2,
+      "explicacion": "El texto usa este ejemplo para los factores ecológicos. Lo sociocultural se refiere a estilos de vida, educación o hábitos de consumo.",
+      "nivel": "comprender",
+      "fuente": "Economía 2.pdf, p. 2 (pág. libro 62) – Factores ecológicos"
+    },
+    {
+      "id": "e-q-057",
+      "temaId": "e-entorno",
+      "enunciado": "¿Qué diferencia al entorno general del específico?",
+      "opciones": [
+        "El general solo incluye a los clientes; el específico al Estado",
+        "El general depende de la propia empresa; el específico no",
+        "El general afecta por igual a todas las empresas de una región; el específico, a las de un mismo sector",
+        "Son lo mismo, pero con distinto nombre"
+      ],
+      "correcta": 2,
+      "explicacion": "El general (PESTEL) es común a todas; el específico (clientes, proveedores, competidores, intermediarios) afecta a empresas con características comunes.",
+      "nivel": "comprender",
+      "fuente": "Economía 2.pdf, p. 2 (pág. libro 62) – El entorno de la empresa"
+    },
+    {
+      "id": "e-q-058",
+      "temaId": "e-entorno",
+      "enunciado": "¿Cuál de estos factores pertenece al entorno específico?",
+      "opciones": [
+        "Los intermediarios",
+        "La inflación",
+        "El nivel educativo",
+        "Las leyes contra la desigualdad"
+      ],
+      "correcta": 0,
+      "explicacion": "Clientes, proveedores, competidores e intermediarios forman el entorno específico; los otros son factores PESTEL.",
+      "nivel": "recordar",
+      "fuente": "Economía 2.pdf, p. 2 (pág. libro 62) – Entorno específico"
+    },
+    {
+      "id": "e-q-059",
+      "temaId": "e-porter",
+      "enunciado": "En el sector ferroviario los costes para empezar a operar son altísimos. ¿Qué efecto tiene sobre la amenaza de nuevos competidores?",
+      "opciones": [
+        "La aumenta, porque atrae inversores",
+        "La reduce, porque es una barrera de entrada",
+        "No influye en la amenaza de entrada",
+        "Aumenta el poder de los proveedores"
+      ],
+      "correcta": 1,
+      "explicacion": "Los elevados costes de inicio son una barrera de entrada: a mayores barreras, menor amenaza de nuevos competidores.",
+      "nivel": "aplicar",
+      "fuente": "Economía 2.pdf, p. 4 (pág. libro 64) – Amenaza de nuevos competidores"
+    },
+    {
+      "id": "e-q-060",
+      "temaId": "e-porter",
+      "enunciado": "La aparición de BlaBlaCar aumentó la competencia de RENFE. ¿Qué fuerza de Porter ilustra?",
+      "opciones": [
+        "Amenaza de nuevos competidores",
+        "Poder negociador de clientes",
+        "Amenaza de productos sustitutivos",
+        "Poder negociador de proveedores"
+      ],
+      "correcta": 2,
+      "explicacion": "BlaBlaCar es un producto diferente que cubre la misma necesidad: un sustituto, no un competidor del mismo producto.",
+      "nivel": "comprender",
+      "fuente": "Economía 2.pdf, p. 4 (pág. libro 64) – Amenaza de productos sustitutivos"
+    },
+    {
+      "id": "e-q-061",
+      "temaId": "e-porter",
+      "enunciado": "¿En qué situación aumenta el poder negociador de los proveedores?",
+      "opciones": [
+        "Cuando hay muchos proveedores desorganizados",
+        "Cuando hay pocos proveedores y es difícil cambiar de proveedor",
+        "Cuando la empresa puede cambiar de proveedor fácilmente",
+        "Cuando los clientes están bien organizados"
+      ],
+      "correcta": 1,
+      "explicacion": "El poder de los proveedores aumenta si son pocos, están bien organizados y la empresa tiene difícil cambiar.",
+      "nivel": "comprender",
+      "fuente": "Economía 2.pdf, p. 4 (pág. libro 64) – Poder negociador de proveedores"
+    },
+    {
+      "id": "e-q-062",
+      "temaId": "e-porter",
+      "enunciado": "¿Cuál de estos factores aumenta la rivalidad entre competidores?",
+      "opciones": [
+        "Pocos competidores y productos muy diferenciados",
+        "Productos muy parecidos y crecimiento lento del sector",
+        "Altas barreras de entrada",
+        "Crecimiento rápido de la demanda"
+      ],
+      "correcta": 1,
+      "explicacion": "La rivalidad crece con muchas empresas, productos parecidos, crecimiento lento y productos perecederos.",
+      "nivel": "comprender",
+      "fuente": "Economía 2.pdf, p. 4 (pág. libro 64) – Grado de rivalidad"
+    },
+    {
+      "id": "e-q-063",
+      "temaId": "e-porter",
+      "enunciado": "Según Porter, la rivalidad entre competidores…",
+      "opciones": [
+        "es la única fuerza que importa",
+        "solo depende del Estado",
+        "no es una fuerza en sí misma: depende de las otras cuatro",
+        "es independiente del poder de clientes y proveedores"
+      ],
+      "correcta": 2,
+      "explicacion": "Para Porter, el grado de rivalidad depende fundamentalmente de las otras cuatro fuerzas.",
+      "nivel": "recordar",
+      "fuente": "Economía 2.pdf, p. 4 (pág. libro 64) – Grado de rivalidad"
+    },
+    {
+      "id": "e-q-064",
+      "temaId": "e-dafo",
+      "enunciado": "Un supermercado dispone de un amplio aparcamiento propio. En su DAFO esto es…",
+      "opciones": [
+        "una oportunidad",
+        "una amenaza",
+        "una debilidad",
+        "una fortaleza"
+      ],
+      "correcta": 3,
+      "explicacion": "Es un rasgo propio que da ventaja: fortaleza (análisis interno). Las oportunidades vienen del entorno.",
+      "nivel": "comprender",
+      "fuente": "Economía 2.pdf, p. 6 (pág. libro 66) – Análisis interno"
+    },
+    {
+      "id": "e-q-065",
+      "temaId": "e-dafo",
+      "enunciado": "Para un fabricante de coches eléctricos, la prohibición de los coches diésel es…",
+      "opciones": [
+        "una fortaleza",
+        "una oportunidad",
+        "una amenaza",
+        "una debilidad"
+      ],
+      "correcta": 1,
+      "explicacion": "Es un factor positivo del entorno, externo a la empresa: una oportunidad.",
+      "nivel": "comprender",
+      "fuente": "Economía 2.pdf, p. 6 (pág. libro 66) – Análisis externo"
+    },
+    {
+      "id": "e-q-066",
+      "temaId": "e-dafo",
+      "enunciado": "¿Qué parte del DAFO procede del análisis interno?",
+      "opciones": [
+        "Oportunidades y amenazas",
+        "Amenazas y fortalezas",
+        "Solo las oportunidades",
+        "Fortalezas y debilidades"
+      ],
+      "correcta": 3,
+      "explicacion": "El análisis interno da fortalezas y debilidades; el externo (PESTEL y Porter), oportunidades y amenazas.",
+      "nivel": "recordar",
+      "fuente": "Economía 2.pdf, p. 6 (pág. libro 66) – El análisis DAFO"
+    },
+    {
+      "id": "e-q-067",
+      "temaId": "e-dafo",
+      "enunciado": "Harley-Davidson cobra precios altos porque sus clientes perciben sus motos como únicas. ¿Qué estrategia sigue?",
+      "opciones": [
+        "Liderazgo en costes",
+        "Penetración de mercado",
+        "Diversificación heterogénea",
+        "Diferenciación"
+      ],
+      "correcta": 3,
+      "explicacion": "La diferenciación consigue que el producto se perciba como único y los clientes paguen más.",
+      "nivel": "comprender",
+      "fuente": "Economía 2.pdf, p. 6 (pág. libro 66) – Estrategias competitivas"
+    },
+    {
+      "id": "e-q-068",
+      "temaId": "e-dafo",
+      "enunciado": "¿En qué consiste la estrategia de segmentación o nicho?",
+      "opciones": [
+        "Producir más barato que todos los competidores del mercado total",
+        "Vender productos nuevos en mercados nuevos",
+        "Controlar todas las fases de la cadena de valor",
+        "Centrarse en un grupo pequeño de consumidores y aplicar sobre él costes bajos o diferenciación"
+      ],
+      "correcta": 3,
+      "explicacion": "Tras elegir el segmento, la empresa aplica liderazgo en costes o diferenciación (p. ej., Aquarius para deportistas).",
+      "nivel": "comprender",
+      "fuente": "Economía 2.pdf, p. 6 (pág. libro 66) – Estrategias competitivas"
+    },
+    {
+      "id": "e-q-069",
+      "temaId": "e-localizacion",
+      "enunciado": "Según el texto, ¿qué mide la dimensión de una empresa?",
+      "opciones": [
+        "Su capacidad productiva máxima en un periodo",
+        "Los metros cuadrados de su local",
+        "El número de países en los que vende",
+        "Solo su número de trabajadores"
+      ],
+      "correcta": 0,
+      "explicacion": "Dimensión es capacidad de producción, no espacio físico: el texto lo señala como error común.",
+      "nivel": "comprender",
+      "fuente": "Economía 2.pdf, p. 9 (pág. libro 69) – La dimensión"
+    },
+    {
+      "id": "e-q-070",
+      "temaId": "e-localizacion",
+      "enunciado": "Un hotel con capacidad para 50 clientes recibe 120 en verano. ¿Qué problema tiene en esa temporada?",
+      "opciones": [
+        "Está sobredimensionado y tiene costes excesivos",
+        "Tiene un problema de localización",
+        "Tiene un exceso de capacidad",
+        "Está infradimensionado y pierde clientes"
+      ],
+      "correcta": 3,
+      "explicacion": "La demanda supera la capacidad: falta de capacidad (infradimensionado). En invierno, con 30 clientes, tendría el problema contrario.",
+      "nivel": "comprender",
+      "fuente": "Economía 2.pdf, p. 9 (pág. libro 69) – La dimensión óptima"
+    },
+    {
+      "id": "e-q-071",
+      "temaId": "e-localizacion",
+      "enunciado": "¿Qué factor de localización prioriza sobre todo una tienda de ropa?",
+      "opciones": [
+        "La disponibilidad de materias primas",
+        "La proximidad y accesibilidad para los clientes",
+        "El bajo coste de grandes terrenos",
+        "La cercanía a la industria auxiliar"
+      ],
+      "correcta": 1,
+      "explicacion": "Las empresas comerciales priorizan estar accesibles a los clientes; los costes de materias primas y terreno pesan más en las industriales.",
+      "nivel": "comprender",
+      "fuente": "Economía 2.pdf, p. 8 (pág. libro 68) – Localización comercial"
+    },
+    {
+      "id": "e-q-072",
+      "temaId": "e-localizacion",
+      "enunciado": "¿Por qué localización y dimensión se consideran decisiones estratégicas?",
+      "opciones": [
+        "Porque implican grandes inversiones y cambiarlas tiene graves costes irrecuperables",
+        "Porque se pueden modificar fácilmente cada año",
+        "Porque solo afectan al área comercial",
+        "Porque las decide el Estado"
+      ],
+      "correcta": 0,
+      "explicacion": "Son decisiones a largo plazo, difíciles de modificar a corto plazo y determinantes para el éxito.",
+      "nivel": "comprender",
+      "fuente": "Economía 2.pdf, p. 8 (pág. libro 68) – Localización y dimensión"
+    },
+    {
+      "id": "e-q-073",
+      "temaId": "e-localizacion",
+      "enunciado": "Una empresa textil que no necesita mano de obra cualificada lleva sus talleres a países con salarios bajos. ¿Qué factor de localización industrial prima?",
+      "opciones": [
+        "La proximidad de los clientes",
+        "La visibilidad del local",
+        "El coste de la mano de obra",
+        "La complementariedad de actividades"
+      ],
+      "correcta": 2,
+      "explicacion": "El texto cita a Zara, con talleres en Marruecos o Bangladesh, como ejemplo del factor coste de mano de obra.",
+      "nivel": "comprender",
+      "fuente": "Economía 2.pdf, p. 8 (pág. libro 68) – Localización industrial"
+    },
+    {
+      "id": "e-q-074",
+      "temaId": "e-crecimiento",
+      "enunciado": "Una operadora telefónica lanza ofertas para quitar clientes a la competencia con el mismo servicio. ¿Qué estrategia aplica?",
+      "opciones": [
+        "Penetración de mercado",
+        "Desarrollo de mercados",
+        "Desarrollo de productos",
+        "Diversificación horizontal"
+      ],
+      "correcta": 0,
+      "explicacion": "Vender más el mismo producto en los mismos mercados es penetración; el texto usa este ejemplo.",
+      "nivel": "comprender",
+      "fuente": "Economía 2.pdf, p. 10 (pág. libro 70) – Especialización"
+    },
+    {
+      "id": "e-q-075",
+      "temaId": "e-crecimiento",
+      "enunciado": "Gillette pasó de vender cuchillas a vender también after-shave, espumas y geles a sus mismos clientes. ¿Qué estrategia es?",
+      "opciones": [
+        "Desarrollo de mercados",
+        "Diversificación heterogénea",
+        "Penetración de mercado",
+        "Desarrollo de productos"
+      ],
+      "correcta": 3,
+      "explicacion": "Productos nuevos complementarios para los mismos clientes: desarrollo de productos (especialización).",
+      "nivel": "comprender",
+      "fuente": "Economía 2.pdf, p. 10 (pág. libro 70) – Especialización"
+    },
+    {
+      "id": "e-q-076",
+      "temaId": "e-crecimiento",
+      "enunciado": "Zara no solo distribuye su ropa, sino que también la fabrica. ¿Qué tipo de diversificación es?",
+      "opciones": [
+        "Vertical hacia delante",
+        "Horizontal",
+        "Vertical hacia atrás",
+        "Heterogénea"
+      ],
+      "correcta": 2,
+      "explicacion": "Asumir fases anteriores (el distribuidor se hace fabricante) es diversificación vertical hacia atrás. Abrir tiendas propias sería hacia delante.",
+      "nivel": "comprender",
+      "fuente": "Economía 2.pdf, p. 10 (pág. libro 70) – Diversificación vertical"
+    },
+    {
+      "id": "e-q-077",
+      "temaId": "e-crecimiento",
+      "enunciado": "Según el texto, ¿cuál es la estrategia de crecimiento más arriesgada?",
+      "opciones": [
+        "La penetración de mercado",
+        "La diversificación",
+        "El desarrollo de productos",
+        "La subcontratación"
+      ],
+      "correcta": 1,
+      "explicacion": "La diversificación prueba productos nuevos en mercados que la empresa no conoce.",
+      "nivel": "recordar",
+      "fuente": "Economía 2.pdf, p. 10 (pág. libro 70) – Diversificación"
+    },
+    {
+      "id": "e-q-078",
+      "temaId": "e-crecimiento",
+      "enunciado": "Varias constructoras se asocian solo para construir un puente y se separan al terminarlo. ¿Qué forma de cooperación es?",
+      "opciones": [
+        "Una unión temporal de empresas (UTE)",
+        "Un cártel",
+        "Un clúster",
+        "Un holding"
+      ],
+      "correcta": 0,
+      "explicacion": "La UTE se crea para un proyecto concreto y dura lo que dura el proyecto; es habitual en obras públicas.",
+      "nivel": "aplicar",
+      "fuente": "Economía 2.pdf, p. 11 (pág. libro 71) – Cooperación empresarial"
+    },
+    {
+      "id": "e-q-079",
+      "temaId": "e-crecimiento",
+      "enunciado": "Una empresa adquiere el 60% de las acciones de otra, pero ambas siguen existiendo. ¿Qué tipo de control tiene?",
+      "opciones": [
+        "Absoluto",
+        "Parcial",
+        "Mayoritario",
+        "Ninguno, porque no hay fusión"
+      ],
+      "correcta": 2,
+      "explicacion": "En la participación, más del 50% es control mayoritario; más del 80%, absoluto; menos del 50%, parcial.",
+      "nivel": "aplicar",
+      "fuente": "Economía 2.pdf, p. 11 (pág. libro 71) – Participación"
+    },
+    {
+      "id": "e-q-080",
+      "temaId": "e-crecimiento",
+      "enunciado": "¿Qué diferencia una fusión de una absorción?",
+      "opciones": [
+        "En la fusión no desaparece ninguna empresa",
+        "En la absorción desaparecen ambas",
+        "En la fusión desaparecen todas y nace una nueva; en la absorción solo desaparece la absorbida",
+        "La fusión es vertical y la absorción horizontal"
+      ],
+      "correcta": 2,
+      "explicacion": "Ambas son integración horizontal. Bankia nació de una fusión; Vodafone absorbió a ONO.",
+      "nivel": "comprender",
+      "fuente": "Economía 2.pdf, p. 11 (pág. libro 71) – Integración horizontal"
+    },
+    {
+      "id": "e-q-081",
+      "temaId": "e-crecimiento",
+      "enunciado": "¿Por qué el texto pone las franquicias como ejemplo de integración vertical hacia adelante?",
+      "opciones": [
+        "Porque permiten controlar a los proveedores",
+        "Porque unen a empresas competidoras",
+        "Porque se crean solo para un proyecto",
+        "Porque permiten controlar la distribución del producto"
+      ],
+      "correcta": 3,
+      "explicacion": "La integración hacia adelante busca controlar a los distribuidores; controlar a los proveedores es integración hacia atrás.",
+      "nivel": "comprender",
+      "fuente": "Economía 2.pdf, p. 11 (pág. libro 71) – Integración vertical"
+    },
+    {
+      "id": "e-q-082",
+      "temaId": "e-crecimiento",
+      "enunciado": "Una empresa contrata a una gestoría externa para hacer sus nóminas. ¿Qué está haciendo?",
+      "opciones": [
+        "Integrarse verticalmente hacia atrás",
+        "Subcontratar (outsourcing)",
+        "Formar un clúster",
+        "Diversificar horizontalmente"
+      ],
+      "correcta": 1,
+      "explicacion": "Contratar a especialistas externos para funciones que no es rentable hacer uno mismo es subcontratación, lo contrario de la integración vertical.",
+      "nivel": "aplicar",
+      "fuente": "Economía 2.pdf, p. 12 (pág. libro 72) – Subcontratación"
+    },
+    {
+      "id": "e-q-083",
+      "temaId": "e-crecimiento",
+      "enunciado": "¿Qué caracteriza a un cártel según el texto?",
+      "opciones": [
+        "Empresas del mismo sector pactan precios y se reparten el mercado; está prohibido en la UE",
+        "Empresas de distintos países se unen para entrar en un mercado extranjero",
+        "Empresas se concentran geográficamente junto a universidades",
+        "Una matriz controla empresas de distintos sectores"
+      ],
+      "correcta": 0,
+      "explicacion": "El ejemplo es la OPEP. Las demás opciones describen joint-venture, clúster y holding.",
+      "nivel": "recordar",
+      "fuente": "Economía 2.pdf, p. 11 (pág. libro 71) – Cooperación empresarial"
+    },
+    {
+      "id": "e-q-084",
+      "temaId": "e-multipymes",
+      "enunciado": "¿Qué rasgo permite a las multinacionales producir más barato?",
+      "opciones": [
+        "La responsabilidad ilimitada de sus socios",
+        "La ausencia de impuestos",
+        "Las economías de escala derivadas de su gran tamaño",
+        "El trato cercano con sus clientes"
+      ],
+      "correcta": 2,
+      "explicacion": "Al aumentar su dimensión disminuyen sus costes medios. El trato cercano es una ventaja de las PYMES.",
+      "nivel": "comprender",
+      "fuente": "Economía 2.pdf, p. 13 (pág. libro 73) – Características de las multinacionales"
+    },
+    {
+      "id": "e-q-085",
+      "temaId": "e-multipymes",
+      "enunciado": "Según el texto, ¿qué efecto tiene la deslocalización en el país de origen de la empresa?",
+      "opciones": [
+        "Aumentan los salarios",
+        "Mejora el medioambiente local por menor regulación",
+        "Disminuye el empleo y se pagan menos impuestos",
+        "Se crean empleos en ese país"
+      ],
+      "correcta": 2,
+      "explicacion": "En el país de origen baja el empleo y la recaudación; la creación de empleo ocurre en el país receptor.",
+      "nivel": "comprender",
+      "fuente": "Economía 2.pdf, p. 13 (pág. libro 73) – La deslocalización"
+    },
+    {
+      "id": "e-q-086",
+      "temaId": "e-multipymes",
+      "enunciado": "¿Cuál es un inconveniente de las PYMES según el texto?",
+      "opciones": [
+        "Dificultad para obtener financiación",
+        "Lentitud en la toma de decisiones",
+        "Comunicación distante con los trabajadores",
+        "Excesivo poder negociador"
+      ],
+      "correcta": 0,
+      "explicacion": "Las PYMES dependen de aportaciones de socios o pequeños préstamos. La lentitud de decisiones es propia de las grandes; la flexibilidad es una ventaja de las PYMES.",
+      "nivel": "recordar",
+      "fuente": "Economía 2.pdf, p. 14 (pág. libro 74) – Inconvenientes de las PYMES"
+    },
+    {
+      "id": "e-q-087",
+      "temaId": "e-multipymes",
+      "enunciado": "Según el texto, ¿qué parte del empleo en España crean aproximadamente las PYMES?",
+      "opciones": [
+        "Alrededor del 60%",
+        "Alrededor del 25%",
+        "Alrededor del 96%",
+        "Alrededor del 40%"
+      ],
+      "correcta": 0,
+      "explicacion": "Debido a que son muy numerosas, las PYMES crean alrededor del 60% del empleo en España. El 96% es el porcentaje de microempresas sobre el total de empresas.",
+      "nivel": "recordar",
+      "fuente": "Economía 2.pdf, p. 14 (pág. libro 74) – Ventajas de las PYMES"
+    },
+    {
+      "id": "e-q-088",
+      "temaId": "e-multipymes",
+      "enunciado": "¿Por qué muchas personas prefieren pequeñas empresas para comprar un mueble hecho a medida?",
+      "opciones": [
+        "Porque las PYMES siempre producen más barato",
+        "Porque las PYMES tienen economías de escala",
+        "Porque las PYMES invierten más en investigación",
+        "Porque en actividades artesanales la habilidad del trabajador importa más que la tecnología"
+      ],
+      "correcta": 3,
+      "explicacion": "El texto señala que en actividades artesanales o de trato personal las PYMES son más adecuadas. Las economías de escala son propias de las grandes.",
+      "nivel": "comprender",
+      "fuente": "Economía 2.pdf, p. 14 (pág. libro 74) – Estrategias de las PYMES"
+    },
+    {
+      "id": "e-q-089",
+      "temaId": "e-rsc",
+      "enunciado": "Una fábrica contamina el aire de un barrio y los vecinos sufren problemas de salud sin que la fábrica pague por ello. ¿Qué es?",
+      "opciones": [
+        "Una externalidad positiva",
+        "Una tasa",
+        "Una contribución especial",
+        "Una externalidad negativa (coste social)"
+      ],
+      "correcta": 3,
+      "explicacion": "Los costes sociales son efectos provocados por la empresa pero soportados por la sociedad sin que la empresa los pague.",
+      "nivel": "aplicar",
+      "fuente": "Economía 2.pdf, p. 15 (pág. libro 75) – Costes sociales"
+    },
+    {
+      "id": "e-q-090",
+      "temaId": "e-rsc",
+      "enunciado": "Según el texto, ¿qué es la RSC?",
+      "opciones": [
+        "El mero cumplimiento de las leyes del Estado",
+        "El comportamiento voluntario de la empresa para tener repercusiones positivas en la sociedad",
+        "Un impuesto sobre la contaminación",
+        "La obligación legal de donar parte de los beneficios"
+      ],
+      "correcta": 1,
+      "explicacion": "Hoy se considera que la RSC va mucho más allá de cumplir la ley y es voluntaria.",
+      "nivel": "recordar",
+      "fuente": "Economía 2.pdf, p. 15 (pág. libro 75) – La Responsabilidad Social Corporativa"
+    },
+    {
+      "id": "e-q-091",
+      "temaId": "e-rsc",
+      "enunciado": "Una empresa publicita sus envases ecológicos sobre todo para mejorar su imagen y vender más. ¿En qué nivel hacia la responsabilidad social está?",
+      "opciones": [
+        "Se limita a cumplir la ley",
+        "Responsable porque es lo correcto",
+        "Responsable como estrategia competitiva",
+        "Fuera de cualquier nivel de RSC"
+      ],
+      "correcta": 2,
+      "explicacion": "Usar la RSC como herramienta para mejorar la imagen y vender es el nivel intermedio; el objetivo final es serlo porque es lo correcto.",
+      "nivel": "aplicar",
+      "fuente": "Economía 2.pdf, p. 15 (pág. libro 75) – El camino a empresas socialmente responsables"
+    },
+    {
+      "id": "e-q-092",
+      "temaId": "e-rsc",
+      "enunciado": "¿Cuáles son los tres ámbitos de la RSC?",
+      "opciones": [
+        "Político, legal y tecnológico",
+        "Interno, externo y competitivo",
+        "Económico, social y medioambiental",
+        "Local, nacional e internacional"
+      ],
+      "correcta": 2,
+      "explicacion": "La RSC busca impactos positivos en lo económico, lo social y lo medioambiental.",
+      "nivel": "recordar",
+      "fuente": "Economía 2.pdf, p. 15 (pág. libro 75) – Los ámbitos de la RSC"
+    },
+    {
+      "id": "e-q-093",
+      "temaId": "e-rsc",
+      "enunciado": "¿Cuántos ODS hay y cuándo se firmaron?",
+      "opciones": [
+        "17, firmados en 2015 (Agenda 2030)",
+        "17, firmados en 2000",
+        "8, firmados en 2015",
+        "193, firmados en 2030"
+      ],
+      "correcta": 0,
+      "explicacion": "En 2015, 193 países de la ONU firmaron los 17 ODS para 2015–2030. En 2000 se firmaron los Objetivos del Milenio.",
+      "nivel": "recordar",
+      "fuente": "Economía 2.pdf, p. 16 (pág. libro 76) – ¿Qué son los ODS?"
+    },
+    {
+      "id": "e-q-094",
+      "temaId": "e-rsc",
+      "enunciado": "Un supermercado dona alimentos a personas desfavorecidas antes de su fecha de caducidad. Según el texto, ¿a qué ODS contribuye?",
+      "opciones": [
+        "ODS 5 y 8",
+        "ODS 1 y 10",
+        "ODS 7 y 13",
+        "ODS 14 y 15"
+      ],
+      "correcta": 1,
+      "explicacion": "El texto relaciona los programas de ayuda a desfavorecidos con los ODS 1 y 10. Igualdad laboral son el 5 y 8; renovables y reciclaje, el 7 y 13.",
+      "nivel": "comprender",
+      "fuente": "Economía 2.pdf, p. 16 (pág. libro 76) – Relación de los ODS y la RSC"
+    }
+  ]
+}
