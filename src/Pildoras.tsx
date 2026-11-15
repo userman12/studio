@@ -48,13 +48,13 @@ export function Pildoras() {
   return (
     <div className={s.stack}>
       <div className={s.row}>
-        <label className={s.field}>
+        {m.temas.length > 1 && <label className={s.field}>
           Tema
           <select className={s.select} value={temaId} onChange={(e) => setTemaId(e.target.value)}>
             <option value="">Todos los temas</option>
             {m.temas.map((t) => <option key={t.id} value={t.id}>{t.titulo}</option>)}
           </select>
-        </label>
+        </label>}
         <label className={s.check}><input type="checkbox" checked={soloRepasar} onChange={(e) => setSoloRepasar(e.target.checked)} /> Solo «Repasar»</label>
         <label className={s.check}><input type="checkbox" checked={aleatorio} onChange={(e) => setAleatorio(e.target.checked)} /> Orden aleatorio</label>
         {aleatorio && <button type="button" className={s.iconBtn} onClick={() => setSemilla((x) => x + 1)}>Barajar otra vez</button>}

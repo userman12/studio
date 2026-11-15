@@ -133,6 +133,7 @@ Nella richiesta si parlava di "suffissi", ma la tabella contiene **prefissi**. L
 - **Distrattori del significato**: alcuni prefissi hanno significati quasi identici. Li ho raggruppati in `confundibles` e non li propongo mai uno contro l'altro: ante/pre, sobre/super/supra, de/dis/in, anti/contra, sub/infra, ex/extra, pos/retro, trans/ultra, ad/co.
 - **Test**: ogni parola della tabella viene generata dal test (`latinLogic.test.ts`), che controlla 4 opzioni uniche, la presenza della risposta giusta e l'assenza di ambiguità.
 - **Progresso del latino**: è salvato in `estudio:v1:latin` ed è incluso in export e import.
+- **Píldoras dei prefissi** (aggiunte il 15/11/2026): una per ognuno dei 27 prefissi. Sono generate dalla tabella, non scritte a parte: fronte = prefisso, retro = significato + fino a 3 esempi. Sono 27, sotto il minimo di 40 delle altre materie, perché la fonte contiene 27 prefissi e aggiungere card "parola → prefisso" duplicherebbe l'esercizio. Lo stato sta nello stesso spazio `estudio:v1:latin`, quindi «Reiniciar progreso de prefijos» azzera insieme esercizio e píldoras.
 
 ---
 

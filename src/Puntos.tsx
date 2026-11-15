@@ -8,6 +8,7 @@ const EJEMPLOS: Record<Materia['id'], string> = {
   psicologia: 'Ej.: sinapsis, Gestalt, conductismo…',
   economia: 'Ej.: PYME, DAFO, sociedad anónima…',
   epica: 'Ej.: pietas, Dido, hexámetro…',
+  latin: 'Ej.: sub-, encima de…',
 };
 
 const plano = (t: string) => t.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/\*\*/g, '');

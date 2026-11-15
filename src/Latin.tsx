@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
-import { NavLink, Outlet } from 'react-router-dom';
+import { NavLink, Outlet, useLocation } from 'react-router-dom';
 import latin from './data/latin.json';
 import epica from './data/epica.json';
 import type { Materia } from './types';
@@ -12,6 +12,23 @@ export const LATIN = latin as DatosLatin;
 export const EPICA = epica as unknown as Materia; // empty pildoras[] infers never[]; shape is checked by npm run validate
 const byId = Object.fromEntries(LATIN.prefijos.map((p) => [p.id, p]));
 const PALABRAS = todasLasPalabras(LATIN);
+
+/** Prefix flashcards, derived from the table: front = prefix, back = meaning + up to 3 examples. */
+const mayus = (t: string) => t.charAt(0).toUpperCase() + t.slice(1);
+export const PREFIJOS_PILDORAS: Materia = {
+  id: 'latin',
+  nombre: 'Prefijos',
+  temas: [{ id: 'lat-prefijos', titulo: 'Prefijos de origen latino', orden: 1 }],
+  puntosClave: [],
+  preguntas: [],
+  pildoras: LATIN.prefijos.map((p) => ({
+    id: `lat-pi-${p.id}`,
+    temaId: 'lat-prefijos',
+    frente: p.etiqueta,
+    reverso: `${mayus(p.significado)}. Ej.: ${p.ejemplos.slice(0, 3).join(', ')}.`,
+    fuente: `${LATIN.fuentePrefijos}, fila «${p.etiqueta}»`,
+  })),
+};
 const NUM = '1234';
 const LET = 'ABCD';
 
@@ -29,20 +46,21 @@ export function resumenLatin() {
 }
 
 export function LatinLayout() {
+  const { pathname } = useLocation();
   return (
     <div className={s.latin}>
       <h1 className={s.pageTitle}><mark className={s.hl}>Latín</mark></h1>
       <nav className={s.latinNav} aria-label="Secciones">
         <span className={s.latinGrupo}>Gramática</span>
         <NavLink to="prefijos" className={({ isActive }) => (isActive ? s.tabActive : s.tab)}>Prefijos</NavLink>
+        <NavLink to="pildoras" className={({ isActive }) => (isActive ? s.tabActive : s.tab)}>Píldoras</NavLink>
         <NavLink to="ejercicio" className={({ isActive }) => (isActive ? s.tabActive : s.tab)}>Ejercicio</NavLink>
-        <span aria-hidden="true" />
         <span className={s.latinGrupo}>Épica</span>
         <NavLink to="epica/teoria" className={({ isActive }) => (isActive ? s.tabActive : s.tab)}>Teoría</NavLink>
         <NavLink to="epica/pildoras" className={({ isActive }) => (isActive ? s.tabActive : s.tab)}>Píldoras</NavLink>
         <NavLink to="epica/quiz" className={({ isActive }) => (isActive ? s.tabActive : s.tab)}>Quiz</NavLink>
       </nav>
-      <Outlet context={EPICA} />
+      <Outlet context={pathname.includes('/epica/') ? EPICA : PREFIJOS_PILDORAS} />
     </div>
   );
 }
@@ -180,7 +198,7 @@ export function EjercicioPrefijos() {
         <h3 style={{ marginBottom: 8 }}>Tu progreso</h3>
         <p className={s.muted} style={{ margin: 0 }}>Mejor ronda: {mejor == null ? '—' : `${mejor}%`} · Rondas terminadas: {prog.historial.length} · Palabras por repasar: {nFalladas}</p>
         {prog.historial.length > 0 && (
-          <button type="button" className={s.btnDanger} style={{ marginTop: 12 }} onClick={() => { if (confirm('¿Borrar todo el progreso de Latín? No se puede deshacer.')) update(() => vacio()); }}>Reiniciar progreso de Latín</button>
+          <button type="button" className={s.btnDanger} style={{ marginTop: 12 }} onClick={() => { if (confirm('¿Borrar el progreso de los prefijos (rondas, palabras falladas y píldoras de prefijos)? La épica no se toca. No se puede deshacer.')) update(() => vacio()); }}>Reiniciar progreso de prefijos</button>
         )}
       </div>
     </div>

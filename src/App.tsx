@@ -141,6 +141,7 @@ export default function App() {
         <Route path="/latin" element={<Shell><LatinLayout /></Shell>}>
           <Route index element={<Navigate to="ejercicio" replace />} />
           <Route path="prefijos" element={<Prefijos />} />
+          <Route path="pildoras" element={<Pildoras />} />
           <Route path="ejercicio" element={<EjercicioPrefijos />} />
           <Route path="epica/teoria" element={<Puntos />} />
           <Route path="epica/pildoras" element={<Pildoras />} />
