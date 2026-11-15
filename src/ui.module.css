@@ -8,10 +8,11 @@
   backdrop-filter: blur(6px);
   border-bottom: 1px solid var(--rule);
 }
-.brand { font-family: var(--font-display); font-weight: 700; font-size: 1.1rem; text-decoration: none; color: var(--ink); }
+.brand { font-family: var(--font-display); font-weight: 700; font-size: 1.1rem; text-decoration: none; color: var(--ink); display: inline-flex; align-items: center; min-height: 44px; }
 .spacer { flex: 1; }
 .tabs { display: grid; grid-template-columns: repeat(4, 1fr); gap: 4px; margin: 14px 0 18px; }
 .tab {
+  display: flex; align-items: center; justify-content: center; min-height: 44px;
   padding: 8px 4px; border-radius: 999px; text-decoration: none; text-align: center; white-space: nowrap;
   color: var(--muted); font-weight: 700; font-size: clamp(0.82rem, 3.6vw, 0.95rem); border: 1px solid transparent;
 }
@@ -53,13 +54,15 @@
 .btn:disabled { opacity: 0.45; cursor: not-allowed; }
 .btnPrimary { composes: btn; background: var(--pen); border-color: var(--pen); color: var(--pen-ink); }
 .btnDanger { composes: btn; color: var(--bad); }
-.iconBtn { composes: btn; min-height: 40px; padding: 6px 12px; font-weight: 400; }
-.field { display: grid; gap: 4px; font-size: 0.9rem; color: var(--muted); }
+.iconBtn { composes: btn; min-height: 44px; min-width: 44px; padding: 6px 12px; font-weight: 400; }
+/* min-width: 0 lets a long <select> shrink instead of pushing the page wider than the screen. */
+.field { display: grid; gap: 4px; font-size: 0.9rem; color: var(--muted); flex: 1 1 220px; min-width: 0; }
 .input, .select {
   min-height: 44px; padding: 8px 12px; border-radius: var(--radius);
   border: 1px solid var(--rule); background: var(--card); color: var(--ink);
+  font-size: max(16px, 1rem); /* < 16px makes iOS Safari zoom in on focus */
+  width: 100%; max-width: 100%; min-width: 0;
 }
-.input { width: 100%; }
 .check { display: inline-flex; align-items: center; gap: 8px; min-height: 44px; cursor: pointer; }
 .check input { width: 20px; height: 20px; accent-color: var(--pen); }
 .segmented { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 8px; }
@@ -162,4 +165,5 @@
 .grupoTitulo { font-weight: 700; margin-bottom: 8px; padding: 0; }
 .prefGrid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; }
 .latinNav { display: grid; grid-template-columns: auto 1fr 1fr; gap: 6px 4px; align-items: center; margin: 14px 0 18px; }
-.latinGrupo { font-family: var(--font-mono); font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); padding-right: 8px; }
+.latinGrupo { font-family: var(--font-mono); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); padding-right: 8px; }
+.qMeta > span:last-child { white-space: nowrap; }
