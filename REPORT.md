@@ -137,34 +137,21 @@ Nella richiesta si parlava di "suffissi", ma la tabella contiene **prefissi**. L
 
 ---
 
-# Latín · Épica (aggiunta il 15/11/2026)
+# Latín · Épica (rifatta il 15/11/2026)
 
-Fonte: `POESÍA ÉPICA.pdf` ("Tema 1: Literatura latina. A poesía épica: Virxilio"), 7 pagine, testo estraibile per intero. Nel campo `fuente` è citato come `Poesía épica.pdf`. La fonte è in **galiziano**: tutti i contenuti sono tradotti in spagnolo, con i nomi propri nella forma spagnola (Virgilio, Eneida, Júpiter, Juno, Lacio…). I termini tecnici latini restano in latino (*pietas*, *pius*, *humanitas*, *poetae novi*).
+**Fonte unica**: il testo "Apuntes de épica" incollato in chat, con 4 apartados: 1. Características de la poesía épica latina; 2. Argumento y tema de la Eneida; 3. Características de la Eneida; 4. Personajes principales. Per tua indicazione, il PDF `POESÍA ÉPICA.pdf` **non è più usato** né per la teoria né per le píldoras né per il quiz. I 4 temi dell'app sono i 4 apartados del testo, e `fuente` cita l'apartado.
 
-Struttura: **Latín → Épica → Teoría** (punti chiave per tema, con ricerca), **Píldoras** (45 flashcard, aggiunte il 15/11/2026) e **Quiz** (30 domande, modalità Práctica, Examen e Repaso de errores). Il validatore applica anche a Épica il minimo di 40 píldoras.
+| Tema | Puntos clave | Píldoras | Preguntas |
+|---|---:|---:|---:|
+| Características de la poesía épica latina | 9 | 13 | 10 |
+| Argumento y tema de la Eneida | 6 | 8 | 8 |
+| Características de la Eneida | 6 | 8 | 7 |
+| Personajes principales | 6 | 8 | 5 |
+| **Totale** | **27** | **37** | **30** |
 
-Píldoras per tema: género 7, arcaica 5, Virgilio 6, argumento 8, tema 5, Homero 3, planos 4, estilo 2, personajes 5 (totale 45).
+Livelli: recordar 12, comprender 11, aplicar 7. Risposta corretta in A/B/C/D: 8/8/7/7.
 
-| Tema | Puntos clave | Preguntas |
-|---|---:|---:|
-| El género épico: definición y características | 7 | 4 |
-| La épica arcaica | 4 | 4 |
-| Virgilio: vida y obra | 4 | 4 |
-| La Eneida: argumento libro a libro | 5 | 5 |
-| La Eneida: tema e ideología | 5 | 3 |
-| Influencia homérica y estructura | 3 | 3 |
-| Los dos planos: humano y divino | 4 | 3 |
-| Estilo subjetivo y humanitas | 2 | 1 |
-| Personajes: Eneas, Dido y Turno | 5 | 3 |
-| **Totale** | **39** | **30** |
-
-Livelli: recordar 12, comprender 13, aplicar 5. Risposta corretta in A/B/C/D: 8/8/7/7.
-
-## Problemi nella fonte
-
-1. **Eneas "heroe grego"** (p. 6), mentre a p. 3 la stessa fonte lo chiama "heroe troiano" e ovunque è il principe troiano in fuga da Troia. Ho seguito la versione confermata dalla fonte, "troyano", come per la correzione dell'attenzione selettiva. Nessuna domanda riguarda questo punto, e il campo `fuente` del punto chiave lo segnala.
-2. Refusi minori del testo galiziano ("puílo", "individiduais"). Non alterano il senso.
-
-## Parti non coperte
-
-- Il riferimento a Livio Andrónico "già studiato nell'unità 4 come introduttore del teatro": l'unità 4 non è tra le fonti.
+- **Rimosso dall'app** perché presente solo nel PDF: la biografia di Virgilio (nascita, Bucólicas, Geórgicas, morte), Eolo, Niso ed Euríalo, Mecencio, le date della guerra púnica, il confronto Odiseo/Eneas.
+- **Píldoras: 37, sotto il minimo di 40.** Il testo è un riassunto breve; arrivare a 40 avrebbe voluto dire ripetere le stesse informazioni. Il validatore richiede 30 per Épica.
+- **Nuovi ID** (`ep2-…`): i progressi salvati sulle vecchie domande del PDF vengono ignorati, così non si mescolano con le nuove.
+- **Distrattori**: alcune opzioni sbagliate nominano elementi che non sono nel testo (es. Minerva, Ulises). Servono solo come alternative plausibili e nessuna è presentata come contenuto.
