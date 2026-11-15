@@ -1,0 +1,740 @@
+{
+  "id": "epica",
+  "nombre": "Épica latina",
+  "temas": [
+    {
+      "id": "ep-genero",
+      "titulo": "El género épico: definición y características",
+      "orden": 1
+    },
+    {
+      "id": "ep-arcaica",
+      "titulo": "La épica arcaica",
+      "orden": 2
+    },
+    {
+      "id": "ep-virgilio",
+      "titulo": "Virgilio: vida y obra",
+      "orden": 3
+    },
+    {
+      "id": "ep-argumento",
+      "titulo": "La Eneida: argumento libro a libro",
+      "orden": 4
+    },
+    {
+      "id": "ep-tema",
+      "titulo": "La Eneida: tema e ideología",
+      "orden": 5
+    },
+    {
+      "id": "ep-homero",
+      "titulo": "Influencia homérica y estructura",
+      "orden": 6
+    },
+    {
+      "id": "ep-planos",
+      "titulo": "Los dos planos: humano y divino",
+      "orden": 7
+    },
+    {
+      "id": "ep-estilo",
+      "titulo": "Estilo subjetivo y humanitas",
+      "orden": 8
+    },
+    {
+      "id": "ep-personajes",
+      "titulo": "Personajes: Eneas, Dido y Turno",
+      "orden": 9
+    }
+  ],
+  "puntosClave": [
+    {
+      "id": "ep-pk-01",
+      "temaId": "ep-genero",
+      "texto": "La **poesía épica** suele ser el **primer género literario** que surge en una comunidad (Grecia, Roma, Edad Media): responde a la necesidad de crear un **sentimiento de unión** glorificando sus **valores comunes**.",
+      "fuente": "Poesía épica.pdf, p. 1 – Definición y características"
+    },
+    {
+      "id": "ep-pk-02",
+      "temaId": "ep-genero",
+      "texto": "Definición: **género narrativo en verso** que canta las **hazañas de un héroe** que lucha por los valores e intereses de **su pueblo**, nunca en beneficio propio.",
+      "fuente": "Poesía épica.pdf, p. 1 – Definición y características"
+    },
+    {
+      "id": "ep-pk-03",
+      "temaId": "ep-genero",
+      "texto": "El héroe tiene una **misión** difícil, llena de riesgos y enemigos, y aplica valores **colectivos**, no individuales. Su triunfo es el **triunfo de la colectividad**, no del individuo.",
+      "fuente": "Poesía épica.pdf, p. 1 – Definición y características"
+    },
+    {
+      "id": "ep-pk-04",
+      "temaId": "ep-genero",
+      "texto": "Se basa a menudo en **hechos históricos o míticos** fundamentales para la comunidad: la **guerra de Troya** (Homero) o el **asentamiento troyano en Italia** (Virgilio).",
+      "fuente": "Poesía épica.pdf, p. 1 – Definición y características"
+    },
+    {
+      "id": "ep-pk-05",
+      "temaId": "ep-genero",
+      "texto": "Intervienen los **dioses**, con apariencia humana, rivalidades, celos y favoritismos: ayudan o ponen obstáculos a los héroes. Su voluntad es el **agente principal** de la acción.",
+      "fuente": "Poesía épica.pdf, p. 1 – Definición y características"
+    },
+    {
+      "id": "ep-pk-06",
+      "temaId": "ep-genero",
+      "texto": "Frente a la **subjetividad de la lírica** (sentimientos del yo), la épica se caracteriza por el **carácter narrativo** y la **objetividad**: el narrador cuenta los hechos de forma **desapasionada**, sin comentarios ni punto de vista propios.",
+      "fuente": "Poesía épica.pdf, p. 1 – Definición y características"
+    },
+    {
+      "id": "ep-pk-07",
+      "temaId": "ep-genero",
+      "texto": "Junto con la **tragedia**, era el **género más elevado**, noble, grave y solemne: el poeta debía estudiar años y practicar antes poesía más ligera (la lírica). Su verso era el **hexámetro**, largo y de ritmo noble y potente.",
+      "fuente": "Poesía épica.pdf, pp. 1–2 – Definición y características"
+    },
+    {
+      "id": "ep-pk-08",
+      "temaId": "ep-arcaica",
+      "texto": "La épica surge como **primer género literario de Roma en el siglo III a.C.**, tras la victoria sobre Cartago en la **primera guerra púnica (264-241 a.C.)**, cuando nace la conciencia de Roma como nación.",
+      "fuente": "Poesía épica.pdf, p. 2 – Épica arcaica"
+    },
+    {
+      "id": "ep-pk-09",
+      "temaId": "ep-arcaica",
+      "texto": "**Nevio** (s. III a.C.) escribió el «Bellum Poenicum», sobre la **primera guerra púnica**. **Ennio** (ss. III-II a.C.) escribió los «Annales», sobre la historia de Roma **desde su fundación** hasta su propia época.",
+      "fuente": "Poesía épica.pdf, p. 2 – Épica arcaica"
+    },
+    {
+      "id": "ep-pk-10",
+      "temaId": "ep-arcaica",
+      "texto": "Su gran aportación fue introducir el **tema histórico nacional**. La épica griega trataba temas **mitológicos y legendarios** muy lejanos (Troya, los viajes de Odiseo o Jasón), no su propia historia; los romanos, de espíritu **nacionalista**, sí.",
+      "fuente": "Poesía épica.pdf, p. 2 – Épica arcaica"
+    },
+    {
+      "id": "ep-pk-11",
+      "temaId": "ep-arcaica",
+      "texto": "La épica histórica y la mitológica **convivieron** en Roma. El primer poema épico en latín fue la **Odusia** de **Livio Andrónico** (s. III a.C.), simple **traducción de la Odisea** de Homero (s. VIII a.C.); solo se conservan fragmentos.",
+      "fuente": "Poesía épica.pdf, p. 2 – Épica arcaica"
+    },
+    {
+      "id": "ep-pk-12",
+      "temaId": "ep-virgilio",
+      "texto": "**Virgilio**, el más grande poeta de Roma, nació en **70 a.C.** en **Andes**, una aldea cerca de **Mantua**, de origen humilde. Estudió en Cremona, Milán y Roma.",
+      "fuente": "Poesía épica.pdf, p. 2 – Virgilio: vida y obra"
+    },
+    {
+      "id": "ep-pk-13",
+      "temaId": "ep-virgilio",
+      "texto": "En Roma conoció a **Asinio Polión** y a los **poetae novi** («poetas modernos»). La **Appendix Vergiliana** reúne, según la tradición, sus poemas de juventud, aunque hoy se cree que solo un par son realmente suyos.",
+      "fuente": "Poesía épica.pdf, p. 2 – Virgilio: vida y obra"
+    },
+    {
+      "id": "ep-pk-14",
+      "temaId": "ep-virgilio",
+      "texto": "Hacia 50/49 a.C. se fue a **Nápoles** a estudiar filosofía con **Sirón**. Entre 42 y 39 a.C. compuso las **Bucólicas**, diez poemas de **tema pastoril** que le dieron la protección de **Mecenas** y de **Augusto**.",
+      "fuente": "Poesía épica.pdf, pp. 2–3 – Virgilio: vida y obra"
+    },
+    {
+      "id": "ep-pk-15",
+      "temaId": "ep-virgilio",
+      "texto": "En **29 a.C.** publicó las **Geórgicas** (labores del campo y virtudes de la vida campesina) y empezó la **Eneida**. Murió en **Brindisi** en **19 a.C.**, al volver de Grecia, sin haberla pulido por última vez.",
+      "fuente": "Poesía épica.pdf, p. 3 – Virgilio: vida y obra"
+    },
+    {
+      "id": "ep-pk-16",
+      "temaId": "ep-argumento",
+      "texto": "La **Eneida** es un poema de **doce libros** sobre el troyano **Eneas** tras la destrucción de Troya y su búsqueda de una nueva patria en el **Lacio** (Italia), donde troyanos y latinos darán origen a los **romanos**.",
+      "fuente": "Poesía épica.pdf, p. 3 – Eneida: introducción y resumen"
+    },
+    {
+      "id": "ep-pk-17",
+      "temaId": "ep-argumento",
+      "texto": "**Libro I**: una tormenta desvía a los troyanos a **Cartago**, donde los recibe la reina **Dido**. **II**: Eneas cuenta a Dido la **destrucción de Troya**. **III**: le cuenta sus **aventuras por el Mediterráneo**.",
+      "fuente": "Poesía épica.pdf, p. 3 – Eneida: introducción y resumen"
+    },
+    {
+      "id": "ep-pk-18",
+      "temaId": "ep-argumento",
+      "texto": "**Libro IV**: Dido y Eneas se enamoran; Eneas debe partir y **Dido se suicida**. **V**: muere **Anquises**, padre de Eneas, y se celebran juegos en su honor. **VI**: Eneas **desciende a los infiernos** para conocer su misión.",
+      "fuente": "Poesía épica.pdf, p. 3 – Eneida: introducción y resumen"
+    },
+    {
+      "id": "ep-pk-19",
+      "temaId": "ep-argumento",
+      "texto": "**Libro VII**: Eneas llega al Lacio y entra en guerra con los **latinos** (rey **Latino**) y los **rútulos** (**Turno**). **VIII**: busca aliados y visita el lugar de la futura Roma. **IX**: asalto al campamento; episodio de **Niso y Euríalo**.",
+      "fuente": "Poesía épica.pdf, p. 3 – Eneida: introducción y resumen"
+    },
+    {
+      "id": "ep-pk-20",
+      "temaId": "ep-argumento",
+      "texto": "**Libro X**: primera gran batalla; mueren **Palante** (protegido de Eneas) y **Mecencio**. **XI**: tregua y funerales de Palante. **XII**: batalla decisiva y combate singular; **Eneas mata a Turno**.",
+      "fuente": "Poesía épica.pdf, p. 3 – Eneida: introducción y resumen"
+    },
+    {
+      "id": "ep-pk-21",
+      "temaId": "ep-tema",
+      "texto": "El tema es la **leyenda mitológica de Eneas** (materia de la guerra de Troya, como en la épica griega), pero también **Roma**: su **origen mítico**, su grandeza y sus valores religiosos y morales.",
+      "fuente": "Poesía épica.pdf, pp. 3–4 – Tema"
+    },
+    {
+      "id": "ep-pk-22",
+      "temaId": "ep-tema",
+      "texto": "Virgilio une lo **mitológico griego** y lo **histórico nacionalista romano**: los **romanos descienden de los troyanos**. Eneas es hijo de **Venus**, hija de **Júpiter**, así que los romanos descienden también de los dioses.",
+      "fuente": "Poesía épica.pdf, p. 4 – Tema"
+    },
+    {
+      "id": "ep-pk-23",
+      "temaId": "ep-tema",
+      "texto": "Si los dioses ordenan fundar la nueva patria, la misión de Roma de **dominar el mundo** es voluntad divina. Su heredero en el presente de Virgilio es **Augusto**: la Eneida glorifica a **Roma y a su príncipe**.",
+      "fuente": "Poesía épica.pdf, p. 4 – Tema"
+    },
+    {
+      "id": "ep-pk-24",
+      "temaId": "ep-tema",
+      "texto": "Es el poema de la **restauración social y religiosa** de Augusto. Eneas encarna los valores romanos: valor, prudencia, respeto a los antepasados y acatamiento de la voluntad divina (**pietas**). Es el héroe **pius** por excelencia y la obra refleja la **ideología imperial augústea**.",
+      "fuente": "Poesía épica.pdf, p. 4 – Tema"
+    },
+    {
+      "id": "ep-pk-25",
+      "temaId": "ep-tema",
+      "texto": "Cumple las reglas del género: Eneas afronta riesgos para una **misión** (fundar una nueva patria) que beneficia a la **comunidad**, no a sí mismo: si fuera por él, se quedaría en Cartago con Dido.",
+      "fuente": "Poesía épica.pdf, p. 4 – Tema"
+    },
+    {
+      "id": "ep-pk-26",
+      "temaId": "ep-homero",
+      "texto": "Fuerte influencia de la **Ilíada** y la **Odisea** de **Homero** (s. VIII a.C.): los **seis primeros libros** se basan en la **Odisea** (viajes) y los **seis últimos** en la **Ilíada** (guerra).",
+      "fuente": "Poesía épica.pdf, pp. 4–5 – Influencia homérica y estructura"
+    },
+    {
+      "id": "ep-pk-27",
+      "temaId": "ep-homero",
+      "texto": "La Ilíada narra la **cólera de Aquiles** en la guerra de Troya y está llena de combates. La Odisea narra los viajes de **Odiseo** de **vuelta a casa** como vencedor. Eneas, en cambio, no es un vencedor: viaja para **fundar una nueva patria**.",
+      "fuente": "Poesía épica.pdf, p. 5 – Influencia homérica y estructura"
+    },
+    {
+      "id": "ep-pk-28",
+      "temaId": "ep-homero",
+      "texto": "Tiene una **construcción arquitectónica** muy meditada: libros y episodios se relacionan entre sí y dan al poema una gran **unidad formal**. Por su perfección modélica es un **clásico**.",
+      "fuente": "Poesía épica.pdf, p. 5 – Influencia homérica y estructura"
+    },
+    {
+      "id": "ep-pk-29",
+      "temaId": "ep-planos",
+      "texto": "Siguiendo la tradición homérica, la acción tiene **dos planos**: el **humano** (Eneas, Dido, Turno…) y el **divino** (los dioses favorecen o perjudican a los hombres según sus intereses).",
+      "fuente": "Poesía épica.pdf, p. 5 – Los dos planos de la acción"
+    },
+    {
+      "id": "ep-pk-30",
+      "temaId": "ep-planos",
+      "texto": "**Júpiter** ha decidido que el pueblo dominador será el **romano**. **Juno**, su esposa, prefiere el **cartaginés** y ordena a **Eolo**, dios de los vientos, la tormenta que desvía a los troyanos a Cartago, para que Eneas se quede allí con Dido.",
+      "fuente": "Poesía épica.pdf, p. 5 – Los dos planos de la acción"
+    },
+    {
+      "id": "ep-pk-31",
+      "temaId": "ep-planos",
+      "texto": "**Venus**, madre de Eneas e hija de Júpiter, actúa contra Juno: ayuda a Eneas a salir con vida de Troya y en muchas otras ocasiones. Al final se cumple la **voluntad de Júpiter**.",
+      "fuente": "Poesía épica.pdf, p. 5 – Los dos planos de la acción"
+    },
+    {
+      "id": "ep-pk-32",
+      "temaId": "ep-planos",
+      "texto": "El enfrentamiento ficticio entre los dioses refleja el **enfrentamiento histórico entre Roma y Cartago**: las tres **guerras púnicas** (ss. III-II a.C.), ganadas por Roma.",
+      "fuente": "Poesía épica.pdf, p. 5 – Los dos planos de la acción"
+    },
+    {
+      "id": "ep-pk-33",
+      "temaId": "ep-estilo",
+      "texto": "Frente al estilo **objetivo** de la tradición épica, el de Virgilio es **subjetivo**, una **novedad**: el narrador aparece en los momentos más dramáticos para expresar su **piedad o compasión** por las desgracias humanas.",
+      "fuente": "Poesía épica.pdf, pp. 5–6 – Estilo subjetivo"
+    },
+    {
+      "id": "ep-pk-34",
+      "temaId": "ep-estilo",
+      "texto": "Rasgo de toda su poesía es la **humanitas**: interés y preocupación por la **condición humana**. Virgilio estudia a fondo la **psicología** de sus personajes, y el lector conoce también las razones de los **vencidos** y de los que sufren.",
+      "fuente": "Poesía épica.pdf, p. 6 – Estilo subjetivo y personajes"
+    },
+    {
+      "id": "ep-pk-35",
+      "temaId": "ep-personajes",
+      "texto": "**Eneas**, hijo de **Venus** y del mortal **Anquises**, es el príncipe troyano protagonista. Tiene rasgos del héroe tradicional (fuerza, valor, como Aquiles o Heracles) y otros nuevos: **humanidad** y **carácter dudoso**; siente **compasión** por los enemigos vencidos.",
+      "fuente": "Poesía épica.pdf, p. 6 – Los personajes (la fuente lo llama «heroe grego» aquí y «heroe troiano» en p. 3)"
+    },
+    {
+      "id": "ep-pk-36",
+      "temaId": "ep-personajes",
+      "texto": "La **pietas** de Eneas es su respeto a los **dioses, la familia y la patria**: nunca desobedece la voluntad divina y **sacrifica sus deseos** (el amor por Dido) por la misión colectiva.",
+      "fuente": "Poesía épica.pdf, p. 6 – Los personajes"
+    },
+    {
+      "id": "ep-pk-37",
+      "temaId": "ep-personajes",
+      "texto": "**Dido**, reina de **Cartago**, es digna y majestuosa al principio. Se enamora de Eneas y, cuando él la abandona por orden de los dioses, pierde su dignidad y **se suicida**. Representa la **pasión amorosa sin control**, lo contrario de Eneas, pero despierta **compasión**.",
+      "fuente": "Poesía épica.pdf, pp. 6–7 – Los personajes"
+    },
+    {
+      "id": "ep-pk-38",
+      "temaId": "ep-personajes",
+      "texto": "**Turno**, líder de los **rútulos**, es un guerrero fuerte y valiente pero **sin la humanidad** de Eneas. Prometido con **Lavinia**, hija del rey Latino, que se casará con Eneas, le declara la guerra despechado y mata a **Palante**.",
+      "fuente": "Poesía épica.pdf, p. 7 – Los personajes"
+    },
+    {
+      "id": "ep-pk-39",
+      "temaId": "ep-personajes",
+      "texto": "Final: Eneas hiere a Turno en un muslo y está a punto de perdonarle, pero ve que lleva el **cinturón de Palante** y, recordando a su amigo, **lo mata**.",
+      "fuente": "Poesía épica.pdf, p. 7 – Los personajes"
+    }
+  ],
+  "pildoras": [],
+  "preguntas": [
+    {
+      "id": "ep-q-01",
+      "temaId": "ep-genero",
+      "enunciado": "¿Cómo define el texto la poesía épica?",
+      "opciones": [
+        "Un género narrativo en verso que canta las hazañas de un héroe que lucha por su pueblo",
+        "Un género en verso que expresa los sentimientos del yo poético",
+        "Un género dramático que representa el conflicto de un héroe trágico",
+        "Una narración en prosa de hechos históricos recientes"
+      ],
+      "correcta": 0,
+      "explicacion": "La épica es narrativa, en verso, y su héroe lucha por los valores de su pueblo, nunca en beneficio propio. Expresar los sentimientos del yo es propio de la lírica.",
+      "nivel": "recordar",
+      "fuente": "Poesía épica.pdf, p. 1 – Definición y características"
+    },
+    {
+      "id": "ep-q-02",
+      "temaId": "ep-genero",
+      "enunciado": "¿Por qué el triunfo del héroe épico no se considera un triunfo individual?",
+      "opciones": [
+        "Porque lucha por los valores e intereses de su pueblo, y su triunfo es el de la colectividad",
+        "Porque en realidad son los dioses quienes consiguen la victoria",
+        "Porque el héroe siempre muere antes de cumplir su misión",
+        "Porque el narrador le quita protagonismo con sus comentarios"
+      ],
+      "correcta": 0,
+      "explicacion": "El héroe aplica valores colectivos y su misión beneficia a la comunidad. Por eso su triunfo representa el de la colectividad.",
+      "nivel": "comprender",
+      "fuente": "Poesía épica.pdf, p. 1 – Definición y características"
+    },
+    {
+      "id": "ep-q-03",
+      "temaId": "ep-genero",
+      "enunciado": "¿Qué diferencia a la épica de la lírica según el texto?",
+      "opciones": [
+        "La épica es subjetiva; la lírica es objetiva y desapasionada",
+        "La lírica era el género más elevado y solemne de la Antigüedad",
+        "La épica es narrativa y objetiva; la lírica es subjetiva y expresa los sentimientos del yo",
+        "La épica no tiene narrador y la lírica sí"
+      ],
+      "correcta": 2,
+      "explicacion": "El narrador épico cuenta los hechos de forma desapasionada, sin dar su punto de vista. La lírica, en cambio, expresa amor, dolor o tristeza del yo lírico.",
+      "nivel": "comprender",
+      "fuente": "Poesía épica.pdf, p. 1 – Definición y características"
+    },
+    {
+      "id": "ep-q-04",
+      "temaId": "ep-genero",
+      "enunciado": "¿Qué verso empleaban los poetas épicos en Grecia y Roma?",
+      "opciones": [
+        "El endecasílabo",
+        "El octosílabo",
+        "El hexámetro",
+        "El alejandrino"
+      ],
+      "correcta": 2,
+      "explicacion": "El texto indica que usaban el hexámetro, un verso largo de ritmo noble y potente, acorde con el estilo elevado de la épica.",
+      "nivel": "recordar",
+      "fuente": "Poesía épica.pdf, pp. 1–2 – Definición y características"
+    },
+    {
+      "id": "ep-q-05",
+      "temaId": "ep-arcaica",
+      "enunciado": "¿Cuándo surge la épica como primer género literario de Roma?",
+      "opciones": [
+        "En el siglo VIII a.C., con Homero",
+        "En el siglo I a.C., con Augusto",
+        "En el siglo II d.C., durante el Imperio",
+        "En el siglo III a.C., tras la primera guerra púnica"
+      ],
+      "correcta": 3,
+      "explicacion": "Tras vencer a Cartago en la primera guerra púnica (264-241 a.C.) nace la conciencia nacional romana y la necesidad de cantar sus hazañas. Homero (s. VIII a.C.) es griego.",
+      "nivel": "recordar",
+      "fuente": "Poesía épica.pdf, p. 2 – Épica arcaica"
+    },
+    {
+      "id": "ep-q-06",
+      "temaId": "ep-arcaica",
+      "enunciado": "¿Qué narra el «Bellum Poenicum» de Nevio?",
+      "opciones": [
+        "La historia de Roma desde su fundación",
+        "La destrucción de Troya",
+        "Los viajes de Odiseo",
+        "La primera guerra púnica"
+      ],
+      "correcta": 3,
+      "explicacion": "Nevio narró la primera guerra púnica. La historia de Roma desde su fundación es el tema de los «Annales» de Ennio.",
+      "nivel": "recordar",
+      "fuente": "Poesía épica.pdf, p. 2 – Épica arcaica"
+    },
+    {
+      "id": "ep-q-07",
+      "temaId": "ep-arcaica",
+      "enunciado": "¿Cuál fue la gran aportación de Nevio y Ennio a la épica?",
+      "opciones": [
+        "Traducir la Odisea al latín",
+        "Introducir el tema histórico nacional",
+        "Introducir el estilo subjetivo del narrador",
+        "Eliminar a los dioses de la narración"
+      ],
+      "correcta": 1,
+      "explicacion": "La épica griega trataba temas mitológicos lejanos; Nevio y Ennio cantaron la historia de su propia nación. Traducir la Odisea fue obra de Livio Andrónico.",
+      "nivel": "comprender",
+      "fuente": "Poesía épica.pdf, p. 2 – Épica arcaica"
+    },
+    {
+      "id": "ep-q-08",
+      "temaId": "ep-arcaica",
+      "enunciado": "¿Cuál fue el primer poema épico escrito en latín?",
+      "opciones": [
+        "Los «Annales» de Ennio",
+        "La «Odusia» de Livio Andrónico",
+        "El «Bellum Poenicum» de Nevio",
+        "La «Eneida» de Virgilio"
+      ],
+      "correcta": 1,
+      "explicacion": "La «Odusia» fue una simple traducción de la Odisea de Homero, hecha por Livio Andrónico en el siglo III a.C.; solo se conservan fragmentos.",
+      "nivel": "recordar",
+      "fuente": "Poesía épica.pdf, p. 2 – Épica arcaica"
+    },
+    {
+      "id": "ep-q-09",
+      "temaId": "ep-virgilio",
+      "enunciado": "¿Dónde y cuándo nació Virgilio?",
+      "opciones": [
+        "En Roma, en el 70 a.C.",
+        "En Brindisi, en el 19 a.C.",
+        "En Nápoles, hacia el 50 a.C.",
+        "En Andes, cerca de Mantua, en el 70 a.C."
+      ],
+      "correcta": 3,
+      "explicacion": "Nació en Andes, aldea cerca de Mantua, en el 70 a.C. Brindisi es donde murió (19 a.C.) y Nápoles, donde estudió filosofía.",
+      "nivel": "recordar",
+      "fuente": "Poesía épica.pdf, p. 2 – Virgilio: vida y obra"
+    },
+    {
+      "id": "ep-q-10",
+      "temaId": "ep-virgilio",
+      "enunciado": "¿Qué obra de Virgilio está formada por diez poemas de tema pastoril?",
+      "opciones": [
+        "Las Geórgicas",
+        "Las Bucólicas",
+        "La Appendix Vergiliana",
+        "La Eneida"
+      ],
+      "correcta": 1,
+      "explicacion": "Las Bucólicas (42-39 a.C.) son diez poemas pastoriles. Las Geórgicas cantan las labores del campo.",
+      "nivel": "recordar",
+      "fuente": "Poesía épica.pdf, pp. 2–3 – Virgilio: vida y obra"
+    },
+    {
+      "id": "ep-q-11",
+      "temaId": "ep-virgilio",
+      "enunciado": "¿Qué consiguió Virgilio gracias al éxito de las Bucólicas?",
+      "opciones": [
+        "Estudiar filosofía con Sirón en Nápoles",
+        "La protección y ayuda económica de Mecenas y de Augusto",
+        "Entrar en contacto con los poetae novi",
+        "Terminar y pulir la Eneida"
+      ],
+      "correcta": 1,
+      "explicacion": "Las Bucólicas lo consagraron como poeta y le dieron la protección de Mecenas y Augusto, cuyos valores pasó a defender. Lo de Sirón y los poetae novi es anterior.",
+      "nivel": "comprender",
+      "fuente": "Poesía épica.pdf, pp. 2–3 – Virgilio: vida y obra"
+    },
+    {
+      "id": "ep-q-12",
+      "temaId": "ep-virgilio",
+      "enunciado": "Según el texto, ¿por qué la Eneida no quedó totalmente acabada?",
+      "opciones": [
+        "Porque Virgilio murió en el 19 a.C. sin haberla pulido por última vez",
+        "Porque Augusto le pidió que la interrumpiera",
+        "Porque la abandonó para escribir las Geórgicas",
+        "Porque solo llegó a escribir seis libros"
+      ],
+      "correcta": 0,
+      "explicacion": "Empezó a escribirla en el 29 a.C. y murió en Brindisi en el 19 a.C., cuando aún le faltaba pulirla. Las Geórgicas son anteriores (29 a.C.).",
+      "nivel": "comprender",
+      "fuente": "Poesía épica.pdf, p. 3 – Virgilio: vida y obra"
+    },
+    {
+      "id": "ep-q-13",
+      "temaId": "ep-argumento",
+      "enunciado": "¿Cuántos libros tiene la Eneida?",
+      "opciones": [
+        "Diez",
+        "Seis",
+        "Doce",
+        "Veinticuatro"
+      ],
+      "correcta": 2,
+      "explicacion": "La Eneida tiene doce libros: los seis primeros inspirados en la Odisea y los seis últimos en la Ilíada.",
+      "nivel": "recordar",
+      "fuente": "Poesía épica.pdf, p. 3 – Eneida: introducción y resumen"
+    },
+    {
+      "id": "ep-q-14",
+      "temaId": "ep-argumento",
+      "enunciado": "Un pasaje cuenta cómo Eneas baja al mundo de los muertos y descubre la futura grandeza de Roma. ¿A qué libro corresponde?",
+      "opciones": [
+        "Libro IV",
+        "Libro VIII",
+        "Libro VI",
+        "Libro XII"
+      ],
+      "correcta": 2,
+      "explicacion": "En el libro VI Eneas desciende a los infiernos para conocer su misión. En el VIII visita el lugar de la futura Roma, pero en vida.",
+      "nivel": "aplicar",
+      "fuente": "Poesía épica.pdf, p. 3 – Eneida: introducción y resumen"
+    },
+    {
+      "id": "ep-q-15",
+      "temaId": "ep-argumento",
+      "enunciado": "¿En qué libro se suicida Dido?",
+      "opciones": [
+        "Libro IV",
+        "Libro I",
+        "Libro VI",
+        "Libro XI"
+      ],
+      "correcta": 0,
+      "explicacion": "En el libro IV Dido y Eneas se enamoran, él parte y ella se suicida. En el I solo los recibe en Cartago.",
+      "nivel": "recordar",
+      "fuente": "Poesía épica.pdf, p. 3 – Eneida: introducción y resumen"
+    },
+    {
+      "id": "ep-q-16",
+      "temaId": "ep-argumento",
+      "enunciado": "Lees el episodio de dos jóvenes troyanos que mueren heroicamente durante el asalto al campamento. ¿Qué episodio es y en qué libro está?",
+      "opciones": [
+        "Palante y Mecencio, libro X",
+        "Niso y Euríalo, libro IX",
+        "Los juegos por Anquises, libro V",
+        "El combate de Eneas y Turno, libro XII"
+      ],
+      "correcta": 1,
+      "explicacion": "En el libro IX se asalta el campamento troyano y mueren Niso y Euríalo. Palante y Mecencio mueren en la gran batalla del libro X.",
+      "nivel": "aplicar",
+      "fuente": "Poesía épica.pdf, p. 3 – Eneida: introducción y resumen"
+    },
+    {
+      "id": "ep-q-17",
+      "temaId": "ep-argumento",
+      "enunciado": "¿Por qué llegan los troyanos a Cartago al comienzo del poema?",
+      "opciones": [
+        "Porque buscan aliados contra Turno",
+        "Porque Dido los ha invitado",
+        "Porque quieren fundar allí su nueva ciudad",
+        "Porque una tormenta los desvía de su rumbo"
+      ],
+      "correcta": 3,
+      "explicacion": "El libro I empieza con una tormenta que desvía a los troyanos hacia la costa de Cartago. Buscar aliados ocurre en el libro VIII, ya en Italia.",
+      "nivel": "comprender",
+      "fuente": "Poesía épica.pdf, p. 3 – Eneida: introducción y resumen"
+    },
+    {
+      "id": "ep-q-18",
+      "temaId": "ep-tema",
+      "enunciado": "¿Cómo une Virgilio el tema mitológico griego y el tema histórico romano?",
+      "opciones": [
+        "Sustituyendo la guerra de Troya por las guerras púnicas",
+        "Haciendo que los romanos desciendan de los troyanos",
+        "Traduciendo la Ilíada al latín",
+        "Situando toda la acción en Grecia"
+      ],
+      "correcta": 1,
+      "explicacion": "El vínculo entre troyanos y romanos une ambos temas y glorifica el pasado de Roma, ya que Eneas es además hijo de Venus.",
+      "nivel": "comprender",
+      "fuente": "Poesía épica.pdf, p. 4 – Tema"
+    },
+    {
+      "id": "ep-q-19",
+      "temaId": "ep-tema",
+      "enunciado": "¿Por qué se dice que la Eneida glorifica a Augusto?",
+      "opciones": [
+        "Porque Augusto es el protagonista del poema",
+        "Porque narra las victorias de Augusto en las guerras civiles",
+        "Porque presenta a Augusto como heredero de la misión de Eneas, querida por los dioses",
+        "Porque Augusto la escribió junto a Virgilio"
+      ],
+      "correcta": 2,
+      "explicacion": "Si la misión de Roma es voluntad divina, su heredero en el presente, Augusto, queda legitimado. El protagonista es Eneas, no Augusto.",
+      "nivel": "comprender",
+      "fuente": "Poesía épica.pdf, p. 4 – Tema"
+    },
+    {
+      "id": "ep-q-20",
+      "temaId": "ep-tema",
+      "enunciado": "¿Qué es la pietas que caracteriza a Eneas?",
+      "opciones": [
+        "El interés del poeta por la condición humana",
+        "La pasión amorosa sin control",
+        "El respeto a los dioses, la familia y la patria, acatando la voluntad divina",
+        "La fuerza física y el valor en la batalla"
+      ],
+      "correcta": 2,
+      "explicacion": "La pietas es acatar la voluntad divina y respetar a la familia y la patria; por eso Eneas es el héroe pius. El interés por la condición humana es la humanitas de Virgilio.",
+      "nivel": "recordar",
+      "fuente": "Poesía épica.pdf, pp. 4, 6 – Tema y personajes"
+    },
+    {
+      "id": "ep-q-21",
+      "temaId": "ep-homero",
+      "enunciado": "¿En qué obra se basan los seis primeros libros de la Eneida?",
+      "opciones": [
+        "En la Ilíada",
+        "En la Odisea",
+        "En los Annales de Ennio",
+        "En las Bucólicas"
+      ],
+      "correcta": 1,
+      "explicacion": "Los seis primeros libros, de viajes y aventuras, se basan en la Odisea; los seis últimos, de guerra, en la Ilíada.",
+      "nivel": "recordar",
+      "fuente": "Poesía épica.pdf, p. 4 – Influencia homérica y estructura"
+    },
+    {
+      "id": "ep-q-22",
+      "temaId": "ep-homero",
+      "enunciado": "¿Por qué la segunda mitad de la Eneida se relaciona con la Ilíada?",
+      "opciones": [
+        "Porque narra viajes por mar",
+        "Porque su protagonista es Aquiles",
+        "Porque cuenta la vuelta a casa de un vencedor",
+        "Porque está llena de luchas y combates, como la Ilíada"
+      ],
+      "correcta": 3,
+      "explicacion": "La Ilíada narra combates de la guerra de Troya, como los de troyanos contra latinos y rútulos en la segunda mitad de la Eneida. La vuelta a casa es propia de la Odisea.",
+      "nivel": "comprender",
+      "fuente": "Poesía épica.pdf, pp. 4–5 – Influencia homérica y estructura"
+    },
+    {
+      "id": "ep-q-23",
+      "temaId": "ep-homero",
+      "enunciado": "¿En qué se diferencia el viaje de Eneas del de Odiseo?",
+      "opciones": [
+        "Odiseo vuelve a casa como vencedor; Eneas, que no es un vencedor, viaja para fundar una nueva patria",
+        "Eneas vuelve a su casa y Odiseo funda una nueva ciudad",
+        "Los dos regresan a Troya tras la guerra",
+        "Eneas viaja solo por tierra y Odiseo por mar"
+      ],
+      "correcta": 0,
+      "explicacion": "Ambos viajan por mar, pero con fines distintos: Odiseo regresa victorioso a casa; Eneas, fugitivo de Troya, busca una patria nueva.",
+      "nivel": "comprender",
+      "fuente": "Poesía épica.pdf, p. 5 – Influencia homérica y estructura"
+    },
+    {
+      "id": "ep-q-24",
+      "temaId": "ep-planos",
+      "enunciado": "¿Qué divinidad prefiere que el pueblo dominador del mundo sea el cartaginés?",
+      "opciones": [
+        "Juno",
+        "Venus",
+        "Júpiter",
+        "Eolo"
+      ],
+      "correcta": 0,
+      "explicacion": "Juno, esposa de Júpiter, quiere que domine Cartago, contra la voluntad de Júpiter, que ha elegido a los romanos. Venus ayuda a Eneas.",
+      "nivel": "recordar",
+      "fuente": "Poesía épica.pdf, p. 5 – Los dos planos de la acción"
+    },
+    {
+      "id": "ep-q-25",
+      "temaId": "ep-planos",
+      "enunciado": "Eolo envía una tormenta contra la flota troyana. Según el texto, ¿por orden de quién y con qué fin?",
+      "opciones": [
+        "De Juno, para que Eneas se quede en Cartago con Dido",
+        "De Júpiter, para acelerar su llegada a Italia",
+        "De Venus, para proteger a su hijo",
+        "De Juno, para que Eneas muera en el mar"
+      ],
+      "correcta": 0,
+      "explicacion": "Juno quiere que Eneas se enamore de Dido y funde en Cartago, no en Italia, el pueblo que dominará el mundo. Su fin no es matarlo, sino desviarlo.",
+      "nivel": "aplicar",
+      "fuente": "Poesía épica.pdf, p. 5 – Los dos planos de la acción"
+    },
+    {
+      "id": "ep-q-26",
+      "temaId": "ep-planos",
+      "enunciado": "¿Qué hecho histórico refleja el enfrentamiento entre los dioses en la Eneida?",
+      "opciones": [
+        "Las guerras civiles anteriores a Augusto",
+        "La guerra de Troya entre griegos y troyanos",
+        "La fundación de Roma por Rómulo",
+        "El enfrentamiento entre Roma y Cartago en las guerras púnicas"
+      ],
+      "correcta": 3,
+      "explicacion": "La rivalidad entre Juno (Cartago) y Júpiter (Roma) se corresponde con las tres guerras púnicas, ganadas por Roma. Así Virgilio funde de nuevo lo mitológico y lo histórico.",
+      "nivel": "comprender",
+      "fuente": "Poesía épica.pdf, p. 5 – Los dos planos de la acción"
+    },
+    {
+      "id": "ep-q-27",
+      "temaId": "ep-estilo",
+      "enunciado": "¿Por qué el estilo de Virgilio supone una novedad en la tradición épica?",
+      "opciones": [
+        "Porque abandona el hexámetro por un verso más ligero",
+        "Porque su narrador es totalmente desapasionado y objetivo",
+        "Porque el narrador interviene para expresar su compasión por las desgracias humanas",
+        "Porque elimina a los dioses de la acción"
+      ],
+      "correcta": 2,
+      "explicacion": "Frente al narrador épico tradicional, que desaparece, el de Virgilio aparece en los momentos dramáticos: por eso su estilo se llama subjetivo.",
+      "nivel": "comprender",
+      "fuente": "Poesía épica.pdf, pp. 5–6 – Estilo subjetivo"
+    },
+    {
+      "id": "ep-q-28",
+      "temaId": "ep-personajes",
+      "enunciado": "¿Qué rasgos nuevos añade Virgilio a Eneas frente al héroe épico tradicional?",
+      "opciones": [
+        "La fuerza física y el valor en la batalla",
+        "La humanidad y el carácter dudoso en ciertos momentos",
+        "La pasión amorosa sin control",
+        "La desobediencia a la voluntad divina"
+      ],
+      "correcta": 1,
+      "explicacion": "Fuerza y valor son rasgos tradicionales (como en Aquiles o Heracles). Lo nuevo es que Eneas siente compasión y a veces duda antes de combatir.",
+      "nivel": "comprender",
+      "fuente": "Poesía épica.pdf, p. 6 – Los personajes"
+    },
+    {
+      "id": "ep-q-29",
+      "temaId": "ep-personajes",
+      "enunciado": "Un compañero dice que Dido es un personaje negativo porque desatiende a su pueblo por amor. Según el texto, ¿qué matiz le falta?",
+      "opciones": [
+        "Que despierta la compasión y comprensión del lector, sobre todo porque se suicida por amor",
+        "Que en realidad Dido nunca se enamora de Eneas",
+        "Que es Dido quien abandona a Eneas",
+        "Que Dido muere a manos de Turno"
+      ],
+      "correcta": 0,
+      "explicacion": "Dido representa la pasión sin control y olvida su papel de reina, pero el texto afirma que no resulta un personaje negativo: inspira compasión.",
+      "nivel": "aplicar",
+      "fuente": "Poesía épica.pdf, pp. 6–7 – Los personajes"
+    },
+    {
+      "id": "ep-q-30",
+      "temaId": "ep-personajes",
+      "enunciado": "En el combate final, Eneas está a punto de perdonar la vida a Turno. ¿Qué le hace cambiar de opinión?",
+      "opciones": [
+        "Una orden directa de Venus",
+        "Que Turno se niega a renunciar a Lavinia",
+        "Que Turno había matado a Anquises",
+        "Ver que Turno lleva el cinturón que había sido de Palante"
+      ],
+      "correcta": 3,
+      "explicacion": "Al ver el cinturón de Palante, su protegido muerto a manos de Turno, Eneas lo recuerda y mata a Turno. Anquises había muerto antes, en el libro V.",
+      "nivel": "aplicar",
+      "fuente": "Poesía épica.pdf, p. 7 – Los personajes"
+    }
+  ]
+}

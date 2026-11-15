@@ -97,10 +97,11 @@ function LatinCard() {
   return (
     <Link to="/latin/ejercicio" className={`${s.subject} ${s.latin}`}>
       <h2 className={s.subjectName}><mark className={s.hl}>Latín</mark></h2>
-      <span className={s.muted}>Gramática: prefijos de origen latino</span>
+      <span className={s.muted}>Gramática (prefijos) y épica (Virgilio)</span>
       <div className={s.stats}>
-        <div className={s.stat}><span className={s.statNum}>{r.mejor == null ? '—' : `${r.mejor}%`}</span><span className={s.statLabel}>mejor ronda</span></div>
-        <div className={s.stat}><span className={s.statNum}>{r.errores}</span><span className={s.statLabel}>palabras por repasar</span></div>
+        <div className={s.stat}><span className={s.statNum}>{r.mejor == null ? '—' : `${r.mejor}%`}</span><span className={s.statLabel}>mejor ronda de prefijos</span></div>
+        <div className={s.stat}><span className={s.statNum}>{r.mejorEpica == null ? '—' : `${r.mejorEpica}%`}</span><span className={s.statLabel}>mejor quiz de épica</span></div>
+        <div className={s.stat}><span className={s.statNum}>{r.errores + r.erroresEpica}</span><span className={s.statLabel}>falladas por repasar</span></div>
       </div>
     </Link>
   );
@@ -141,6 +142,8 @@ export default function App() {
           <Route index element={<Navigate to="ejercicio" replace />} />
           <Route path="prefijos" element={<Prefijos />} />
           <Route path="ejercicio" element={<EjercicioPrefijos />} />
+          <Route path="epica/teoria" element={<Puntos />} />
+          <Route path="epica/quiz" element={<Quiz />} />
         </Route>
         <Route path="/:materia" element={<MateriaLayout />}>
           <Route index element={<Navigate to="puntos" replace />} />

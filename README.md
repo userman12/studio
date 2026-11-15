@@ -1,6 +1,6 @@
 # Estudio · Psicología y Economía
 
-Web app personale di studio (interfaccia e contenuti in spagnolo): **puntos clave**, **píldoras** (flashcard) e **quiz** per Psicología ed Economía, più **Latín** (tabella dei prefissi e relativo esercizio). Nessun backend: tutto il progresso resta nel `localStorage` del browser.
+Web app personale di studio (interfaccia e contenuti in spagnolo): **puntos clave**, **píldoras** (flashcard) e **quiz** per Psicología ed Economía, più **Latín**: Gramática (tabella dei prefissi ed esercizio) ed Épica (teoria su Virgilio e la Eneida, con quiz di 30 domande). Nessun backend: tutto il progresso resta nel `localStorage` del browser.
 
 Stack: Vite + React 18 + TypeScript, react-router (HashRouter), CSS Modules, Vitest.
 
@@ -38,7 +38,7 @@ La build usa percorsi relativi (`base: './'`) e HashRouter (URL tipo `/#/economi
 
 ## Aggiornare i contenuti
 
-I contenuti stanno solo in `src/data/psicologia.json` e `src/data/economia.json`, separati dalla UI. Lo schema è in `src/types.ts`:
+I contenuti stanno solo in `src/data/psicologia.json`, `src/data/economia.json` ed `src/data/epica.json` (stesso schema; per Épica `pildoras` è vuoto), separati dalla UI. Lo schema è in `src/types.ts`:
 
 - `temas`: `{ id, titulo, orden }`
 - `puntosClave`: `{ id, temaId, texto, fuente }`. In `texto` si può usare solo `**grassetto**`, che viene mostrato come evidenziatore.
@@ -55,7 +55,7 @@ Regole:
 
 ## Progresso e backup
 
-- Il progresso è salvato per materia in `localStorage` (`estudio:v1:psicologia`, `estudio:v1:economia`, `estudio:v1:latin`).
+- Il progresso è salvato per materia in `localStorage` (`estudio:v1:psicologia`, `estudio:v1:economia`, `estudio:v1:latin`, `estudio:v1:epica`).
 - In **Progreso**, "Exportar progreso" scarica un JSON con tutte le materie e "Importar progreso" lo carica su un altro dispositivo, sostituendo le materie presenti nel file.
 - "Reiniciar progreso" cancella solo la materia corrente, dopo una conferma.
 

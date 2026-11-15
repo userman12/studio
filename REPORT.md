@@ -112,7 +112,7 @@ Le domande "aplicar" di Economía includono calcoli semplici: VTC, derecho de su
 
 - **Gramática → Prefijos**: tabella "Prefijos de origen latino" trascritta da 7 screenshot. Contiene 27 prefissi, ciascuno con il suo significato, e 95 parole di esempio. Si trova in `src/data/latin.json`.
 - **Gramática → Ejercicio**: per ogni parola della terza colonna l'utente sceglie (1) il prefisso, tra 4 opzioni, e (2) il significato del prefisso, cioè la colonna centrale, tra 4 opzioni. La parola conta come giusta solo se lo sono entrambe le scelte. Le parole sbagliate entrano in "Solo falladas" e ne escono dopo 2 risposte corrette consecutive, con la stessa regola dei quiz.
-- **Épica**: **non implementata**, in attesa delle fonti.
+- **Épica**: vedi la sezione sotto.
 
 Nella richiesta si parlava di "suffissi", ma la tabella contiene **prefissi**. L'esercizio usa quindi i prefissi.
 
@@ -133,3 +133,35 @@ Nella richiesta si parlava di "suffissi", ma la tabella contiene **prefissi**. L
 - **Distrattori del significato**: alcuni prefissi hanno significati quasi identici. Li ho raggruppati in `confundibles` e non li propongo mai uno contro l'altro: ante/pre, sobre/super/supra, de/dis/in, anti/contra, sub/infra, ex/extra, pos/retro, trans/ultra, ad/co.
 - **Test**: ogni parola della tabella viene generata dal test (`latinLogic.test.ts`), che controlla 4 opzioni uniche, la presenza della risposta giusta e l'assenza di ambiguità.
 - **Progresso del latino**: è salvato in `estudio:v1:latin` ed è incluso in export e import.
+
+---
+
+# Latín · Épica (aggiunta il 15/11/2026)
+
+Fonte: `POESÍA ÉPICA.pdf` ("Tema 1: Literatura latina. A poesía épica: Virxilio"), 7 pagine, testo estraibile per intero. Nel campo `fuente` è citato come `Poesía épica.pdf`. La fonte è in **galiziano**: tutti i contenuti sono tradotti in spagnolo, con i nomi propri nella forma spagnola (Virgilio, Eneida, Júpiter, Juno, Lacio…). I termini tecnici latini restano in latino (*pietas*, *pius*, *humanitas*, *poetae novi*).
+
+Struttura: **Latín → Épica → Teoría** (punti chiave per tema, con ricerca) e **Quiz** (30 domande, modalità Práctica, Examen e Repaso de errores). Come richiesto, niente píldoras: il validatore richiede il minimo di 40 píldoras solo per Psicología ed Economía.
+
+| Tema | Puntos clave | Preguntas |
+|---|---:|---:|
+| El género épico: definición y características | 7 | 4 |
+| La épica arcaica | 4 | 4 |
+| Virgilio: vida y obra | 4 | 4 |
+| La Eneida: argumento libro a libro | 5 | 5 |
+| La Eneida: tema e ideología | 5 | 3 |
+| Influencia homérica y estructura | 3 | 3 |
+| Los dos planos: humano y divino | 4 | 3 |
+| Estilo subjetivo y humanitas | 2 | 1 |
+| Personajes: Eneas, Dido y Turno | 5 | 3 |
+| **Totale** | **39** | **30** |
+
+Livelli: recordar 12, comprender 13, aplicar 5. Risposta corretta in A/B/C/D: 8/8/7/7.
+
+## Problemi nella fonte
+
+1. **Eneas "heroe grego"** (p. 6), mentre a p. 3 la stessa fonte lo chiama "heroe troiano" e ovunque è il principe troiano in fuga da Troia. Ho seguito la versione confermata dalla fonte, "troyano", come per la correzione dell'attenzione selettiva. Nessuna domanda riguarda questo punto, e il campo `fuente` del punto chiave lo segnala.
+2. Refusi minori del testo galiziano ("puílo", "individiduais"). Non alterano il senso.
+
+## Parti non coperte
+
+- Il riferimento a Livio Andrónico "già studiato nell'unità 4 come introduttore del teatro": l'unità 4 non è tra le fonti.

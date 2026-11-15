@@ -11,7 +11,7 @@ export type Ejercicio = {
   opcionesSignificado: string[]; // 4 prefijo ids (their significado is shown), shuffled
 };
 
-export const normalizar = (s: string) => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+export const normalizar = (s: string) => s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
 
 /** The form of `p` that the word starts with (longest match), or null. */
 export function formaEn(p: Prefijo, palabra: string): string | null {

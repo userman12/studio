@@ -63,7 +63,7 @@ export function Quiz() {
     onSalir={() => { if (confirm('¿Salir del quiz? Este intento no se guardará en el historial.')) setSesion(null); }}
   />;
 
-  if (resultado) return <Final r={resultado} temaTitulo={temaTitulo} puedeRepetir={pool.length > 0} onOtra={empezar} onVolver={() => setResultado(null)} />;
+  if (resultado) return <Final r={resultado} temaTitulo={temaTitulo} conHistorial={m.id !== 'epica'} puedeRepetir={pool.length > 0} onOtra={empezar} onVolver={() => setResultado(null)} />;
 
   return (
     <div className={s.stack}>
@@ -175,7 +175,7 @@ function Pregunta({ sesion, temaTitulo, onResponder, onSiguiente, onSalir }: {
   );
 }
 
-function Final({ r, temaTitulo, puedeRepetir, onOtra, onVolver }: { r: Resultado; temaTitulo: (id: string) => string; puedeRepetir: boolean; onOtra: () => void; onVolver: () => void }) {
+function Final({ r, temaTitulo, conHistorial, puedeRepetir, onOtra, onVolver }: { r: Resultado; temaTitulo: (id: string) => string; conHistorial: boolean; puedeRepetir: boolean; onOtra: () => void; onVolver: () => void }) {
   const titulo = useRef<HTMLHeadingElement>(null);
   useEffect(() => { titulo.current?.focus(); }, []);
   return (
@@ -217,7 +217,7 @@ function Final({ r, temaTitulo, puedeRepetir, onOtra, onVolver }: { r: Resultado
       )}
       <div className={s.row}>
         <button type="button" className={s.btn} onClick={onVolver}>Cambiar modo</button>
-        <Link to="../progreso" relative="path" className={s.btn}>Ver historial</Link>
+        {conHistorial && <Link to="../progreso" relative="path" className={s.btn}>Ver historial</Link>}
         <span className={s.spacer} />
         <button type="button" className={s.btnPrimary} onClick={onOtra} disabled={!puedeRepetir}>Otra vez</button>
       </div>

@@ -1,12 +1,15 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { NavLink, Outlet } from 'react-router-dom';
 import latin from './data/latin.json';
+import epica from './data/epica.json';
+import type { Materia } from './types';
 import { crearEjercicio, formaEn, normalizar, todasLasPalabras, type DatosLatin, type Ejercicio } from './latinLogic';
 import { mejorPuntuacion, registrarRespuesta, shuffle } from './quizLogic';
 import { leer, useProgreso, vacio } from './store';
 import s from './ui.module.css';
 
 export const LATIN = latin as DatosLatin;
+export const EPICA = epica as unknown as Materia; // empty pildoras[] infers never[]; shape is checked by npm run validate
 const byId = Object.fromEntries(LATIN.prefijos.map((p) => [p.id, p]));
 const PALABRAS = todasLasPalabras(LATIN);
 const NUM = '1234';
@@ -15,19 +18,29 @@ const LET = 'ABCD';
 export function resumenLatin() {
   const p = leer('latin');
   const validas = new Set(PALABRAS.map((x) => x.palabra));
-  return { mejor: mejorPuntuacion(p.historial), errores: Object.keys(p.errores).filter((w) => validas.has(w)).length };
+  const e = leer('epica');
+  const ids = new Set(EPICA.preguntas.map((q) => q.id));
+  return {
+    mejor: mejorPuntuacion(p.historial),
+    errores: Object.keys(p.errores).filter((w) => validas.has(w)).length,
+    mejorEpica: mejorPuntuacion(e.historial),
+    erroresEpica: Object.keys(e.errores).filter((id) => ids.has(id)).length,
+  };
 }
 
 export function LatinLayout() {
   return (
     <div className={s.latin}>
       <h1 className={s.pageTitle}><mark className={s.hl}>Latín</mark></h1>
-      <p className={`${s.small} ${s.muted}`} style={{ margin: 0 }}>Gramática · prefijos de origen latino</p>
-      <nav className={s.tabs} style={{ gridTemplateColumns: 'repeat(2, 1fr)' }} aria-label="Secciones">
+      <nav className={s.latinNav} aria-label="Secciones">
+        <span className={s.latinGrupo}>Gramática</span>
         <NavLink to="prefijos" className={({ isActive }) => (isActive ? s.tabActive : s.tab)}>Prefijos</NavLink>
         <NavLink to="ejercicio" className={({ isActive }) => (isActive ? s.tabActive : s.tab)}>Ejercicio</NavLink>
+        <span className={s.latinGrupo}>Épica</span>
+        <NavLink to="epica/teoria" className={({ isActive }) => (isActive ? s.tabActive : s.tab)}>Teoría</NavLink>
+        <NavLink to="epica/quiz" className={({ isActive }) => (isActive ? s.tabActive : s.tab)}>Quiz</NavLink>
       </nav>
-      <Outlet />
+      <Outlet context={EPICA} />
     </div>
   );
 }

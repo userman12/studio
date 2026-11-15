@@ -1,12 +1,14 @@
 // npm run validate — checks src/data/*.json against the content rules. Exits 1 on any error.
 import fs from 'node:fs';
 
-const FILES = ['psicologia', 'economia'];
-const MIN_PREGUNTAS = 30, MIN_PILDORAS = 40, MAX_POS_SHARE = 0.35, DUP_THRESHOLD = 0.8;
+// Épica is theory + quiz only (no flashcards), as requested.
+const FILES = ['psicologia', 'economia', 'epica'];
+const MIN_PIL = { psicologia: 40, economia: 40, epica: 0 };
+const MIN_PREGUNTAS = 30, MAX_POS_SHARE = 0.35, DUP_THRESHOLD = 0.8;
 const NIVELES = ['recordar', 'comprender', 'aplicar'];
 const BANNED = ['todas las anteriores', 'ninguna de las anteriores'];
 
-const norm = (s) => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '')
+const norm = (s) => s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '')
   .replace(/[^a-z0-9ñ ]/g, ' ').split(/\s+/).filter((w) => w.length > 2);
 const jaccard = (a, b) => {
   const A = new Set(a), B = new Set(b);
@@ -65,7 +67,7 @@ for (const name of FILES) {
 
   // Minimums
   if (m.preguntas.length < MIN_PREGUNTAS) err(`solo ${m.preguntas.length} preguntas (mínimo ${MIN_PREGUNTAS})`);
-  if (m.pildoras.length < MIN_PILDORAS) err(`solo ${m.pildoras.length} píldoras (mínimo ${MIN_PILDORAS})`);
+  if (m.pildoras.length < MIN_PIL[name]) err(`solo ${m.pildoras.length} píldoras (mínimo ${MIN_PIL[name]})`);
 
   // Correct-answer position distribution
   const pos = [0, 0, 0, 0];
@@ -86,7 +88,7 @@ for (const name of FILES) {
 {
   const errors = [];
   const err = (m) => errors.push(m);
-  const plain = (s) => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+  const plain = (s) => s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
   try {
     const d = JSON.parse(fs.readFileSync(new URL('../src/data/latin.json', import.meta.url), 'utf8'));
     if (!isStr(d.fuentePrefijos)) err('fuentePrefijos vacía');
