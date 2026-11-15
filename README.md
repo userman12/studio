@@ -1,6 +1,6 @@
 # Estudio · Psicología y Economía
 
-Web app personale di studio (interfaccia e contenuti in spagnolo): **puntos clave**, **píldoras** (flashcard) e **quiz** per due materie. Nessun backend: tutto il progresso resta nel `localStorage` del browser.
+Web app personale di studio (interfaccia e contenuti in spagnolo): **puntos clave**, **píldoras** (flashcard) e **quiz** per Psicología ed Economía, più **Latín** (tabella dei prefissi e relativo esercizio). Nessun backend: tutto il progresso resta nel `localStorage` del browser.
 
 Stack: Vite + React 18 + TypeScript, react-router (HashRouter), CSS Modules, Vitest.
 
@@ -45,6 +45,8 @@ I contenuti stanno solo in `src/data/psicologia.json` e `src/data/economia.json`
 - `pildoras`: `{ id, temaId, frente, reverso, fuente }`
 - `preguntas`: `{ id, temaId, enunciado, opciones[4], correcta 0–3, explicacion, nivel, fuente }`
 
+**Latín** (`src/data/latin.json`): `prefijos: { id, etiqueta, formas[], significado, ejemplos[] }`. Ogni esempio deve cominciare con una delle `formas` (lo controlla il validatore). `confundibles` elenca i gruppi di prefissi con significato simile, che non vengono mai proposti come distrattori l'uno dell'altro.
+
 Regole:
 1. Ogni elemento deve avere `fuente` (file + pagina + sezione) e un `temaId` esistente.
 2. Gli ID devono essere unici e **stabili**: il progresso salvato è legato all'ID. Se cambi un ID, il progresso di quell'elemento si perde (gli ID orfani vengono ignorati).
@@ -53,8 +55,8 @@ Regole:
 
 ## Progresso e backup
 
-- Il progresso è salvato per materia in `localStorage` (`estudio:v1:psicologia`, `estudio:v1:economia`).
-- In **Progreso**, "Exportar progreso" scarica un JSON con entrambe le materie e "Importar progreso" lo carica su un altro dispositivo, sostituendo le materie presenti nel file.
+- Il progresso è salvato per materia in `localStorage` (`estudio:v1:psicologia`, `estudio:v1:economia`, `estudio:v1:latin`).
+- In **Progreso**, "Exportar progreso" scarica un JSON con tutte le materie e "Importar progreso" lo carica su un altro dispositivo, sostituendo le materie presenti nel file.
 - "Reiniciar progreso" cancella solo la materia corrente, dopo una conferma.
 
 ## Struttura
@@ -64,8 +66,9 @@ src/
   data/*.json        contenuti
   types.ts           schema
   quizLogic.ts       logica pura dei quiz (+ quizLogic.test.ts)
+  latinLogic.ts      esercizio sui prefissi (+ test su ogni parola)
   store.ts           localStorage, export/import
   App.tsx            routing, Home, layout materia
-  Puntos.tsx  Pildoras.tsx  Quiz.tsx  Progreso.tsx
+  Puntos.tsx  Pildoras.tsx  Quiz.tsx  Progreso.tsx  Latin.tsx
 scripts/validate.mjs validatore dei contenuti
 ```

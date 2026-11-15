@@ -66,7 +66,7 @@ export function Progreso() {
 
       <div className={`${s.card} ${s.stack}`}>
         <h3>Copia de seguridad</h3>
-        <p className={`${s.small} ${s.muted}`} style={{ margin: 0 }}>Exporta el progreso de ambas materias a un archivo JSON e impórtalo en otro dispositivo.</p>
+        <p className={`${s.small} ${s.muted}`} style={{ margin: 0 }}>Exporta el progreso de todas las materias a un archivo JSON e impórtalo en otro dispositivo.</p>
         <div className={s.row}>
           <button type="button" className={s.btn} onClick={descargar}>Exportar progreso</button>
           <button type="button" className={s.btn} onClick={() => file.current?.click()}>Importar progreso</button>

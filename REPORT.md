@@ -103,3 +103,33 @@ Le domande "aplicar" di Economía includono calcoli semplici: VTC, derecho de su
 - `npm run build`: nessun errore né warning TypeScript.
 - `npm test`: 11/11 test verdi (punteggio, % per tema, mappatura delle opzioni mescolate, ingresso e uscita dalla lista errori con la regola delle 2 corrette consecutive, reset della serie).
 - Prova manuale con Playwright a 375×812 e 1280×900, tema chiaro e scuro: Home, Puntos clave (espandere e ricerca), Píldoras (flip, Lo sé/Repasar), quiz Práctica e Examen completati da tastiera, schermata finale, storico, Repaso de errores (la domanda esce dopo 2 risposte corrette di fila). Nessun errore in console e nessuno scroll orizzontale.
+
+---
+
+# Latín (aggiunto il 15/11/2026)
+
+## Contenuti
+
+- **Gramática → Prefijos**: tabella "Prefijos de origen latino" trascritta da 7 screenshot. Contiene 27 prefissi, ciascuno con il suo significato, e 95 parole di esempio. Si trova in `src/data/latin.json`.
+- **Gramática → Ejercicio**: per ogni parola della terza colonna l'utente sceglie (1) il prefisso, tra 4 opzioni, e (2) il significato del prefisso, cioè la colonna centrale, tra 4 opzioni. La parola conta come giusta solo se lo sono entrambe le scelte. Le parole sbagliate entrano in "Solo falladas" e ne escono dopo 2 risposte corrette consecutive, con la stessa regola dei quiz.
+- **Épica**: **non implementata**, in attesa delle fonti.
+
+Nella richiesta si parlava di "suffissi", ma la tabella contiene **prefissi**. L'esercizio usa quindi i prefissi.
+
+## Note di trascrizione
+
+| Riga | Nota |
+|---|---|
+| de- / des- | Nello screenshot della riga non si vede la colonna degli esempi. Ho assegnato "desactivar" a questa riga perché compare subito sopra dis- nello screenshot successivo. Potrebbero mancare altri esempi. |
+| intra- / intro- | Si legge solo "introvertido". La parola sopra (probabilmente "introspectivo") è tagliata e l'ho esclusa. |
+| semi- | "semivacío" è parzialmente tagliato ma leggibile. |
+| pre- | "predecir" sta all'inizio di uno screenshot, sopra re-, e appartiene alla continuazione di pre-. |
+| ad-, cis-, ex-, per-, re-, sobre- | Nella tabella hanno un solo esempio ciascuno. |
+| Righe mancanti | La sequenza alfabetica sembra completa, ma tra uno screenshot e l'altro potrebbe essere saltata qualche riga. |
+
+## Scelte fatte in autonomia
+
+- **Distrattori del prefisso**: non propongo un prefisso con cui la parola comincia davvero. Per *antifaz* non esce "anti-", per *intercostal* non esce "in- / i-", per *contraindicado* non esce "co-".
+- **Distrattori del significato**: alcuni prefissi hanno significati quasi identici. Li ho raggruppati in `confundibles` e non li propongo mai uno contro l'altro: ante/pre, sobre/super/supra, de/dis/in, anti/contra, sub/infra, ex/extra, pos/retro, trans/ultra, ad/co.
+- **Test**: ogni parola della tabella viene generata dal test (`latinLogic.test.ts`), che controlla 4 opzioni uniche, la presenza della risposta giusta e l'assenza di ambiguità.
+- **Progresso del latino**: è salvato in `estudio:v1:latin` ed è incluso in export e import.

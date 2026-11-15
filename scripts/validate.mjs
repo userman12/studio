@@ -82,6 +82,32 @@ for (const name of FILES) {
   report(name, errors, `${m.temas.length} temas, ${m.puntosClave.length} puntos clave, ${m.pildoras.length} píldoras, ${m.preguntas.length} preguntas; posiciones A/B/C/D = ${pos.join('/')}`);
 }
 
+// ---- latin.json (prefix table) ----
+{
+  const errors = [];
+  const err = (m) => errors.push(m);
+  const plain = (s) => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+  try {
+    const d = JSON.parse(fs.readFileSync(new URL('../src/data/latin.json', import.meta.url), 'utf8'));
+    if (!isStr(d.fuentePrefijos)) err('fuentePrefijos vacía');
+    const ids = new Set(), palabras = new Set();
+    for (const p of d.prefijos ?? []) {
+      if (!isStr(p.id) || ids.has(p.id)) err(`prefijo id vacío o duplicado: ${p.id}`);
+      ids.add(p.id);
+      for (const f of ['etiqueta', 'significado']) if (!isStr(p[f])) err(`${p.id}: ${f} vacío`);
+      if (!Array.isArray(p.formas) || !p.formas.length) err(`${p.id}: sin formas`);
+      if (!Array.isArray(p.ejemplos) || !p.ejemplos.length) err(`${p.id}: sin ejemplos`);
+      for (const w of p.ejemplos ?? []) {
+        if (palabras.has(plain(w))) err(`palabra repetida: ${w}`);
+        palabras.add(plain(w));
+        if (!p.formas.some((f) => plain(w).startsWith(plain(f)))) err(`${w}: no empieza por ${p.formas.join('/')}`);
+      }
+    }
+    for (const g of d.confundibles ?? []) for (const id of g) if (!ids.has(id)) err(`confundibles: id inexistente ${id}`);
+    report('latin', errors, `${ids.size} prefijos, ${palabras.size} palabras de ejemplo`);
+  } catch (e) { report('latin', [`JSON inválido — ${e.message}`]); }
+}
+
 function report(name, errors, summary = '') {
   if (errors.length) { failed = true; console.error(`✗ ${name}: ${errors.length} error(es)`); errors.forEach((e) => console.error('   - ' + e)); }
   else console.log(`✓ ${name}: ${summary}`);

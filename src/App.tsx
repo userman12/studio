@@ -9,6 +9,7 @@ import { Puntos } from './Puntos';
 import { Pildoras } from './Pildoras';
 import { Quiz } from './Quiz';
 import { Progreso } from './Progreso';
+import { EjercicioPrefijos, LatinLayout, Prefijos, resumenLatin } from './Latin';
 import s from './ui.module.css';
 
 export const MATERIAS: Record<MateriaId, Materia> = {
@@ -85,8 +86,23 @@ function Home() {
             </Link>
           );
         })}
+        <LatinCard />
       </div>
     </Shell>
+  );
+}
+
+function LatinCard() {
+  const r = resumenLatin();
+  return (
+    <Link to="/latin/ejercicio" className={`${s.subject} ${s.latin}`}>
+      <h2 className={s.subjectName}><mark className={s.hl}>Latín</mark></h2>
+      <span className={s.muted}>Gramática: prefijos de origen latino</span>
+      <div className={s.stats}>
+        <div className={s.stat}><span className={s.statNum}>{r.mejor == null ? '—' : `${r.mejor}%`}</span><span className={s.statLabel}>mejor ronda</span></div>
+        <div className={s.stat}><span className={s.statNum}>{r.errores}</span><span className={s.statLabel}>palabras por repasar</span></div>
+      </div>
+    </Link>
   );
 }
 
@@ -121,6 +137,11 @@ export default function App() {
     <HashRouter>
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/latin" element={<Shell><LatinLayout /></Shell>}>
+          <Route index element={<Navigate to="ejercicio" replace />} />
+          <Route path="prefijos" element={<Prefijos />} />
+          <Route path="ejercicio" element={<EjercicioPrefijos />} />
+        </Route>
         <Route path="/:materia" element={<MateriaLayout />}>
           <Route index element={<Navigate to="puntos" replace />} />
           <Route path="puntos" element={<Puntos />} />

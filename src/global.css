@@ -14,6 +14,7 @@
   --margin-line: #f2a3a3;
   --hl-psicologia: rgba(255, 92, 170, 0.38);
   --hl-economia: rgba(64, 230, 120, 0.42);
+  --hl-latin: rgba(255, 200, 0, 0.5);
   --font-body: 'Atkinson Hyperlegible', system-ui, -apple-system, 'Segoe UI', sans-serif;
   --font-display: 'Bricolage Grotesque', var(--font-body);
   --font-mono: ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
@@ -24,14 +25,14 @@
   :root:not([data-theme='light']) {
     --paper: #11141b; --card: #1a1f2a; --ink: #e6e9f1; --muted: #9aa3b5; --rule: #2c3343;
     --pen: #8ea4ff; --pen-ink: #0d1020; --ok: #5fd08f; --ok-bg: #12301f; --bad: #ff8a80; --bad-bg: #3a1714;
-    --margin-line: #6b3434; --hl-psicologia: rgba(255, 92, 170, 0.32); --hl-economia: rgba(64, 230, 120, 0.26);
+    --margin-line: #6b3434; --hl-psicologia: rgba(255, 92, 170, 0.32); --hl-economia: rgba(64, 230, 120, 0.26); --hl-latin: rgba(255, 196, 0, 0.3);
     color-scheme: dark;
   }
 }
 :root[data-theme='dark'] {
   --paper: #11141b; --card: #1a1f2a; --ink: #e6e9f1; --muted: #9aa3b5; --rule: #2c3343;
   --pen: #8ea4ff; --pen-ink: #0d1020; --ok: #5fd08f; --ok-bg: #12301f; --bad: #ff8a80; --bad-bg: #3a1714;
-  --margin-line: #6b3434; --hl-psicologia: rgba(255, 92, 170, 0.32); --hl-economia: rgba(64, 230, 120, 0.26);
+  --margin-line: #6b3434; --hl-psicologia: rgba(255, 92, 170, 0.32); --hl-economia: rgba(64, 230, 120, 0.26); --hl-latin: rgba(255, 196, 0, 0.3);
   color-scheme: dark;
 }
 

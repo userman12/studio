@@ -2,7 +2,10 @@
 import { useCallback, useEffect, useState } from 'react';
 import type { MateriaId, Progreso } from './types';
 
-const KEY = (m: MateriaId) => `estudio:v1:${m}`;
+/** Every saved progress slot. Latín reuses Progreso: `errores` is keyed by word, `pildoras` stays empty. */
+export type ProgresoId = MateriaId | 'latin';
+
+const KEY = (m: ProgresoId) => `estudio:v1:${m}`;
 export const vacio = (): Progreso => ({ pildoras: {}, errores: {}, historial: [] });
 
 const esProgreso = (x: unknown): x is Progreso => {
@@ -10,7 +13,7 @@ const esProgreso = (x: unknown): x is Progreso => {
   return !!p && typeof p === 'object' && typeof p.pildoras === 'object' && typeof p.errores === 'object' && Array.isArray(p.historial);
 };
 
-export function leer(m: MateriaId): Progreso {
+export function leer(m: ProgresoId): Progreso {
   try {
     const raw = localStorage.getItem(KEY(m));
     const p = raw ? JSON.parse(raw) : null;
@@ -20,7 +23,7 @@ export function leer(m: MateriaId): Progreso {
   }
 }
 
-export function guardar(m: MateriaId, p: Progreso): boolean {
+export function guardar(m: ProgresoId, p: Progreso): boolean {
   try {
     localStorage.setItem(KEY(m), JSON.stringify(p));
     return true;
@@ -30,7 +33,7 @@ export function guardar(m: MateriaId, p: Progreso): boolean {
 }
 
 /** React hook: current progress for a subject + an updater that persists immediately. */
-export function useProgreso(m: MateriaId) {
+export function useProgreso(m: ProgresoId) {
   const [p, setP] = useState<Progreso>(() => leer(m));
   useEffect(() => setP(leer(m)), [m]);
   const update = useCallback((fn: (prev: Progreso) => Progreso) => {
@@ -43,7 +46,7 @@ export function useProgreso(m: MateriaId) {
   return [p, update] as const;
 }
 
-const MATERIAS: MateriaId[] = ['psicologia', 'economia'];
+const MATERIAS: ProgresoId[] = ['psicologia', 'economia', 'latin'];
 
 export function exportar(): string {
   return JSON.stringify({ app: 'estudio', version: 1, fecha: new Date().toISOString(), progreso: Object.fromEntries(MATERIAS.map((m) => [m, leer(m)])) }, null, 2);
