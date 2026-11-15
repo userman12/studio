@@ -164,6 +164,6 @@
 .grupo { border: 0; padding: 0; margin: 0; display: grid; gap: 8px; }
 .grupoTitulo { font-weight: 700; margin-bottom: 8px; padding: 0; }
 .prefGrid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; }
-.latinNav { display: grid; grid-template-columns: auto 1fr 1fr; gap: 6px 4px; align-items: center; margin: 14px 0 18px; }
+.latinNav { display: grid; grid-template-columns: auto 1fr 1fr 1fr; gap: 6px 4px; align-items: center; margin: 14px 0 18px; }
 .latinGrupo { font-family: var(--font-mono); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); padding-right: 8px; }
 .qMeta > span:last-child { white-space: nowrap; }

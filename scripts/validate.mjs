@@ -1,9 +1,8 @@
 // npm run validate — checks src/data/*.json against the content rules. Exits 1 on any error.
 import fs from 'node:fs';
 
-// Épica is theory + quiz only (no flashcards), as requested.
 const FILES = ['psicologia', 'economia', 'epica'];
-const MIN_PIL = { psicologia: 40, economia: 40, epica: 0 };
+const MIN_PIL = { psicologia: 40, economia: 40, epica: 40 };
 const MIN_PREGUNTAS = 30, MAX_POS_SHARE = 0.35, DUP_THRESHOLD = 0.8;
 const NIVELES = ['recordar', 'comprender', 'aplicar'];
 const BANNED = ['todas las anteriores', 'ninguna de las anteriores'];

@@ -36,8 +36,10 @@ export function LatinLayout() {
         <span className={s.latinGrupo}>Gramática</span>
         <NavLink to="prefijos" className={({ isActive }) => (isActive ? s.tabActive : s.tab)}>Prefijos</NavLink>
         <NavLink to="ejercicio" className={({ isActive }) => (isActive ? s.tabActive : s.tab)}>Ejercicio</NavLink>
+        <span aria-hidden="true" />
         <span className={s.latinGrupo}>Épica</span>
         <NavLink to="epica/teoria" className={({ isActive }) => (isActive ? s.tabActive : s.tab)}>Teoría</NavLink>
+        <NavLink to="epica/pildoras" className={({ isActive }) => (isActive ? s.tabActive : s.tab)}>Píldoras</NavLink>
         <NavLink to="epica/quiz" className={({ isActive }) => (isActive ? s.tabActive : s.tab)}>Quiz</NavLink>
       </nav>
       <Outlet context={EPICA} />

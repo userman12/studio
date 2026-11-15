@@ -140,7 +140,9 @@ Nella richiesta si parlava di "suffissi", ma la tabella contiene **prefissi**. L
 
 Fonte: `POESÍA ÉPICA.pdf` ("Tema 1: Literatura latina. A poesía épica: Virxilio"), 7 pagine, testo estraibile per intero. Nel campo `fuente` è citato come `Poesía épica.pdf`. La fonte è in **galiziano**: tutti i contenuti sono tradotti in spagnolo, con i nomi propri nella forma spagnola (Virgilio, Eneida, Júpiter, Juno, Lacio…). I termini tecnici latini restano in latino (*pietas*, *pius*, *humanitas*, *poetae novi*).
 
-Struttura: **Latín → Épica → Teoría** (punti chiave per tema, con ricerca) e **Quiz** (30 domande, modalità Práctica, Examen e Repaso de errores). Come richiesto, niente píldoras: il validatore richiede il minimo di 40 píldoras solo per Psicología ed Economía.
+Struttura: **Latín → Épica → Teoría** (punti chiave per tema, con ricerca), **Píldoras** (45 flashcard, aggiunte il 15/11/2026) e **Quiz** (30 domande, modalità Práctica, Examen e Repaso de errores). Il validatore applica anche a Épica il minimo di 40 píldoras.
+
+Píldoras per tema: género 7, arcaica 5, Virgilio 6, argumento 8, tema 5, Homero 3, planos 4, estilo 2, personajes 5 (totale 45).
 
 | Tema | Puntos clave | Preguntas |
 |---|---:|---:|

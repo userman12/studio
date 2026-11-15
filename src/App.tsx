@@ -143,6 +143,7 @@ export default function App() {
           <Route path="prefijos" element={<Prefijos />} />
           <Route path="ejercicio" element={<EjercicioPrefijos />} />
           <Route path="epica/teoria" element={<Puntos />} />
+          <Route path="epica/pildoras" element={<Pildoras />} />
           <Route path="epica/quiz" element={<Quiz />} />
         </Route>
         <Route path="/:materia" element={<MateriaLayout />}>
