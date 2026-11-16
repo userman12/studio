@@ -10,6 +10,7 @@ import { Pildoras } from './Pildoras';
 import { Quiz } from './Quiz';
 import { Progreso } from './Progreso';
 import { EjercicioPrefijos, LatinLayout, Prefijos, resumenLatin } from './Latin';
+import { Arte, OBRAS } from './Arte';
 import s from './ui.module.css';
 
 export const MATERIAS: Record<MateriaId, Materia> = {
@@ -87,6 +88,10 @@ function Home() {
           );
         })}
         <LatinCard />
+        <Link to="/arte" className={`${s.subject} ${s.arte}`}>
+          <h2 className={s.subjectName}><mark className={s.hl}>Arte</mark></h2>
+          <span className={s.muted}>{OBRAS.length} comentarios de obras, con foto</span>
+        </Link>
       </div>
     </Shell>
   );
@@ -138,6 +143,7 @@ export default function App() {
     <HashRouter>
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/arte" element={<Shell><Arte /></Shell>} />
         <Route path="/latin" element={<Shell><LatinLayout /></Shell>}>
           <Route index element={<Navigate to="ejercicio" replace />} />
           <Route path="prefijos" element={<Prefijos />} />

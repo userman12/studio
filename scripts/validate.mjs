@@ -109,6 +109,27 @@ for (const name of FILES) {
   } catch (e) { report('latin', [`JSON inválido — ${e.message}`]); }
 }
 
+// ---- arte.json (artwork commentaries with photos) ----
+{
+  const errors = [];
+  const err = (m) => errors.push(m);
+  try {
+    const d = JSON.parse(fs.readFileSync(new URL('../src/data/arte.json', import.meta.url), 'utf8'));
+    const ids = new Set();
+    for (const o of d.obras ?? []) {
+      if (!isStr(o.id) || ids.has(o.id)) err(`obra id vacío o duplicado: ${o.id}`);
+      ids.add(o.id);
+      for (const f of ['titulo', 'autor', 'fecha', 'estilo', 'texto', 'fuente']) if (!isStr(o[f])) err(`${o.id}: ${f} vacío`);
+      if ((o.texto.match(/\*\*/g) || []).length % 2) err(`${o.id}: negrita (**) sin cerrar`);
+      const im = o.imagen ?? {};
+      for (const f of ['src', 'alt', 'credito', 'licencia', 'url']) if (!isStr(im[f])) err(`${o.id}: imagen.${f} vacío`);
+      if (isStr(im.src) && !fs.existsSync(new URL(`../public/${im.src}`, import.meta.url))) err(`${o.id}: falta el archivo public/${im.src}`);
+      if (!(im.ancho > 0 && im.alto > 0)) err(`${o.id}: imagen sin dimensiones`);
+    }
+    report('arte', errors, `${ids.size} obras con foto y crédito`);
+  } catch (e) { report('arte', [`JSON inválido — ${e.message}`]); }
+}
+
 function report(name, errors, summary = '') {
   if (errors.length) { failed = true; console.error(`✗ ${name}: ${errors.length} error(es)`); errors.forEach((e) => console.error('   - ' + e)); }
   else console.log(`✓ ${name}: ${summary}`);

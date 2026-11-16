@@ -1,0 +1,215 @@
+{
+  "id": "arte",
+  "nombre": "Arte",
+  "obras": [
+    {
+      "id": "partenon",
+      "numero": 1,
+      "titulo": "Partenón",
+      "autor": "Ictinos y Calícrates (escultura dirigida por Fidias)",
+      "fecha": "447-432 a.C.",
+      "estilo": "Arte griego, período clásico pleno",
+      "texto": "Templo **dórico**, **octástilo** y **períptero** de mármol pentélico. Columnas **sin basa**, con **éntasis** y capitel de **equino y ábaco**. Friso de **triglifos y metopas** y frontones dedicados a Atenea. **Cella** para la Atenea colosal. Destacan las **correcciones ópticas**, el **friso jónico** de las Panateneas y la **policromía**.",
+      "imagen": {
+        "src": "arte/partenon.jpg",
+        "alt": "Fachada oeste del Partenón, Atenas",
+        "credito": "User:Mountain",
+        "licencia": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Parthenon_from_west.jpg",
+        "ancho": 960,
+        "alto": 720
+      },
+      "fuente": "Comentarios de arte (texto facilitado), obra 1"
+    },
+    {
+      "id": "doriforo",
+      "numero": 2,
+      "titulo": "Doríforo",
+      "autor": "Policleto",
+      "fecha": "c. 440-430 a.C.",
+      "estilo": "Arte griego, período clásico pleno",
+      "texto": "Original de bronce conocido por **copias romanas**. Ilustra **El Canon**: cuerpo de **siete cabezas** y belleza basada en la proporción (**symmetria**). El **contrapposto** rompe la rigidez arcaica. Anatomía perfecta, con **diartrosis** marcadas, y rostro sin emoción: el **ethos**.",
+      "imagen": {
+        "src": "arte/doriforo.jpg",
+        "alt": "Doríforo, copia romana en mármol (Museo Arqueológico de Nápoles)",
+        "credito": "Yair-haklai",
+        "licencia": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Doryphoros_from_Pompeii_(Naples).jpg",
+        "ancho": 442,
+        "alto": 960
+      },
+      "fuente": "Comentarios de arte (texto facilitado), obra 2"
+    },
+    {
+      "id": "apoxiomenos",
+      "numero": 3,
+      "titulo": "Apoxiómenos",
+      "autor": "Lisipo",
+      "fecha": "c. 325 a.C.",
+      "estilo": "Arte griego, clásico, estilo del siglo IV",
+      "texto": "Copia romana: un atleta se limpia con el **estrígilo**, gesto cotidiano. Canon de **ocho cabezas** y **contrapposto** más inestable. Los brazos en **escorzo** rompen la **frontalidad** y multiplican los **puntos de vista**. Tratamiento **realista**: atleta cansado y pelo revuelto.",
+      "imagen": {
+        "src": "arte/apoxiomenos.jpg",
+        "alt": "Apoxiómenos, copia romana en mármol (Museos Vaticanos)",
+        "credito": "Copy after Lysippos",
+        "licencia": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Apoxyomenos_Pio-Clementino_Inv1185.jpg",
+        "ancho": 411,
+        "alto": 960
+      },
+      "fuente": "Comentarios de arte (texto facilitado), obra 3"
+    },
+    {
+      "id": "coliseo",
+      "numero": 4,
+      "titulo": "Coliseo (Anfiteatro Flavio)",
+      "autor": "Encargado por Vespasiano",
+      "fecha": "inaugurado en el 80 d.C.",
+      "estilo": "Arte romano, período imperial",
+      "texto": "Anfiteatro **elíptico** para unos **50.000** espectadores, de travertino, ladrillo y **opus caementicium**. **Bóvedas de cañón** anulares y radiales organizan la circulación (**vomitoria**). Fachada con **superposición de órdenes**, solo **decorativos**, que combina **arco y dintel**. Bajo la arena, el **hipogeo**. Ejemplo de **utilitas** y **firmitas** al servicio del poder.",
+      "imagen": {
+        "src": "arte/coliseo.jpg",
+        "alt": "Exterior del Coliseo, Roma",
+        "credito": "Acediscovery",
+        "licencia": "CC BY 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Colosseum-Rome-May-2009.jpg",
+        "ancho": 960,
+        "alto": 690
+      },
+      "fuente": "Comentarios de arte (texto facilitado), obra 4"
+    },
+    {
+      "id": "arco-tito",
+      "numero": 5,
+      "titulo": "Arco de Tito",
+      "autor": "Encargado por Domiciano",
+      "fecha": "finales del siglo I d.C.",
+      "estilo": "Arte romano, período imperial",
+      "texto": "Arquitectura **conmemorativa y propagandística**; es el **arco más antiguo conservado**. **Único vano** de medio punto y tres cuerpos: podio, cuerpo con **semicolumnas compuestas** decorativas y **ático** con inscripción. **Altorrelieves** narrativos del triunfo de Tito y el **saqueo de Jerusalén**. Bóveda **casetonada** con la **apoteosis** del emperador.",
+      "imagen": {
+        "src": "arte/arco-tito.jpg",
+        "alt": "Arco de Tito en el Foro Romano",
+        "credito": "Jebulon",
+        "licencia": "CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:Arch_Titus,_Forum_Romanum,_Rome,_Italy.jpg",
+        "ancho": 960,
+        "alto": 891
+      },
+      "fuente": "Comentarios de arte (texto facilitado), obra 5"
+    },
+    {
+      "id": "santa-sofia",
+      "numero": 6,
+      "titulo": "Santa Sofía de Constantinopla",
+      "autor": "Antemio de Tralles e Isidoro de Mileto",
+      "fecha": "532-537 d.C.",
+      "estilo": "Arte bizantino, Primera Edad de Oro (Justiniano)",
+      "texto": "Une la **planta basilical** con una gran **cúpula central** que pasa del cuadrado al círculo mediante **pechinas**. Las ventanas del tambor crean una **cúpula flotante**. Los empujes bajan por **semicúpulas** y contrafuertes ocultos. Exterior macizo e interior **desmaterializado** por los **mosaicos dorados**, expresión del imperio **teocrático**.",
+      "imagen": {
+        "src": "arte/santa-sofia.jpg",
+        "alt": "Interior de Santa Sofía con la cúpula central, Estambul",
+        "credito": "Jorge Láscar from Australia",
+        "licencia": "CC BY 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Central_nave_-_Hagia_Sophia_(8291196158).jpg",
+        "ancho": 960,
+        "alto": 638
+      },
+      "fuente": "Comentarios de arte (texto facilitado), obra 6"
+    },
+    {
+      "id": "santiago-interior",
+      "numero": 7,
+      "titulo": "Interior de la Catedral de Santiago de Compostela",
+      "autor": "Bernardo el Viejo, Roberto, Esteban, Bernardo el Joven y Maestro Mateo",
+      "fecha": "1075-1211",
+      "estilo": "Románico pleno, iglesia de peregrinación",
+      "texto": "**Cruz latina** con tres naves y amplio transepto. **Deambulatorio y capillas radiales** para los **peregrinos**. Nave central con **bóveda de cañón** y **arcos fajones**, laterales con **arista** y **tribunas** que contrarrestan empujes. **Pilares cruciformes**, capiteles historiados y **taqueado jaqués**. **Cimborrio** sobre trompas.",
+      "imagen": {
+        "src": "arte/santiago-interior.jpg",
+        "alt": "Nave central de la Catedral de Santiago de Compostela",
+        "credito": "Lansbricae",
+        "licencia": "CC BY-SA 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Catedral_de_Santiago_de_Compostela_interior_adjusted.JPG",
+        "ancho": 720,
+        "alto": 960
+      },
+      "fuente": "Comentarios de arte (texto facilitado), obra 7"
+    },
+    {
+      "id": "platerias",
+      "numero": 8,
+      "titulo": "Portada de Platerías (dos tímpanos)",
+      "autor": "Talleres anónimos de la catedral",
+      "fecha": "c. 1103-1117",
+      "estilo": "Románico pleno",
+      "texto": "Portada sur, la **única románica conservada**: dos vanos de **medio punto** con **tímpanos** sobre ménsulas. Izquierdo: **Tentaciones de Cristo** y la «mujer adúltera». Derecho: **Pasión** y **Epifanía**. Hay **horror vacui** por piezas **recolocadas** de otras portadas. Canon corto e influencia de **Toulouse y Conques**.",
+      "imagen": {
+        "src": "arte/platerias.jpg",
+        "alt": "Portada de Platerías con sus dos tímpanos, Catedral de Santiago",
+        "credito": "Luis Miguel Bugallo Sánchez (Lmbuga)",
+        "licencia": "CC BY 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Praza_de_prater%C3%ADas._Catedral_de_Santiago_de_Compostela._01-2011-9.jpg",
+        "ancho": 960,
+        "alto": 840
+      },
+      "fuente": "Comentarios de arte (texto facilitado), obra 8"
+    },
+    {
+      "id": "portico-gloria",
+      "numero": 9,
+      "titulo": "Pórtico de la Gloria",
+      "autor": "Maestro Mateo",
+      "fecha": "1168-1188",
+      "estilo": "Románico final, transición al gótico",
+      "texto": "Nártex de tres arcos con programa **apocalíptico**: **Cristo en Majestad** con el **Tetramorfos** y los **24 Ancianos** músicos. En el **parteluz**, Santiago sobre el **Árbol de Jesé**. Las **estatuas-columna** de profetas y apóstoles se separan del muro y **dialogan**: su **naturalismo** anuncia el **gótico**.",
+      "imagen": {
+        "src": "arte/portico-gloria.jpg",
+        "alt": "Tímpano central del Pórtico de la Gloria con Cristo en Majestad",
+        "credito": "pedronchi",
+        "licencia": "CC BY 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Pantocrator_del_p%C3%B3rtico_de_la_Gloria_en_Santiago_de_Compostela.jpg",
+        "ancho": 960,
+        "alto": 720
+      },
+      "fuente": "Comentarios de arte (texto facilitado), obra 9"
+    },
+    {
+      "id": "catedral-leon",
+      "numero": 10,
+      "titulo": "Catedral de León",
+      "autor": "Maestros Simón, Enrique y Juan Pérez",
+      "fecha": "c. 1254-1285",
+      "estilo": "Gótico clásico (radiante), de influencia francesa",
+      "texto": "Planta de **cruz latina** derivada de **Reims**, con deambulatorio y capillas radiales. Fachada con **triple portada ojival** y **rosetón**. **Crucería**, **arco apuntado** y **arbotantes** permiten **desmaterializar el muro**. Destacan las **vidrieras**, más de **1.800 m²**, que expresan la idea de **Dios como luz**.",
+      "imagen": {
+        "src": "arte/catedral-leon.jpg",
+        "alt": "Fachada occidental de la Catedral de León",
+        "credito": "Luis Miguel Bugallo Sánchez (Lmbuga)",
+        "licencia": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Catedral_de_Le%C3%B3n._Espa%C3%B1a-44.jpg",
+        "ancho": 960,
+        "alto": 960
+      },
+      "fuente": "Comentarios de arte (texto facilitado), obra 10"
+    },
+    {
+      "id": "huida-egipto",
+      "numero": 11,
+      "titulo": "La huida a Egipto (Capilla de los Scrovegni, Padua)",
+      "autor": "Giotto",
+      "fecha": "1304-1306",
+      "estilo": "Trecento italiano, transición del gótico al Renacimiento",
+      "texto": "**Fresco** del ciclo de los Scrovegni (**36 escenas**). La Virgen y el Niño forman un **triángulo** y una **diagonal** marca el avance. **Paisaje** en vez de fondo dorado y **escorzo** del ángel. Figuras **volumétricas** que rompen la **isocefalia** y el **hieratismo**, con rasgos aún arcaicos.",
+      "imagen": {
+        "src": "arte/huida-egipto.jpg",
+        "alt": "La huida a Egipto, fresco de Giotto",
+        "credito": "Giotto",
+        "licencia": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Giotto_-_Scrovegni_-_-20-_-_Flight_into_Egypt.jpg",
+        "ancho": 844,
+        "alto": 858
+      },
+      "fuente": "Comentarios de arte (texto facilitado), obra 11"
+    }
+  ]
+}

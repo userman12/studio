@@ -1,8 +1,8 @@
-# Estudio · Psicología, Economía y Latín
+# Estudio · Psicología, Economía, Latín y Arte
 
 **▶ Apri la webapp: https://userman12.github.io/studio/**
 
-Web app personale di studio (interfaccia e contenuti in spagnolo): **puntos clave**, **píldoras** (flashcard) e **quiz** per Psicología ed Economía, più **Latín**: Gramática (tabella dei prefissi, píldoras ed esercizio) ed Épica (teoria su Virgilio e la Eneida, píldoras e quiz di 30 domande). Nessun backend: tutto il progresso resta nel `localStorage` del browser.
+Web app personale di studio (interfaccia e contenuti in spagnolo): **puntos clave**, **píldoras** (flashcard) e **quiz** per Psicología ed Economía, più **Latín**: Gramática (tabella dei prefissi, píldoras ed esercizio) ed Épica (teoria su Virgilio e la Eneida, píldoras e quiz di 30 domande). Più **Arte**: commenti di 11 opere con foto. Nessun backend: tutto il progresso resta nel `localStorage` del browser.
 
 Stack: Vite + React 18 + TypeScript, react-router (HashRouter), CSS Modules, Vitest.
 
@@ -72,5 +72,7 @@ src/
   store.ts           localStorage, export/import
   App.tsx            routing, Home, layout materia
   Puntos.tsx  Pildoras.tsx  Quiz.tsx  Progreso.tsx  Latin.tsx
+  Arte.tsx           pagina Arte (dati in src/data/arte.json)
+public/arte/         foto delle opere (Wikimedia Commons, crediti in arte.json)
 scripts/validate.mjs validatore dei contenuti
 ```

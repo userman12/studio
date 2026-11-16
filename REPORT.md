@@ -155,3 +155,28 @@ Livelli: recordar 12, comprender 11, aplicar 7. Risposta corretta in A/B/C/D: 8/
 - **Píldoras: 37, sotto il minimo di 40.** Il testo è un riassunto breve; arrivare a 40 avrebbe voluto dire ripetere le stesse informazioni. Il validatore richiede 30 per Épica.
 - **Nuovi ID** (`ep2-…`): i progressi salvati sulle vecchie domande del PDF vengono ignorati, così non si mescolano con le nuove.
 - **Distrattori**: alcune opzioni sbagliate nominano elementi che non sono nel testo (es. Minerva, Ulises). Servono solo come alternative plausibili e nessuna è presentata come contenuto.
+
+---
+
+# Arte (aggiunta il 16/11/2026)
+
+**Fonte**: gli 11 commenti di opere incollati in chat. Sono la teoria della sezione **Arte**: niente quiz né píldoras, perché non sono stati richiesti.
+
+- **Lunghezza**: come richiesto, i commenti sono ridotti di circa il **60%**, da 1.183 a 482 parole (41% dell'originale). Ho tenuto i concetti chiave in grassetto ed eliminato misure, elenchi secondari e dettagli ripetuti. La scheda dell'opera (autore · data · stile) è riportata intera. Nessuna informazione è aggiunta rispetto al testo.
+- **Foto**: una per opera, da **Wikimedia Commons**, scelta perché mostri ciò che il commento descrive. Per esempio: i due timpani per Platerías, il timpano con Cristo in Maestà per il Pórtico de la Gloria, l'interno con cupola e semicupole per Santa Sofía. Sono salvate in `public/arte/` (960 px, 1,7 MB in tutto) e caricate in modo pigro.
+- **Licenze**: pubblico dominio, CC0, CC BY o CC BY-SA. Sotto ogni foto ci sono l'autore e la licenza, con il link alla pagina della foto su Commons, come richiedono le licenze CC BY e CC BY-SA.
+- **Validatore**: controlla anche `arte.json`: campi obbligatori, file della foto presente, crediti e licenza.
+
+| # | Opera | Foto (Commons) | Licenza |
+|---|---|---|---|
+| 1 | Partenón | User:Mountain | Public domain |
+| 2 | Doríforo | Yair-haklai | CC BY-SA 4.0 |
+| 3 | Apoxiómenos | Copy after Lysippos | Public domain |
+| 4 | Coliseo (Anfiteatro Flavio) | Acediscovery | CC BY 4.0 |
+| 5 | Arco de Tito | Jebulon | CC0 |
+| 6 | Santa Sofía de Constantinopla | Jorge Láscar from Australia | CC BY 2.0 |
+| 7 | Interior de la Catedral de Santiago de Compostela | Lansbricae | CC BY-SA 2.0 |
+| 8 | Portada de Platerías (dos tímpanos) | Luis Miguel Bugallo Sánchez (Lmbuga) | CC BY 3.0 |
+| 9 | Pórtico de la Gloria | pedronchi | CC BY 2.0 |
+| 10 | Catedral de León | Luis Miguel Bugallo Sánchez (Lmbuga) | CC BY-SA 3.0 |
+| 11 | La huida a Egipto (Capilla de los Scrovegni, Padua) | Giotto | Public domain |

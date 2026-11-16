@@ -167,3 +167,21 @@
 .latinNav { display: grid; grid-template-columns: auto 1fr 1fr 1fr; gap: 6px 4px; align-items: center; margin: 14px 0 18px; }
 .latinGrupo { font-family: var(--font-mono); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); padding-right: 8px; }
 .qMeta > span:last-child { white-space: nowrap; }
+
+/* ---------- Arte ---------- */
+.arte { --hl: var(--hl-arte); }
+.obra { composes: card; padding: 0; overflow: hidden; display: grid; }
+.obraFig { margin: 0; background: var(--paper); border-bottom: 1px solid var(--rule); }
+.obraImg { display: block; width: 100%; height: auto; max-height: 70vh; object-fit: contain; background: var(--paper); }
+.credito { font-size: 0.75rem; color: var(--muted); padding: 6px 12px; line-height: 1.35; }
+.credito a { color: var(--muted); }
+.obraBody { padding: 16px 18px 18px; }
+.obraTitulo { font-size: clamp(1.25rem, 4.6vw, 1.5rem); display: flex; gap: 10px; align-items: baseline; }
+.obraNum { font-family: var(--font-mono); font-size: 0.8rem; color: var(--muted); font-weight: 400; }
+.ficha { margin: 6px 0 10px; color: var(--muted); font-size: 0.92rem; }
+.obraTexto { margin: 0; }
+@media (min-width: 760px) {
+  .obra { grid-template-columns: minmax(0, 5fr) minmax(0, 6fr); }
+  .obraFig { border-bottom: 0; border-right: 1px solid var(--rule); display: flex; flex-direction: column; justify-content: center; }
+  .obraImg { max-height: 520px; }
+}
