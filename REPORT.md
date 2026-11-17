@@ -180,3 +180,39 @@ Livelli: recordar 12, comprender 11, aplicar 7. Risposta corretta in A/B/C/D: 8/
 | 9 | Pórtico de la Gloria | pedronchi | CC BY 2.0 |
 | 10 | Catedral de León | Luis Miguel Bugallo Sánchez (Lmbuga) | CC BY-SA 3.0 |
 | 11 | La huida a Egipto (Capilla de los Scrovegni, Padua) | Giotto | Public domain |
+
+---
+
+# Filosofía (aggiunta il 18/11/2026)
+
+Nell'app non c'era ancora una sezione Filosofía: l'ho creata. Contiene **solo il quiz di 40 domande** richiesto, con le modalità Práctica, Examen (10/20/30/todas) e Repaso de errores, il filtro per tema, il risultato per tema e lo storico del miglior punteggio nella Home.
+
+**Fonti** (lette per intero, circa 26.000 parole; tre in galiziano, tradotte in spagnolo):
+`Aristóteles.doc`, `Dialéctica socrática e relativismo dos sofistas.pdf`, `HªFª Unidade 1.pdf`, `Platón. Vida y pensamiento.pdf`, `Unidade 2. Sócrates e Platón.pdf`. Il campo `fuente` di ogni domanda cita file e pagina, o la sezione per il `.doc`.
+
+| Tema | Domande |
+|---|---:|
+| Introducción: qué es la filosofía y sus métodos | 4 |
+| Del mito al logos: los presocráticos | 5 |
+| Los sofistas | 7 |
+| Sócrates | 8 |
+| Platón | 10 |
+| Aristóteles | 6 |
+| **Totale** | **40** |
+
+Livelli: recordar 17, comprender 15, aplicar 8. Risposta corretta in A/B/C/D: 10/10/10/10.
+
+## Contraddizioni ed errori nelle fonti (evitati nelle domande)
+
+1. **Dove Platón fu venduto come schiavo**: Egina (`Platón. Vida y pensamiento`, p. 1) contro Egitto (`Unidade 2`, p. 7).
+2. **Date di Platón**: morte nel 347 (`Platón. Vida y pensamiento`) o nel 348 a.C. (`Unidade 2`); primo viaggio in Sicilia nel 388 o nel 389-388.
+3. **Símil de la línea** (`Platón. Vida y pensamiento`, p. 5): assegna "Imaginación" anche alla conoscenza degli oggetti. Ho seguito `Unidade 2`, coerente: noesis, dianoia, pistis, eikasía.
+4. **Piramide delle Idee** (`Platón. Vida y pensamiento`, p. 4): mette i concetti matematici dentro la gerarchia delle Idee, contro lo schema della stessa pagina. Non è usata.
+5. **Aristóteles.doc**: "la metafísica se ocupa del ser móvil y separado"; "su yerno Próxenos"; "Pitis" / "Pitias"; morte di Platone nel 348. Non sono usati.
+6. **Sócrates**: nato nel 470 (`Dialéctica`, `HªFª Unidade 1`) o nel 469 a.C. (`Unidade 2`). Inoltre `Dialéctica` attribuisce il racconto del processo al *Fedón*, mentre `HªFª Unidade 1` cita l'*Apología*. Nessuna domanda su questi punti.
+7. **Gorgias**: "de Sicilia" in `Dialéctica`. Nessuna domanda sulla sua origine.
+
+## Scelte
+
+- Ci sono solo domande, senza teoria né píldoras, come richiesto ("un quiz separato"). Il validatore richiede 30 domande e nessuna píldora per Filosofía.
+- Una domanda di applicazione usa un sillogismo nuovo ("mamíferos/perros") con la stessa struttura dell'esempio della fonte.

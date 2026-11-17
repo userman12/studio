@@ -11,6 +11,9 @@ import { Quiz } from './Quiz';
 import { Progreso } from './Progreso';
 import { EjercicioPrefijos, LatinLayout, Prefijos, resumenLatin } from './Latin';
 import { Arte, OBRAS } from './Arte';
+import filosofia from './data/filosofia.json';
+
+const FILOSOFIA = filosofia as unknown as Materia; // empty pildoras/puntosClave infer never[]; shape checked by npm run validate
 import s from './ui.module.css';
 
 export const MATERIAS: Record<MateriaId, Materia> = {
@@ -88,6 +91,13 @@ function Home() {
           );
         })}
         <LatinCard />
+        <Link to="/filosofia" className={`${s.subject} ${s.filosofia}`}>
+          <h2 className={s.subjectName}><mark className={s.hl}>Filosofía</mark></h2>
+          <span className={s.muted}>Quiz de {FILOSOFIA.preguntas.length} preguntas: de los presocráticos a Aristóteles</span>
+          <div className={s.stats}>
+            <div className={s.stat}><span className={s.statNum}>{(() => { const b = mejorPuntuacion(leer('filosofia').historial); return b == null ? '—' : `${b}%`; })()}</span><span className={s.statLabel}>mejor quiz</span></div>
+          </div>
+        </Link>
         <Link to="/arte" className={`${s.subject} ${s.arte}`}>
           <h2 className={s.subjectName}><mark className={s.hl}>Arte</mark></h2>
           <span className={s.muted}>{OBRAS.length} comentarios de obras, con foto</span>
@@ -143,6 +153,9 @@ export default function App() {
     <HashRouter>
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/filosofia" element={<Shell><div className={s.filosofia}><h1 className={s.pageTitle}><mark className={s.hl}>Filosofía</mark></h1><p className={`${s.small} ${s.muted}`} style={{ margin: '0 0 16px' }}>Quiz: presocráticos, sofistas, Sócrates, Platón y Aristóteles</p><Outlet context={FILOSOFIA} /></div></Shell>}>
+          <Route index element={<Quiz />} />
+        </Route>
         <Route path="/arte" element={<Shell><Arte /></Shell>} />
         <Route path="/latin" element={<Shell><LatinLayout /></Shell>}>
           <Route index element={<Navigate to="ejercicio" replace />} />

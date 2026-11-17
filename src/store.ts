@@ -3,7 +3,7 @@ import { useCallback, useEffect, useState } from 'react';
 import type { MateriaId, Progreso } from './types';
 
 /** Every saved progress slot. Latín reuses Progreso: `errores` is keyed by word, `pildoras` stays empty. */
-export type ProgresoId = MateriaId | 'latin' | 'epica';
+export type ProgresoId = MateriaId | 'latin' | 'epica' | 'filosofia';
 
 const KEY = (m: ProgresoId) => `estudio:v1:${m}`;
 export const vacio = (): Progreso => ({ pildoras: {}, errores: {}, historial: [] });
@@ -46,7 +46,7 @@ export function useProgreso(m: ProgresoId) {
   return [p, update] as const;
 }
 
-const MATERIAS: ProgresoId[] = ['psicologia', 'economia', 'latin', 'epica'];
+const MATERIAS: ProgresoId[] = ['psicologia', 'economia', 'latin', 'epica', 'filosofia'];
 
 export function exportar(): string {
   return JSON.stringify({ app: 'estudio', version: 1, fecha: new Date().toISOString(), progreso: Object.fromEntries(MATERIAS.map((m) => [m, leer(m)])) }, null, 2);

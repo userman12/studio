@@ -63,7 +63,7 @@ export function Quiz() {
     onSalir={() => { if (confirm('¿Salir del quiz? Este intento no se guardará en el historial.')) setSesion(null); }}
   />;
 
-  if (resultado) return <Final r={resultado} temaTitulo={temaTitulo} conHistorial={m.id !== 'epica'} puedeRepetir={pool.length > 0} onOtra={empezar} onVolver={() => setResultado(null)} />;
+  if (resultado) return <Final r={resultado} temaTitulo={temaTitulo} conHistorial={m.id === 'psicologia' || m.id === 'economia'} puedeRepetir={pool.length > 0} onOtra={empezar} onVolver={() => setResultado(null)} />;
 
   return (
     <div className={s.stack}>

@@ -168,6 +168,9 @@
 .latinGrupo { font-family: var(--font-mono); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); padding-right: 8px; }
 .qMeta > span:last-child { white-space: nowrap; }
 
+/* ---------- Filosofía ---------- */
+.filosofia { --hl: var(--hl-filosofia); }
+
 /* ---------- Arte ---------- */
 .arte { --hl: var(--hl-arte); }
 .obra { composes: card; padding: 0; overflow: hidden; display: grid; }

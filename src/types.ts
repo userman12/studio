@@ -15,7 +15,7 @@ export type Pregunta = {
 };
 
 export type Materia = {
-  id: MateriaId | 'epica' | 'latin';
+  id: MateriaId | 'epica' | 'latin' | 'filosofia';
   nombre: string;
   temas: Tema[];
   puntosClave: PuntoClave[];

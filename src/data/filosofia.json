@@ -1,0 +1,640 @@
+{
+  "id": "filosofia",
+  "nombre": "Filosofía",
+  "temas": [
+    {
+      "id": "f-intro",
+      "titulo": "Introducción: qué es la filosofía y sus métodos",
+      "orden": 1
+    },
+    {
+      "id": "f-preso",
+      "titulo": "Del mito al logos: los presocráticos",
+      "orden": 2
+    },
+    {
+      "id": "f-sofistas",
+      "titulo": "Los sofistas",
+      "orden": 3
+    },
+    {
+      "id": "f-socrates",
+      "titulo": "Sócrates",
+      "orden": 4
+    },
+    {
+      "id": "f-platon",
+      "titulo": "Platón",
+      "orden": 5
+    },
+    {
+      "id": "f-aristoteles",
+      "titulo": "Aristóteles",
+      "orden": 6
+    }
+  ],
+  "puntosClave": [],
+  "pildoras": [],
+  "preguntas": [
+    {
+      "id": "fi-q-01",
+      "temaId": "f-intro",
+      "enunciado": "¿Qué significa etimológicamente «filosofía»?",
+      "opciones": [
+        "Amor a la sabiduría",
+        "Estudio de la naturaleza",
+        "Arte de dialogar",
+        "Ciencia del alma"
+      ],
+      "correcta": 0,
+      "explicacion": "Procede del griego filos + sophia, «amor a la sabiduría».",
+      "nivel": "recordar",
+      "fuente": "HªFª Unidade 1.pdf, p. 1 – Introducción"
+    },
+    {
+      "id": "fi-q-02",
+      "temaId": "f-intro",
+      "enunciado": "¿Qué método, originado en Aristóteles, combina un momento empírico (datos de los sentidos) y un momento racional (abstracción de lo universal)?",
+      "opciones": [
+        "El método racionalista",
+        "El método fenomenológico",
+        "El método empírico-racional",
+        "El método hermenéutico"
+      ],
+      "correcta": 2,
+      "explicacion": "El método empírico-racional reconoce dos fuentes de conocimiento, los sentidos y la razón; de él procede el método inductivo de las ciencias empíricas.",
+      "nivel": "recordar",
+      "fuente": "HªFª Unidade 1.pdf, p. 2 – Los métodos de la filosofía"
+    },
+    {
+      "id": "fi-q-03",
+      "temaId": "f-intro",
+      "enunciado": "¿Qué diferencia al racionalismo del empirismo?",
+      "opciones": [
+        "El racionalismo se basa en la experiencia y el empirismo en las ideas innatas",
+        "Ambos consideran que solo hay verdades probables",
+        "El empirismo procede deductivamente, de lo universal a lo particular",
+        "El racionalismo confía en la razón y procede deductivamente; el empirismo hace de la experiencia el origen y límite del conocimiento"
+      ],
+      "correcta": 3,
+      "explicacion": "Para los racionalistas (Descartes, Spinoza, Leibniz) las ideas más ciertas son las innatas; para los empiristas (Locke, Berkeley, Hume) todo procede de la experiencia y sus generalizaciones son solo probables.",
+      "nivel": "comprender",
+      "fuente": "HªFª Unidade 1.pdf, p. 2 – Los métodos de la filosofía"
+    },
+    {
+      "id": "fi-q-04",
+      "temaId": "f-intro",
+      "enunciado": "Un filósofo no hace juicios sobre el mundo: se limita a analizar cómo usamos la palabra «libertad» para mostrar sus usos confusos. ¿Qué método aplica?",
+      "opciones": [
+        "El hermenéutico",
+        "El fenomenológico",
+        "El dialéctico",
+        "El analítico-lingüístico"
+      ],
+      "correcta": 3,
+      "explicacion": "El método analítico-lingüístico (Russell, Wittgenstein, Moore) reduce la tarea de la filosofía al análisis del lenguaje. La hermenéutica, en cambio, interpreta textos según su contexto.",
+      "nivel": "aplicar",
+      "fuente": "HªFª Unidade 1.pdf, p. 3 – Los métodos de la filosofía"
+    },
+    {
+      "id": "fi-q-05",
+      "temaId": "f-preso",
+      "enunciado": "Según el texto, ¿cuándo comienza el paso del mito al logos?",
+      "opciones": [
+        "Cuando la idea de arbitrariedad (caos) se sustituye por un orden causal (cosmos) que la razón puede descubrir",
+        "Cuando los griegos dejan de creer en cualquier dios",
+        "Cuando se escriben los primeros poemas épicos",
+        "Cuando los fenómenos se explican mediante fuerzas personificadas"
+      ],
+      "correcta": 0,
+      "explicacion": "La explicación racional surge al buscar el fundamento de los hechos naturales en otros hechos naturales. Explicar mediante fuerzas personificadas es propio del mito.",
+      "nivel": "comprender",
+      "fuente": "HªFª Unidade 1.pdf, p. 4 – El paso del mito al logos"
+    },
+    {
+      "id": "fi-q-06",
+      "temaId": "f-preso",
+      "enunciado": "¿Qué es el arjé para los presocráticos?",
+      "opciones": [
+        "El principio u origen del que deriva toda la realidad material",
+        "La ley que rige la vida de la polis",
+        "El alma inmortal de cada ser humano",
+        "La apariencia cambiante que muestran los sentidos"
+      ],
+      "correcta": 0,
+      "explicacion": "El arjé es el principio o fundamento que da unidad a lo múltiple y que la razón puede conocer, frente a la imagen cambiante que ofrecen los sentidos.",
+      "nivel": "recordar",
+      "fuente": "HªFª Unidade 1.pdf, p. 5 – Los presocráticos"
+    },
+    {
+      "id": "fi-q-07",
+      "temaId": "f-preso",
+      "enunciado": "¿Qué filósofo de Mileto sostuvo que el arjé es el ápeiron, lo ilimitado?",
+      "opciones": [
+        "Tales",
+        "Anaximandro",
+        "Anaxímenes",
+        "Heráclito"
+      ],
+      "correcta": 1,
+      "explicacion": "Para Anaximandro el arjé es lo indeterminado e ilimitado. Tales propuso el agua, Anaxímenes el aire y Heráclito el fuego.",
+      "nivel": "recordar",
+      "fuente": "HªFª Unidade 1.pdf, p. 5 – La escuela de Mileto"
+    },
+    {
+      "id": "fi-q-08",
+      "temaId": "f-preso",
+      "enunciado": "Un filósofo sostiene que el cambio que perciben los sentidos es solo apariencia y que el ser verdadero es eterno, uno e inmutable. ¿Con quién coincide?",
+      "opciones": [
+        "Con Parménides",
+        "Con Heráclito",
+        "Con Demócrito",
+        "Con Anaxímenes"
+      ],
+      "correcta": 0,
+      "explicacion": "Para Parménides solo el ser, inmutable, puede conocerse; el cambio es apariencia. Heráclito, al contrario, defiende el fluir constante.",
+      "nivel": "aplicar",
+      "fuente": "HªFª Unidade 1.pdf, pp. 5–6 – Heráclito y Parménides"
+    },
+    {
+      "id": "fi-q-09",
+      "temaId": "f-preso",
+      "enunciado": "¿Quién explicó la naturaleza por la mezcla y separación de cuatro elementos (aire, agua, tierra y fuego) movidos por el amor y la discordia?",
+      "opciones": [
+        "Anaxágoras",
+        "Empédocles",
+        "Demócrito",
+        "Pitágoras"
+      ],
+      "correcta": 1,
+      "explicacion": "Empédocles es un pluralista: cuatro raíces y dos fuerzas, philia y neikos. Anaxágoras habló de semillas y del Nous; Demócrito, de átomos.",
+      "nivel": "recordar",
+      "fuente": "HªFª Unidade 1.pdf, p. 6 – Los pluralistas"
+    },
+    {
+      "id": "fi-q-10",
+      "temaId": "f-sofistas",
+      "enunciado": "¿Cuál de estos factores hizo que «sofista» pasara a significar «falso sabio»?",
+      "opciones": [
+        "Que fueran aristócratas atenienses",
+        "Que rechazaran la retórica",
+        "Que defendieran verdades absolutas",
+        "Que cobraran por enseñar, lo que chocaba con el ideal griego de una vida contemplativa"
+      ],
+      "correcta": 3,
+      "explicacion": "Influyeron sus ideas relativistas, el cobro por enseñar y las críticas de Platón y Aristóteles.",
+      "nivel": "recordar",
+      "fuente": "Dialéctica socrática e relativismo dos sofistas.pdf, p. 1"
+    },
+    {
+      "id": "fi-q-11",
+      "temaId": "f-sofistas",
+      "enunciado": "¿Qué significa la frase de Protágoras «el hombre es la medida de todas las cosas»?",
+      "opciones": [
+        "Que el ser humano es superior a los dioses",
+        "Que la verdad se descubre midiendo la naturaleza",
+        "Que no hay una verdad objetiva: lo que a cada uno le parece es lo real para él",
+        "Que todos los hombres piensan igual"
+      ],
+      "correcta": 2,
+      "explicacion": "Expresa el relativismo: no hay verdades absolutas, algo solo es verdadero en relación con el sujeto.",
+      "nivel": "comprender",
+      "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 1 – Los sofistas"
+    },
+    {
+      "id": "fi-q-12",
+      "temaId": "f-sofistas",
+      "enunciado": "¿Qué sofista afirmó que nada existe, que si existiera no podría conocerse y que si se conociera no podría comunicarse?",
+      "opciones": [
+        "Protágoras",
+        "Hipias",
+        "Gorgias",
+        "Trasímaco"
+      ],
+      "correcta": 2,
+      "explicacion": "Es la formulación más radical del escepticismo sofista, la de Gorgias.",
+      "nivel": "recordar",
+      "fuente": "HªFª Unidade 1.pdf, p. 8; Dialéctica socrática e relativismo dos sofistas.pdf, pp. 1–2"
+    },
+    {
+      "id": "fi-q-13",
+      "temaId": "f-sofistas",
+      "enunciado": "Un pensador afirma que las leyes de Atenas son justas solo porque los atenienses las acordaron, y que otro pueblo puede tener leyes opuestas igual de válidas. ¿Qué tesis defiende?",
+      "opciones": [
+        "El intelectualismo moral",
+        "La teoría de las ideas",
+        "El convencionalismo: las leyes son nomos, no physis",
+        "El iusnaturalismo"
+      ],
+      "correcta": 2,
+      "explicacion": "Los sofistas distinguen physis (naturaleza) y nomos (convención): las normas morales y políticas son acuerdos humanos.",
+      "nivel": "aplicar",
+      "fuente": "Dialéctica socrática e relativismo dos sofistas.pdf, p. 3; HªFª Unidade 1.pdf, p. 8"
+    },
+    {
+      "id": "fi-q-14",
+      "temaId": "f-sofistas",
+      "enunciado": "Según Calicles y Trasímaco (segunda generación de sofistas), ¿cuáles son las dos únicas normas naturales del comportamiento humano?",
+      "opciones": [
+        "La búsqueda del placer y el dominio del más fuerte",
+        "La justicia y la piedad",
+        "El amor y la discordia",
+        "La templanza y la fortaleza"
+      ],
+      "correcta": 0,
+      "explicacion": "De ahí concluyen que la moral vigente es antinatural. Amor y discordia son las fuerzas de Empédocles.",
+      "nivel": "recordar",
+      "fuente": "Dialéctica socrática e relativismo dos sofistas.pdf, pp. 3–4"
+    },
+    {
+      "id": "fi-q-15",
+      "temaId": "f-sofistas",
+      "enunciado": "¿En qué consiste el «giro antropológico» de los sofistas y Sócrates?",
+      "opciones": [
+        "En sustituir la razón por los mitos",
+        "En centrarse en la búsqueda del arjé",
+        "En pasar de la reflexión sobre la naturaleza a los asuntos humanos: ética, política y educación",
+        "En estudiar el cuerpo humano con métodos médicos"
+      ],
+      "correcta": 2,
+      "explicacion": "Dejan de preocuparse por el macrocosmos y se centran en el ser humano.",
+      "nivel": "comprender",
+      "fuente": "Dialéctica socrática e relativismo dos sofistas.pdf, p. 2; HªFª Unidade 1.pdf, p. 7"
+    },
+    {
+      "id": "fi-q-16",
+      "temaId": "f-sofistas",
+      "enunciado": "Un maestro entrena a sus alumnos para defender con igual convicción una tesis y la contraria, y para hacer que el argumento más débil parezca el más fuerte. ¿A quiénes se parece?",
+      "opciones": [
+        "A los sofistas",
+        "A Sócrates",
+        "A Platón",
+        "A los presocráticos"
+      ],
+      "correcta": 0,
+      "explicacion": "Protágoras decía que en toda cuestión hay dos razonamientos opuestos; la retórica sofista buscaba persuadir, no la verdad.",
+      "nivel": "aplicar",
+      "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 2 – Los sofistas"
+    },
+    {
+      "id": "fi-q-17",
+      "temaId": "f-socrates",
+      "enunciado": "¿De qué fue acusado Sócrates?",
+      "opciones": [
+        "De traición a Atenas por aliarse con Esparta",
+        "De cobrar por enseñar",
+        "De impiedad, de introducir nuevos dioses y de corromper a la juventud",
+        "De robar fondos públicos"
+      ],
+      "correcta": 2,
+      "explicacion": "Fue condenado a beber cicuta. Aliarse con Esparta lo hizo Alcibíades, su discípulo.",
+      "nivel": "recordar",
+      "fuente": "Dialéctica socrática e relativismo dos sofistas.pdf, p. 5"
+    },
+    {
+      "id": "fi-q-18",
+      "temaId": "f-socrates",
+      "enunciado": "¿Por qué Sócrates no quiso huir tras ser condenado?",
+      "opciones": [
+        "Porque no tenía amigos que le ayudaran",
+        "Porque la sentencia, aunque injusta, la dictó un tribunal legítimo, y huir sería desobedecer las leyes de su ciudad",
+        "Porque creía que era culpable",
+        "Porque el daimon le ordenó morir"
+      ],
+      "correcta": 1,
+      "explicacion": "Para Sócrates la injusticia no se resuelve con otra injusticia: huir sería una acción inmoral contra el Estado.",
+      "nivel": "comprender",
+      "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 3; Dialéctica socrática e relativismo dos sofistas.pdf, p. 7"
+    },
+    {
+      "id": "fi-q-19",
+      "temaId": "f-socrates",
+      "enunciado": "¿Cuál es el orden de los momentos del método socrático?",
+      "opciones": [
+        "Ironía, mayéutica y definición",
+        "Mayéutica, ironía y definición",
+        "Definición, ironía y mayéutica",
+        "Hipótesis, experimento y conclusión"
+      ],
+      "correcta": 0,
+      "explicacion": "Primero la ironía muestra la propia ignorancia; luego la mayéutica saca a la luz la verdad; al final se fija en una definición.",
+      "nivel": "recordar",
+      "fuente": "Dialéctica socrática e relativismo dos sofistas.pdf, p. 6"
+    },
+    {
+      "id": "fi-q-20",
+      "temaId": "f-socrates",
+      "enunciado": "¿Por qué Sócrates llama a su método «mayéutica»?",
+      "opciones": [
+        "Porque enseña la verdad a sus discípulos con largos discursos",
+        "Porque persuade con la belleza del estilo",
+        "Porque, como su madre comadrona, ayuda a «dar a luz» la verdad que el interlocutor ya lleva dentro",
+        "Porque sus diálogos terminan siempre en una respuesta definitiva"
+      ],
+      "correcta": 2,
+      "explicacion": "Sócrates no enseña: con preguntas, orienta al otro para que descubra la verdad que reside en él.",
+      "nivel": "comprender",
+      "fuente": "Dialéctica socrática e relativismo dos sofistas.pdf, p. 6; Unidade 2. Sócrates e Platón.pdf, p. 5"
+    },
+    {
+      "id": "fi-q-21",
+      "temaId": "f-socrates",
+      "enunciado": "¿Qué sostiene el intelectualismo moral?",
+      "opciones": [
+        "Que la moral es una convención de cada pueblo",
+        "Que el bien se identifica con el saber y el mal con la ignorancia: nadie obra mal a sabiendas",
+        "Que las pasiones deben dirigir la conducta",
+        "Que la virtud se hereda de la familia"
+      ],
+      "correcta": 1,
+      "explicacion": "Si conocemos el bien, lo practicamos; quien obra mal es porque no sabe lo que es bueno para él.",
+      "nivel": "comprender",
+      "fuente": "Dialéctica socrática e relativismo dos sofistas.pdf, p. 7; HªFª Unidade 1.pdf, p. 9"
+    },
+    {
+      "id": "fi-q-22",
+      "temaId": "f-socrates",
+      "enunciado": "Un compañero dice que quien roba lo hace por pura maldad. ¿Qué le respondería Sócrates?",
+      "opciones": [
+        "Que tiene razón: el mal es una elección consciente",
+        "Que robar es justo si lo permite la ley",
+        "Que el robo es natural porque domina el más fuerte",
+        "Que roba por ignorancia: no sabe realmente lo que es bueno para él"
+      ],
+      "correcta": 3,
+      "explicacion": "Según el intelectualismo moral, nadie hace el mal voluntariamente; por eso Sócrates defendía educar en lugar de castigar.",
+      "nivel": "aplicar",
+      "fuente": "Dialéctica socrática e relativismo dos sofistas.pdf, p. 7"
+    },
+    {
+      "id": "fi-q-23",
+      "temaId": "f-socrates",
+      "enunciado": "En la Apología, Sócrates se compara con un tábano que se posa sobre un caballo noble pero perezoso. ¿Qué quiere decir?",
+      "opciones": [
+        "Que quiere dañar a Atenas",
+        "Que prefiere la vida política activa",
+        "Que su misión es despertar y estimular a la ciudad con sus preguntas",
+        "Que huirá cuando lo condenen"
+      ],
+      "correcta": 2,
+      "explicacion": "Sócrates se presenta como un don del dios para mantener alerta a los atenienses y corregirlos.",
+      "nivel": "comprender",
+      "fuente": "Unidade 2. Sócrates e Platón.pdf, pp. 3–4 – Texto de la Apología"
+    },
+    {
+      "id": "fi-q-24",
+      "temaId": "f-socrates",
+      "enunciado": "Según Aristóteles, ¿qué dos aportaciones pueden atribuirse a Sócrates?",
+      "opciones": [
+        "La teoría de las ideas y la reminiscencia",
+        "El silogismo y las categorías",
+        "El relativismo y el convencionalismo",
+        "Los razonamientos inductivos y la definición universal"
+      ],
+      "correcta": 3,
+      "explicacion": "Aristóteles atribuye a Sócrates la inducción y la definición de lo universal, ambas referidas al principio de la ciencia.",
+      "nivel": "recordar",
+      "fuente": "HªFª Unidade 1.pdf, p. 9; Unidade 2. Sócrates e Platón.pdf, p. 4"
+    },
+    {
+      "id": "fi-q-25",
+      "temaId": "f-platon",
+      "enunciado": "¿Qué escuela fundó Platón y de dónde viene su nombre?",
+      "opciones": [
+        "El Liceo, por el santuario de Apolo Licio",
+        "La Academia, por el nombre de su maestro",
+        "El Pórtico, por el lugar donde enseñaba",
+        "La Academia, por su cercanía al lugar dedicado al héroe Akademos"
+      ],
+      "correcta": 3,
+      "explicacion": "Platón fundó la Academia (387 a.C.); el Liceo fue la escuela de Aristóteles.",
+      "nivel": "recordar",
+      "fuente": "Platón. Vida y pensamiento.pdf, p. 1"
+    },
+    {
+      "id": "fi-q-26",
+      "temaId": "f-platon",
+      "enunciado": "¿Qué toma Platón de Heráclito y qué de Parménides?",
+      "opciones": [
+        "De Heráclito, la teoría de los átomos; de Parménides, el arjé como agua",
+        "De Heráclito, la inmortalidad del alma; de Parménides, el demiurgo",
+        "De ambos, el relativismo",
+        "De Heráclito, el cambio continuo del mundo sensible; de Parménides, la inmutabilidad del mundo de las ideas"
+      ],
+      "correcta": 3,
+      "explicacion": "Platón concilia a los dos: cada uno tenía razón, pero sobre una realidad distinta.",
+      "nivel": "comprender",
+      "fuente": "Platón. Vida y pensamiento.pdf, pp. 2–3; Unidade 2. Sócrates e Platón.pdf, p. 11"
+    },
+    {
+      "id": "fi-q-27",
+      "temaId": "f-platon",
+      "enunciado": "¿Cuál es la idea suprema del mundo inteligible y con qué la compara Platón?",
+      "opciones": [
+        "La Idea de Belleza, comparada con el fuego",
+        "La Idea de Bien, comparada con el sol",
+        "La Idea de Justicia, comparada con la luna",
+        "La Idea de Hombre, comparada con la luz"
+      ],
+      "correcta": 1,
+      "explicacion": "Como el sol hace posible ver y que las cosas crezcan, la Idea de Bien hace posible conocer y da verdad a las demás ideas.",
+      "nivel": "recordar",
+      "fuente": "Unidade 2. Sócrates e Platón.pdf, pp. 8–9 – La idea de Bien"
+    },
+    {
+      "id": "fi-q-28",
+      "temaId": "f-platon",
+      "enunciado": "¿En qué se diferencia el demiurgo platónico de un dios creador?",
+      "opciones": [
+        "No crea de la nada: es un artesán divino que ordena la materia mirando las Ideas",
+        "Crea las Ideas y la materia",
+        "Es superior a las Ideas",
+        "Es el alma de cada ser humano"
+      ],
+      "correcta": 0,
+      "explicacion": "En el Timeo, el demiurgo da forma a la materia tomando como modelo las Ideas, a las que es inferior.",
+      "nivel": "comprender",
+      "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 9 – La génesis del mundo sensible"
+    },
+    {
+      "id": "fi-q-29",
+      "temaId": "f-platon",
+      "enunciado": "¿Qué grado de conocimiento tiene por objeto las realidades matemáticas?",
+      "opciones": [
+        "La inteligencia (noesis)",
+        "El pensamiento o razonamiento (dianoia)",
+        "La creencia (pistis)",
+        "La imaginación (eikasía)"
+      ],
+      "correcta": 1,
+      "explicacion": "Noesis capta las Ideas; dianoia, las matemáticas; pistis, las cosas sensibles; eikasía, las imágenes.",
+      "nivel": "recordar",
+      "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 12 – Clases y grados de conocimiento"
+    },
+    {
+      "id": "fi-q-30",
+      "temaId": "f-platon",
+      "enunciado": "En el mito de la caverna, el prisionero liberado acaba mirando directamente el sol. ¿Qué representa ese momento?",
+      "opciones": [
+        "El conocimiento de los objetos sensibles",
+        "La vuelta a la ignorancia",
+        "La muerte del filósofo",
+        "El conocimiento de la Idea de Bien"
+      ],
+      "correcta": 3,
+      "explicacion": "El interior de la caverna es el mundo sensible; el exterior, el inteligible; el sol, la Idea de Bien.",
+      "nivel": "aplicar",
+      "fuente": "Platón. Vida y pensamiento.pdf, p. 5; Unidade 2. Sócrates e Platón.pdf, pp. 10–12"
+    },
+    {
+      "id": "fi-q-31",
+      "temaId": "f-platon",
+      "enunciado": "¿Qué afirma la teoría de la reminiscencia?",
+      "opciones": [
+        "Que todo conocimiento procede de los sentidos",
+        "Que conocer es recordar lo que el alma contempló en el mundo de las Ideas antes de unirse al cuerpo",
+        "Que la verdad es relativa a cada persona",
+        "Que el alma muere con el cuerpo"
+      ],
+      "correcta": 1,
+      "explicacion": "Al encarnarse, el alma olvida, pero conserva un recuerdo que permite recuperar el conocimiento.",
+      "nivel": "comprender",
+      "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 13; Platón. Vida y pensamiento.pdf, p. 6"
+    },
+    {
+      "id": "fi-q-32",
+      "temaId": "f-platon",
+      "enunciado": "Una persona vive dominada por la comida y los placeres sin ningún control. Según Platón, ¿qué virtud le falta?",
+      "opciones": [
+        "La fortaleza, virtud del alma irascible",
+        "La sabiduría, virtud del alma racional",
+        "La templanza, virtud del alma concupiscible",
+        "La justicia, virtud de los gobernantes"
+      ],
+      "correcta": 2,
+      "explicacion": "El alma concupiscible atiende a las necesidades materiales y su virtud es la templanza.",
+      "nivel": "aplicar",
+      "fuente": "Platón. Vida y pensamiento.pdf, p. 6; Unidade 2. Sócrates e Platón.pdf, p. 14"
+    },
+    {
+      "id": "fi-q-33",
+      "temaId": "f-platon",
+      "enunciado": "¿En qué consiste la justicia en el Estado ideal de Platón?",
+      "opciones": [
+        "En que todos los ciudadanos gobiernen por turnos",
+        "En que cada clase haga lo que le es propio, en armonía con las demás",
+        "En que las leyes se acuerden por mayoría",
+        "En que los productores dirijan la ciudad"
+      ],
+      "correcta": 1,
+      "explicacion": "Como en el alma, la justicia es la armonía entre las partes: productores (templanza), guardianes (fortaleza) y gobernantes (sabiduría).",
+      "nivel": "comprender",
+      "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 15; Platón. Vida y pensamiento.pdf, p. 7"
+    },
+    {
+      "id": "fi-q-34",
+      "temaId": "f-platon",
+      "enunciado": "¿Por qué guardianes y gobernantes no pueden tener propiedad privada ni familia en el Estado de Platón?",
+      "opciones": [
+        "Porque son esclavos de los productores",
+        "Para que no caigan en la tentación de acumular riquezas y busquen solo el bien común",
+        "Porque Platón rechazaba cualquier forma de propiedad para todas las clases",
+        "Porque así lo decidieron los ciudadanos en asamblea"
+      ],
+      "correcta": 1,
+      "explicacion": "Solo los productores tienen propiedad y familia; las clases superiores deben estar por encima de los intereses particulares.",
+      "nivel": "comprender",
+      "fuente": "Platón. Vida y pensamiento.pdf, p. 7; Unidade 2. Sócrates e Platón.pdf, p. 15"
+    },
+    {
+      "id": "fi-q-35",
+      "temaId": "f-aristoteles",
+      "enunciado": "¿Qué escuela fundó Aristóteles y cómo se llamaron sus seguidores?",
+      "opciones": [
+        "La Academia; sus seguidores fueron los académicos",
+        "El Liceo; sus seguidores fueron los cínicos",
+        "El Jardín; sus seguidores fueron los estoicos",
+        "El Liceo; sus seguidores fueron los peripatéticos"
+      ],
+      "correcta": 3,
+      "explicacion": "Aristóteles fundó el Liceo en su segunda estancia en Atenas, y sus seguidores fueron conocidos como peripatéticos. La Academia era la escuela de Platón.",
+      "nivel": "recordar",
+      "fuente": "Aristóteles.doc – Introducción y vida"
+    },
+    {
+      "id": "fi-q-36",
+      "temaId": "f-aristoteles",
+      "enunciado": "¿Qué critica Aristóteles a Platón con el argumento del «tercer hombre»?",
+      "opciones": [
+        "Que Platón no creía en el alma",
+        "Que explicar la semejanza entre cosas por una idea común lleva a una regresión al infinito",
+        "Que Platón usaba demasiadas matemáticas",
+        "Que Platón negaba el cambio en el mundo sensible"
+      ],
+      "correcta": 1,
+      "explicacion": "Si la semejanza entre dos cosas exige una idea, la semejanza entre las tres exige otra, y así sin fin: nada se explica.",
+      "nivel": "comprender",
+      "fuente": "Aristóteles.doc – Del filosofar platónico a la filosofía aristotélica"
+    },
+    {
+      "id": "fi-q-37",
+      "temaId": "f-aristoteles",
+      "enunciado": "De las cuatro causas de Aristóteles, ¿cuál dirige el movimiento hacia un fin, la perfección de la forma?",
+      "opciones": [
+        "La causa final",
+        "La causa eficiente",
+        "La causa material",
+        "La causa formal"
+      ],
+      "correcta": 0,
+      "explicacion": "Las cuatro causas son formal, material, eficiente (produce el movimiento) y final (lo dirige a su fin).",
+      "nivel": "recordar",
+      "fuente": "Aristóteles.doc – Física"
+    },
+    {
+      "id": "fi-q-38",
+      "temaId": "f-aristoteles",
+      "enunciado": "¿Cómo define Aristóteles el movimiento?",
+      "opciones": [
+        "Como el paso de lo que está en potencia a estar en acto",
+        "Como el fluir constante de todas las cosas",
+        "Como una apariencia de los sentidos",
+        "Como la mezcla de cuatro elementos"
+      ],
+      "correcta": 0,
+      "explicacion": "El movimiento se produce por la acción de las causas, que hacen pasar de la potencia al acto.",
+      "nivel": "recordar",
+      "fuente": "Aristóteles.doc – Física"
+    },
+    {
+      "id": "fi-q-39",
+      "temaId": "f-aristoteles",
+      "enunciado": "«Todos los mamíferos respiran; todos los perros son mamíferos.» Según la silogística de Aristóteles, ¿qué conclusión válida se sigue?",
+      "opciones": [
+        "Todos los que respiran son perros",
+        "Algunos mamíferos no son perros",
+        "Ningún perro respira",
+        "Todos los perros respiran"
+      ],
+      "correcta": 3,
+      "explicacion": "Es la misma estructura que el ejemplo clásico («todos los griegos son mortales»): de dos premisas emparejadas se deduce una nueva conclusión.",
+      "nivel": "aplicar",
+      "fuente": "Aristóteles.doc – Organon: la lógica"
+    },
+    {
+      "id": "fi-q-40",
+      "temaId": "f-aristoteles",
+      "enunciado": "¿Qué quiere decir Aristóteles con que el ser humano es un «zoon politikon»?",
+      "opciones": [
+        "Que el Estado nace de un acuerdo o convención entre individuos",
+        "Que solo los políticos son verdaderamente humanos",
+        "Que es un animal social que desarrolla sus fines en una comunidad, y que el Estado es natural, no fruto de un pacto",
+        "Que el hombre es un animal irracional"
+      ],
+      "correcta": 2,
+      "explicacion": "Para Aristóteles el Estado es una especie de ser natural; la capacidad del lenguaje explica la vida política.",
+      "nivel": "comprender",
+      "fuente": "Aristóteles.doc – Ética y política"
+    }
+  ]
+}
