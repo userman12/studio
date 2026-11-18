@@ -185,7 +185,7 @@ Livelli: recordar 12, comprender 11, aplicar 7. Risposta corretta in A/B/C/D: 8/
 
 # Filosofía (aggiunta il 18/11/2026)
 
-Filosofía è ora una materia completa come Psicología ed Economía: **Puntos clave** (teoria), **Píldoras**, **Quiz** e **Progreso** (storico, export/import, reset). Il vecchio link `#/filosofia` porta alla teoria. Aggiornata il 18/11/2026 con teoria e píldoras; il quiz è passato da 40 a 127 domande dopo l'analisi di copertura (sotto).
+Filosofía è ora una materia completa come Psicología ed Economía: **Puntos clave** (teoria), **Píldoras**, **Quiz** e **Progreso** (storico, export/import, reset). Il vecchio link `#/filosofia` porta alla teoria. Aggiornata il 18/11/2026 con teoria e píldoras; il quiz è passato da 40 a 127 domande dopo l'analisi di copertura (sotto), poi a 138 quando, su richiesta, ho incluso anche gli errori e le contraddizioni delle fonti.
 
 **Fonti** (lette per intero, circa 26.000 parole; tre in galiziano, tradotte in spagnolo):
 `Aristóteles.doc`, `Dialéctica socrática e relativismo dos sofistas.pdf`, `HªFª Unidade 1.pdf`, `Platón. Vida y pensamiento.pdf`, `Unidade 2. Sócrates e Platón.pdf`. Il campo `fuente` di ogni elemento cita file e pagina, o la sezione per il `.doc`.
@@ -199,46 +199,53 @@ I 6 temi iniziali sono stati divisi in 17, seguendo i paragrafi delle fonti, per
 | Del mito al logos | 6 | 5 | 4 |
 | Los presocráticos | 11 | 12 | 11 |
 | La Atenas del siglo V: democracia, Pericles y Aspasia | 6 | 5 | 4 |
-| Los sofistas | 17 | 18 | 13 |
-| Sócrates: vida, juicio y muerte | 13 | 14 | 10 |
+| Los sofistas | 17 | 19 | 14 |
+| Sócrates: vida, juicio y muerte | 14 | 17 | 13 |
 | Sócrates: método, ética y socráticos menores | 16 | 14 | 10 |
-| Platón: vida, obras e influencias | 11 | 10 | 8 |
-| Platón: teoría de las ideas y origen del cosmos | 13 | 12 | 8 |
-| Platón: conocimiento, caverna y dialéctica | 13 | 14 | 9 |
+| Platón: vida, obras e influencias | 14 | 13 | 10 |
+| Platón: teoría de las ideas y origen del cosmos | 14 | 13 | 9 |
+| Platón: conocimiento, caverna y dialéctica | 16 | 16 | 10 |
 | Platón: alma y ética | 10 | 9 | 7 |
 | Platón: el Estado ideal y las Leyes | 9 | 9 | 6 |
-| Aristóteles: vida y crítica a Platón | 9 | 9 | 5 |
-| Aristóteles: clasificación de las ciencias y lógica | 8 | 7 | 6 |
-| Aristóteles: física, astronomía y metafísica | 8 | 8 | 7 |
+| Aristóteles: vida y crítica a Platón | 11 | 10 | 6 |
+| Aristóteles: clasificación de las ciencias y lógica | 9 | 8 | 7 |
+| Aristóteles: física, astronomía y metafísica | 8 | 9 | 8 |
 | Aristóteles: ética, política y antropología | 5 | 6 | 5 |
-| **Totale** | **173** | **167** | **127** |
+| **Totale** | **184** | **180** | **138** |
 
-Livelli delle domande: recordar 52, comprender 52, aplicar 23 (41/41/18%). Risposta corretta in A/B/C/D: 32/32/32/31.
+Livelli delle domande: recordar 63, comprender 53, aplicar 22 (46/38/16%). Risposta corretta in A/B/C/D: 35/35/34/34.
 
 ## Analisi di copertura del quiz
 
 1. **Per tema.** Il validatore ora controlla, per tutte le materie, che ogni tema abbia almeno 1 punto clave, 1 píldora e 2 domande. Psicología, Economía ed Épica lo rispettavano già.
 2. **Per punto clave.** Per ogni punto ho cercato i suoi termini in grassetto nelle domande dello stesso tema (enunciato, risposta corretta e spiegazione). Con le 40 domande originali più le prime 73 nuove, 28 punti su 173 erano coperti male. Ho aggiunto 14 domande sulle lacune reali: la physis e il periodo cosmologico, le cause del giro antropologico, l'utilitarismo, le differenze di metodo tra Sócrates e i sofisti, virtù e ricchezza nell'Apologia, García Gual, Sócrates creatore dell'Etica, il rifiuto dei fisici, il periodo critico di Platone, individuo e comunità, le proposizioni, la caduta dei gravi.
-3. **Restano senza domanda dedicata** 12 punti: in parte sono coperti da domande formulate in altro modo (il metodo dialettico, la critica alle idee), in parte sono dettagli minori (chi ammirava e chi criticava i sofisti). I viaggi di Platone in Sicilia sono esclusi di proposito, perché le fonti si contraddicono (punti 1–2 sotto). Sono comunque nelle píldoras.
+3. **Restano senza domanda dedicata** 12 punti: in parte sono coperti da domande formulate in altro modo (il metodo dialettico, la critica alle idee), in parte sono dettagli minori (chi ammirava e chi criticava i sofisti).
 4. **Píldoras.** Stesso controllo: aggiunte 12 carte per i punti che le carte non toccavano.
 5. **Lunghezza delle risposte.** Nelle 40 domande originali la risposta corretta era l'opzione più lunga nell'80% dei casi: si poteva indovinare senza sapere. Ho riscritto le opzioni di 27 domande originali e 45 nuove (risposte corrette più brevi, distrattori più completi) senza cambiarne il significato né la posizione. Ora la corretta è la più lunga nel 36% dei casi (il caso puro sarebbe il 25%).
 
-## Contraddizioni ed errori nelle fonti (evitati nelle domande)
+## Errori e contraddizioni delle fonti (inclusi così come sono)
 
-1. **Dove Platón fu venduto come schiavo**: Egina (`Platón. Vida y pensamiento`, p. 1) contro Egitto (`Unidade 2`, p. 7).
-2. **Date di Platón**: morte nel 347 (`Platón. Vida y pensamiento`) o nel 348 a.C. (`Unidade 2`); primo viaggio in Sicilia nel 388 o nel 389-388.
-3. **Símil de la línea** (`Platón. Vida y pensamiento`, p. 5): assegna "Imaginación" anche alla conoscenza degli oggetti. Ho seguito `Unidade 2`, coerente: noesis, dianoia, pistis, eikasía.
-4. **Piramide delle Idee** (`Platón. Vida y pensamiento`, p. 4): mette i concetti matematici dentro la gerarchia delle Idee, contro lo schema della stessa pagina. Non è usata.
-5. **Aristóteles.doc**: "la metafísica se ocupa del ser móvil y separado"; "su yerno Próxenos"; "Pitis" / "Pitias"; morte di Platone nel 348. Non sono usati.
-6. **Sócrates**: nato nel 470 (`Dialéctica`, `HªFª Unidade 1`) o nel 469 a.C. (`Unidade 2`). Inoltre `Dialéctica` attribuisce il racconto del processo al *Fedón*, mentre `HªFª Unidade 1` cita l'*Apología*. Nessuna domanda su questi punti.
-7. **Gorgias**: "de Sicilia" in `Dialéctica`. Nessuna domanda sulla sua origine.
+Su richiesta ("lascia anche gli errori, attieniti alle fonti"), nulla è corretto né escluso. Quando due fonti non concordano, la teoria riporta entrambe le versioni, ognuna con il nome del suo file, e le domande su questi punti dicono sempre "secondo quale fonte".
 
-8. **Método empirista** (`HªFª Unidade 1`, p. 2): "nunca podremos estar seguros de que no aparezca un corvo negro" (dovrebbe essere un corvo *non* nero). Ho tenuto gli esempi di verità di ragione e di fatto e tolto questa frase.
+1. **Dove Platón fu venduto come schiavo**: Egina (`Platón. Vida y pensamiento`, p. 1) e Egitto (`Unidade 2`, p. 7). Ci sono entrambe le versioni, ciascuna con la sua storia (Polis e l'ambasciata spartana; Dionisio che lo fa incatenare; Anníceris/Anicérides).
+2. **Date di Platón**: nascita nel 429, 428 o 427, ad Atene o a Egina (`Platón. Vida y pensamiento`), oppure 427 (`Unidade 2`); morte nel 347 (`Platón. Vida y pensamiento`) o nel 348 (`Unidade 2`, `Aristóteles.doc`). Viaggi in Sicilia: 388 nel testo di `Unidade 2`, 389–388, 367–366 e 361–360 nella sua tabella; 366 per il secondo in `Platón. Vida y pensamiento`.
+3. **Símil de la línea** in `Platón. Vida y pensamiento` (p. 5): il brano è riportato tra virgolette così com'è, compresa la frase che chiama "Imaginación" anche la conoscenza degli oggetti. Accanto c'è la versione di `Unidade 2` (noesis, dianoia, pistis, eikasía) e lo schema di p. 4 della stessa fonte (imaginación, creencia, matemáticas, dialéctica).
+4. **Piramide delle Idee** (`Platón. Vida y pensamiento`, p. 4): inclusa, con i concetti matematici dentro la gerarchia delle Idee.
+5. **Aristóteles.doc**: "la metafísica se ocupa del ser móvil y separado"; "su yerno Próxenos"; il matrimonio con Pitis, figlia di Hermias, e "la primera vez con Pitias"; Platone morto nel 348; Academia "hasta el 347"; "la primera es la metafísica y la segunda la física". Tutto incluso come scritto.
+6. **Sócrates**: nato nel 470 (`Dialéctica`, `HªFª Unidade 1`) o nel 469 a.C. (`Unidade 2`); `Dialéctica` dice che il processo è raccontato nel *Fedón*; `HªFª Unidade 1` parla del "tribunal de los Quinientos". Inclusi.
+7. **Gorgias "de Sicilia"** (`Dialéctica`). Incluso.
+8. **Método empirista** (`HªFª Unidade 1`, p. 2): "nunca podremos estar seguros de que no aparezca un corvo negro". Incluso tra virgolette.
+9. **Dati che avevo omesso**: le date dei presocratici (Anaxímenes 585, Pitágoras 569, Empédocles 494, Anaxágoras 500, Demócrito 460 a.C.), Anaxímenes "discípulo de Tales", il figlio di Aspasia, Critias e Cármides, il gimnasio del Liceo, Herpilis, la lista dei concetti di `Aristóteles.doc` (anche "zoom politikon", "praxi", "mexón" come sono scritti).
 
-Queste contraddizioni valgono anche per la teoria e le píldoras: la teoria dice che Platone fu venduto come schiavo, senza dire dove, e non dà date per la sua morte né per i viaggi in Sicilia.
+## Cose che avevo aggiunto io, ora tolte
+
+- Il sillogismo inventato "mamíferos/perros" (fi-q-39): ora la domanda usa l'esempio della fonte ("humanos/griegos/mortales").
+- Le glosse delle quattro cause ("de qué, qué es, quién, para qué"): ora la píldora usa le definizioni della fonte.
+- "«Ser» se dice de muchas maneras" e "toda sustancia es materia y forma": non sono nelle fonti. Ora i testi dicono solo quello che dicono le fonti (polisemia del verbo ser "en sus distintos usos y aplicaciones"; forma = esencia, materia = sustrato).
 
 ## Scelte
 
 - I titoli delle opere sono in tondo: l'app supporta solo il **grassetto** nella teoria.
 - Le domande in cui la fonte fa una domanda retorica (per esempio "puoi collegare l'uomo che torna nella caverna a Sócrates?") sono di livello "aplicar" e seguono la risposta implicita del testo.
-- Una domanda di applicazione usa un sillogismo nuovo ("mamíferos/perros") con la stessa struttura dell'esempio della fonte.
+- Le domande di livello "aplicar" presentano una situazione (per esempio uno scultore e il marmo per le quattro cause) e chiedono quale concetto della fonte si applica: il concetto e la risposta vengono sempre dalle fonti, la situazione no. Sono 22.
+- Gli ID di píldoras e domande già pubblicati non sono cambiati: i progressi salvati restano validi.

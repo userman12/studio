@@ -164,7 +164,7 @@
     {
       "id": "fi-pk-013",
       "temaId": "f-metodos",
-      "texto": "**Método empirista**: la **experiencia** es origen y límite del conocimiento. La razón vale para las ciencias formales (**verdades de razón**: «Todos los triángulos tienen tres ángulos»); las ciencias naturales y sociales necesitan comprobación empírica (**verdades de hecho**: «Todos los cuervos son negros»). Usa la **inducción** y sus generalizaciones son solo **probables**. Autores: **Locke, Berkeley y Hume**.",
+      "texto": "**Método empirista**: la **experiencia** es origen y límite del conocimiento. La razón vale para las ciencias formales (**verdades de razón**: «Todos los triángulos tienen tres ángulos»); las ciencias naturales y sociales necesitan comprobación empírica (**verdades de hecho**: «Todos los cuervos son negros»). Usa la **inducción** y sus generalizaciones son **probables**: no hay verdades definitivas o absolutas desde la óptica empirista («**nunca podremos estar seguros de que no aparezca un cuervo negro**»). Autores: **Locke, Berkeley y Hume** (s. XVII–XVIII).",
       "fuente": "HªFª Unidade 1.pdf, p. 2 – Método empirista"
     },
     {
@@ -248,19 +248,19 @@
     {
       "id": "fi-pk-027",
       "temaId": "f-preso",
-      "texto": "**Escuela de Mileto** (Jonia, s. VI a. C.): los primeros en explicar la naturaleza por **causas físicas**. **Tales**, iniciador de la especulación científica, autor de teoremas geométricos y uno de los siete sabios, sostuvo que el arjé es el **agua**.",
+      "texto": "**Escuela de Mileto** (Jonia, costa este de la actual Turquía, s. VI a. C.): los primeros en explicar la naturaleza por **causas físicas**. **Tales** (s. VI a. C.), iniciador de la especulación científica, autor de teoremas geométricos y uno de los siete sabios, sostuvo que el arjé es el **agua** (los cosmólogos modernos, lo primero que buscan en un exoplaneta es agua).",
       "fuente": "HªFª Unidade 1.pdf, p. 5 – La escuela de Mileto"
     },
     {
       "id": "fi-pk-028",
       "temaId": "f-preso",
-      "texto": "**Anaximandro** (discípulo de Tales, autor de Sobre la naturaleza): el arjé no es un elemento concreto sino el **ápeiron**, lo ilimitado: materia indeterminada y sin forma de la que surgen y en la que se disuelven los seres. **Anaxímenes**: el arjé es el **aire**, que se transforma por **rarefacción** (fuego) y **condensación** (agua y luego tierra).",
+      "texto": "**Anaximandro** (discípulo de Tales, autor de Sobre la naturaleza): el arjé no es un elemento concreto sino el **ápeiron**, lo ilimitado: materia indeterminada y sin forma de la que surgen y en la que se disuelven los seres. **Anaxímenes** (Mileto, 585 a. C.), también **discípulo de Tales**: el arjé es el **aire**, que se transforma por **rarefacción** (fuego) y **condensación** (agua y luego tierra).",
       "fuente": "HªFª Unidade 1.pdf, p. 5 – La escuela de Mileto"
     },
     {
       "id": "fi-pk-029",
       "temaId": "f-preso",
-      "texto": "**Pitagóricos** (Pitágoras de Samos): sustituyen el principio material por uno **abstracto o formal**: los **números** y las **figuras**. La naturaleza se rige por **armonías matemáticas**: todo tiene un orden matemático.",
+      "texto": "**Pitagóricos** (Pitágoras de Samos, 569 a. C.): sustituyen el principio material por uno **abstracto o formal**: los **números** y las **figuras**. La naturaleza se rige por **armonías matemáticas**: todo tiene un orden matemático.",
       "fuente": "HªFª Unidade 1.pdf, p. 5 – Los pitagóricos"
     },
     {
@@ -284,19 +284,19 @@
     {
       "id": "fi-pk-033",
       "temaId": "f-preso",
-      "texto": "**Pluralistas**: proponen varios principios para explicar el cambio (Heráclito) sin renunciar a que el ser sea eterno e inmutable (Parménides). **Empédocles de Agrigento**: mezcla y separación de **cuatro elementos** (aire, agua, tierra y fuego) movidos por dos fuerzas opuestas, el **amor (philia)**, que une, y la **discordia (neikos)**, que separa.",
+      "texto": "**Pluralistas**: proponen varios principios para explicar el cambio (Heráclito) sin renunciar a que el ser sea eterno e inmutable (Parménides). **Empédocles de Agrigento** (494 a. C.): mezcla y separación de **cuatro elementos** (aire, agua, tierra y fuego) movidos por dos fuerzas opuestas, el **amor (philia)**, que une, y la **discordia (neikos)**, que separa.",
       "fuente": "HªFª Unidade 1.pdf, p. 6 – Los pluralistas"
     },
     {
       "id": "fi-pk-034",
       "temaId": "f-preso",
-      "texto": "**Anaxágoras de Clazómenas**: todo está formado por mezclas de partículas ilimitadas llamadas **semillas (spermata)**, ordenadas por una inteligencia externa, el **Nous**, principio racional de los cambios (antecedente del **demiurgo** de Platón).",
+      "texto": "**Anaxágoras de Clazómenas** (500 a. C.): todo está formado por mezclas de partículas ilimitadas llamadas **semillas (spermata)**, ordenadas por una inteligencia externa, el **Nous**, principio racional de los cambios (antecedente del **demiurgo** de Platón).",
       "fuente": "HªFª Unidade 1.pdf, p. 6 – Los pluralistas"
     },
     {
       "id": "fi-pk-035",
       "temaId": "f-preso",
-      "texto": "**Demócrito de Abdera** (atomistas): todo está formado por **átomos** («indivisibles»): partículas eternas, inmutables e indestructibles (cualidades del ser de Parménides), iguales en cualidad pero distintas en forma, posición, peso o cohesión. El cambio es el movimiento de los átomos en el **vacío**, sin fuerza ordenadora ni finalidad: **puro azar**.",
+      "texto": "**Demócrito de Abdera** (460 a. C.) y los atomistas: todo está formado por **átomos** («indivisibles»): partículas eternas, inmutables e indestructibles (cualidades del ser de Parménides), iguales en cualidad pero distintas en forma, posición, peso o cohesión. El cambio es el movimiento de los átomos en el **vacío**, sin fuerza ordenadora ni finalidad: **puro azar**.",
       "fuente": "HªFª Unidade 1.pdf, p. 6 – Los pluralistas"
     },
     {
@@ -314,7 +314,7 @@
     {
       "id": "fi-pk-038",
       "temaId": "f-atenas",
-      "texto": "La democracia ateniense era **directa y asamblearia**: daba importancia a asambleas y debates, donde la **habilidad dialéctica** era esencial. Para ocupar un cargo **no bastaba el linaje**: había que **convencer** como orador elocuente con conocimientos de leyes, justicia y administración.",
+      "texto": "El periodo democrático de Atenas va del siglo VI a. C. a la **invasión macedonia del 322 a. C.** Era una democracia **directa y asamblearia**: daba importancia a asambleas y debates, donde la **habilidad dialéctica** era esencial. Para ocupar un cargo **no bastaba el linaje**: había que **convencer** como orador elocuente con conocimientos de leyes, justicia y administración.",
       "fuente": "Dialéctica socrática e relativismo dos sofistas.pdf, p. 1; HªFª Unidade 1.pdf, p. 7"
     },
     {
@@ -332,7 +332,7 @@
     {
       "id": "fi-pk-041",
       "temaId": "f-atenas",
-      "texto": "**Aspasia de Mileto** (470–400 a. C.): maestra de retórica, filósofa y oradora, **mujer de Pericles**. Según **Plutarco**, su casa era un centro intelectual al que acudía el propio **Sócrates**. Se formó probablemente en Mileto, donde niños y niñas compartían escuela en igualdad, algo impensable en Atenas, donde la esposa quedaba limitada al ámbito doméstico.",
+      "texto": "**Aspasia de Mileto** (470–400 a. C.): maestra de retórica, filósofa y oradora, **mujer de Pericles**, con quien tuvo un hijo, Pericles el joven. Leía a poetas y filósofos, sobre todo a Pitágoras. Según **Plutarco**, su casa era un centro intelectual al que acudía el propio **Sócrates**. Se formó probablemente en Mileto, donde niños y niñas compartían escuela en igualdad, algo impensable en Atenas, donde la esposa quedaba limitada al ámbito doméstico.",
       "fuente": "HªFª Unidade 1.pdf, pp. 6–7 – Aspasia de Mileto"
     },
     {
@@ -434,19 +434,19 @@
     {
       "id": "fi-pk-058",
       "temaId": "f-sofistas",
-      "texto": "Principales sofistas. **1.ª generación**: **Protágoras de Abdera** (amigo de Pericles), **Gorgias** (llegó a Atenas hacia el 425 a. C.; obra Sobre el no-ser o sobre la naturaleza) e **Hipias de Elis**. **2.ª generación**: **Antifonte, Trasímaco, Calicles y Critias**, centrados en cuestiones prácticas y a veces contradictorios entre sí.",
+      "texto": "Principales sofistas. **1.ª generación**: **Protágoras de Abdera** (vivió en Atenas y fue amigo de Pericles), **Gorgias de Sicilia** (llegó a Atenas hacia el 425 a. C.; obra Sobre el no-ser o sobre la naturaleza) e **Hipias de Elis**. **2.ª generación**: **Antifonte, Trasímaco, Calicles y Critias**, centrados en cuestiones prácticas y a veces contradictorios entre sí.",
       "fuente": "Dialéctica socrática e relativismo dos sofistas.pdf, p. 4"
     },
     {
       "id": "fi-pk-059",
       "temaId": "f-socrates",
-      "texto": "**Sócrates**, a diferencia de los sofistas, era **ateniense**; murió en el **399 a. C.** De familia modesta: su padre era **escultor** y su madre **comadrona**. Al parecer solo salió de Atenas tres veces, y nunca quiso dedicarse a la política.",
-      "fuente": "HªFª Unidade 1.pdf, p. 8; Dialéctica socrática e relativismo dos sofistas.pdf, p. 4"
+      "texto": "**Sócrates**, a diferencia de los sofistas, era **ateniense**. Fechas: **470–399 a. C.** según HªFª Unidade 1 y Dialéctica socrática; **469–399 a. C.** según Unidade 2. De familia modesta: su padre era **escultor** y su madre **comadrona**. Al parecer solo salió de Atenas tres veces, y nunca quiso dedicarse a la política.",
+      "fuente": "HªFª Unidade 1.pdf, p. 8; Dialéctica socrática e relativismo dos sofistas.pdf, p. 4; Unidade 2. Sócrates e Platón.pdf, p. 3"
     },
     {
       "id": "fi-pk-060",
       "temaId": "f-socrates",
-      "texto": "**No escribió nada**, porque pensaba que la palabra escrita es **palabra muerta**. Lo conocemos por las **fuentes socráticas**: **Aristófanes, Jenofonte, Aristóteles y, sobre todo, Platón**, en cuyos Diálogos es el personaje central. Sus versiones a veces se contradicen y mezclan sus ideas con las del maestro.",
+      "texto": "**No escribió nada**, porque pensaba que la palabra escrita es **palabra muerta**. Lo conocemos por las **fuentes socráticas**: **Aristófanes, Jenofonte, Aristóteles y, sobre todo, Platón**, en cuyos Diálogos es el personaje central; Platón lo consideraba **el hombre más bueno y más justo que jamás existió**. Sus versiones a veces se contradicen y mezclan sus ideas con las del maestro.",
       "fuente": "HªFª Unidade 1.pdf, p. 8; Dialéctica socrática e relativismo dos sofistas.pdf, p. 4; Unidade 2. Sócrates e Platón.pdf, p. 3"
     },
     {
@@ -488,641 +488,707 @@
     {
       "id": "fi-pk-067",
       "temaId": "f-socrates",
-      "texto": "Fue acusado de **impiedad**, de **introducir nuevos dioses** y de **corromper a la juventud**. Se le reprochaba haber sido maestro de **Alcibíades** (que se alió con Esparta) y de **Critias** (tío de Platón, líder de los **Treinta Tiranos**). **Ánito** instigó el proceso, que buscaba su destierro.",
+      "texto": "Fue acusado de **impiedad**, de **introducir nuevos dioses** y de **corromper a la juventud**. Según HªFª Unidade 1, no simpatizaba demasiado con la democracia y había sido maestro de **Alcibíades** y de **Critias**, «el más violento de los oligarcas», y fue acusado de impío ante el **tribunal de los Quinientos**. Unidade 2 precisa: Alcibíades se alió con Esparta y Critias, tío de Platón, lideró a los **Treinta Tiranos**. **Ánito** instigó el proceso, que buscaba su destierro.",
       "fuente": "Dialéctica socrática e relativismo dos sofistas.pdf, p. 5; Unidade 2. Sócrates e Platón.pdf, p. 3; HªFª Unidade 1.pdf, p. 8"
     },
     {
       "id": "fi-pk-068",
       "temaId": "f-socrates",
-      "texto": "Condenado, debía proponer una pena alternativa a la muerte. Todos esperaban el destierro, pero pidió, por sus servicios a la ciudad, el privilegio de los vencedores olímpicos: **comer de por vida en el Pritaneo**.",
-      "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 3 – Vida"
+      "texto": "Según **Dialéctica socrática**, Platón cuenta en el **Fedón** que en el juicio Sócrates **apenas se defendió** de las acusaciones, fue declarado culpable y condenado a beber cicuta.",
+      "fuente": "Dialéctica socrática e relativismo dos sofistas.pdf, p. 5"
     },
     {
       "id": "fi-pk-069",
       "temaId": "f-socrates",
-      "texto": "Rechazó **huir**: la sentencia, aunque injusta, la había dictado un **tribunal legítimo**; huir sería un crimen contra el Estado y traicionar sus ideas. Además se oponía a la **ley del talión**: la injusticia no se resuelve con injusticia. Murió bebiendo **cicuta**. Esta condena llevó a **Platón a renegar de la democracia**.",
-      "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 3; Dialéctica socrática e relativismo dos sofistas.pdf, p. 7; HªFª Unidade 1.pdf, p. 8"
+      "texto": "Condenado, debía proponer una pena alternativa a la muerte. Todos esperaban el destierro, pero pidió, por sus servicios a la ciudad, el privilegio de los vencedores olímpicos: **comer de por vida en el Pritaneo**.",
+      "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 3 – Vida"
     },
     {
       "id": "fi-pk-070",
+      "temaId": "f-socrates",
+      "texto": "Rechazó **huir**: la sentencia, aunque injusta, la había dictado un **tribunal legítimo**; huir sería un crimen contra el Estado y traicionar sus ideas. Además se oponía a la **ley del talión**: la injusticia no se resuelve con injusticia. Él mismo ejecutó la condena bebiendo **cicuta**, en compañía de sus amigos. Esta condena llevó a **Platón a renegar de la democracia**.",
+      "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 3; Dialéctica socrática e relativismo dos sofistas.pdf, p. 7; HªFª Unidade 1.pdf, p. 8"
+    },
+    {
+      "id": "fi-pk-071",
       "temaId": "f-socrates",
       "texto": "Para **Hegel**, la muerte de Sócrates es la **tragedia del espíritu griego**: trajo el **principio de la interioridad** y de la libertad de pensamiento, que minaba la autoridad de la ley del Estado ateniense. **Ambas partes tenían razón**. Después los atenienses se arrepintieron, porque ese principio ya era el suyo.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 6 – Texto 3"
     },
     {
-      "id": "fi-pk-071",
+      "id": "fi-pk-072",
       "temaId": "f-socrates",
       "texto": "Según **García Gual**, la polis destruyó al más noble de sus ciudadanos porque sus preguntas sacudían una autoridad basada en las **tradiciones**. Apelar a la propia **razón** como juez libera de los vínculos tradicionales: la actuación de Sócrates **«corona la crítica ilustrada de los sofistas»**.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 6 – Texto 3"
     },
     {
-      "id": "fi-pk-072",
+      "id": "fi-pk-073",
       "temaId": "f-socrates-metodo",
       "texto": "Como los sofistas, Sócrates se ocupa de **lo humano**: «nada me enseñan la tierra y los árboles, sino los hombres en la ciudad» (Fedro). Pero no pretende **enseñar** la virtud, sino **buscarla**: una **virtud universal** válida para todos. La filosofía es una **búsqueda colectiva** mediante el diálogo: cada uno tiene una parte de la verdad y debe descubrirla con los demás.",
       "fuente": "HªFª Unidade 1.pdf, p. 8; Unidade 2. Sócrates e Platón.pdf, p. 4"
     },
     {
-      "id": "fi-pk-073",
+      "id": "fi-pk-074",
       "temaId": "f-socrates-metodo",
       "texto": "Se le considera el **creador de la Ética**: el primero en pensar el bien y la justicia como **conceptos universales** y en apelar a la propia **conciencia**: «no es bueno lo que todos dicen, sino **lo que está de acuerdo contigo mismo**».",
       "fuente": "Dialéctica socrática e relativismo dos sofistas.pdf, p. 5"
     },
     {
-      "id": "fi-pk-074",
+      "id": "fi-pk-075",
       "temaId": "f-socrates-metodo",
       "texto": "**Innatismo**: tenemos **ideas innatas** de las que no somos conscientes, así que hay que examinar el alma. Como decía la inscripción de **Delfos**, el principio de la sabiduría es «**conócete a ti mismo**».",
       "fuente": "Dialéctica socrática e relativismo dos sofistas.pdf, pp. 5–6"
     },
     {
-      "id": "fi-pk-075",
+      "id": "fi-pk-076",
       "temaId": "f-socrates-metodo",
       "texto": "Sócrates comparaba su oficio con el de sus padres: el **escultor** no «construye» la estatua, quita lo que sobra al mármol; la **comadrona** ayuda a dar a luz niños que no concibió ella. Él tampoco enseña: **orienta** a sus discípulos para que **hallen la verdad en sí mismos**.",
       "fuente": "Dialéctica socrática e relativismo dos sofistas.pdf, p. 6"
     },
     {
-      "id": "fi-pk-076",
+      "id": "fi-pk-077",
       "temaId": "f-socrates-metodo",
       "texto": "Su método es un proceso **inductivo**: a través del diálogo, parte de las opiniones comunes para llegar a la **esencia** de las cosas, expresada en el **concepto universal**. Tiene tres momentos: **ironía, mayéutica y definición**.",
       "fuente": "Dialéctica socrática e relativismo dos sofistas.pdf, p. 6"
     },
     {
-      "id": "fi-pk-077",
+      "id": "fi-pk-078",
       "temaId": "f-socrates-metodo",
       "texto": "**Ironía** (momento negativo o refutación): hace ver al interlocutor que lo que creía saber era falso o infundado, para que asuma su **ignorancia**, punto de partida del saber: **nadie busca lo que cree tener**. Su «docta ignorancia» («solo sé que no sé nada») era también una **estrategia didáctica** para que todos participaran sin complejos.",
       "fuente": "Dialéctica socrática e relativismo dos sofistas.pdf, p. 6; Unidade 2. Sócrates e Platón.pdf, p. 4"
     },
     {
-      "id": "fi-pk-078",
+      "id": "fi-pk-079",
       "temaId": "f-socrates-metodo",
       "texto": "**Mayéutica** («arte de la comadrona»): arte de **preguntas y respuestas** para sacar a la luz la verdad que llevamos dentro. Sócrates nunca daba respuestas. En el Teeteto dice que asiste el **parto de las almas** y comprueba si lo que engendra el joven es falso o verdadero. Se propone una definición, se descarta, se propone otra más cercana a la verdad…",
       "fuente": "Dialéctica socrática e relativismo dos sofistas.pdf, p. 6; Unidade 2. Sócrates e Platón.pdf, p. 5"
     },
     {
-      "id": "fi-pk-079",
+      "id": "fi-pk-080",
       "temaId": "f-socrates-metodo",
       "texto": "**Definición** (conclusión general): plasmar en un concepto la verdad descubierta, eliminando respuestas incorrectas con argumentos disyuntivos o condicionales y el **principio de no contradicción**. Aun así, el resultado no suele ser una respuesta definitiva, sino una **comprensión más profunda** del problema.",
       "fuente": "Dialéctica socrática e relativismo dos sofistas.pdf, p. 6; Unidade 2. Sócrates e Platón.pdf, p. 5"
     },
     {
-      "id": "fi-pk-080",
+      "id": "fi-pk-081",
       "temaId": "f-socrates-metodo",
       "texto": "**Aristóteles** atribuye a Sócrates dos méritos: los **razonamientos inductivos** (reunir ejemplos particulares en los que ambas partes estén de acuerdo) y la **definición universal** (caracteres **esenciales** y **suficientes**; lo común a los ejemplos es su naturaleza, esencia o forma).",
       "fuente": "HªFª Unidade 1.pdf, p. 9; Unidade 2. Sócrates e Platón.pdf, p. 4"
     },
     {
-      "id": "fi-pk-081",
+      "id": "fi-pk-082",
       "temaId": "f-socrates-metodo",
       "texto": "Definir le interesa por razones **éticas y políticas**: en los discursos se usaban términos generales que, según los sofistas, no tenían base real. Para Sócrates, lo primero es decidir **qué es la justicia**, la bondad y las demás virtudes. El concepto de justicia, por ejemplo, abarca las acciones del hombre justo y las leyes justas.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 4; HªFª Unidade 1.pdf, p. 9"
     },
     {
-      "id": "fi-pk-082",
+      "id": "fi-pk-083",
       "temaId": "f-socrates-metodo",
       "texto": "Sócrates **rechaza el relativismo, el escepticismo y el convencionalismo**: es posible una ciencia objetiva del ser humano y existe una idea universal del bien y la justicia. Este ideal sigue vivo en la **Declaración Universal de los Derechos Humanos**.",
       "fuente": "HªFª Unidade 1.pdf, p. 9"
     },
     {
-      "id": "fi-pk-083",
+      "id": "fi-pk-084",
       "temaId": "f-socrates-metodo",
       "texto": "Según Guthrie, Sócrates amplió la **areté** de «pericia en una función» a **virtud moral**, presupuesto de una vida buena. Su originalidad: el **énfasis moral** y la exigencia de una **definición universal**. Frente al relativismo sofista, presupone un **orden moral objetivo y cognoscible**.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, pp. 2, 5"
     },
     {
-      "id": "fi-pk-084",
+      "id": "fi-pk-085",
       "temaId": "f-socrates-metodo",
       "texto": "**Intelectualismo moral**: identifica **saber y virtud**, el bien con el saber y el mal con la **ignorancia**. Nadie obra mal a propósito, porque nadie quiere ser infeliz: quien obra mal pone la felicidad en cosas externas sin saber que está en el **alma**. El primer paso hacia la virtud es **intelectual**: quien piensa bien, actúa bien.",
       "fuente": "Dialéctica socrática e relativismo dos sofistas.pdf, p. 7; Unidade 2. Sócrates e Platón.pdf, p. 5; HªFª Unidade 1.pdf, p. 9"
     },
     {
-      "id": "fi-pk-085",
+      "id": "fi-pk-086",
       "temaId": "f-socrates-metodo",
       "texto": "Consecuencias sociales: hay que **educar** e ilustrar a las personas para hacerlas buenas; fuera cárceles y castigos, porque **nadie es culpable, sino ignorante**. Sócrates quería educar al **demos sin distinción de clases**. Platón lleva esta idea a la política: una sociedad justa exige educar en la justicia.",
       "fuente": "Dialéctica socrática e relativismo dos sofistas.pdf, p. 7; HªFª Unidade 1.pdf, p. 9"
     },
     {
-      "id": "fi-pk-086",
+      "id": "fi-pk-087",
       "temaId": "f-socrates-metodo",
       "texto": "**Crítica**: conocer el bien **no basta** para hacerlo, porque pasiones, emociones e instintos pueden desviarnos; aun así, hay que esforzarse por conocer. Este dominio de la razón sobre los instintos provocó la **rabia de Nietzsche** veinticinco siglos después.",
       "fuente": "Dialéctica socrática e relativismo dos sofistas.pdf, p. 7"
     },
     {
-      "id": "fi-pk-087",
+      "id": "fi-pk-088",
       "temaId": "f-socrates-metodo",
       "texto": "**Socráticos menores**: intentan dar contenido al **«bien»** que Sócrates dejó sin definir. **Cínicos** (Diógenes de Sínope): el bien es la **libertad** por la **autosuficiencia**. **Cirenaicos** (Aristipo de Cirene): vivir «el instante que huye», atravesando los placeres sin dejarse llevar. **Megáricos** (Euclides de Megara): unen Sócrates y Parménides: **el bien es el ser**, el Uno eterno.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 5 – Los socráticos menores"
     },
     {
-      "id": "fi-pk-088",
+      "id": "fi-pk-089",
       "temaId": "f-platon",
-      "texto": "**Platón** pertenecía a una familia de la más alta **aristocracia** (por su madre, Perictíone, descendía de Solón). Se llamaba **Aristocles**; «Platón» era un apodo de su profesor de gimnasia por la anchura de sus espaldas. Vivió la **guerra del Peloponeso** y combatió en ella.",
-      "fuente": "Platón. Vida y pensamiento.pdf, p. 1"
+      "texto": "Según Platón. Vida y pensamiento, **Platón** nació en **Atenas** (429, 428 o 427 a. C.) **o en Egina**, en una familia de la más alta **aristocracia** (por su madre, Perictíone, descendía de Solón); Unidade 2 da las fechas **427–348 a. C.** Se llamaba **Aristocles**; «Platón» era un apodo de su profesor de gimnasia por la anchura de sus espaldas. Poco antes de nacer estalló la **guerra del Peloponeso** (431), en la que combatió como soldado (409).",
+      "fuente": "Platón. Vida y pensamiento.pdf, p. 1; Unidade 2. Sócrates e Platón.pdf, p. 7"
     },
     {
-      "id": "fi-pk-089",
+      "id": "fi-pk-090",
       "temaId": "f-platon",
       "texto": "Recibió una educación esmerada: matemáticas, música y poesía (se cuenta que **quemó sus versos** tras leer a Homero). Sus primeras lecciones de filosofía fueron de **Cratilo**, seguidor de Heráclito, pero lo decisivo fue conocer a **Sócrates**, hacia los veinte años.",
       "fuente": "Platón. Vida y pensamiento.pdf, p. 1"
     },
     {
-      "id": "fi-pk-090",
+      "id": "fi-pk-091",
       "temaId": "f-platon",
       "texto": "Su vida queda marcada por la **muerte de Sócrates**. En la Carta VII cuenta que los **Treinta Tiranos** y luego la condena de Sócrates lo desengañaron de la política: los males no acabarán «hasta que los **verdaderos filósofos** lleguen al poder o los gobernantes **practiquen la auténtica filosofía**».",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 7 – Texto 1 (Carta VII); Platón. Vida y pensamiento.pdf, p. 1"
     },
     {
-      "id": "fi-pk-091",
-      "temaId": "f-platon",
-      "texto": "Tras la muerte de Sócrates se refugió en **Megara** con Euclides y viajó por **Creta, Egipto y Cirene**, y luego por la **Magna Grecia**, donde trató a los **pitagóricos**. En **Siracusa** se hizo amigo de **Dión**, cuñado del tirano **Dionisio**, pero cayó en desgracia y fue **vendido como esclavo**; lo compró y liberó **Anníceris**.",
-      "fuente": "Platón. Vida y pensamiento.pdf, p. 1; Unidade 2. Sócrates e Platón.pdf, p. 7"
-    },
-    {
       "id": "fi-pk-092",
       "temaId": "f-platon",
-      "texto": "Fundó la **Academia** (387 a. C.) en un terreno cerca del templo del héroe **Akademos**; en su puerta se leía: «**Nadie entre aquí que no sea geómetra**».",
-      "fuente": "Platón. Vida y pensamiento.pdf, pp. 1–2"
+      "texto": "Tras la muerte de Sócrates (399), por el peligro de ser su amigo o por sus parientes **Critias y Cármides**, del grupo de los Treinta, se refugió en **Megara** con Euclides; luego viajó por **Creta, Egipto y Cirene** y volvió a Atenas hacia el 396. En un segundo viaje visitó la **Magna Grecia** (centros pitagóricos) y **Sicilia**, donde se hizo amigo de **Dión**, cuñado de **Dionisio I el Viejo**, tirano de Siracusa, pero cayó en su desagrado.",
+      "fuente": "Platón. Vida y pensamiento.pdf, p. 1"
     },
     {
       "id": "fi-pk-093",
       "temaId": "f-platon",
-      "texto": "Volvió **dos veces más a Sicilia** (con Dionisio el Joven) y fracasó; en el último viaje su vida corrió peligro y lo salvó **Arquitas de Tarento**. Estos fracasos lo llevan a abandonar el proyecto utópico por una actitud **más realista**. Dejó la Academia a **Heráclides del Ponto** y fue enterrado en su jardín.",
-      "fuente": "Platón. Vida y pensamiento.pdf, p. 2; Unidade 2. Sócrates e Platón.pdf, p. 7"
+      "texto": "Venta como esclavo, según **Platón. Vida y pensamiento**: Dionisio le dejó marchar, pero ordenó en secreto a **Polis**, jefe de una embajada espartana, que lo desembarcara en la isla de **Egina**, entonces en guerra con Atenas, y lo vendiera como esclavo. Lo reconoció **Anníceris**, que lo compró y lo liberó (verano de 387).",
+      "fuente": "Platón. Vida y pensamiento.pdf, p. 1"
     },
     {
       "id": "fi-pk-094",
+      "temaId": "f-platon",
+      "texto": "Venta como esclavo, según **Unidade 2**: en el **388** Platón viaja a Siracusa; el sueño de Dión de hacer filósofo a su cuñado agotó la paciencia de Platón y de Dionisio, que lo desterró, lo hizo encadenar y ordenó enviarlo a **Egipto** para venderlo como esclavo. Lo compró y liberó **Anicérides**, que además le entregó una suma importante de dinero con la que **fundó la Academia**.",
+      "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 7"
+    },
+    {
+      "id": "fi-pk-095",
+      "temaId": "f-platon",
+      "texto": "Según Platón. Vida y pensamiento, ya en Atenas abrió la **Academia** (387) en un pequeño terreno a tres kilómetros de la ciudad, comprado, según **Diógenes Laercio**, con el importe del rescate que Anníceris no quiso recibir; el nombre viene del templo del héroe **Akademos**. En su puerta se leía: «**Nadie entre aquí que no sea geómetra**». Allí enseñó y escribió durante **20 años**.",
+      "fuente": "Platón. Vida y pensamiento.pdf, pp. 1–2"
+    },
+    {
+      "id": "fi-pk-096",
+      "temaId": "f-platon",
+      "texto": "Muerto **Dionisio el Viejo** (367), le sucedió su hijo **Dionisio el Joven**. Platón volvió a Siracusa (366), pero Dionisio desterró a su tío Dión y Platón tuvo que regresar. En un **tercer viaje** su vida corrió peligro y lo salvó **Arquitas de Tarento**. Unidade 2 fecha las tres visitas a Sicilia en **389–388, 367–366 y 361–360 a. C.** Los fracasos lo llevan a encerrarse en la Academia y a abandonar el proyecto utópico por una actitud **más realista**.",
+      "fuente": "Platón. Vida y pensamiento.pdf, p. 2; Unidade 2. Sócrates e Platón.pdf, p. 7"
+    },
+    {
+      "id": "fi-pk-097",
+      "temaId": "f-platon",
+      "texto": "Platón ya no salió de Atenas. Dejó la Academia a **Heráclides del Ponto** y dedicó sus últimos años a escribir. Murió en el aniversario de su nacimiento y fue enterrado en el jardín de la Academia: en el **347 a. C.** según Platón. Vida y pensamiento; en el **348 a. C.** según Unidade 2 y Aristóteles.doc.",
+      "fuente": "Platón. Vida y pensamiento.pdf, p. 2; Unidade 2. Sócrates e Platón.pdf, p. 7; Aristóteles.doc"
+    },
+    {
+      "id": "fi-pk-098",
       "temaId": "f-platon",
       "texto": "Escribe casi todo en **diálogos**, con lenguaje sencillo, ejemplos y **mitos**; cada uno investiga un tema (una virtud, una idea). El protagonista es **Sócrates**, aunque muchas ideas que defiende ya son de Platón. Su pensamiento está **en constante revisión**: no es un sistema cerrado.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 7 – Vida y motivaciones"
     },
     {
-      "id": "fi-pk-095",
+      "id": "fi-pk-099",
       "temaId": "f-platon",
       "texto": "Diálogos principales: Apología (defensa de Sócrates), Protágoras (sabiduría), Gorgias (retórica), **Menón** (si la virtud es enseñable), Banquete (amor), **Fedón** (inmortalidad del alma), **República** (justicia), Fedro (amor y alma), Teeteto (ciencia), Parménides (participación), Sofista, Político, **Timeo** (origen del mundo), Carta VII (autobiografía) y **Leyes** (instituciones).",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 7 – Diálogos de Platón"
     },
     {
-      "id": "fi-pk-096",
+      "id": "fi-pk-100",
       "temaId": "f-platon",
       "texto": "Platón **rechaza** a los **físicos** (no tienen en cuenta el alma, no guían la conducta y ponen como origen la materia) y a los **sofistas** (relativismo y convencionalismo). Frente a su **escepticismo** afirma que el conocimiento es posible; frente a su **relativismo**, que hay **valores absolutos**.",
       "fuente": "Platón. Vida y pensamiento.pdf, p. 2; Unidade 2. Sócrates e Platón.pdf, p. 11"
     },
     {
-      "id": "fi-pk-097",
+      "id": "fi-pk-101",
       "temaId": "f-platon",
       "texto": "Platón **acepta**: de **Heráclito**, la movilidad (mundo físico); de **Parménides**, la inmutabilidad (mundo de las ideas); de **Sócrates**, la búsqueda de esencias y definiciones y el interés moral y político; de **Anaxágoras**, el **Nous** ordenador, que será el **demiurgo**.",
       "fuente": "Platón. Vida y pensamiento.pdf, p. 2; Unidade 2. Sócrates e Platón.pdf, p. 11"
     },
     {
-      "id": "fi-pk-098",
+      "id": "fi-pk-102",
       "temaId": "f-platon",
       "texto": "Del **pitagorismo** toma: el origen celeste y la **preexistencia de las almas**; la caída del alma en un **cuerpo-prisión**; la **metempsicosis** (reencarnación del alma no purificada); la purificación por la virtud; la mística de los números; el mundo como animal viviente; y la filosofía como **preparación para la muerte**.",
       "fuente": "Platón. Vida y pensamiento.pdf, pp. 2–3"
     },
     {
-      "id": "fi-pk-099",
+      "id": "fi-pk-103",
       "temaId": "f-platon-ideas",
       "texto": "Como Sócrates, Platón da a su filosofía una **intención moral**. Frente a los sofistas, la **verdad absoluta existe** y es fija, inmutable y eterna: no es verdad hoy lo que será falso mañana, ni distinta para unos y otros. Como Parménides no explicaba el cambio aparente, Platón **une a Heráclito y Parménides**: ambos tenían razón, pero hablaban de **realidades distintas**.",
       "fuente": "Platón. Vida y pensamiento.pdf, p. 3"
     },
     {
-      "id": "fi-pk-100",
+      "id": "fi-pk-104",
       "temaId": "f-platon-ideas",
       "texto": "El conocimiento verdadero no puede estar sujeto a error, así que debe ser de algo **estable y perfecto**. Por eso, detrás de los objetos sensibles existe realmente el **mundo de las ideas**; el **mundo sensible** es solo su **copia o imitación**.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 8; Platón. Vida y pensamiento.pdf, p. 3"
     },
     {
-      "id": "fi-pk-101",
+      "id": "fi-pk-105",
       "temaId": "f-platon-ideas",
       "texto": "**Dualismo ontológico**: entre los dos mundos hay un abismo (**jorismós**), el que separa lo eterno de lo temporal. Platón los relaciona con metáforas: **participación (méthexis)**, **imitación (mímesis)** y **presencia (parousía)**.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 8 – Los dos mundos"
     },
     {
-      "id": "fi-pk-102",
+      "id": "fi-pk-106",
       "temaId": "f-platon-ideas",
       "texto": "Rasgos de las **ideas**: absolutas, **eternas, inmutables, universales** e independientes de la experiencia. Tienen **existencia objetiva** (no son conceptos mentales) y **separada**: existen al margen de quien las conoce. Cada especie sensible tiene su idea (eidos, «aspecto, forma»).",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 8 – Rasgos del mundo de las ideas"
     },
     {
-      "id": "fi-pk-103",
+      "id": "fi-pk-107",
       "temaId": "f-platon-ideas",
       "texto": "La idea es el **paradigma**, el modelo ejemplar: la Belleza, la Justicia o la Bondad absolutas, de las que las cosas bellas, justas o buenas reciben su semejanza. Las ideas son **causas ejemplares**, fines o modelos, y la **esencia** de las cosas. Solo se captan con la **inteligencia**, y conocerlas da la verdad.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 8 – Rasgos del mundo de las ideas"
     },
     {
-      "id": "fi-pk-104",
+      "id": "fi-pk-108",
       "temaId": "f-platon-ideas",
       "texto": "Las ideas están **jerarquizadas**. En la cima está la **idea de Bien**, que Platón compara con el **sol**: así como el sol da la luz que permite ver y hace que las cosas nazcan y crezcan, el Bien **ordena** el mundo de las ideas, da **verdad** a los objetos y **capacidad de conocer** al ser humano.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, pp. 8–9 – La idea de Bien"
     },
     {
-      "id": "fi-pk-105",
+      "id": "fi-pk-109",
+      "temaId": "f-platon-ideas",
+      "texto": "Según **Platón. Vida y pensamiento**, las Ideas están jerarquizadas en forma de **pirámide**: abajo, las ideas de las cosas (piedras, minerales); después, las de los animales y el hombre; luego, los **conceptos matemáticos**; en el penúltimo nivel, los **conceptos morales** (Justicia, Virtud, Valor, Prudencia); y en la cumbre, la **Idea de Bien**, «el sol del mundo de las Ideas». Se puede subir de las más imperfectas a la más perfecta y hacer luego el camino inverso.",
+      "fuente": "Platón. Vida y pensamiento.pdf, p. 4"
+    },
+    {
+      "id": "fi-pk-110",
       "temaId": "f-platon-ideas",
       "texto": "En la República (VII), la idea de Bien es lo último que se ve en lo inteligible, y con esfuerzo; es la **causa de todo lo recto y bello**. Quien quiera obrar sabiamente, en privado o en público, debe **fijar la mirada en ella**.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, pp. 11–12 – Texto 3"
     },
     {
-      "id": "fi-pk-106",
+      "id": "fi-pk-111",
       "temaId": "f-platon-ideas",
       "texto": "En su **periodo crítico** Platón revisa la teoría: ¿cómo dan las ideas su forma a los seres? Concluye que las ideas pueden **combinarse entre sí**, como en el razonamiento abstracto. Su pensamiento es una **obra abierta**.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 8 – La idea de Bien"
     },
     {
-      "id": "fi-pk-107",
+      "id": "fi-pk-112",
       "temaId": "f-platon-ideas",
       "texto": "**Mundo sensible**: lo percibido por los **sentidos**, en **cambio constante**; se parece a las ideas porque **participa** de ellas y las **imita**. Sus seres son generables y corruptibles, compuestos, divisibles e imperfectos. No es el verdadero ser, sino **apariencia de ser**, y solo da **opinión (doxa)**.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 9 – Rasgos del mundo sensible"
     },
     {
-      "id": "fi-pk-108",
+      "id": "fi-pk-113",
       "temaId": "f-platon-ideas",
       "texto": "En el **Timeo**, el **demiurgo** es un artesano divino que, mirando las ideas, da forma al mundo. **No es un creador** en sentido cristiano: solo **ordena la materia** primigenia. Está a medio camino entre los dos mundos y es **inferior a las ideas**. Se inspira en el **Nous de Anaxágoras**.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 9; Platón. Vida y pensamiento.pdf, p. 4"
     },
     {
-      "id": "fi-pk-109",
+      "id": "fi-pk-114",
       "temaId": "f-platon-ideas",
       "texto": "El **espacio o lugar** es el receptáculo que acoge todo lo que nace y perece: el principio **material**. En el **cosmos** («orden», frente a caos) los cuatro elementos son **sólidos regulares**: **tetraedro**-fuego, **cubo**-tierra, **icosaedro**-agua, **octaedro**-aire. El cosmos tiene la figura más perfecta, la **esfera**.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 9 – El cosmos platónico"
     },
     {
-      "id": "fi-pk-110",
+      "id": "fi-pk-115",
       "temaId": "f-platon-ideas",
       "texto": "De **Sócrates** viene la idea de que una definición universal lo es de una realidad **permanente**: la definición de «hombre» no es de ningún hombre concreto, sino del **Hombre**, que existe aunque los hombres de carne y hueso perezcan. Eidos («aspecto físico») pasa a significar **modelo perfecto**.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 11 – Influencias"
     },
     {
-      "id": "fi-pk-111",
+      "id": "fi-pk-116",
       "temaId": "f-platon-ideas",
       "texto": "Argumentos a favor de las ideas (según Aristóteles): **a)** la ciencia existe y necesita un **objeto eterno**; **b)** **unidad de lo múltiple**: el predicado «hombre» se dice de muchos y no equivale a ninguno; **c)** **conocimiento de lo inexistente**: lo que conocemos no se destruye cuando muere un caballo concreto.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 11 – Argumentos"
     },
     {
-      "id": "fi-pk-112",
+      "id": "fi-pk-117",
       "temaId": "f-platon-conoc",
       "texto": "Dos tipos de conocimiento según su objeto: la **ciencia (epistéme)**, que conoce las ideas, inteligibles y universales; y la **opinión (doxa)**, que trata del mundo sensible, que «es y no es» porque cambia constantemente.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 12 – Clases y grados de conocimiento"
     },
     {
-      "id": "fi-pk-113",
+      "id": "fi-pk-118",
       "temaId": "f-platon-conoc",
       "texto": "Grados de la **ciencia**: la **inteligencia o intuición intelectual (noesis)**, que capta las ideas, la primera de ellas el Bien; y el **pensamiento o razonamiento (dianoia)**, que trata las **realidades matemáticas** a partir de premisas dadas.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 12 – Clases y grados de conocimiento"
     },
     {
-      "id": "fi-pk-114",
+      "id": "fi-pk-119",
       "temaId": "f-platon-conoc",
       "texto": "Grados de la **opinión**: la **creencia (pistis)**, conocimiento de las cosas sensibles por los sentidos, sin análisis crítico; y la **ilusión o imaginación (eikasía)**: lo que parece y no es (sombras, imágenes, sueños, espejismos).",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 12; Platón. Vida y pensamiento.pdf, p. 4"
     },
     {
-      "id": "fi-pk-115",
+      "id": "fi-pk-120",
+      "temaId": "f-platon-conoc",
+      "texto": "Esquema de **Platón. Vida y pensamiento**: el **mundo sensible** da **opinión** (de las **imágenes**, **imaginación**; de los **objetos**, **creencia**) y está **dentro de la caverna**; el **mundo inteligible** da **ciencia** (de los **objetos matemáticos**, **matemáticas**; de las **Ideas**, **dialéctica**) y está **fuera de la caverna**. La ciencia que estudia las Ideas es la dialéctica.",
+      "fuente": "Platón. Vida y pensamiento.pdf, p. 4"
+    },
+    {
+      "id": "fi-pk-121",
       "temaId": "f-platon-conoc",
       "texto": "**Símil de la línea** (República VI): una línea se divide en dos segmentos desiguales, **visible e inteligible**, y cada uno otra vez en la misma proporción. En lo visible: **imágenes** (sombras, reflejos) y **cosas** (animales, plantas, objetos fabricados). Imagen y cosa guardan la misma relación que lo opinable y lo cognoscible.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 12 – Texto 4"
     },
     {
-      "id": "fi-pk-116",
+      "id": "fi-pk-122",
+      "temaId": "f-platon-conoc",
+      "texto": "El símil de la línea según **Platón. Vida y pensamiento**: divide el conocimiento en una **parte oscura** (mundo sensible) y una **parte luminosa** (mundo inteligible). «A su vez divide la parte oscura en dos segmentos, la parte oscura que se corresponde con el conocimiento imperfecto de las imágenes, la **Imaginación**, y la parte luminosa del conocimiento del mundo inteligible se corresponde con el conocimiento de los objetos y es la **Imaginación**». La línea se corresponde exactamente con el mito de la caverna: desde las sombras se asciende a las **Matemáticas**, luego a las **Ideas** y, en la cima, a la **Idea de Bien**.",
+      "fuente": "Platón. Vida y pensamiento.pdf, p. 5"
+    },
+    {
+      "id": "fi-pk-123",
       "temaId": "f-platon-conoc",
       "texto": "En lo **inteligible**: primero el alma usa imágenes y parte de **supuestos** hacia una conclusión (como los geómetras, que dan por supuestos el par y el impar o las figuras); después usa los supuestos como **peldaños** hasta un **principio no hipotético**, el principio de todo, **solo con ideas**. A cada sección corresponde una operación: intuición, razonamiento, creencia e ilusión.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, pp. 12–13 – Texto 4"
     },
     {
-      "id": "fi-pk-117",
+      "id": "fi-pk-124",
       "temaId": "f-platon-conoc",
       "texto": "**Mito de la caverna** (República VII): unos prisioneros, encadenados desde niños, solo ven las **sombras** que un **fuego** proyecta en la pared al pasar objetos llevados tras un **muro**. Creen que esas sombras son lo real.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 10 – Texto 2; Platón. Vida y pensamiento.pdf, p. 5"
     },
     {
-      "id": "fi-pk-118",
+      "id": "fi-pk-125",
       "temaId": "f-platon-conoc",
       "texto": "Si uno es liberado, la luz lo **deslumbra** y cree más verdaderas las sombras. Arrastrado fuera, se acostumbra poco a poco: ve sombras, luego **reflejos en el agua**, luego las cosas y, al final, el **sol**, que causa las estaciones y gobierna todo lo visible.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 10 – Texto 2"
     },
     {
-      "id": "fi-pk-119",
+      "id": "fi-pk-126",
       "temaId": "f-platon-conoc",
       "texto": "Si vuelve a la cueva, la oscuridad lo ciega, los demás se **ríen** de él y, si intenta liberarlos, **intentan matarlo** (el texto invita a relacionarlo con **Sócrates**). Cuatro estadios: encadenados; fracaso de la liberación dentro; liberación auténtica por la luz; **regreso** a la caverna. El mito muestra el papel de la **educación (paideia)**.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 10 – Texto 2"
     },
     {
-      "id": "fi-pk-120",
+      "id": "fi-pk-127",
       "temaId": "f-platon-conoc",
       "texto": "Interpretación: el interior de la caverna es el **mundo sensible** (opinión) y el fuego, el poder del sol; la subida es la **ascensión del alma** a lo inteligible; fuera están las **ideas** y el **sol** es la **idea de Bien**.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 11 – Texto 3; Platón. Vida y pensamiento.pdf, p. 5"
     },
     {
-      "id": "fi-pk-121",
+      "id": "fi-pk-128",
+      "temaId": "f-platon-conoc",
+      "texto": "La caverna según **Platón. Vida y pensamiento**: el esclavo encadenado solo ve sombras (**imágenes**); al liberarse encuentra un muro tras el que unas personas llevan objetos sobre pértigas (**objetos**) y un fuego que proyecta las sombras. Fuera, cegado, ve mejor de noche o las sombras de los objetos del mundo inteligible (**objetos matemáticos**); luego la luz del Sol (**Ideas**) y por fin el Sol mismo (**Idea de Bien**).",
+      "fuente": "Platón. Vida y pensamiento.pdf, p. 5"
+    },
+    {
+      "id": "fi-pk-129",
       "temaId": "f-platon-conoc",
       "texto": "Caminos hacia las ideas: la música, la geometría, la aritmética… pero el método por excelencia es la **dialéctica**, que **perfecciona la mayéutica** socrática.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 13 – Los procedimientos para conocer las ideas"
     },
     {
-      "id": "fi-pk-122",
+      "id": "fi-pk-130",
       "temaId": "f-platon-conoc",
       "texto": "Tres sentidos de la **dialéctica**: **1)** **ascenso** de lo sensible a lo inteligible, mejorando hipótesis por críticas sucesivas, de las artes a las ideas morales y estéticas y al Bien (es la **purificación** del alma); **2)** **deducción**: estudia cómo se combinan las ideas y clasifica bien las cosas naturales; **3)** **dialéctica emocional o amor platónico**.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 13 – La dialéctica"
     },
     {
-      "id": "fi-pk-123",
+      "id": "fi-pk-131",
       "temaId": "f-platon-conoc",
       "texto": "En el **amor platónico (eros)**, la **Belleza** es la única idea **visible** sin dejar de ser idea. El impulso erótico pasa del cuerpo bello del amado a todos los cuerpos bellos, a la belleza de las almas, las leyes y las ciencias, hasta la **Belleza en sí**. Sin ella, el alma no podría elevarse hasta el Bien.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 13 – La dialéctica"
     },
     {
-      "id": "fi-pk-124",
+      "id": "fi-pk-132",
       "temaId": "f-platon-conoc",
       "texto": "**Reminiscencia**: «**conocer es recordar**». El alma contempló las ideas antes de llegar a este mundo; al unirse al cuerpo lo **olvidó** todo, pero algo queda. En el Menón: el alma, inmortal y renacida muchas veces, lo ha aprendido todo, y «**buscar y aprender no son más que reminiscencia**».",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, pp. 13–14; Platón. Vida y pensamiento.pdf, p. 3"
     },
     {
-      "id": "fi-pk-125",
+      "id": "fi-pk-133",
       "temaId": "f-platon-alma",
       "texto": "Platón trata el alma en la **República**, su diálogo más extenso, sobre la **justicia**: la virtud que armoniza las demás. La **estructura del alma** es la base del modelo de Estado ideal.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 14 – La antropología"
     },
     {
-      "id": "fi-pk-126",
+      "id": "fi-pk-134",
       "temaId": "f-platon-alma",
       "texto": "El dualismo de mundos se traduce en el dualismo **cuerpo (soma) – alma (psyché)**. El **cuerpo** es material, imperfecto, mutable: un alojamiento temporal, la **cárcel del alma**. El **alma** es inmaterial, perfecta, **inmortal** y simple; contempla las ideas, es el principio del conocimiento racional, **dirige el cuerpo** y es fuente del movimiento.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 14; Platón. Vida y pensamiento.pdf, p. 5"
     },
     {
-      "id": "fi-pk-127",
+      "id": "fi-pk-135",
       "temaId": "f-platon-alma",
       "texto": "**Alma racional**: de naturaleza divina e inmortal; dirige y controla las otras dos partes. Su virtud es la **sabiduría o prudencia**, que permite desprenderse de lo material.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 14; Platón. Vida y pensamiento.pdf, p. 6"
     },
     {
-      "id": "fi-pk-128",
+      "id": "fi-pk-136",
       "temaId": "f-platon-alma",
       "texto": "**Alma irascible**: mortal, inseparable del cuerpo; **impulsa a la acción**, permite superar el dolor y renunciar a placeres cuando lo decide la razón. Si predomina, tenemos un individuo **violento**. Su virtud es la **fortaleza**.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 14; Platón. Vida y pensamiento.pdf, p. 6"
     },
     {
-      "id": "fi-pk-129",
+      "id": "fi-pk-137",
       "temaId": "f-platon-alma",
       "texto": "**Alma concupiscible**: también mortal; atiende las **necesidades materiales** (alimento, vestido, reproducción) y debe moderar los placeres. Su virtud es la **templanza**: satisfacer lo necesario sin dedicarse solo a los deseos.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 14; Platón. Vida y pensamiento.pdf, p. 6"
     },
     {
-      "id": "fi-pk-130",
+      "id": "fi-pk-138",
       "temaId": "f-platon-alma",
       "texto": "**Mito del carro alado** (Fedro): el alma es como un **auriga** con dos **caballos alados**, uno bello y bueno y otro lo contrario, por lo que conducir es difícil. El alma que **pierde las alas** cae hasta algo sólido y toma un **cuerpo terreno**: el conjunto se llama ser vivo **mortal**.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 15 – Texto 6"
     },
     {
-      "id": "fi-pk-131",
+      "id": "fi-pk-139",
       "temaId": "f-platon-alma",
       "texto": "Tras la muerte, las almas son **juzgadas**: las purificadas van a la **región de las ideas**; las no purificadas, al **Hades**, donde son castigadas. Después **eligen libremente su reencarnación** (filósofo, comerciante, poeta, tirano, incluso un animal), y las no purificadas suelen elegir mal.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 14 – La teoría del alma"
     },
     {
-      "id": "fi-pk-132",
+      "id": "fi-pk-140",
       "temaId": "f-platon-alma",
       "texto": "El alma cae al mundo sensible por alguna **imperfección** y olvida lo que vio. La vida debe ser un **progreso en el conocimiento** recordando las ideas y alejándose de las riquezas y los placeres; tras sucesivas reencarnaciones, el alma se **purifica** y queda para siempre en el mundo de las ideas.",
       "fuente": "Platón. Vida y pensamiento.pdf, p. 6"
     },
     {
-      "id": "fi-pk-133",
+      "id": "fi-pk-141",
       "temaId": "f-platon-alma",
       "texto": "La **ética** busca la **felicidad** mediante la **virtud (areté)**, que tiene varios sentidos: camino hacia el **bien y la justicia**; **sabiduría** (contemplar las ideas); **purificación** de las pasiones; y **armonía de las tres partes del alma**, que es la **justicia**, «una especie de **salud**» del individuo.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, pp. 14–15 – La justicia como virtud"
     },
     {
-      "id": "fi-pk-134",
+      "id": "fi-pk-142",
       "temaId": "f-platon-alma",
       "texto": "El individuo **no puede perfeccionarse solo**: se realiza en la **comunidad**. Por eso la virtud de cada alma depende de la **virtud del Estado**.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 15 – La justicia como virtud"
     },
     {
-      "id": "fi-pk-135",
+      "id": "fi-pk-143",
       "temaId": "f-platon-politica",
       "texto": "La **República** (en griego Politeia, «constitución») busca un régimen en el que no gobiernen la masa ignorante ni el azar, sino **los más sabios**, en beneficio de la **felicidad de la comunidad**. Es una **utopía**: un modelo ideal para vivir según la **idea objetiva de justicia**.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 15 – El Estado ideal"
     },
     {
-      "id": "fi-pk-136",
+      "id": "fi-pk-144",
       "temaId": "f-platon-politica",
       "texto": "El punto de partida es la **educación**, que actúa sobre la **constitución natural** de cada individuo. La organización social no es una convención (nomos) como decían los sofistas, sino una **ley universal** derivada de la naturaleza del Estado.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 15 – Las clases sociales"
     },
     {
-      "id": "fi-pk-137",
+      "id": "fi-pk-145",
       "temaId": "f-platon-politica",
       "texto": "Tres clases, como las tres partes del alma: **productores** (alma concupiscible, virtud **templanza**): alimento, vivienda, vestido y oficios; **guardianes o guerreros** (irascible, **fortaleza**): orden interno y defensa; **gobernantes** (racional, **sabiduría o prudencia**): gobiernan según las ideas porque conocen la **idea de Bien**.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 15; Platón. Vida y pensamiento.pdf, pp. 6–7"
     },
     {
-      "id": "fi-pk-138",
+      "id": "fi-pk-146",
       "temaId": "f-platon-politica",
       "texto": "Los **productores** son los únicos con **propiedad privada** (y familia). Guardianes y gobernantes no tienen ni propiedad ni familia, así no sienten la tentación de acumular riquezas. Junto a la **igualdad de sexos** y la **educación a cargo del Estado**, esto busca que solo persigan el **bien común**.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 15; Platón. Vida y pensamiento.pdf, p. 7"
     },
     {
-      "id": "fi-pk-139",
+      "id": "fi-pk-147",
       "temaId": "f-platon-politica",
       "texto": "La **justicia** en el Estado es que **cada clase haga lo suyo** sin meterse en lo ajeno: la armonía de las partes, igual que en el alma (República IV).",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, pp. 15–16 – Texto 7"
     },
     {
-      "id": "fi-pk-140",
+      "id": "fi-pk-148",
       "temaId": "f-platon-politica",
       "texto": "Los **mejores guardianes** pueden llegar a gobernantes tras una educación que va de la **gimnasia, la música y la poesía** a las **matemáticas** y a las ideas. Quien llega a conocer la **idea de Bien** gobierna, porque solo él busca el bien del Estado y no el particular.",
       "fuente": "Platón. Vida y pensamiento.pdf, p. 7"
     },
     {
-      "id": "fi-pk-141",
+      "id": "fi-pk-149",
       "temaId": "f-platon-politica",
       "texto": "Formas de gobierno (República VIII–IX): la historia es **decadencia**. La mejor es la **aristocracia o monarquía** (gobierno de los mejores); de ella sale la **timocracia** (poder militar), luego la **oligarquía** (gobierno del dinero), la **democracia** y, al final, la **tiranía**, la más degenerada, cuando el más demagogo se impone a una masa no preparada para gobernar.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 16 – Las formas de organización del Estado"
     },
     {
-      "id": "fi-pk-142",
+      "id": "fi-pk-150",
       "temaId": "f-platon-politica",
       "texto": "En las **Leyes** (última etapa), tras fracasar en Sicilia, Platón ya **no confía en hallar al gobernante sabio**. El Estado se basa en la **buena legislación** (nomos), porque la fuerza de lo irracional mueve a los hombres por ambición y egoísmo. Ya no habla de la idea de Bien, sino de **lo divino y de Dios**: las leyes humanas son un frágil artificio fundado en la **ley divina**.",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 16 – Las Leyes"
     },
     {
-      "id": "fi-pk-143",
+      "id": "fi-pk-151",
       "temaId": "f-platon-politica",
       "texto": "Frente al optimismo de Sócrates aparece la **desesperanza**: «Ningún hombre legisla nunca nada, sino que son los **azares** y los acontecimientos los que lo legislan todo». Aun así queda la confianza en **Dios y en la técnica** (techné): «en tiempo de tormenta se aplica el **arte del piloto**».",
       "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 16 – Las Leyes"
     },
     {
-      "id": "fi-pk-144",
+      "id": "fi-pk-152",
       "temaId": "f-aristoteles",
-      "texto": "**Aristóteles** nació en **Estagira** (Macedonia) en el **384 a. C.**, hijo de **Nicómaco**, médico de la corte macedonia. A los **17 años** entró en la **Academia** de Platón, donde pasó **veinte años**, primero como alumno y luego como profesor.",
+      "texto": "**Aristóteles** nació en **Estagira** (Macedonia) a finales del verano del **384 a. C.**, hijo del médico **Nicómaco** en la corte macedonia de Amintas, padre de Filipo II; fue el segundo de tres hermanos (Arimneste y Arimnestos). A los **17 años**, muertos sus padres y bajo la tutela de su **yerno Próxenos**, entró en la **Academia** (primavera del 367), donde estuvo **20 años, hasta el 347**: primero como estudiante y luego como profesor.",
       "fuente": "Aristóteles.doc – Tiempo y espacio"
     },
     {
-      "id": "fi-pk-145",
+      "id": "fi-pk-153",
       "temaId": "f-aristoteles",
-      "texto": "Tras la muerte de Platón dejó Atenas. Estuvo en **Asos**, junto a **Hermias**, tirano de Atarneo, y en **Mitilene**, dedicado a **estudios naturalistas** (observar y catalogar). En el **342 a. C.** **Filipo II** lo llamó para educar a **Alejandro**, durante dos años.",
+      "texto": "A la muerte de Platón, que el texto sitúa en el **348 a. C.**, dejó la Academia y Atenas. Del 347 al 345 estuvo en **Asos**, donde había una escuela como la Academia, con **Hermias**, tirano de Atarneo; se hizo amigo de su familia y se casó con **Pitis**, una de sus hijas. El texto añade que se casó dos veces: la primera con **Pitias**, junto a la que pidió en su testamento ser enterrado, y en la segunda tuvo un hijo, **Nicómaco**.",
       "fuente": "Aristóteles.doc – Tiempo y espacio"
     },
     {
-      "id": "fi-pk-146",
+      "id": "fi-pk-154",
       "temaId": "f-aristoteles",
-      "texto": "En el **335 a. C.** volvió a Atenas y fundó el **Liceo**, en el santuario de Apolo Licio, cuyo gimnasio tenía un **peripato** (paseo porticado): de ahí el nombre de **peripatéticos**. Al morir Alejandro (323) se trasladó apresuradamente a **Calcis** (Eubea), donde murió en el **322 a. C.**, a los 62 años.",
+      "texto": "Durante cinco años estuvo en **Asos y Mitilene**, dedicado a estudios naturalistas (observar y catalogar) y a fijar los conceptos de su sistema físico. En el **342 a. C.** **Filipo II** lo llamó para educar a **Alejandro**, durante dos años. Del **340 al 335** vivió en Estagira: sus años más fructíferos.",
       "fuente": "Aristóteles.doc – Tiempo y espacio"
     },
     {
-      "id": "fi-pk-147",
+      "id": "fi-pk-155",
+      "temaId": "f-aristoteles",
+      "texto": "En el **335 a. C.** volvió a Atenas, se instaló en el santuario de Apolo Licio y fundó el **Liceo**; su gimnasio, construido en la época de Pericles, tenía un **peripato** (paseo porticado): de ahí el nombre de **peripatéticos**. En el 323 Alejandro murió en **Babilonia** preparando una gran expedición marítima, y Aristóteles se trasladó apresuradamente a **Calcis** (Eubea), propiedad de su familia materna. Murió en el otoño del **322 a. C.**, a los 62 años, cuidado por **Herpilis**, su segunda mujer.",
+      "fuente": "Aristóteles.doc – Tiempo y espacio"
+    },
+    {
+      "id": "fi-pk-156",
       "temaId": "f-aristoteles",
       "texto": "Autor **enciclopédico**: según el texto, creador de la **lógica formal**, de la economía y de la astronomía, precursor de la anatomía y la biología, y **padre de la zoología y la botánica** (taxonomía). Determinó buena parte del **«sentido común»** occidental.",
       "fuente": "Aristóteles.doc – Movimiento"
     },
     {
-      "id": "fi-pk-148",
+      "id": "fi-pk-157",
+      "temaId": "f-aristoteles",
+      "texto": "Conceptos que el texto destaca: **episteme, peripatos, ousía** (sustancia), **eudaimonía, zoom politikon, praxi, mexón, aither** (éter), **silogismo, zoe** (vida).",
+      "fuente": "Aristóteles.doc – Conceptos"
+    },
+    {
+      "id": "fi-pk-158",
       "temaId": "f-aristoteles",
       "texto": "Aristóteles **rechaza la teoría de las ideas** y propone una filosofía centrada en la **sustancia** y la esencia de las cosas. Para él **solo hay un mundo**.",
       "fuente": "Aristóteles.doc – Introducción"
     },
     {
-      "id": "fi-pk-149",
+      "id": "fi-pk-159",
       "temaId": "f-aristoteles",
       "texto": "Críticas a Platón: **1)** dos mundos **complican** la explicación (se explica dos veces lo mismo); **2)** usa **mitos y metáforas** en vez de conceptos; **3)** no explica cómo las ideas son **causa** de las cosas; **4)** **argumento del tercer hombre**: si la semejanza entre dos cosas exige una idea, hace falta un tercero, luego un cuarto… una **regresión al infinito** que no explica nada.",
       "fuente": "Aristóteles.doc – Del filosofar platónico a la filosofía aristotélica"
     },
     {
-      "id": "fi-pk-150",
+      "id": "fi-pk-160",
       "temaId": "f-aristoteles",
       "texto": "En la Metafísica (XIII) dice que las ideas **no causan movimiento ni cambio** ni ayudan a conocer las cosas, porque no están en ellas. Llamarlas paradigmas es decir «**palabras vacías y metáforas poéticas**»: «¿quién trabaja con los ojos fijos en las ideas?». Y es imposible que la sustancia esté **separada** de aquello de lo que es sustancia.",
       "fuente": "Aristóteles.doc – Comentario de texto"
     },
     {
-      "id": "fi-pk-151",
+      "id": "fi-pk-161",
       "temaId": "f-aristoteles",
-      "texto": "De Platón valora la estrecha relación entre **virtud y felicidad**, que Platón además vivió. Pero para Aristóteles el saber es una **ciencia objetiva** que se divide en **ciencias particulares** autónomas; la filosofía es su **reina**, pero no las absorbe.",
+      "texto": "De Platón valora la estrecha relación entre **virtud y felicidad**, que Platón no solo demostró, sino que vivió. Para Platón la filosofía es búsqueda del ser y realización de la vida verdadera: es ciencia y, en cuanto ciencia, virtud y felicidad. Para Aristóteles, en cambio, el saber es una **ciencia objetiva** que se divide en **ciencias particulares** autónomas; la filosofía es su **reina**, pero no las absorbe.",
       "fuente": "Aristóteles.doc – Del filosofar platónico a la filosofía aristotélica"
     },
     {
-      "id": "fi-pk-152",
+      "id": "fi-pk-162",
       "temaId": "f-aristoteles",
-      "texto": "Su gran descubrimiento es la filosofía como **«ciencia del ser en cuanto ser»**, que da a la filosofía autonomía y máxima universalidad. Frente a Parménides y Platón, reconoce la **polisemia del verbo «ser»**: «ser» se dice de muchas maneras.",
+      "texto": "Su gran descubrimiento es la filosofía como **«ciencia del ser en cuanto ser»**, que justifica la labor de las ciencias particulares y da a la filosofía autonomía y máxima universalidad. Frente a Parménides y Platón, reconoce la **polisemia del verbo ser** en sus distintos usos y aplicaciones: toda reflexión sobre el lenguaje y la realidad debe partir de este hecho.",
       "fuente": "Aristóteles.doc – Del filosofar platónico a la filosofía aristotélica"
     },
     {
-      "id": "fi-pk-153",
+      "id": "fi-pk-163",
       "temaId": "f-aristoteles-logica",
       "texto": "Aristóteles divide las ciencias en tres tipos: **teoréticas** (la verdad y el saber: **matemática y física**), **prácticas** (la acción misma: **ética, política y economía**) y **poéticas** (la **producción de una obra exterior** al agente).",
       "fuente": "Aristóteles.doc – La clasificación de las ciencias"
     },
     {
-      "id": "fi-pk-154",
+      "id": "fi-pk-164",
+      "temaId": "f-aristoteles-logica",
+      "texto": "El texto dice también que en la clasificación de las ciencias **la primera es la metafísica y la segunda la física**; que la metafísica versa sobre la posibilidad y el principio de una ciencia del ser: la política, la ética, la poesía; y que el reino de lo necesario pertenece a las ciencias especulativas o teoréticas: matemática y física.",
+      "fuente": "Aristóteles.doc – La clasificación de las ciencias"
+    },
+    {
+      "id": "fi-pk-165",
       "temaId": "f-aristoteles-logica",
       "texto": "La **lógica** no entra en la clasificación: es el **Organon**, el **instrumento** y el método de todas las ciencias, su condición imprescindible (Zeller habla de su carácter instrumental).",
       "fuente": "Aristóteles.doc – La clasificación de las ciencias"
     },
     {
-      "id": "fi-pk-155",
+      "id": "fi-pk-166",
       "temaId": "f-aristoteles-logica",
       "texto": "La lógica estudia la **validez de los razonamientos**: Aristóteles fijó reglas que, si se respetan y se parte de **premisas verdaderas**, nunca llevan a conclusiones falsas.",
       "fuente": "Aristóteles.doc – Organon. La lógica"
     },
     {
-      "id": "fi-pk-156",
+      "id": "fi-pk-167",
       "temaId": "f-aristoteles-logica",
       "texto": "Las **categorías** son los **géneros más generales del ser**: sustancia, cantidad, cualidad, relación, lugar, tiempo, posición, posesión, acción y pasión.",
       "fuente": "Aristóteles.doc – Organon. La lógica"
     },
     {
-      "id": "fi-pk-157",
+      "id": "fi-pk-168",
       "temaId": "f-aristoteles-logica",
       "texto": "En De interpretatione estudia las **proposiciones**, que pueden ser **afirmativas o negativas** y **universales o particulares**. En los **Primeros analíticos** desarrolla la **silogística**.",
       "fuente": "Aristóteles.doc – Organon. La lógica"
     },
     {
-      "id": "fi-pk-158",
+      "id": "fi-pk-169",
       "temaId": "f-aristoteles-logica",
       "texto": "El **silogismo** une dos proposiciones que dan una conclusión nueva: «Todos los humanos son mortales» y «Todos los griegos son humanos» → «**Todos los griegos son mortales**». La ciencia resulta de construir sistemas de razonamiento más complejos.",
       "fuente": "Aristóteles.doc – Organon. La lógica"
     },
     {
-      "id": "fi-pk-159",
+      "id": "fi-pk-170",
       "temaId": "f-aristoteles-logica",
       "texto": "En los **Segundos analíticos** está el **método axiomático**. La **dialéctica** solo comprueba la **coherencia lógica de las opiniones**; la **analítica** deduce a partir de principios basados en la **experiencia y la observación**. Es una ruptura con la Academia, donde la dialéctica era el único método válido.",
       "fuente": "Aristóteles.doc – Organon. La lógica"
     },
     {
-      "id": "fi-pk-160",
+      "id": "fi-pk-171",
       "temaId": "f-aristoteles-logica",
       "texto": "«**No hay ciencia sino de lo general, ni existencia sino de lo particular**». Los conocimientos inmediatos son el **axioma**, la **definición** y la **inducción** (paso de lo particular a lo general).",
       "fuente": "Aristóteles.doc – Organon. La lógica"
     },
     {
-      "id": "fi-pk-161",
+      "id": "fi-pk-172",
       "temaId": "f-aristoteles-fisica",
       "texto": "La **física** estudia las **sustancias materiales**, la naturaleza y el **movimiento**, que se define como el «**paso de la potencia al acto**», por la acción de las causas.",
       "fuente": "Aristóteles.doc – Física"
     },
     {
-      "id": "fi-pk-162",
+      "id": "fi-pk-173",
       "temaId": "f-aristoteles-fisica",
       "texto": "**Cuatro causas**: **formal** (la esencia, la forma de la sustancia); **material** (el soporte de la forma, pura potencia); **eficiente** (lo que produce el movimiento); **final** (lo que dirige el movimiento hacia un fin, la perfección de la forma).",
       "fuente": "Aristóteles.doc – Física"
     },
     {
-      "id": "fi-pk-163",
+      "id": "fi-pk-174",
       "temaId": "f-aristoteles-fisica",
-      "texto": "La **matemática** trata seres **inmutables** pero no separados; la **física**, seres que tienen en sí mismos un **principio de movimiento**. Temas de la física: naturaleza, causalidad, cambio, infinito, lugar, tiempo, azar, vacío y el **primer motor**.",
+      "texto": "La **matemática** trata seres **inmutables** pero no separados; la **física**, seres que tienen en sí mismos un **principio de movimiento**, móviles y separados unos de otros; y la **metafísica se ocupa del ser móvil y separado**. Temas de la física: la naturaleza, la causalidad (causa material, formal, motriz y final), el cambio (paso de la potencia al acto), el infinito, el lugar, el tiempo, el azar y la contingencia, el vacío y el **primer motor**.",
       "fuente": "Aristóteles.doc – Física"
     },
     {
-      "id": "fi-pk-164",
+      "id": "fi-pk-175",
       "temaId": "f-aristoteles-fisica",
-      "texto": "El **hilemorfismo** resuelve el debate entre Heráclito y Parménides: toda sustancia es **forma** (la esencia del ser) y **materia** (el sustrato que cambia).",
+      "texto": "Frente al debate Heráclito–Parménides, Aristóteles propone el **hilemorfismo**: la **forma**, la esencia del ser, y la **materia**, el sustrato (el cambio).",
       "fuente": "HªFª Unidade 1.pdf, pp. 5–6 – Debate Heráclito–Parménides"
     },
     {
-      "id": "fi-pk-165",
+      "id": "fi-pk-176",
       "temaId": "f-aristoteles-fisica",
       "texto": "**Astronomía**: sistema **geocéntrico**, con la Tierra **inmóvil** en el centro y el Sol y los planetas girando alrededor, en un cosmos **esférico y finito**. Distingue el mundo **sublunar**, donde hay corrupción y degeneración, del **supralunar**, perfecto.",
       "fuente": "Aristóteles.doc – Astronomía"
     },
     {
-      "id": "fi-pk-166",
+      "id": "fi-pk-177",
       "temaId": "f-aristoteles-fisica",
       "texto": "En la zona central hay **cuatro elementos** (tierra, aire, fuego y agua), cada uno con su **lugar natural** según su peso: se mueven en **línea recta** (la tierra abajo, el fuego arriba) y se detienen al llegar. Los cielos giran en **círculo** sin fin, así que están hechos de un **quinto elemento, el éter (aither)**, que solo cambia de lugar.",
       "fuente": "Aristóteles.doc – Astronomía"
     },
     {
-      "id": "fi-pk-167",
+      "id": "fi-pk-178",
       "temaId": "f-aristoteles-fisica",
       "texto": "Aristóteles sostenía que el movimiento rectilíneo se da siempre en un **medio que resiste** y que los cuerpos **más pesados caen más rápido** que los ligeros de la misma forma.",
       "fuente": "Aristóteles.doc – Astronomía"
     },
     {
-      "id": "fi-pk-168",
+      "id": "fi-pk-179",
       "temaId": "f-aristoteles-fisica",
       "texto": "**Metafísica**: su fórmula es el **principio de contradicción**: «**es imposible que el ser no sea**», es decir, el ser en cuanto tal es necesariamente. El ser necesario es la **sustancia**, objeto de la metafísica.",
       "fuente": "Aristóteles.doc – Astronomía (Metafísica)"
     },
     {
-      "id": "fi-pk-169",
+      "id": "fi-pk-180",
       "temaId": "f-aristoteles-etica",
       "texto": "Escribió dos obras de ética: **Ética a Nicómaco** (diez libros) y **Ética a Eudemo** (cuatro libros).",
       "fuente": "Aristóteles.doc – Ética"
     },
     {
-      "id": "fi-pk-170",
+      "id": "fi-pk-181",
       "temaId": "f-aristoteles-etica",
       "texto": "Toda actividad humana **tiende a un fin**: es una **ética de bienes**. El bien supremo es la **felicidad (eudaimonía)**, que es sabiduría, desarrollo de las virtudes y sobre todo de la razón, y consiste en la **vida contemplativa**. Por eso su ética es **eudemonista**.",
       "fuente": "Aristóteles.doc – Ética"
     },
     {
-      "id": "fi-pk-171",
+      "id": "fi-pk-182",
       "temaId": "f-aristoteles-etica",
       "texto": "La ética desemboca en la **política**. El **Estado** es una especie de **ser natural**, **no fruto de un pacto**. El ser humano es un **animal social (zoon politikon)** que desarrolla sus fines en comunidad gracias al **lenguaje**, que crea memoria colectiva y leyes que separan lo permitido de lo prohibido.",
       "fuente": "Aristóteles.doc – Ética"
     },
     {
-      "id": "fi-pk-172",
+      "id": "fi-pk-183",
       "temaId": "f-aristoteles-etica",
       "texto": "Es una ética **elitista**: la plena excelencia solo la alcanza el **varón adulto de clase alta**, no las mujeres, los niños, los **«bárbaros»** («balbuceantes», no griegos) ni los **«mecánicos»** asalariados, a quienes negaba el voto.",
       "fuente": "Aristóteles.doc – Ética"
     },
     {
-      "id": "fi-pk-173",
+      "id": "fi-pk-184",
       "temaId": "f-aristoteles-etica",
       "texto": "En **antropología** aplica el hilemorfismo: «**el hombre es un animal racional**». Es el modelo de definición por **género** («animal») más **diferencia específica** («racional»), usado durante siglos para definir y clasificar los seres.",
       "fuente": "Aristóteles.doc – Antropología"
@@ -1189,7 +1255,7 @@
       "id": "fi-pi-009",
       "temaId": "f-metodos",
       "frente": "Método empirista",
-      "reverso": "La experiencia es origen y límite del conocimiento; inducción; verdades solo probables. Locke, Berkeley, Hume.",
+      "reverso": "La experiencia es origen y límite del conocimiento; inducción; verdades solo probables («nunca podremos estar seguros de que no aparezca un cuervo negro»). Locke, Berkeley, Hume.",
       "fuente": "HªFª Unidade 1.pdf, p. 2"
     },
     {
@@ -1294,7 +1360,7 @@
       "id": "fi-pi-024",
       "temaId": "f-preso",
       "frente": "Anaxímenes",
-      "reverso": "Arjé = aire, que se transforma por rarefacción (fuego) y condensación (agua, tierra).",
+      "reverso": "Mileto, 585 a. C.; discípulo de Tales. Arjé = aire, que se transforma por rarefacción (fuego) y condensación (agua, tierra).",
       "fuente": "HªFª Unidade 1.pdf, p. 5"
     },
     {
@@ -1494,6 +1560,13 @@
       "fuente": "Dialéctica socrática e relativismo dos sofistas.pdf, p. 4"
     },
     {
+      "id": "fi-pi-168",
+      "temaId": "f-sofistas",
+      "frente": "Gorgias de Sicilia",
+      "reverso": "Llegó a Atenas hacia el 425 a. C. y radicalizó el escepticismo de Protágoras en Sobre el no-ser o sobre la naturaleza.",
+      "fuente": "Dialéctica socrática e relativismo dos sofistas.pdf, p. 4"
+    },
+    {
       "id": "fi-pi-053",
       "temaId": "f-socrates",
       "frente": "¿Por qué Sócrates no escribió nada?",
@@ -1506,6 +1579,13 @@
       "frente": "Fuentes socráticas",
       "reverso": "Aristófanes, Jenofonte, Aristóteles y, sobre todo, Platón.",
       "fuente": "HªFª Unidade 1.pdf, p. 8"
+    },
+    {
+      "id": "fi-pi-169",
+      "temaId": "f-socrates",
+      "frente": "Fechas de Sócrates",
+      "reverso": "470–399 a. C. según HªFª Unidade 1 y Dialéctica socrática; 469–399 a. C. según Unidade 2.",
+      "fuente": "HªFª Unidade 1.pdf, p. 8; Dialéctica socrática e relativismo dos sofistas.pdf, p. 4; Unidade 2. Sócrates e Platón.pdf, p. 3"
     },
     {
       "id": "fi-pi-055",
@@ -1540,6 +1620,20 @@
       "temaId": "f-socrates",
       "frente": "Acusaciones contra Sócrates",
       "reverso": "Impiedad, introducir nuevos dioses y corromper a la juventud.",
+      "fuente": "Dialéctica socrática e relativismo dos sofistas.pdf, p. 5"
+    },
+    {
+      "id": "fi-pi-170",
+      "temaId": "f-socrates",
+      "frente": "Tribunal que juzgó a Sócrates (HªFª Unidade 1)",
+      "reverso": "El tribunal de los Quinientos, ante el que fue acusado de impío.",
+      "fuente": "HªFª Unidade 1.pdf, p. 8"
+    },
+    {
+      "id": "fi-pi-171",
+      "temaId": "f-socrates",
+      "frente": "¿Qué cuenta Platón en el Fedón, según «Dialéctica socrática»?",
+      "reverso": "Que en el juicio Sócrates apenas se defendió de las acusaciones.",
       "fuente": "Dialéctica socrática e relativismo dos sofistas.pdf, p. 5"
     },
     {
@@ -1704,11 +1798,32 @@
       "fuente": "Platón. Vida y pensamiento.pdf, pp. 1–2; Unidade 2. Sócrates e Platón.pdf, p. 7"
     },
     {
+      "id": "fi-pi-172",
+      "temaId": "f-platon",
+      "frente": "Fechas de las visitas a Sicilia (Unidade 2)",
+      "reverso": "389–388, 367–366 y 361–360 a. C.",
+      "fuente": "Unidade 2. Sócrates e Platón.pdf, p. 7"
+    },
+    {
       "id": "fi-pi-083",
       "temaId": "f-platon",
       "frente": "Anníceris",
-      "reverso": "Quien compró y liberó a Platón cuando fue vendido como esclavo.",
+      "reverso": "Quien compró y liberó a Platón cuando iba a ser vendido como esclavo (Anicérides en Unidade 2, que añade que le dio el dinero para fundar la Academia).",
       "fuente": "Platón. Vida y pensamiento.pdf, p. 1"
+    },
+    {
+      "id": "fi-pi-173",
+      "temaId": "f-platon",
+      "frente": "Nacimiento y muerte de Platón",
+      "reverso": "Platón. Vida y pensamiento: nació en Atenas o en Egina (429, 428 o 427 a. C.) y murió en el 347. Unidade 2: 427–348 a. C. Aristóteles.doc: murió en el 348.",
+      "fuente": "Platón. Vida y pensamiento.pdf, pp. 1–2; Unidade 2. Sócrates e Platón.pdf, p. 7; Aristóteles.doc"
+    },
+    {
+      "id": "fi-pi-174",
+      "temaId": "f-platon",
+      "frente": "¿Dónde iba a ser vendido Platón como esclavo?",
+      "reverso": "En la isla de Egina, según Platón. Vida y pensamiento; en Egipto, según Unidade 2.",
+      "fuente": "Platón. Vida y pensamiento.pdf, p. 1; Unidade 2. Sócrates e Platón.pdf, p. 7"
     },
     {
       "id": "fi-pi-084",
@@ -1788,6 +1903,13 @@
       "fuente": "Unidade 2. Sócrates e Platón.pdf, pp. 8–9"
     },
     {
+      "id": "fi-pi-175",
+      "temaId": "f-platon-ideas",
+      "frente": "Pirámide de las Ideas (Platón. Vida y pensamiento)",
+      "reverso": "De abajo arriba: ideas de las cosas (piedras, minerales), de los animales y el hombre, conceptos matemáticos, conceptos morales (Justicia, Virtud, Valor, Prudencia) y, en la cima, la Idea de Bien.",
+      "fuente": "Platón. Vida y pensamiento.pdf, p. 4"
+    },
+    {
       "id": "fi-pi-095",
       "temaId": "f-platon-ideas",
       "frente": "Demiurgo",
@@ -1863,6 +1985,20 @@
       "frente": "Mito de la caverna: qué representa cada cosa",
       "reverso": "Caverna = mundo sensible; sombras = imágenes; exterior = ideas; sol = idea de Bien.",
       "fuente": "Platón. Vida y pensamiento.pdf, p. 5; Unidade 2. Sócrates e Platón.pdf, p. 11"
+    },
+    {
+      "id": "fi-pi-176",
+      "temaId": "f-platon-conoc",
+      "frente": "La caverna según Platón. Vida y pensamiento",
+      "reverso": "Sombras = imágenes; objetos sobre pértigas tras el muro = objetos; fuera, sombras vistas de noche = objetos matemáticos; luz del Sol = Ideas; el Sol = Idea de Bien.",
+      "fuente": "Platón. Vida y pensamiento.pdf, p. 5"
+    },
+    {
+      "id": "fi-pi-177",
+      "temaId": "f-platon-conoc",
+      "frente": "Esquema de Platón. Vida y pensamiento",
+      "reverso": "Dentro de la caverna (opinión): imágenes → imaginación; objetos → creencia. Fuera (ciencia): objetos matemáticos → matemáticas; Ideas → dialéctica.",
+      "fuente": "Platón. Vida y pensamiento.pdf, p. 4"
     },
     {
       "id": "fi-pi-106",
@@ -2029,7 +2165,14 @@
       "id": "fi-pi-129",
       "temaId": "f-aristoteles",
       "frente": "Aristóteles y la Academia",
-      "reverso": "Entró a los 17 años y estuvo 20 años, como alumno y luego profesor.",
+      "reverso": "Entró a los 17 años (primavera del 367), bajo la tutela de su yerno Próxenos, y estuvo 20 años, hasta el 347.",
+      "fuente": "Aristóteles.doc"
+    },
+    {
+      "id": "fi-pi-178",
+      "temaId": "f-aristoteles",
+      "frente": "Familia de Aristóteles (Aristóteles.doc)",
+      "reverso": "Tutela de su yerno Próxenos; casado con Pitis, hija de Hermias; dos matrimonios: con la primera, Pitias, pidió ser enterrado; la segunda le dio a su hijo Nicómaco; murió cuidado por Herpilis, su segunda mujer.",
       "fuente": "Aristóteles.doc"
     },
     {
@@ -2078,7 +2221,7 @@
       "id": "fi-pi-136",
       "temaId": "f-aristoteles",
       "frente": "Polisemia del ser",
-      "reverso": "Para Aristóteles, «ser» se dice de muchas maneras, frente a Parménides y Platón.",
+      "reverso": "Frente a Parménides y Platón, Aristóteles reconoce que el verbo «ser» tiene distintos usos y aplicaciones.",
       "fuente": "Aristóteles.doc"
     },
     {
@@ -2086,6 +2229,13 @@
       "temaId": "f-aristoteles-logica",
       "frente": "Ciencias teoréticas, prácticas y poéticas",
       "reverso": "Teoréticas: saber (matemática, física). Prácticas: acción (ética, política, economía). Poéticas: producir una obra.",
+      "fuente": "Aristóteles.doc"
+    },
+    {
+      "id": "fi-pi-179",
+      "temaId": "f-aristoteles-logica",
+      "frente": "Primera y segunda ciencia (Aristóteles.doc)",
+      "reverso": "La primera es la metafísica y la segunda la física.",
       "fuente": "Aristóteles.doc"
     },
     {
@@ -2131,17 +2281,24 @@
       "fuente": "Aristóteles.doc"
     },
     {
+      "id": "fi-pi-180",
+      "temaId": "f-aristoteles-fisica",
+      "frente": "La metafísica, según la sección «Física» de Aristóteles.doc",
+      "reverso": "Se ocupa del ser móvil y separado (la matemática, de seres inmutables no separados; la física, de seres con principio de movimiento).",
+      "fuente": "Aristóteles.doc"
+    },
+    {
       "id": "fi-pi-144",
       "temaId": "f-aristoteles-fisica",
       "frente": "Las cuatro causas",
-      "reverso": "Material (de qué), formal (qué es), eficiente (quién lo produce), final (para qué).",
+      "reverso": "Formal: la esencia, la forma de la sustancia. Material: soporte de la forma, pura potencia. Eficiente: produce el movimiento. Final: dirige el movimiento hacia un fin, la perfección de la forma.",
       "fuente": "Aristóteles.doc"
     },
     {
       "id": "fi-pi-145",
       "temaId": "f-aristoteles-fisica",
       "frente": "Hilemorfismo",
-      "reverso": "Toda sustancia es materia + forma.",
+      "reverso": "Aristóteles: forma (la esencia del ser) y materia (el sustrato, el cambio).",
       "fuente": "HªFª Unidade 1.pdf, p. 6"
     },
     {
@@ -2873,16 +3030,16 @@
     {
       "id": "fi-q-39",
       "temaId": "f-aristoteles-logica",
-      "enunciado": "«Todos los mamíferos respiran; todos los perros son mamíferos.» Según la silogística de Aristóteles, ¿qué conclusión válida se sigue?",
+      "enunciado": "«Todos los humanos son mortales» y «Todos los griegos son humanos». Según el ejemplo de Aristóteles, ¿qué conclusión válida se sigue?",
       "opciones": [
-        "Todos los que respiran son perros",
-        "Algunos mamíferos no son perros",
-        "Ningún perro respira",
-        "Todos los perros respiran"
+        "Todos los mortales son griegos",
+        "Algunos humanos no son griegos",
+        "Todos los humanos son griegos",
+        "Todos los griegos son mortales"
       ],
       "correcta": 3,
-      "explicacion": "Es la misma estructura que el ejemplo clásico («todos los griegos son mortales»): de dos premisas emparejadas se deduce una nueva conclusión.",
-      "nivel": "aplicar",
+      "explicacion": "Es el ejemplo de la fuente: dos proposiciones emparejadas proporcionan una nueva conclusión, «Todos los griegos son mortales».",
+      "nivel": "comprender",
       "fuente": "Aristóteles.doc – Organon: la lógica"
     },
     {
@@ -4204,6 +4361,171 @@
       "explicacion": "De Sócrates hereda la búsqueda de esencias y definiciones; el fluir es de Heráclito, el ser inmutable de Parménides y el Nous de Anaxágoras.",
       "nivel": "recordar",
       "fuente": "Platón. Vida y pensamiento.pdf, p. 2 – Antecedentes"
+    },
+    {
+      "id": "fi-q-128",
+      "temaId": "f-platon",
+      "enunciado": "¿Qué dicen las fuentes sobre el lugar donde Platón iba a ser vendido como esclavo?",
+      "opciones": [
+        "Egipto, según «Platón. Vida y pensamiento»; Egina, según «Unidade 2»",
+        "Siracusa, según las dos fuentes",
+        "Creta, según «Platón. Vida y pensamiento»; Cirene, según «Unidade 2»",
+        "Egina, según «Platón. Vida y pensamiento»; Egipto, según «Unidade 2»"
+      ],
+      "correcta": 3,
+      "explicacion": "Platón. Vida y pensamiento dice que Dionisio ordenó desembarcarlo en Egina; Unidade 2, que ordenó enviarlo a Egipto. En ambas lo compra y libera Anníceris (Anicérides).",
+      "nivel": "recordar",
+      "fuente": "Platón. Vida y pensamiento.pdf, p. 1; Unidade 2. Sócrates e Platón.pdf, p. 7"
+    },
+    {
+      "id": "fi-q-129",
+      "temaId": "f-platon",
+      "enunciado": "¿En qué año murió Platón, según las fuentes?",
+      "opciones": [
+        "399 según «Platón. Vida y pensamiento»; 387 según «Unidade 2»",
+        "347 según «Platón. Vida y pensamiento»; 348 según «Unidade 2» y «Aristóteles.doc»",
+        "348 según «Platón. Vida y pensamiento»; 347 según «Unidade 2» y «Aristóteles.doc»",
+        "322 según todas las fuentes, el mismo año que Aristóteles"
+      ],
+      "correcta": 1,
+      "explicacion": "Platón. Vida y pensamiento da el 347; Unidade 2 (427–348) y Aristóteles.doc («a la muerte de Platón, 348») dan el 348.",
+      "nivel": "recordar",
+      "fuente": "Platón. Vida y pensamiento.pdf, p. 2; Unidade 2. Sócrates e Platón.pdf, p. 7; Aristóteles.doc"
+    },
+    {
+      "id": "fi-q-130",
+      "temaId": "f-platon-ideas",
+      "enunciado": "Según «Platón. Vida y pensamiento», ¿qué ocupa el penúltimo nivel de la pirámide de las Ideas?",
+      "opciones": [
+        "Las ideas de los animales y del hombre",
+        "Los conceptos morales: Justicia, Virtud, Valor, Prudencia",
+        "Las ideas de las cosas, como piedras y minerales",
+        "Los conceptos matemáticos"
+      ],
+      "correcta": 1,
+      "explicacion": "De abajo arriba: cosas, animales y hombre, conceptos matemáticos, conceptos morales y, en la cima, la Idea de Bien.",
+      "nivel": "recordar",
+      "fuente": "Platón. Vida y pensamiento.pdf, p. 4"
+    },
+    {
+      "id": "fi-q-131",
+      "temaId": "f-platon-conoc",
+      "enunciado": "Según «Platón. Vida y pensamiento», ¿qué representan las sombras que el liberado ve de noche fuera de la caverna?",
+      "opciones": [
+        "Los objetos matemáticos",
+        "La Idea de Bien",
+        "Las imágenes del mundo sensible",
+        "Las Ideas"
+      ],
+      "correcta": 0,
+      "explicacion": "Fuera de la caverna ve primero las sombras de los objetos del mundo inteligible (objetos matemáticos), luego la luz del Sol (Ideas) y por fin el Sol (Idea de Bien).",
+      "nivel": "recordar",
+      "fuente": "Platón. Vida y pensamiento.pdf, p. 5"
+    },
+    {
+      "id": "fi-q-132",
+      "temaId": "f-aristoteles-fisica",
+      "enunciado": "En la sección «Física» de «Aristóteles.doc», ¿de qué se dice que se ocupa la metafísica?",
+      "opciones": [
+        "Del ser móvil y separado",
+        "De la corrección de los razonamientos",
+        "De los seres inmutables pero no separados",
+        "De la producción de una obra exterior al agente"
+      ],
+      "correcta": 0,
+      "explicacion": "El texto dice: la matemática trata de los seres inmutables pero no separados; la física, de los seres con principio de movimiento; la metafísica, del ser móvil y separado.",
+      "nivel": "recordar",
+      "fuente": "Aristóteles.doc – Física"
+    },
+    {
+      "id": "fi-q-133",
+      "temaId": "f-aristoteles-logica",
+      "enunciado": "Según «Aristóteles.doc», ¿cuáles son la primera y la segunda ciencia en la clasificación de Aristóteles?",
+      "opciones": [
+        "La política y la poética",
+        "La matemática y la física",
+        "La metafísica y la física",
+        "La lógica y la ética"
+      ],
+      "correcta": 2,
+      "explicacion": "El texto dice: «la clasificación de las ciencias según Aristóteles: la primera es la metafísica y la segunda la física».",
+      "nivel": "recordar",
+      "fuente": "Aristóteles.doc – La clasificación de las ciencias"
+    },
+    {
+      "id": "fi-q-134",
+      "temaId": "f-socrates",
+      "enunciado": "Según «Dialéctica socrática», ¿en qué diálogo cuenta Platón que Sócrates apenas se defendió en el juicio?",
+      "opciones": [
+        "En el Banquete",
+        "En el Menón",
+        "En el Fedón",
+        "En el Timeo"
+      ],
+      "correcta": 2,
+      "explicacion": "El texto dice que Platón cuenta en el Fedón que Sócrates apenas se defendió, fue declarado culpable y condenado a beber cicuta.",
+      "nivel": "recordar",
+      "fuente": "Dialéctica socrática e relativismo dos sofistas.pdf, p. 5"
+    },
+    {
+      "id": "fi-q-135",
+      "temaId": "f-socrates",
+      "enunciado": "Según HªFª Unidade 1, ¿ante qué tribunal fue acusado Sócrates de impío?",
+      "opciones": [
+        "El consejo de la Academia",
+        "La asamblea de los Treinta Tiranos",
+        "El tribunal de Siracusa",
+        "El tribunal de los Quinientos"
+      ],
+      "correcta": 3,
+      "explicacion": "Haber sido maestro de Alcibíades y de Critias lo llevó a ser acusado de impío ante el tribunal de los Quinientos.",
+      "nivel": "recordar",
+      "fuente": "HªFª Unidade 1.pdf, p. 8"
+    },
+    {
+      "id": "fi-q-136",
+      "temaId": "f-aristoteles",
+      "enunciado": "Según «Aristóteles.doc», ¿bajo la tutela de quién se trasladó Aristóteles a Atenas, muertos sus padres?",
+      "opciones": [
+        "De Filipo II de Macedonia",
+        "De su yerno Próxenos",
+        "De su hermano Arimnestos",
+        "De Hermias, tirano de Atarneo"
+      ],
+      "correcta": 1,
+      "explicacion": "El texto dice: «a los 17 años, muertos sus padres, y bajo la tutela de su yerno Próxenos, se trasladó a Atenas para ingresar en la Academia».",
+      "nivel": "recordar",
+      "fuente": "Aristóteles.doc – Tiempo y espacio"
+    },
+    {
+      "id": "fi-q-137",
+      "temaId": "f-sofistas",
+      "enunciado": "Según «Dialéctica socrática», ¿de dónde era Gorgias?",
+      "opciones": [
+        "De Sicilia",
+        "De Elis",
+        "De Atenas",
+        "De Abdera"
+      ],
+      "correcta": 0,
+      "explicacion": "El texto lo llama «Gorgias de Sicilia», llegado a Atenas hacia el 425 a. C.; Protágoras era de Abdera e Hipias de Elis.",
+      "nivel": "recordar",
+      "fuente": "Dialéctica socrática e relativismo dos sofistas.pdf, p. 4"
+    },
+    {
+      "id": "fi-q-138",
+      "temaId": "f-socrates",
+      "enunciado": "Según las fuentes, ¿cuándo nació Sócrates?",
+      "opciones": [
+        "En el 427 a. C. según todas las fuentes",
+        "En el 399 a. C. según todas las fuentes",
+        "En el 469 a. C. según HªFª Unidade 1 y Dialéctica; en el 470 según Unidade 2",
+        "En el 470 a. C. según HªFª Unidade 1 y Dialéctica; en el 469 según Unidade 2"
+      ],
+      "correcta": 3,
+      "explicacion": "HªFª Unidade 1 y Dialéctica socrática dan 470–399 a. C.; Unidade 2 da 469–399 a. C. El 399 es el año de su muerte.",
+      "nivel": "recordar",
+      "fuente": "HªFª Unidade 1.pdf, p. 8; Dialéctica socrática e relativismo dos sofistas.pdf, p. 4; Unidade 2. Sócrates e Platón.pdf, p. 3"
     }
   ]
 }
