@@ -2,7 +2,7 @@
 import fs from 'node:fs';
 
 const FILES = ['psicologia', 'economia', 'epica', 'filosofia'];
-const MIN_PIL = { psicologia: 40, economia: 40, epica: 30, filosofia: 0 };
+const MIN_PIL = { psicologia: 40, economia: 40, epica: 30, filosofia: 40 };
 const MIN_PREGUNTAS = 30, MAX_POS_SHARE = 0.35, DUP_THRESHOLD = 0.8;
 const NIVELES = ['recordar', 'comprender', 'aplicar'];
 const BANNED = ['todas las anteriores', 'ninguna de las anteriores'];
@@ -62,7 +62,11 @@ for (const name of FILES) {
     if (![0, 1, 2, 3].includes(q.correcta)) err(`${q.id}: correcta debe ser 0–3`);
     if (!NIVELES.includes(q.nivel)) err(`${q.id}: nivel inválido "${q.nivel}"`);
   });
-  m.temas.forEach((t) => { if (!used.has(t.id)) err(`tema sin contenido: ${t.id}`); });
+  // Coverage: every tema has theory, at least one card and at least two questions.
+  m.temas.forEach((t) => {
+    const n = (k) => m[k].filter((x) => x.temaId === t.id).length;
+    if (!n('puntosClave') || !n('pildoras') || n('preguntas') < 2) err(`tema sin cobertura completa: ${t.id} (${n('puntosClave')} puntos, ${n('pildoras')} píldoras, ${n('preguntas')} preguntas)`);
+  });
 
   // Minimums
   if (m.preguntas.length < MIN_PREGUNTAS) err(`solo ${m.preguntas.length} preguntas (mínimo ${MIN_PREGUNTAS})`);

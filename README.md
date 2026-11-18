@@ -2,7 +2,7 @@
 
 **▶ Apri la webapp: https://userman12.github.io/studio/**
 
-Web app personale di studio (interfaccia e contenuti in spagnolo): **puntos clave**, **píldoras** (flashcard) e **quiz** per Psicología ed Economía, più **Latín**: Gramática (tabella dei prefissi, píldoras ed esercizio) ed Épica (teoria su Virgilio e la Eneida, píldoras e quiz di 30 domande). Più **Filosofía** (quiz di 40 domande) e **Arte** (commenti di 11 opere con foto). Nessun backend: tutto il progresso resta nel `localStorage` del browser.
+Web app personale di studio (interfaccia e contenuti in spagnolo): **puntos clave**, **píldoras** (flashcard) e **quiz** per Psicología, Economía e Filosofía (dai presocratici ad Aristotele), più **Latín**: Gramática (tabella dei prefissi, píldoras ed esercizio) ed Épica (teoria su Virgilio e la Eneida, píldoras e quiz di 30 domande). Più **Arte** (commenti di 11 opere con foto). Nessun backend: tutto il progresso resta nel `localStorage` del browser.
 
 Stack: Vite + React 18 + TypeScript, react-router (HashRouter), CSS Modules, Vitest.
 
@@ -18,7 +18,7 @@ npm run dev        # http://localhost:5173
 | Comando | Cosa fa |
 |---|---|
 | `npm run dev` | server di sviluppo |
-| `npm run validate` | valida `src/data/*.json` (schema, minimi, ID, `temaId`, `fuente`, distribuzione risposte, duplicati) |
+| `npm run validate` | valida `src/data/*.json` (schema, minimi, ID, `temaId`, `fuente`, distribuzione risposte, duplicati, copertura di ogni tema) |
 | `npm test` | test della logica dei quiz (punteggio, lista errori, regola delle 2 risposte corrette) |
 | `npm run build` | `validate` → controllo TypeScript → build in `dist/` |
 | `npm run preview` | serve la build di `dist/` in locale |
@@ -40,7 +40,7 @@ La build usa percorsi relativi (`base: './'`) e HashRouter (URL tipo `/#/economi
 
 ## Aggiornare i contenuti
 
-I contenuti stanno solo in `src/data/psicologia.json`, `src/data/economia.json` ed `src/data/epica.json` (stesso schema), separati dalla UI. Lo schema è in `src/types.ts`:
+I contenuti stanno solo in `src/data/psicologia.json`, `src/data/economia.json`, `src/data/filosofia.json` ed `src/data/epica.json` (stesso schema), separati dalla UI. Lo schema è in `src/types.ts`:
 
 - `temas`: `{ id, titulo, orden }`
 - `puntosClave`: `{ id, temaId, texto, fuente }`. In `texto` si può usare solo `**grassetto**`, che viene mostrato come evidenziatore.
@@ -50,14 +50,14 @@ I contenuti stanno solo in `src/data/psicologia.json`, `src/data/economia.json` 
 **Latín** (`src/data/latin.json`): `prefijos: { id, etiqueta, formas[], significado, ejemplos[] }`. Ogni esempio deve cominciare con una delle `formas` (lo controlla il validatore). `confundibles` elenca i gruppi di prefissi con significato simile, che non vengono mai proposti come distrattori l'uno dell'altro.
 
 Regole:
-1. Ogni elemento deve avere `fuente` (file + pagina + sezione) e un `temaId` esistente.
+1. Ogni elemento deve avere `fuente` (file + pagina + sezione) e un `temaId` esistente. Ogni tema deve avere almeno 1 punto clave, 1 píldora e 2 domande.
 2. Gli ID devono essere unici e **stabili**: il progresso salvato è legato all'ID. Se cambi un ID, il progresso di quell'elemento si perde (gli ID orfani vengono ignorati).
 3. Varia la posizione della risposta corretta: il validatore rifiuta una posizione sopra il 35%.
 4. Dopo ogni modifica lancia `npm run validate`.
 
 ## Progresso e backup
 
-- Il progresso è salvato per materia in `localStorage` (`estudio:v1:psicologia`, `estudio:v1:economia`, `estudio:v1:latin`, `estudio:v1:epica`).
+- Il progresso è salvato per materia in `localStorage` (`estudio:v1:psicologia`, `estudio:v1:economia`, `estudio:v1:filosofia`, `estudio:v1:latin`, `estudio:v1:epica`).
 - In **Progreso**, "Exportar progreso" scarica un JSON con tutte le materie e "Importar progreso" lo carica su un altro dispositivo, sostituendo le materie presenti nel file.
 - "Reiniciar progreso" cancella solo la materia corrente, dopo una conferma.
 

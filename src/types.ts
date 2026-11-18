@@ -1,4 +1,4 @@
-export type MateriaId = 'psicologia' | 'economia';
+export type MateriaId = 'psicologia' | 'economia' | 'filosofia';
 
 export type Tema = { id: string; titulo: string; orden: number };
 export type PuntoClave = { id: string; temaId: string; texto: string; fuente: string };
@@ -15,7 +15,7 @@ export type Pregunta = {
 };
 
 export type Materia = {
-  id: MateriaId | 'epica' | 'latin' | 'filosofia';
+  id: MateriaId | 'epica' | 'latin';
   nombre: string;
   temas: Tema[];
   puntosClave: PuntoClave[];

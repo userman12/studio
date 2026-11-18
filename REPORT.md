@@ -185,22 +185,43 @@ Livelli: recordar 12, comprender 11, aplicar 7. Risposta corretta in A/B/C/D: 8/
 
 # Filosofía (aggiunta il 18/11/2026)
 
-Nell'app non c'era ancora una sezione Filosofía: l'ho creata. Contiene **solo il quiz di 40 domande** richiesto, con le modalità Práctica, Examen (10/20/30/todas) e Repaso de errores, il filtro per tema, il risultato per tema e lo storico del miglior punteggio nella Home.
+Filosofía è ora una materia completa come Psicología ed Economía: **Puntos clave** (teoria), **Píldoras**, **Quiz** e **Progreso** (storico, export/import, reset). Il vecchio link `#/filosofia` porta alla teoria. Aggiornata il 18/11/2026 con teoria e píldoras; il quiz è passato da 40 a 127 domande dopo l'analisi di copertura (sotto).
 
 **Fonti** (lette per intero, circa 26.000 parole; tre in galiziano, tradotte in spagnolo):
-`Aristóteles.doc`, `Dialéctica socrática e relativismo dos sofistas.pdf`, `HªFª Unidade 1.pdf`, `Platón. Vida y pensamiento.pdf`, `Unidade 2. Sócrates e Platón.pdf`. Il campo `fuente` di ogni domanda cita file e pagina, o la sezione per il `.doc`.
+`Aristóteles.doc`, `Dialéctica socrática e relativismo dos sofistas.pdf`, `HªFª Unidade 1.pdf`, `Platón. Vida y pensamiento.pdf`, `Unidade 2. Sócrates e Platón.pdf`. Il campo `fuente` di ogni elemento cita file e pagina, o la sezione per il `.doc`.
 
-| Tema | Domande |
-|---|---:|
-| Introducción: qué es la filosofía y sus métodos | 4 |
-| Del mito al logos: los presocráticos | 5 |
-| Los sofistas | 7 |
-| Sócrates | 8 |
-| Platón | 10 |
-| Aristóteles | 6 |
-| **Totale** | **40** |
+I 6 temi iniziali sono stati divisi in 17, seguendo i paragrafi delle fonti, perché la teoria sia navigabile e la copertura misurabile tema per tema. Le 40 domande originali hanno conservato ID e risposta corretta e sono state spostate nel tema più fine corrispondente.
 
-Livelli: recordar 17, comprender 15, aplicar 8. Risposta corretta in A/B/C/D: 10/10/10/10.
+| Tema | Puntos clave | Píldoras | Domande |
+|---|---:|---:|---:|
+| Qué es la filosofía | 7 | 6 | 6 |
+| Los métodos de la filosofía | 11 | 9 | 8 |
+| Del mito al logos | 6 | 5 | 4 |
+| Los presocráticos | 11 | 12 | 11 |
+| La Atenas del siglo V: democracia, Pericles y Aspasia | 6 | 5 | 4 |
+| Los sofistas | 17 | 18 | 13 |
+| Sócrates: vida, juicio y muerte | 13 | 14 | 10 |
+| Sócrates: método, ética y socráticos menores | 16 | 14 | 10 |
+| Platón: vida, obras e influencias | 11 | 10 | 8 |
+| Platón: teoría de las ideas y origen del cosmos | 13 | 12 | 8 |
+| Platón: conocimiento, caverna y dialéctica | 13 | 14 | 9 |
+| Platón: alma y ética | 10 | 9 | 7 |
+| Platón: el Estado ideal y las Leyes | 9 | 9 | 6 |
+| Aristóteles: vida y crítica a Platón | 9 | 9 | 5 |
+| Aristóteles: clasificación de las ciencias y lógica | 8 | 7 | 6 |
+| Aristóteles: física, astronomía y metafísica | 8 | 8 | 7 |
+| Aristóteles: ética, política y antropología | 5 | 6 | 5 |
+| **Totale** | **173** | **167** | **127** |
+
+Livelli delle domande: recordar 52, comprender 52, aplicar 23 (41/41/18%). Risposta corretta in A/B/C/D: 32/32/32/31.
+
+## Analisi di copertura del quiz
+
+1. **Per tema.** Il validatore ora controlla, per tutte le materie, che ogni tema abbia almeno 1 punto clave, 1 píldora e 2 domande. Psicología, Economía ed Épica lo rispettavano già.
+2. **Per punto clave.** Per ogni punto ho cercato i suoi termini in grassetto nelle domande dello stesso tema (enunciato, risposta corretta e spiegazione). Con le 40 domande originali più le prime 73 nuove, 28 punti su 173 erano coperti male. Ho aggiunto 14 domande sulle lacune reali: la physis e il periodo cosmologico, le cause del giro antropologico, l'utilitarismo, le differenze di metodo tra Sócrates e i sofisti, virtù e ricchezza nell'Apologia, García Gual, Sócrates creatore dell'Etica, il rifiuto dei fisici, il periodo critico di Platone, individuo e comunità, le proposizioni, la caduta dei gravi.
+3. **Restano senza domanda dedicata** 12 punti: in parte sono coperti da domande formulate in altro modo (il metodo dialettico, la critica alle idee), in parte sono dettagli minori (chi ammirava e chi criticava i sofisti). I viaggi di Platone in Sicilia sono esclusi di proposito, perché le fonti si contraddicono (punti 1–2 sotto). Sono comunque nelle píldoras.
+4. **Píldoras.** Stesso controllo: aggiunte 12 carte per i punti che le carte non toccavano.
+5. **Lunghezza delle risposte.** Nelle 40 domande originali la risposta corretta era l'opzione più lunga nell'80% dei casi: si poteva indovinare senza sapere. Ho riscritto le opzioni di 27 domande originali e 45 nuove (risposte corrette più brevi, distrattori più completi) senza cambiarne il significato né la posizione. Ora la corretta è la più lunga nel 36% dei casi (il caso puro sarebbe il 25%).
 
 ## Contraddizioni ed errori nelle fonti (evitati nelle domande)
 
@@ -212,7 +233,12 @@ Livelli: recordar 17, comprender 15, aplicar 8. Risposta corretta in A/B/C/D: 10
 6. **Sócrates**: nato nel 470 (`Dialéctica`, `HªFª Unidade 1`) o nel 469 a.C. (`Unidade 2`). Inoltre `Dialéctica` attribuisce il racconto del processo al *Fedón*, mentre `HªFª Unidade 1` cita l'*Apología*. Nessuna domanda su questi punti.
 7. **Gorgias**: "de Sicilia" in `Dialéctica`. Nessuna domanda sulla sua origine.
 
+8. **Método empirista** (`HªFª Unidade 1`, p. 2): "nunca podremos estar seguros de que no aparezca un corvo negro" (dovrebbe essere un corvo *non* nero). Ho tenuto gli esempi di verità di ragione e di fatto e tolto questa frase.
+
+Queste contraddizioni valgono anche per la teoria e le píldoras: la teoria dice che Platone fu venduto come schiavo, senza dire dove, e non dà date per la sua morte né per i viaggi in Sicilia.
+
 ## Scelte
 
-- Ci sono solo domande, senza teoria né píldoras, come richiesto ("un quiz separato"). Il validatore richiede 30 domande e nessuna píldora per Filosofía.
+- I titoli delle opere sono in tondo: l'app supporta solo il **grassetto** nella teoria.
+- Le domande in cui la fonte fa una domanda retorica (per esempio "puoi collegare l'uomo che torna nella caverna a Sócrates?") sono di livello "aplicar" e seguono la risposta implicita del testo.
 - Una domanda di applicazione usa un sillogismo nuovo ("mamíferos/perros") con la stessa struttura dell'esempio della fonte.
